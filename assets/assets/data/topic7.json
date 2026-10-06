@@ -1,0 +1,1658 @@
+[
+  {
+    "id": "study-01",
+    "title": "Đặt mục tiêu học tập",
+    "titleCn": "制定学习目标",
+    "context": "Lập kế hoạch và mục tiêu",
+    "phraseCn": "这个学期我要提高汉语水平。",
+    "phrasePinyin": "Zhège xuéqī wǒ yào tígāo Hànyǔ shuǐpíng.",
+    "phraseVi": "Học kỳ này tôi muốn nâng cao trình độ tiếng Trung.",
+    "words": [
+      "害怕",
+      "欢乐",
+      "及时",
+      "加快",
+      "建成",
+      "接待",
+      "进展",
+      "就是",
+      "考验",
+      "困难",
+      "理论",
+      "领",
+      "麻烦",
+      "面对",
+      "难度",
+      "农民",
+      "批评",
+      "其实",
+      "亲自",
+      "全球",
+      "认可",
+      "商品",
+      "深刻",
+      "失去",
+      "世界"
+    ],
+    "examples": {
+      "害怕": [
+        "今天我们学习“害怕”这个词。",
+        "Hôm nay chúng ta học từ “sợ hãi”."
+      ],
+      "欢乐": [
+        "老师说“欢乐”是今天的重点。",
+        "Giáo viên nói “sự vui vẻ” là trọng tâm hôm nay."
+      ],
+      "及时": [
+        "老师说“及时”是今天的重点。",
+        "Giáo viên nói “kịp thời” là trọng tâm hôm nay."
+      ],
+      "加快": [
+        "我想学会怎么用“加快”。",
+        "Tôi muốn học cách dùng từ “tăng tốc”."
+      ],
+      "建成": [
+        "今天我们学习“建成”这个词。",
+        "Hôm nay chúng ta học từ “xây dựng”."
+      ],
+      "接待": [
+        "我想学会怎么用“接待”。",
+        "Tôi muốn học cách dùng từ “tiếp đón”."
+      ],
+      "进展": [
+        "我想学会怎么用“进展”。",
+        "Tôi muốn học cách dùng từ “tiến triển”."
+      ],
+      "就是": [
+        "今天我们学习“就是”这个词。",
+        "Hôm nay chúng ta học từ “chính xác”."
+      ],
+      "考验": [
+        "我想学会怎么用“考验”。",
+        "Tôi muốn học cách dùng từ “thử thách”."
+      ],
+      "困难": [
+        "老师说“困难”是今天的重点。",
+        "Giáo viên nói “khó khăn” là trọng tâm hôm nay."
+      ],
+      "理论": [
+        "今天我们学习“理论”这个词。",
+        "Hôm nay chúng ta học từ “lý thuyết”."
+      ],
+      "领": [
+        "我想学会怎么用“领”。",
+        "Tôi muốn học cách dùng từ “cổ”."
+      ],
+      "麻烦": [
+        "我想学会怎么用“麻烦”。",
+        "Tôi muốn học cách dùng từ “rắc rối”."
+      ],
+      "面对": [
+        "我想学会怎么用“面对”。",
+        "Tôi muốn học cách dùng từ “đối mặt”."
+      ],
+      "难度": [
+        "今天我们学习“难度”这个词。",
+        "Hôm nay chúng ta học từ “mức độ khó”."
+      ],
+      "农民": [
+        "今天我们学习“农民”这个词。",
+        "Hôm nay chúng ta học từ “nông dân”."
+      ],
+      "批评": [
+        "我想学会怎么用“批评”。",
+        "Tôi muốn học cách dùng từ “phê bình”."
+      ],
+      "其实": [
+        "今天我们学习“其实”这个词。",
+        "Hôm nay chúng ta học từ “thực ra”."
+      ],
+      "亲自": [
+        "今天我们学习“亲自”这个词。",
+        "Hôm nay chúng ta học từ “đích thân”."
+      ],
+      "全球": [
+        "今天我们学习“全球”这个词。",
+        "Hôm nay chúng ta học từ “toàn thế giới”."
+      ],
+      "认可": [
+        "我想学会怎么用“认可”。",
+        "Tôi muốn học cách dùng từ “phê duyệt”."
+      ],
+      "商品": [
+        "今天我们学习“商品”这个词。",
+        "Hôm nay chúng ta học từ “hàng hóa”."
+      ],
+      "深刻": [
+        "老师说“深刻”是今天的重点。",
+        "Giáo viên nói “sâu sắc” là trọng tâm hôm nay."
+      ],
+      "失去": [
+        "我想学会怎么用“失去”。",
+        "Tôi muốn học cách dùng từ “mất”."
+      ],
+      "世界": [
+        "今天我们学习“世界”这个词。",
+        "Hôm nay chúng ta học từ “thế giới”."
+      ]
+    }
+  },
+  {
+    "id": "study-02",
+    "title": "Ghi chép bài giảng",
+    "titleCn": "课堂笔记",
+    "context": "Nghe ý chính và ghi chú",
+    "phraseCn": "请把重点写在本子上。",
+    "phrasePinyin": "Qǐng bǎ zhòngdiǎn xiě zài běnzi shàng.",
+    "phraseVi": "Hãy viết ý chính vào vở.",
+    "words": [
+      "好好",
+      "环",
+      "…极了",
+      "加强",
+      "建立",
+      "节约",
+      "京剧",
+      "就业",
+      "科技",
+      "浪费",
+      "理由",
+      "领导",
+      "满足",
+      "面积",
+      "内",
+      "农业",
+      "批准",
+      "奇怪",
+      "情感",
+      "缺",
+      "任",
+      "商业",
+      "深入",
+      "石油",
+      "世界杯"
+    ],
+    "examples": {
+      "好好": [
+        "老师说“好好”是今天的重点。",
+        "Giáo viên nói “tốt” là trọng tâm hôm nay."
+      ],
+      "环": [
+        "今天我们学习“环”这个词。",
+        "Hôm nay chúng ta học từ “họ [Huan2]”."
+      ],
+      "…极了": [
+        "今天我们学习“…极了”这个词。",
+        "Hôm nay chúng ta học từ “cực kỳ...”."
+      ],
+      "加强": [
+        "我想学会怎么用“加强”。",
+        "Tôi muốn học cách dùng từ “củng cố”."
+      ],
+      "建立": [
+        "我想学会怎么用“建立”。",
+        "Tôi muốn học cách dùng từ “thiết lập”."
+      ],
+      "节约": [
+        "我想学会怎么用“节约”。",
+        "Tôi muốn học cách dùng từ “tiết kiệm”."
+      ],
+      "京剧": [
+        "今天我们学习“京剧”这个词。",
+        "Hôm nay chúng ta học từ “Kinh kịch”."
+      ],
+      "就业": [
+        "今天我们学习“就业”这个词。",
+        "Hôm nay chúng ta học từ “tìm được việc làm”."
+      ],
+      "科技": [
+        "今天我们学习“科技”这个词。",
+        "Hôm nay chúng ta học từ “khoa học và công nghệ”."
+      ],
+      "浪费": [
+        "我想学会怎么用“浪费”。",
+        "Tôi muốn học cách dùng từ “lãng phí”."
+      ],
+      "理由": [
+        "今天我们学习“理由”这个词。",
+        "Hôm nay chúng ta học từ “lý do”."
+      ],
+      "领导": [
+        "我想学会怎么用“领导”。",
+        "Tôi muốn học cách dùng từ “dẫn dắt”."
+      ],
+      "满足": [
+        "我想学会怎么用“满足”。",
+        "Tôi muốn học cách dùng từ “thoả mãn”."
+      ],
+      "面积": [
+        "今天我们学习“面积”这个词。",
+        "Hôm nay chúng ta học từ “diện tích”."
+      ],
+      "内": [
+        "今天我们学习“内”这个词。",
+        "Hôm nay chúng ta học từ “bên trong”."
+      ],
+      "农业": [
+        "今天我们学习“农业”这个词。",
+        "Hôm nay chúng ta học từ “nông nghiệp”."
+      ],
+      "批准": [
+        "我想学会怎么用“批准”。",
+        "Tôi muốn học cách dùng từ “phê duyệt”."
+      ],
+      "奇怪": [
+        "老师说“奇怪”是今天的重点。",
+        "Giáo viên nói “kỳ lạ” là trọng tâm hôm nay."
+      ],
+      "情感": [
+        "今天我们学习“情感”这个词。",
+        "Hôm nay chúng ta học từ “cảm giác”."
+      ],
+      "缺": [
+        "我想学会怎么用“缺”。",
+        "Tôi muốn học cách dùng từ “sự thiếu”."
+      ],
+      "任": [
+        "今天我们学习“任”这个词。",
+        "Hôm nay chúng ta học từ “bổ nhiệm”."
+      ],
+      "商业": [
+        "今天我们学习“商业”这个词。",
+        "Hôm nay chúng ta học từ “kinh doanh”."
+      ],
+      "深入": [
+        "我想学会怎么用“深入”。",
+        "Tôi muốn học cách dùng từ “thâm nhập sâu”."
+      ],
+      "石油": [
+        "今天我们学习“石油”这个词。",
+        "Hôm nay chúng ta học từ “dầu”."
+      ],
+      "世界杯": [
+        "今天我们学习“世界杯”这个词。",
+        "Hôm nay chúng ta học từ “World Cup”."
+      ]
+    }
+  },
+  {
+    "id": "study-03",
+    "title": "Tìm tài liệu",
+    "titleCn": "查找资料",
+    "context": "Tra cứu sách và nguồn học tập",
+    "phraseCn": "我在图书馆找这本书。",
+    "phrasePinyin": "Wǒ zài túshūguǎn zhǎo zhè běn shū.",
+    "phraseVi": "Tôi đang tìm cuốn sách này trong thư viện.",
+    "words": [
+      "好奇",
+      "环保",
+      "集体",
+      "家具",
+      "建设",
+      "结合",
+      "经济",
+      "举办",
+      "可靠",
+      "老百姓",
+      "力",
+      "领先",
+      "慢慢",
+      "民间",
+      "内心",
+      "女子",
+      "皮",
+      "气候",
+      "情况",
+      "缺点",
+      "任何",
+      "上来",
+      "升",
+      "时",
+      "市场"
+    ],
+    "examples": {
+      "好奇": [
+        "老师说“好奇”是今天的重点。",
+        "Giáo viên nói “tò mò” là trọng tâm hôm nay."
+      ],
+      "环保": [
+        "老师说“环保”是今天的重点。",
+        "Giáo viên nói “bảo vệ môi trường” là trọng tâm hôm nay."
+      ],
+      "集体": [
+        "今天我们学习“集体”这个词。",
+        "Hôm nay chúng ta học từ “tập thể”."
+      ],
+      "家具": [
+        "今天我们学习“家具”这个词。",
+        "Hôm nay chúng ta học từ “đồ nội thất”."
+      ],
+      "建设": [
+        "我想学会怎么用“建设”。",
+        "Tôi muốn học cách dùng từ “xây dựng”."
+      ],
+      "结合": [
+        "我想学会怎么用“结合”。",
+        "Tôi muốn học cách dùng từ “kết hợp”."
+      ],
+      "经济": [
+        "老师说“经济”是今天的重点。",
+        "Giáo viên nói “kinh tế” là trọng tâm hôm nay."
+      ],
+      "举办": [
+        "我想学会怎么用“举办”。",
+        "Tôi muốn học cách dùng từ “tổ chức”."
+      ],
+      "可靠": [
+        "老师说“可靠”是今天的重点。",
+        "Giáo viên nói “đáng tin cậy” là trọng tâm hôm nay."
+      ],
+      "老百姓": [
+        "今天我们学习“老百姓”这个词。",
+        "Hôm nay chúng ta học từ “người dân thường”."
+      ],
+      "力": [
+        "今天我们学习“力”这个词。",
+        "Hôm nay chúng ta học từ “họ [Li4]”."
+      ],
+      "领先": [
+        "今天我们学习“领先”这个词。",
+        "Hôm nay chúng ta học từ “dẫn đầu”."
+      ],
+      "慢慢": [
+        "今天我们学习“慢慢”这个词。",
+        "Hôm nay chúng ta học từ “chậm rãi”."
+      ],
+      "民间": [
+        "今天我们学习“民间”这个词。",
+        "Hôm nay chúng ta học từ “trong nhân dân”."
+      ],
+      "内心": [
+        "今天我们学习“内心”这个词。",
+        "Hôm nay chúng ta học từ “trái tim”."
+      ],
+      "女子": [
+        "今天我们学习“女子”这个词。",
+        "Hôm nay chúng ta học từ “phụ nữ”."
+      ],
+      "皮": [
+        "今天我们学习“皮”这个词。",
+        "Hôm nay chúng ta học từ “họ [Pi2]”."
+      ],
+      "气候": [
+        "今天我们学习“气候”这个词。",
+        "Hôm nay chúng ta học từ “”."
+      ],
+      "情况": [
+        "今天我们学习“情况”这个词。",
+        "Hôm nay chúng ta học từ “hoàn cảnh”."
+      ],
+      "缺点": [
+        "今天我们学习“缺点”这个词。",
+        "Hôm nay chúng ta học từ “điểm yếu”."
+      ],
+      "任何": [
+        "今天我们学习“任何”这个词。",
+        "Hôm nay chúng ta học từ “bất kỳ”."
+      ],
+      "上来": [
+        "今天我们学习“上来”这个词。",
+        "Hôm nay chúng ta học từ “đi lên”."
+      ],
+      "升": [
+        "我想学会怎么用“升”。",
+        "Tôi muốn học cách dùng từ “thăng lên”."
+      ],
+      "时": [
+        "今天我们学习“时”这个词。",
+        "Hôm nay chúng ta học từ “biến thể cũ của 時|时[shi2]”."
+      ],
+      "市场": [
+        "今天我们学习“市场”这个词。",
+        "Hôm nay chúng ta học từ “khu chợ”."
+      ]
+    }
+  },
+  {
+    "id": "study-04",
+    "title": "Đọc hiểu",
+    "titleCn": "阅读理解",
+    "context": "Đọc bài và xác định nội dung",
+    "phraseCn": "这篇文章主要说什么？",
+    "phrasePinyin": "Zhè piān wénzhāng zhǔyào shuō shénme?",
+    "phraseVi": "Bài viết này chủ yếu nói gì?",
+    "words": [
+      "合",
+      "环境",
+      "集中",
+      "家属",
+      "将来",
+      "结婚",
+      "经历",
+      "具体",
+      "可乐",
+      "老板",
+      "力量",
+      "另外",
+      "没用",
+      "民族",
+      "能不能",
+      "暖和",
+      "啤酒",
+      "千万",
+      "请教",
+      "缺少",
+      "仍",
+      "上面",
+      "生产",
+      "时代",
+      "事故"
+    ],
+    "examples": {
+      "合": [
+        "我想学会怎么用“合”。",
+        "Tôi muốn học cách dùng từ “đóng”."
+      ],
+      "环境": [
+        "今天我们学习“环境”这个词。",
+        "Hôm nay chúng ta học từ “môi trường”."
+      ],
+      "集中": [
+        "我想学会怎么用“集中”。",
+        "Tôi muốn học cách dùng từ “tập trung”."
+      ],
+      "家属": [
+        "今天我们学习“家属”这个词。",
+        "Hôm nay chúng ta học từ “thành viên gia đình”."
+      ],
+      "将来": [
+        "今天我们学习“将来”这个词。",
+        "Hôm nay chúng ta học từ “trong tương lai”."
+      ],
+      "结婚": [
+        "今天我们学习“结婚”这个词。",
+        "Hôm nay chúng ta học từ “kết hôn”."
+      ],
+      "经历": [
+        "我想学会怎么用“经历”。",
+        "Tôi muốn học cách dùng từ “kinh nghiệm”."
+      ],
+      "具体": [
+        "老师说“具体”是今天的重点。",
+        "Giáo viên nói “cụ thể” là trọng tâm hôm nay."
+      ],
+      "可乐": [
+        "今天我们学习“可乐”这个词。",
+        "Hôm nay chúng ta học từ “vui”."
+      ],
+      "老板": [
+        "今天我们学习“老板”这个词。",
+        "Hôm nay chúng ta học từ “biến thể của 老闆|老板[lao3 ban3]”."
+      ],
+      "力量": [
+        "今天我们学习“力量”这个词。",
+        "Hôm nay chúng ta học từ “sức mạnh”."
+      ],
+      "另外": [
+        "今天我们学习“另外”这个词。",
+        "Hôm nay chúng ta học từ “bổ sung”."
+      ],
+      "没用": [
+        "我想学会怎么用“没用”。",
+        "Tôi muốn học cách dùng từ “vô dụng”."
+      ],
+      "民族": [
+        "今天我们学习“民族”这个词。",
+        "Hôm nay chúng ta học từ “quốc tịch”."
+      ],
+      "能不能": [
+        "今天我们学习“能不能”这个词。",
+        "Hôm nay chúng ta học từ “có thể hay không”."
+      ],
+      "暖和": [
+        "老师说“暖和”是今天的重点。",
+        "Giáo viên nói “ấm” là trọng tâm hôm nay."
+      ],
+      "啤酒": [
+        "今天我们学习“啤酒”这个词。",
+        "Hôm nay chúng ta học từ “bia”."
+      ],
+      "千万": [
+        "今天我们学习“千万”这个词。",
+        "Hôm nay chúng ta học từ “mười triệu”."
+      ],
+      "请教": [
+        "我想学会怎么用“请教”。",
+        "Tôi muốn học cách dùng từ “hỏi để được hướng dẫn”."
+      ],
+      "缺少": [
+        "我想学会怎么用“缺少”。",
+        "Tôi muốn học cách dùng từ “thiếu”."
+      ],
+      "仍": [
+        "今天我们学习“仍”这个词。",
+        "Hôm nay chúng ta học từ “vẫn”."
+      ],
+      "上面": [
+        "今天我们学习“上面”这个词。",
+        "Hôm nay chúng ta học từ “bên trên”."
+      ],
+      "生产": [
+        "我想学会怎么用“生产”。",
+        "Tôi muốn học cách dùng từ “sản xuất”."
+      ],
+      "时代": [
+        "今天我们学习“时代”这个词。",
+        "Hôm nay chúng ta học từ “Time, tạp chí tin tức hàng tuần của Mỹ”."
+      ],
+      "事故": [
+        "今天我们学习“事故”这个词。",
+        "Hôm nay chúng ta học từ “tai nạn”."
+      ]
+    }
+  },
+  {
+    "id": "study-05",
+    "title": "Viết bài",
+    "titleCn": "完成写作",
+    "context": "Lập ý và hoàn thành bài viết",
+    "phraseCn": "我先写计划，再开始写。",
+    "phrasePinyin": "Wǒ xiān xiě jìhuà, zài kāishǐ xiě.",
+    "phraseVi": "Tôi viết dàn ý trước rồi mới bắt đầu viết.",
+    "words": [
+      "合法",
+      "会员",
+      "计算",
+      "家乡",
+      "交费",
+      "金",
+      "经营",
+      "具有",
+      "克服",
+      "老太太",
+      "立刻",
+      "另一方面",
+      "媒体",
+      "明确",
+      "能力",
+      "拍",
+      "评价",
+      "强",
+      "庆祝",
+      "确保",
+      "仍然",
+      "上去",
+      "生存",
+      "时刻",
+      "事件"
+    ],
+    "examples": {
+      "合法": [
+        "老师说“合法”是今天的重点。",
+        "Giáo viên nói “hợp pháp” là trọng tâm hôm nay."
+      ],
+      "会员": [
+        "今天我们学习“会员”这个词。",
+        "Hôm nay chúng ta học từ “thành viên”."
+      ],
+      "计算": [
+        "我想学会怎么用“计算”。",
+        "Tôi muốn học cách dùng từ “đếm”."
+      ],
+      "家乡": [
+        "今天我们学习“家乡”这个词。",
+        "Hôm nay chúng ta học từ “quê hương”."
+      ],
+      "交费": [
+        "我想学会怎么用“交费”。",
+        "Tôi muốn học cách dùng từ “trả phí”."
+      ],
+      "金": [
+        "今天我们学习“金”这个词。",
+        "Hôm nay chúng ta học từ “họ [Jin1]”."
+      ],
+      "经营": [
+        "我想学会怎么用“经营”。",
+        "Tôi muốn học cách dùng từ “tham gia”."
+      ],
+      "具有": [
+        "我想学会怎么用“具有”。",
+        "Tôi muốn học cách dùng từ “có”."
+      ],
+      "克服": [
+        "我想学会怎么用“克服”。",
+        "Tôi muốn học cách dùng từ “”."
+      ],
+      "老太太": [
+        "今天我们学习“老太太”这个词。",
+        "Hôm nay chúng ta học từ “bà lão”."
+      ],
+      "立刻": [
+        "今天我们学习“立刻”这个词。",
+        "Hôm nay chúng ta học từ “ngay lập tức”."
+      ],
+      "另一方面": [
+        "今天我们学习“另一方面”这个词。",
+        "Hôm nay chúng ta học từ “mặt khác”."
+      ],
+      "媒体": [
+        "今天我们学习“媒体”这个词。",
+        "Hôm nay chúng ta học từ “truyền thông, đặc biệt là truyền thông tin tức”."
+      ],
+      "明确": [
+        "我想学会怎么用“明确”。",
+        "Tôi muốn học cách dùng từ “rõ ràng”."
+      ],
+      "能力": [
+        "今天我们学习“能力”这个词。",
+        "Hôm nay chúng ta học từ “năng lực”."
+      ],
+      "拍": [
+        "我想学会怎么用“拍”。",
+        "Tôi muốn học cách dùng từ “vỗ”."
+      ],
+      "评价": [
+        "我想学会怎么用“评价”。",
+        "Tôi muốn học cách dùng từ “đánh giá”."
+      ],
+      "强": [
+        "老师说“强”是今天的重点。",
+        "Giáo viên nói “họ [Qiang2]” là trọng tâm hôm nay."
+      ],
+      "庆祝": [
+        "我想学会怎么用“庆祝”。",
+        "Tôi muốn học cách dùng từ “ăn mừng”."
+      ],
+      "确保": [
+        "我想学会怎么用“确保”。",
+        "Tôi muốn học cách dùng từ “đảm bảo”."
+      ],
+      "仍然": [
+        "今天我们学习“仍然”这个词。",
+        "Hôm nay chúng ta học từ “vẫn”."
+      ],
+      "上去": [
+        "今天我们学习“上去”这个词。",
+        "Hôm nay chúng ta học từ “đi lên”."
+      ],
+      "生存": [
+        "我想学会怎么用“生存”。",
+        "Tôi muốn học cách dùng từ “tồn tại”."
+      ],
+      "时刻": [
+        "今天我们学习“时刻”这个词。",
+        "Hôm nay chúng ta học từ “thời gian”."
+      ],
+      "事件": [
+        "今天我们学习“事件”这个词。",
+        "Hôm nay chúng ta học từ “sự kiện”."
+      ]
+    }
+  },
+  {
+    "id": "study-06",
+    "title": "Luyện nghe",
+    "titleCn": "听力练习",
+    "context": "Nghe ý chính và thông tin chi tiết",
+    "phraseCn": "请再听一遍，选择正确答案。",
+    "phrasePinyin": "Qǐng zài tīng yí biàn, xuǎnzé zhèngquè dá’àn.",
+    "phraseVi": "Hãy nghe lại và chọn đáp án đúng.",
+    "words": [
+      "合格",
+      "活",
+      "记录",
+      "价值",
+      "交流",
+      "金牌",
+      "精彩",
+      "剧场",
+      "客观",
+      "乐",
+      "利用",
+      "留学",
+      "每",
+      "明显",
+      "年初",
+      "排名",
+      "破",
+      "强大",
+      "球迷",
+      "确定",
+      "日常",
+      "上升",
+      "生动",
+      "实际上",
+      "事实"
+    ],
+    "examples": {
+      "合格": [
+        "老师说“合格”是今天的重点。",
+        "Giáo viên nói “đáp ứng tiêu chuẩn yêu cầu” là trọng tâm hôm nay."
+      ],
+      "活": [
+        "我想学会怎么用“活”。",
+        "Tôi muốn học cách dùng từ “sống”."
+      ],
+      "记录": [
+        "我想学会怎么用“记录”。",
+        "Tôi muốn học cách dùng từ “ghi chép”."
+      ],
+      "价值": [
+        "今天我们学习“价值”这个词。",
+        "Hôm nay chúng ta học từ “giá trị”."
+      ],
+      "交流": [
+        "我想学会怎么用“交流”。",
+        "Tôi muốn học cách dùng từ “trao đổi”."
+      ],
+      "金牌": [
+        "今天我们学习“金牌”这个词。",
+        "Hôm nay chúng ta học từ “huy chương vàng”."
+      ],
+      "精彩": [
+        "老师说“精彩”是今天的重点。",
+        "Giáo viên nói “tuyệt vời” là trọng tâm hôm nay."
+      ],
+      "剧场": [
+        "今天我们学习“剧场”这个词。",
+        "Hôm nay chúng ta học từ “rạp hát”."
+      ],
+      "客观": [
+        "老师说“客观”是今天的重点。",
+        "Giáo viên nói “khách quan” là trọng tâm hôm nay."
+      ],
+      "乐": [
+        "我想学会怎么用“乐”。",
+        "Tôi muốn học cách dùng từ “họ [Le4]”."
+      ],
+      "利用": [
+        "我想学会怎么用“利用”。",
+        "Tôi muốn học cách dùng từ “tận dụng”."
+      ],
+      "留学": [
+        "今天我们学习“留学”这个词。",
+        "Hôm nay chúng ta học từ “du học”."
+      ],
+      "每": [
+        "今天我们学习“每”这个词。",
+        "Hôm nay chúng ta học từ “mỗi”."
+      ],
+      "明显": [
+        "老师说“明显”是今天的重点。",
+        "Giáo viên nói “rõ ràng” là trọng tâm hôm nay."
+      ],
+      "年初": [
+        "今天我们学习“年初”这个词。",
+        "Hôm nay chúng ta học từ “đầu năm”."
+      ],
+      "排名": [
+        "今天我们学习“排名”这个词。",
+        "Hôm nay chúng ta học từ “xếp hạng”."
+      ],
+      "破": [
+        "我想学会怎么用“破”。",
+        "Tôi muốn học cách dùng từ “hỏng”."
+      ],
+      "强大": [
+        "老师说“强大”是今天的重点。",
+        "Giáo viên nói “to lớn và mạnh mẽ” là trọng tâm hôm nay."
+      ],
+      "球迷": [
+        "今天我们学习“球迷”这个词。",
+        "Hôm nay chúng ta học từ “người hâm mộ”."
+      ],
+      "确定": [
+        "我想学会怎么用“确定”。",
+        "Tôi muốn học cách dùng từ “rõ ràng”."
+      ],
+      "日常": [
+        "老师说“日常”是今天的重点。",
+        "Giáo viên nói “hằng ngày” là trọng tâm hôm nay."
+      ],
+      "上升": [
+        "我想学会怎么用“上升”。",
+        "Tôi muốn học cách dùng từ “tăng lên”."
+      ],
+      "生动": [
+        "老师说“生动”是今天的重点。",
+        "Giáo viên nói “sinh động” là trọng tâm hôm nay."
+      ],
+      "实际上": [
+        "今天我们学习“实际上”这个词。",
+        "Hôm nay chúng ta học từ “thực ra”."
+      ],
+      "事实": [
+        "今天我们学习“事实”这个词。",
+        "Hôm nay chúng ta học từ “sự thật”."
+      ]
+    }
+  },
+  {
+    "id": "study-07",
+    "title": "Luyện nói",
+    "titleCn": "口语练习",
+    "context": "Thực hành hội thoại và phát âm",
+    "phraseCn": "我们两个人练习对话。",
+    "phrasePinyin": "Wǒmen liǎng ge rén liànxí duìhuà.",
+    "phraseVi": "Hai chúng ta luyện hội thoại.",
+    "words": [
+      "合理",
+      "火",
+      "记者",
+      "架",
+      "交往",
+      "仅",
+      "精神",
+      "决赛",
+      "空",
+      "乐观",
+      "连",
+      "龙",
+      "美",
+      "命运",
+      "年代",
+      "牌子",
+      "破坏",
+      "强调",
+      "区",
+      "确实",
+      "如何",
+      "上衣",
+      "生命",
+      "实力",
+      "事实上"
+    ],
+    "examples": {
+      "合理": [
+        "老师说“合理”是今天的重点。",
+        "Giáo viên nói “hợp lý” là trọng tâm hôm nay."
+      ],
+      "火": [
+        "今天我们学习“火”这个词。",
+        "Hôm nay chúng ta học từ “họ [Huo3]”."
+      ],
+      "记者": [
+        "今天我们学习“记者”这个词。",
+        "Hôm nay chúng ta học từ “phóng viên”."
+      ],
+      "架": [
+        "我想学会怎么用“架”。",
+        "Tôi muốn học cách dùng từ “chống đỡ”."
+      ],
+      "交往": [
+        "我想学会怎么用“交往”。",
+        "Tôi muốn học cách dùng từ “giao thiệp”."
+      ],
+      "仅": [
+        "今天我们学习“仅”这个词。",
+        "Hôm nay chúng ta học từ “hầu như”."
+      ],
+      "精神": [
+        "老师说“精神”是今天的重点。",
+        "Giáo viên nói “sinh lực” là trọng tâm hôm nay."
+      ],
+      "决赛": [
+        "我想学会怎么用“决赛”。",
+        "Tôi muốn học cách dùng từ “chung kết”."
+      ],
+      "空": [
+        "老师说“空”是今天的重点。",
+        "Giáo viên nói “trống không” là trọng tâm hôm nay."
+      ],
+      "乐观": [
+        "老师说“乐观”是今天的重点。",
+        "Giáo viên nói “lạc quan” là trọng tâm hôm nay."
+      ],
+      "连": [
+        "我想学会怎么用“连”。",
+        "Tôi muốn học cách dùng từ “họ [Lian2]”."
+      ],
+      "龙": [
+        "今天我们学习“龙”这个词。",
+        "Hôm nay chúng ta học từ “họ [Long2]”."
+      ],
+      "美": [
+        "老师说“美”是今天的重点。",
+        "Giáo viên nói “” là trọng tâm hôm nay."
+      ],
+      "命运": [
+        "今天我们学习“命运”这个词。",
+        "Hôm nay chúng ta học từ “số phận”."
+      ],
+      "年代": [
+        "今天我们学习“年代”这个词。",
+        "Hôm nay chúng ta học từ “thập kỷ của một thế kỷ”."
+      ],
+      "牌子": [
+        "今天我们学习“牌子”这个词。",
+        "Hôm nay chúng ta học từ “biển hiệu”."
+      ],
+      "破坏": [
+        "我想学会怎么用“破坏”。",
+        "Tôi muốn học cách dùng từ “sự phá hủy”."
+      ],
+      "强调": [
+        "我想学会怎么用“强调”。",
+        "Tôi muốn học cách dùng từ “nhấn mạnh”."
+      ],
+      "区": [
+        "今天我们学习“区”这个词。",
+        "Hôm nay chúng ta học từ “khu vực”."
+      ],
+      "确实": [
+        "老师说“确实”是今天的重点。",
+        "Giáo viên nói “thực sự” là trọng tâm hôm nay."
+      ],
+      "如何": [
+        "今天我们学习“如何”这个词。",
+        "Hôm nay chúng ta học từ “như thế nào”."
+      ],
+      "上衣": [
+        "今天我们学习“上衣”这个词。",
+        "Hôm nay chúng ta học từ “áo khoác”."
+      ],
+      "生命": [
+        "今天我们学习“生命”这个词。",
+        "Hôm nay chúng ta học từ “sự sống”."
+      ],
+      "实力": [
+        "今天我们学习“实力”这个词。",
+        "Hôm nay chúng ta học từ “sức mạnh”."
+      ],
+      "事实上": [
+        "今天我们学习“事实上”这个词。",
+        "Hôm nay chúng ta học từ “thực tế”."
+      ]
+    }
+  },
+  {
+    "id": "study-08",
+    "title": "Làm bài tập nhóm",
+    "titleCn": "小组作业",
+    "context": "Phối hợp và báo tiến độ",
+    "phraseCn": "我们已经完成了一半任务。",
+    "phrasePinyin": "Wǒmen yǐjīng wánchéng le yíbàn rènwu.",
+    "phraseVi": "Chúng tôi đã hoàn thành một nửa nhiệm vụ.",
+    "words": [
+      "和平",
+      "机器",
+      "纪录",
+      "坚持",
+      "交易",
+      "仅仅",
+      "景色",
+      "决心",
+      "恐怕",
+      "类",
+      "连忙",
+      "录",
+      "美好",
+      "某",
+      "年底",
+      "派",
+      "普遍",
+      "强烈",
+      "区别",
+      "裙子",
+      "散步",
+      "设备",
+      "生意",
+      "实行",
+      "事业"
+    ],
+    "examples": {
+      "和平": [
+        "今天我们学习“和平”这个词。",
+        "Hôm nay chúng ta học từ “Quận Heping của thành phố Thẩm Dương 瀋陽市|沈阳市[Shen3 yang2 shi4], Liêu Ninh”."
+      ],
+      "机器": [
+        "今天我们学习“机器”这个词。",
+        "Hôm nay chúng ta học từ “máy móc”."
+      ],
+      "纪录": [
+        "今天我们学习“纪录”这个词。",
+        "Hôm nay chúng ta học từ “biến thể của 記錄|记录[ji4 lu4]”."
+      ],
+      "坚持": [
+        "我想学会怎么用“坚持”。",
+        "Tôi muốn học cách dùng từ “kiên trì”."
+      ],
+      "交易": [
+        "今天我们学习“交易”这个词。",
+        "Hôm nay chúng ta học từ “giao dịch”."
+      ],
+      "仅仅": [
+        "今天我们学习“仅仅”这个词。",
+        "Hôm nay chúng ta học từ “hầu như không”."
+      ],
+      "景色": [
+        "今天我们学习“景色”这个词。",
+        "Hôm nay chúng ta học từ “phong cảnh”."
+      ],
+      "决心": [
+        "我想学会怎么用“决心”。",
+        "Tôi muốn học cách dùng từ “quyết tâm”."
+      ],
+      "恐怕": [
+        "今天我们学习“恐怕”这个词。",
+        "Hôm nay chúng ta học từ “sợ”."
+      ],
+      "类": [
+        "今天我们学习“类”这个词。",
+        "Hôm nay chúng ta học từ “loại”."
+      ],
+      "连忙": [
+        "今天我们学习“连忙”这个词。",
+        "Hôm nay chúng ta học từ “ngay lập tức”."
+      ],
+      "录": [
+        "我想学会怎么用“录”。",
+        "Tôi muốn học cách dùng từ “khắc gỗ”."
+      ],
+      "美好": [
+        "老师说“美好”是今天的重点。",
+        "Giáo viên nói “đẹp” là trọng tâm hôm nay."
+      ],
+      "某": [
+        "今天我们学习“某”这个词。",
+        "Hôm nay chúng ta học từ “một vài”."
+      ],
+      "年底": [
+        "今天我们学习“年底”这个词。",
+        "Hôm nay chúng ta học từ “cuối năm”."
+      ],
+      "派": [
+        "我想学会怎么用“派”。",
+        "Tôi muốn học cách dùng từ “bè phái”."
+      ],
+      "普遍": [
+        "老师说“普遍”是今天的重点。",
+        "Giáo viên nói “phổ quát” là trọng tâm hôm nay."
+      ],
+      "强烈": [
+        "老师说“强烈”是今天的重点。",
+        "Giáo viên nói “mạnh mẽ” là trọng tâm hôm nay."
+      ],
+      "区别": [
+        "我想学会怎么用“区别”。",
+        "Tôi muốn học cách dùng từ “sự khác biệt”."
+      ],
+      "裙子": [
+        "今天我们学习“裙子”这个词。",
+        "Hôm nay chúng ta học từ “váy”."
+      ],
+      "散步": [
+        "今天我们学习“散步”这个词。",
+        "Hôm nay chúng ta học từ “đi dạo”."
+      ],
+      "设备": [
+        "今天我们学习“设备”这个词。",
+        "Hôm nay chúng ta học từ “thiết bị”."
+      ],
+      "生意": [
+        "今天我们学习“生意”这个词。",
+        "Hôm nay chúng ta học từ “kinh doanh”."
+      ],
+      "实行": [
+        "我想学会怎么用“实行”。",
+        "Tôi muốn học cách dùng từ “thực hiện”."
+      ],
+      "事业": [
+        "今天我们学习“事业”这个词。",
+        "Hôm nay chúng ta học từ “công việc”."
+      ]
+    }
+  },
+  {
+    "id": "study-09",
+    "title": "Chuẩn bị thuyết trình",
+    "titleCn": "准备报告",
+    "context": "Tổ chức nội dung và luyện trình bày",
+    "phraseCn": "明天我做课堂报告。",
+    "phrasePinyin": "Míngtiān wǒ zuò kètáng bàogào.",
+    "phraseVi": "Ngày mai tôi thuyết trình trên lớp.",
+    "words": [
+      "红酒",
+      "积极",
+      "纪念",
+      "坚决",
+      "较",
+      "尽量",
+      "警察",
+      "绝对",
+      "空儿",
+      "类似",
+      "连续",
+      "录音",
+      "美丽",
+      "母亲",
+      "年纪",
+      "判断",
+      "普及",
+      "桥",
+      "取消",
+      "群",
+      "沙发",
+      "设计",
+      "生长",
+      "实验",
+      "试题"
+    ],
+    "examples": {
+      "红酒": [
+        "今天我们学习“红酒”这个词。",
+        "Hôm nay chúng ta học từ “rượu vang đỏ”."
+      ],
+      "积极": [
+        "老师说“积极”是今天的重点。",
+        "Giáo viên nói “chủ động” là trọng tâm hôm nay."
+      ],
+      "纪念": [
+        "我想学会怎么用“纪念”。",
+        "Tôi muốn học cách dùng từ “tưởng niệm”."
+      ],
+      "坚决": [
+        "老师说“坚决”是今天的重点。",
+        "Giáo viên nói “vững vàng” là trọng tâm hôm nay."
+      ],
+      "较": [
+        "今天我们学习“较”这个词。",
+        "Hôm nay chúng ta học từ “”."
+      ],
+      "尽量": [
+        "今天我们学习“尽量”这个词。",
+        "Hôm nay chúng ta học từ “càng nhiều càng tốt”."
+      ],
+      "警察": [
+        "今天我们学习“警察”这个词。",
+        "Hôm nay chúng ta học từ “cảnh sát”."
+      ],
+      "绝对": [
+        "今天我们学习“绝对”这个词。",
+        "Hôm nay chúng ta học từ “tuyệt đối”."
+      ],
+      "空儿": [
+        "今天我们学习“空儿”这个词。",
+        "Hôm nay chúng ta học từ “thời gian rảnh”."
+      ],
+      "类似": [
+        "我想学会怎么用“类似”。",
+        "Tôi muốn học cách dùng từ “tương tự”."
+      ],
+      "连续": [
+        "我想学会怎么用“连续”。",
+        "Tôi muốn học cách dùng từ “liên tục”."
+      ],
+      "录音": [
+        "我想学会怎么用“录音”。",
+        "Tôi muốn học cách dùng từ “ghi âm”."
+      ],
+      "美丽": [
+        "老师说“美丽”是今天的重点。",
+        "Giáo viên nói “đẹp” là trọng tâm hôm nay."
+      ],
+      "母亲": [
+        "今天我们学习“母亲”这个词。",
+        "Hôm nay chúng ta học từ “mẹ”."
+      ],
+      "年纪": [
+        "今天我们学习“年纪”这个词。",
+        "Hôm nay chúng ta học từ “tuổi”."
+      ],
+      "判断": [
+        "我想学会怎么用“判断”。",
+        "Tôi muốn học cách dùng từ “phán đoán”."
+      ],
+      "普及": [
+        "我想学会怎么用“普及”。",
+        "Tôi muốn học cách dùng từ “lan rộng”."
+      ],
+      "桥": [
+        "今天我们学习“桥”这个词。",
+        "Hôm nay chúng ta học từ “cầu”."
+      ],
+      "取消": [
+        "我想学会怎么用“取消”。",
+        "Tôi muốn học cách dùng từ “hủy”."
+      ],
+      "群": [
+        "今天我们学习“群”这个词。",
+        "Hôm nay chúng ta học từ “biến thể của 群[qun2]”."
+      ],
+      "沙发": [
+        "今天我们学习“沙发”这个词。",
+        "Hôm nay chúng ta học từ “ghế sô pha”."
+      ],
+      "设计": [
+        "我想学会怎么用“设计”。",
+        "Tôi muốn học cách dùng từ “thiết kế”."
+      ],
+      "生长": [
+        "我想学会怎么用“生长”。",
+        "Tôi muốn học cách dùng từ “phát triển”."
+      ],
+      "实验": [
+        "我想学会怎么用“实验”。",
+        "Tôi muốn học cách dùng từ “thí nghiệm”."
+      ],
+      "试题": [
+        "今天我们学习“试题”这个词。",
+        "Hôm nay chúng ta học từ “câu hỏi thi”."
+      ]
+    }
+  },
+  {
+    "id": "study-10",
+    "title": "Ôn thi",
+    "titleCn": "准备考试",
+    "context": "Lập lịch ôn tập và hỏi bạn",
+    "phraseCn": "考试以前我们一起复习。",
+    "phrasePinyin": "Kǎoshì yǐqián wǒmen yìqǐ fùxí.",
+    "phraseVi": "Trước kỳ thi chúng ta cùng ôn tập.",
+    "words": [
+      "互相",
+      "基本",
+      "技术",
+      "坚强",
+      "教材",
+      "紧",
+      "静",
+      "咖啡",
+      "裤子",
+      "里面",
+      "连续剧",
+      "旅馆",
+      "美食",
+      "目标",
+      "念",
+      "胖",
+      "期",
+      "巧",
+      "去世",
+      "热烈",
+      "沙子",
+      "设立",
+      "声明",
+      "使",
+      "试验"
+    ],
+    "examples": {
+      "互相": [
+        "今天我们学习“互相”这个词。",
+        "Hôm nay chúng ta học từ “lẫn nhau”."
+      ],
+      "基本": [
+        "老师说“基本”是今天的重点。",
+        "Giáo viên nói “cơ bản” là trọng tâm hôm nay."
+      ],
+      "技术": [
+        "今天我们学习“技术”这个词。",
+        "Hôm nay chúng ta học từ “công nghệ”."
+      ],
+      "坚强": [
+        "老师说“坚强”是今天的重点。",
+        "Giáo viên nói “kiên cường” là trọng tâm hôm nay."
+      ],
+      "教材": [
+        "今天我们学习“教材”这个词。",
+        "Hôm nay chúng ta học từ “tài liệu giảng dạy”."
+      ],
+      "紧": [
+        "老师说“紧”是今天的重点。",
+        "Giáo viên nói “chặt” là trọng tâm hôm nay."
+      ],
+      "静": [
+        "我想学会怎么用“静”。",
+        "Tôi muốn học cách dùng từ “yên”."
+      ],
+      "咖啡": [
+        "今天我们学习“咖啡”这个词。",
+        "Hôm nay chúng ta học từ “cà phê”."
+      ],
+      "裤子": [
+        "今天我们学习“裤子”这个词。",
+        "Hôm nay chúng ta học từ “biến thể của 褲子|裤子, quần dài”."
+      ],
+      "里面": [
+        "今天我们学习“里面”这个词。",
+        "Hôm nay chúng ta học từ “bên trong”."
+      ],
+      "连续剧": [
+        "今天我们学习“连续剧”这个词。",
+        "Hôm nay chúng ta học từ “phim truyền hình nhiều tập”."
+      ],
+      "旅馆": [
+        "今天我们学习“旅馆”这个词。",
+        "Hôm nay chúng ta học từ “khách sạn”."
+      ],
+      "美食": [
+        "今天我们学习“美食”这个词。",
+        "Hôm nay chúng ta học từ “món ngon”."
+      ],
+      "目标": [
+        "今天我们学习“目标”这个词。",
+        "Hôm nay chúng ta học từ “mục tiêu”."
+      ],
+      "念": [
+        "我想学会怎么用“念”。",
+        "Tôi muốn học cách dùng từ “biến thể của 念[nian4], đọc to”."
+      ],
+      "胖": [
+        "老师说“胖”是今天的重点。",
+        "Giáo viên nói “mập” là trọng tâm hôm nay."
+      ],
+      "期": [
+        "今天我们学习“期”这个词。",
+        "Hôm nay chúng ta học từ “biến thể của 期[qi1]”."
+      ],
+      "巧": [
+        "老师说“巧”是今天的重点。",
+        "Giáo viên nói “một cách tình cờ” là trọng tâm hôm nay."
+      ],
+      "去世": [
+        "我想学会怎么用“去世”。",
+        "Tôi muốn học cách dùng từ “qua đời”."
+      ],
+      "热烈": [
+        "老师说“热烈”是今天的重点。",
+        "Giáo viên nói “nhiệt tình” là trọng tâm hôm nay."
+      ],
+      "沙子": [
+        "今天我们学习“沙子”这个词。",
+        "Hôm nay chúng ta học từ “cát”."
+      ],
+      "设立": [
+        "我想学会怎么用“设立”。",
+        "Tôi muốn học cách dùng từ “thiết lập”."
+      ],
+      "声明": [
+        "我想学会怎么用“声明”。",
+        "Tôi muốn học cách dùng từ “phát biểu”."
+      ],
+      "使": [
+        "我想学会怎么用“使”。",
+        "Tôi muốn học cách dùng từ “khiến”."
+      ],
+      "试验": [
+        "我想学会怎么用“试验”。",
+        "Tôi muốn học cách dùng từ “thí nghiệm”."
+      ]
+    }
+  },
+  {
+    "id": "study-11",
+    "title": "Trong phòng thi",
+    "titleCn": "参加考试",
+    "context": "Hiểu hướng dẫn và quản lý thời gian",
+    "phraseCn": "请先看清楚考试要求。",
+    "phrasePinyin": "Qǐng xiān kàn qīngchu kǎoshì yāoqiú.",
+    "phraseVi": "Hãy đọc kỹ yêu cầu thi trước.",
+    "words": [
+      "划船",
+      "基本上",
+      "继续",
+      "简直",
+      "教练",
+      "紧急",
+      "久",
+      "看起来",
+      "快速",
+      "理发",
+      "联合",
+      "旅行社",
+      "美术",
+      "男子",
+      "牛",
+      "配",
+      "齐",
+      "亲",
+      "全场",
+      "认出",
+      "伤",
+      "社会",
+      "胜",
+      "始终",
+      "适合"
+    ],
+    "examples": {
+      "划船": [
+        "我想学会怎么用“划船”。",
+        "Tôi muốn học cách dùng từ “chèo thuyền”."
+      ],
+      "基本上": [
+        "今天我们学习“基本上”这个词。",
+        "Hôm nay chúng ta học từ “về cơ bản”."
+      ],
+      "继续": [
+        "我想学会怎么用“继续”。",
+        "Tôi muốn học cách dùng từ “tiếp tục”."
+      ],
+      "简直": [
+        "今天我们学习“简直”这个词。",
+        "Hôm nay chúng ta học từ “thực sự”."
+      ],
+      "教练": [
+        "今天我们学习“教练”这个词。",
+        "Hôm nay chúng ta học từ “người hướng dẫn”."
+      ],
+      "紧急": [
+        "老师说“紧急”是今天的重点。",
+        "Giáo viên nói “khẩn cấp” là trọng tâm hôm nay."
+      ],
+      "久": [
+        "老师说“久”是今天的重点。",
+        "Giáo viên nói “thời gian” là trọng tâm hôm nay."
+      ],
+      "看起来": [
+        "今天我们学习“看起来”这个词。",
+        "Hôm nay chúng ta học từ “hình như”."
+      ],
+      "快速": [
+        "老师说“快速”是今天的重点。",
+        "Giáo viên nói “nhanh” là trọng tâm hôm nay."
+      ],
+      "理发": [
+        "今天我们学习“理发”这个词。",
+        "Hôm nay chúng ta học từ “cắt tóc”."
+      ],
+      "联合": [
+        "我想学会怎么用“联合”。",
+        "Tôi muốn học cách dùng từ “kết hợp”."
+      ],
+      "旅行社": [
+        "今天我们学习“旅行社”这个词。",
+        "Hôm nay chúng ta học từ “công ty du lịch”."
+      ],
+      "美术": [
+        "今天我们学习“美术”这个词。",
+        "Hôm nay chúng ta học từ “nghệ thuật”."
+      ],
+      "男子": [
+        "今天我们学习“男子”这个词。",
+        "Hôm nay chúng ta học từ “một người đàn ông”."
+      ],
+      "牛": [
+        "今天我们学习“牛”这个词。",
+        "Hôm nay chúng ta học từ “họ [Niu2]”."
+      ],
+      "配": [
+        "我想学会怎么用“配”。",
+        "Tôi muốn học cách dùng từ “kết hợp”."
+      ],
+      "齐": [
+        "我想学会怎么用“齐”。",
+        "Tôi muốn học cách dùng từ “”."
+      ],
+      "亲": [
+        "老师说“亲”是今天的重点。",
+        "Giáo viên nói “cha mẹ” là trọng tâm hôm nay."
+      ],
+      "全场": [
+        "今天我们学习“全场”这个词。",
+        "Hôm nay chúng ta học từ “mọi người có mặt”."
+      ],
+      "认出": [
+        "今天我们学习“认出”这个词。",
+        "Hôm nay chúng ta học từ “nhận ra”."
+      ],
+      "伤": [
+        "我想学会怎么用“伤”。",
+        "Tôi muốn học cách dùng từ “làm bị thương”."
+      ],
+      "社会": [
+        "今天我们学习“社会”这个词。",
+        "Hôm nay chúng ta học từ “xã hội”."
+      ],
+      "胜": [
+        "我想学会怎么用“胜”。",
+        "Tôi muốn học cách dùng từ “chiến thắng”."
+      ],
+      "始终": [
+        "今天我们学习“始终”这个词。",
+        "Hôm nay chúng ta học từ “từ đầu đến cuối”."
+      ],
+      "适合": [
+        "我想学会怎么用“适合”。",
+        "Tôi muốn học cách dùng từ “phù hợp”."
+      ]
+    }
+  },
+  {
+    "id": "study-12",
+    "title": "Xem kết quả",
+    "titleCn": "总结学习成果",
+    "context": "Trao đổi điểm và rút kinh nghiệm",
+    "phraseCn": "这次成绩比上次好。",
+    "phrasePinyin": "Zhè cì chéngjì bǐ shàng cì hǎo.",
+    "phraseVi": "Kết quả lần này tốt hơn lần trước.",
+    "words": [
+      "化（现代化）",
+      "基础",
+      "加工",
+      "建",
+      "结实",
+      "进一步",
+      "救",
+      "看上去",
+      "困",
+      "理解",
+      "联合国",
+      "乱",
+      "迷",
+      "难道",
+      "农村",
+      "配合",
+      "其次",
+      "亲切",
+      "全面",
+      "认得",
+      "伤心",
+      "深",
+      "胜利",
+      "世纪",
+      "适应"
+    ],
+    "examples": {
+      "化（现代化）": [
+        "今天我们学习“化（现代化）”这个词。",
+        "Hôm nay chúng ta học từ “hậu tố chỉ sự biến đổi thành một trạng thái”."
+      ],
+      "基础": [
+        "今天我们学习“基础”这个词。",
+        "Hôm nay chúng ta học từ “nền”."
+      ],
+      "加工": [
+        "今天我们学习“加工”这个词。",
+        "Hôm nay chúng ta học từ “chế biến”."
+      ],
+      "建": [
+        "我想学会怎么用“建”。",
+        "Tôi muốn học cách dùng từ “thiết lập”."
+      ],
+      "结实": [
+        "老师说“结实”是今天的重点。",
+        "Giáo viên nói “rắn chắc” là trọng tâm hôm nay."
+      ],
+      "进一步": [
+        "今天我们学习“进一步”这个词。",
+        "Hôm nay chúng ta học từ “tiến thêm một bước”."
+      ],
+      "救": [
+        "我想学会怎么用“救”。",
+        "Tôi muốn học cách dùng từ “biến thể của 救[jiu4]”."
+      ],
+      "看上去": [
+        "今天我们学习“看上去”这个词。",
+        "Hôm nay chúng ta học từ “dường như”."
+      ],
+      "困": [
+        "我想学会怎么用“困”。",
+        "Tôi muốn học cách dùng từ “bẫy”."
+      ],
+      "理解": [
+        "我想学会怎么用“理解”。",
+        "Tôi muốn học cách dùng từ “lĩnh hội”."
+      ],
+      "联合国": [
+        "今天我们学习“联合国”这个词。",
+        "Hôm nay chúng ta học từ “Liên Hợp Quốc”."
+      ],
+      "乱": [
+        "老师说“乱”是今天的重点。",
+        "Giáo viên nói “trong tình trạng rối loạn” là trọng tâm hôm nay."
+      ],
+      "迷": [
+        "我想学会怎么用“迷”。",
+        "Tôi muốn học cách dùng từ “làm bối rối”."
+      ],
+      "难道": [
+        "今天我们学习“难道”这个词。",
+        "Hôm nay chúng ta học từ “chẳng lẽ...”."
+      ],
+      "农村": [
+        "今天我们学习“农村”这个词。",
+        "Hôm nay chúng ta học từ “khu vực nông thôn”."
+      ],
+      "配合": [
+        "我想学会怎么用“配合”。",
+        "Tôi muốn học cách dùng từ “phù hợp”."
+      ],
+      "其次": [
+        "今天我们学习“其次”这个词。",
+        "Hôm nay chúng ta học từ “tiếp theo”."
+      ],
+      "亲切": [
+        "老师说“亲切”是今天的重点。",
+        "Giáo viên nói “thân thiện” là trọng tâm hôm nay."
+      ],
+      "全面": [
+        "老师说“全面”是今天的重点。",
+        "Giáo viên nói “toàn diện” là trọng tâm hôm nay."
+      ],
+      "认得": [
+        "我想学会怎么用“认得”。",
+        "Tôi muốn học cách dùng từ “nhận ra”."
+      ],
+      "伤心": [
+        "今天我们学习“伤心”这个词。",
+        "Hôm nay chúng ta học từ “đau buồn”."
+      ],
+      "深": [
+        "老师说“深”是今天的重点。",
+        "Giáo viên nói “biến thể cũ của 深[shen1]” là trọng tâm hôm nay."
+      ],
+      "胜利": [
+        "我想学会怎么用“胜利”。",
+        "Tôi muốn học cách dùng từ “chiến thắng”."
+      ],
+      "世纪": [
+        "今天我们学习“世纪”这个词。",
+        "Hôm nay chúng ta học từ “thế kỷ”."
+      ],
+      "适应": [
+        "我想学会怎么用“适应”。",
+        "Tôi muốn học cách dùng từ “thích nghi”."
+      ]
+    }
+  }
+]

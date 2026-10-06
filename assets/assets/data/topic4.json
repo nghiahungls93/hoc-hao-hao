@@ -1,0 +1,1558 @@
+[
+  {
+    "id": "transport-01",
+    "title": "Đọc bản đồ",
+    "titleCn": "查看地图",
+    "context": "Xác định vị trí và phương hướng",
+    "phraseCn": "我们现在在哪里？",
+    "phrasePinyin": "Wǒmen xiànzài zài nǎlǐ?",
+    "phraseVi": "Bây giờ chúng ta đang ở đâu?",
+    "words": [
+      "凉",
+      "等到",
+      "开心",
+      "送到",
+      "以前",
+      "达到",
+      "解开",
+      "票价",
+      "参观",
+      "成为",
+      "春节",
+      "大家",
+      "当时",
+      "冬天",
+      "多数",
+      "封",
+      "高级",
+      "关机",
+      "好处",
+      "忽然",
+      "或",
+      "假期",
+      "教育",
+      "经过"
+    ],
+    "examples": {
+      "凉": [
+        "老师说“凉”是今天的重点。",
+        "Giáo viên nói “năm nước Lương trong Thập lục quốc, cụ thể là: Tiền Lương 前涼|前凉” là trọng tâm hôm nay."
+      ],
+      "等到": [
+        "今天我们学习“等到”这个词。",
+        "Hôm nay chúng ta học từ “đợi đến”."
+      ],
+      "开心": [
+        "我想学会怎么用“开心”。",
+        "Tôi muốn học cách dùng từ “cảm thấy vui”."
+      ],
+      "送到": [
+        "今天我们学习“送到”这个词。",
+        "Hôm nay chúng ta học từ “đưa đến”."
+      ],
+      "以前": [
+        "今天我们学习“以前”这个词。",
+        "Hôm nay chúng ta học từ “trước đây”."
+      ],
+      "达到": [
+        "今天我们学习“达到”这个词。",
+        "Hôm nay chúng ta học từ “đạt tới”."
+      ],
+      "解开": [
+        "今天我们学习“解开”这个词。",
+        "Hôm nay chúng ta học từ “tháo ra”."
+      ],
+      "票价": [
+        "今天我们学习“票价”这个词。",
+        "Hôm nay chúng ta học từ “giá vé”."
+      ],
+      "参观": [
+        "我想学会怎么用“参观”。",
+        "Tôi muốn học cách dùng từ “tham quan”."
+      ],
+      "成为": [
+        "我想学会怎么用“成为”。",
+        "Tôi muốn học cách dùng từ “trở thành”."
+      ],
+      "春节": [
+        "今天我们学习“春节”这个词。",
+        "Hôm nay chúng ta học từ “Lễ hội mùa xuân”."
+      ],
+      "大家": [
+        "今天我们学习“大家”这个词。",
+        "Hôm nay chúng ta học từ “mọi người”."
+      ],
+      "当时": [
+        "今天我们学习“当时”这个词。",
+        "Hôm nay chúng ta học từ “lúc đó”."
+      ],
+      "冬天": [
+        "今天我们学习“冬天”这个词。",
+        "Hôm nay chúng ta học từ “mùa đông”."
+      ],
+      "多数": [
+        "今天我们学习“多数”这个词。",
+        "Hôm nay chúng ta học từ “đa số”."
+      ],
+      "封": [
+        "今天我们学习“封”这个词。",
+        "Hôm nay chúng ta học từ “họ [Feng1]”."
+      ],
+      "高级": [
+        "老师说“高级”是今天的重点。",
+        "Giáo viên nói “cấp cao” là trọng tâm hôm nay."
+      ],
+      "关机": [
+        "今天我们学习“关机”这个词。",
+        "Hôm nay chúng ta học từ “tắt”."
+      ],
+      "好处": [
+        "今天我们学习“好处”这个词。",
+        "Hôm nay chúng ta học từ “lợi ích”."
+      ],
+      "忽然": [
+        "今天我们学习“忽然”这个词。",
+        "Hôm nay chúng ta học từ “đột nhiên”."
+      ],
+      "或": [
+        "今天我们学习“或”这个词。",
+        "Hôm nay chúng ta học từ “có thể”."
+      ],
+      "假期": [
+        "今天我们学习“假期”这个词。",
+        "Hôm nay chúng ta học từ “kỳ nghỉ”."
+      ],
+      "教育": [
+        "我想学会怎么用“教育”。",
+        "Tôi muốn học cách dùng từ “giáo dục”."
+      ],
+      "经过": [
+        "我想学会怎么用“经过”。",
+        "Tôi muốn học cách dùng từ “đi qua”."
+      ]
+    }
+  },
+  {
+    "id": "transport-02",
+    "title": "Hỏi đường",
+    "titleCn": "问路",
+    "context": "Hỏi cách đi đến một địa điểm",
+    "phraseCn": "请问，地铁站怎么走？",
+    "phrasePinyin": "Qǐngwèn, dìtiězhàn zěnme zǒu?",
+    "phraseVi": "Xin hỏi, đi đến ga tàu điện thế nào?",
+    "words": [
+      "地铁站",
+      "东方",
+      "克",
+      "提到",
+      "永远",
+      "到底",
+      "近期",
+      "前进",
+      "草",
+      "重复",
+      "春天",
+      "大量",
+      "倒",
+      "懂",
+      "多云",
+      "该",
+      "高中",
+      "关心",
+      "好多",
+      "湖",
+      "或者",
+      "见过",
+      "接",
+      "酒"
+    ],
+    "examples": {
+      "地铁站": [
+        "今天我们学习“地铁站”这个词。",
+        "Hôm nay chúng ta học từ “ga tàu điện ngầm”."
+      ],
+      "东方": [
+        "今天我们学习“东方”这个词。",
+        "Hôm nay chúng ta học từ “phương Đông”."
+      ],
+      "克": [
+        "今天我们学习“克”这个词。",
+        "Hôm nay chúng ta học từ “viết tắt của 克羅地亞|克罗地亚[Ke4 luo2 di4 ya4], Croatia”."
+      ],
+      "提到": [
+        "今天我们学习“提到”这个词。",
+        "Hôm nay chúng ta học từ “đề cập”."
+      ],
+      "永远": [
+        "今天我们学习“永远”这个词。",
+        "Hôm nay chúng ta học từ “mãi mãi”."
+      ],
+      "到底": [
+        "今天我们学习“到底”这个词。",
+        "Hôm nay chúng ta học từ “cuối cùng”."
+      ],
+      "近期": [
+        "今天我们学习“近期”这个词。",
+        "Hôm nay chúng ta học từ “gần về mặt thời gian”."
+      ],
+      "前进": [
+        "我想学会怎么用“前进”。",
+        "Tôi muốn học cách dùng từ “tiến lên”."
+      ],
+      "草": [
+        "今天我们学习“草”这个词。",
+        "Hôm nay chúng ta học từ “biến thể của 草[cao3]”."
+      ],
+      "重复": [
+        "我想学会怎么用“重复”。",
+        "Tôi muốn học cách dùng từ “lặp lại”."
+      ],
+      "春天": [
+        "今天我们学习“春天”这个词。",
+        "Hôm nay chúng ta học từ “mùa xuân”."
+      ],
+      "大量": [
+        "老师说“大量”是今天的重点。",
+        "Giáo viên nói “lượng lớn” là trọng tâm hôm nay."
+      ],
+      "倒": [
+        "我想学会怎么用“倒”。",
+        "Tôi muốn học cách dùng từ “lật ngược”."
+      ],
+      "懂": [
+        "我想学会怎么用“懂”。",
+        "Tôi muốn học cách dùng từ “hiểu”."
+      ],
+      "多云": [
+        "今天我们学习“多云”这个词。",
+        "Hôm nay chúng ta học từ “có mây”."
+      ],
+      "该": [
+        "我想学会怎么用“该”。",
+        "Tôi muốn học cách dùng từ “nên”."
+      ],
+      "高中": [
+        "今天我们学习“高中”这个词。",
+        "Hôm nay chúng ta học từ “trường trung học phổ thông”."
+      ],
+      "关心": [
+        "我想学会怎么用“关心”。",
+        "Tôi muốn học cách dùng từ “quan tâm đến”."
+      ],
+      "好多": [
+        "今天我们学习“好多”这个词。",
+        "Hôm nay chúng ta học từ “nhiều”."
+      ],
+      "湖": [
+        "今天我们学习“湖”这个词。",
+        "Hôm nay chúng ta học từ “hồ”."
+      ],
+      "或者": [
+        "今天我们学习“或者”这个词。",
+        "Hôm nay chúng ta học từ “hoặc”."
+      ],
+      "见过": [
+        "今天我们学习“见过”这个词。",
+        "Hôm nay chúng ta học từ “đã từng gặp”."
+      ],
+      "接": [
+        "我想学会怎么用“接”。",
+        "Tôi muốn học cách dùng từ “nhận”."
+      ],
+      "酒": [
+        "今天我们学习“酒”这个词。",
+        "Hôm nay chúng ta học từ “rượu”."
+      ]
+    }
+  },
+  {
+    "id": "transport-03",
+    "title": "Hiểu chỉ đường",
+    "titleCn": "听懂指路",
+    "context": "Nghe hướng rẽ và khoảng cách",
+    "phraseCn": "一直走，然后向左转。",
+    "phrasePinyin": "Yìzhí zǒu, ránhòu xiàng zuǒ zhuǎn.",
+    "phraseVi": "Đi thẳng rồi rẽ trái.",
+    "words": [
+      "东北",
+      "分开",
+      "离",
+      "停车",
+      "云",
+      "东部",
+      "开发",
+      "前往",
+      "草地",
+      "出发",
+      "词语",
+      "大门",
+      "道",
+      "懂得",
+      "而且",
+      "改",
+      "个子",
+      "观点",
+      "好久",
+      "花园",
+      "鸡",
+      "件",
+      "接受",
+      "酒店"
+    ],
+    "examples": {
+      "东北": [
+        "今天我们学习“东北”这个词。",
+        "Hôm nay chúng ta học từ “Đông Bắc Trung Quốc”."
+      ],
+      "分开": [
+        "今天我们学习“分开”这个词。",
+        "Hôm nay chúng ta học từ “tách ra”."
+      ],
+      "离": [
+        "我想学会怎么用“离”。",
+        "Tôi muốn học cách dùng từ “họ [Li2]”."
+      ],
+      "停车": [
+        "今天我们学习“停车”这个词。",
+        "Hôm nay chúng ta học từ “dừng xe”."
+      ],
+      "云": [
+        "今天我们学习“云”这个词。",
+        "Hôm nay chúng ta học từ “”."
+      ],
+      "东部": [
+        "今天我们学习“东部”这个词。",
+        "Hôm nay chúng ta học từ “miền đông”."
+      ],
+      "开发": [
+        "我想学会怎么用“开发”。",
+        "Tôi muốn học cách dùng từ “khai thác”."
+      ],
+      "前往": [
+        "我想学会怎么用“前往”。",
+        "Tôi muốn học cách dùng từ “đi đến”."
+      ],
+      "草地": [
+        "今天我们学习“草地”这个词。",
+        "Hôm nay chúng ta học từ “bãi cỏ”."
+      ],
+      "出发": [
+        "我想学会怎么用“出发”。",
+        "Tôi muốn học cách dùng từ “khởi hành”."
+      ],
+      "词语": [
+        "今天我们学习“词语”这个词。",
+        "Hôm nay chúng ta học từ “từ”."
+      ],
+      "大门": [
+        "今天我们学习“大门”这个词。",
+        "Hôm nay chúng ta học từ “ban nhạc the Doors, ban nhạc rock Mỹ”."
+      ],
+      "道": [
+        "今天我们学习“道”这个词。",
+        "Hôm nay chúng ta học từ “đường”."
+      ],
+      "懂得": [
+        "我想学会怎么用“懂得”。",
+        "Tôi muốn học cách dùng từ “hiểu”."
+      ],
+      "而且": [
+        "今天我们学习“而且”这个词。",
+        "Hôm nay chúng ta học từ “”."
+      ],
+      "改": [
+        "我想学会怎么用“改”。",
+        "Tôi muốn học cách dùng từ “thay đổi”."
+      ],
+      "个子": [
+        "今天我们学习“个子”这个词。",
+        "Hôm nay chúng ta học từ “chiều cao”."
+      ],
+      "观点": [
+        "今天我们学习“观点”这个词。",
+        "Hôm nay chúng ta học từ “quan điểm”."
+      ],
+      "好久": [
+        "老师说“好久”是今天的重点。",
+        "Giáo viên nói “một khoảng thời gian khá lâu” là trọng tâm hôm nay."
+      ],
+      "花园": [
+        "今天我们学习“花园”这个词。",
+        "Hôm nay chúng ta học từ “vườn”."
+      ],
+      "鸡": [
+        "今天我们学习“鸡”这个词。",
+        "Hôm nay chúng ta học từ “gia cầm”."
+      ],
+      "件": [
+        "今天我们学习“件”这个词。",
+        "Hôm nay chúng ta học từ “món”."
+      ],
+      "接受": [
+        "我想学会怎么用“接受”。",
+        "Tôi muốn học cách dùng từ “chấp nhận”."
+      ],
+      "酒店": [
+        "今天我们学习“酒店”这个词。",
+        "Hôm nay chúng ta học từ “quán rượu”."
+      ]
+    }
+  },
+  {
+    "id": "transport-04",
+    "title": "Đi xe buýt",
+    "titleCn": "乘坐公交车",
+    "context": "Tìm tuyến và điểm dừng",
+    "phraseCn": "这辆车到火车站吗？",
+    "phrasePinyin": "Zhè liàng chē dào huǒchēzhàn ma?",
+    "phraseVi": "Xe này có đến ga tàu không?",
+    "words": [
+      "东南",
+      "感到",
+      "路边",
+      "停车场",
+      "站住",
+      "放到",
+      "开放",
+      "提前",
+      "查",
+      "出国",
+      "从小",
+      "大人",
+      "道理",
+      "动物",
+      "发",
+      "改变",
+      "更",
+      "广场",
+      "好人",
+      "画",
+      "级",
+      "健康",
+      "接下来",
+      "就要"
+    ],
+    "examples": {
+      "东南": [
+        "今天我们学习“东南”这个词。",
+        "Hôm nay chúng ta học từ “đông nam”."
+      ],
+      "感到": [
+        "我想学会怎么用“感到”。",
+        "Tôi muốn học cách dùng từ “cảm thấy”."
+      ],
+      "路边": [
+        "今天我们学习“路边”这个词。",
+        "Hôm nay chúng ta học từ “lề đường”."
+      ],
+      "停车场": [
+        "今天我们学习“停车场”这个词。",
+        "Hôm nay chúng ta học từ “bãi đỗ xe”."
+      ],
+      "站住": [
+        "今天我们学习“站住”这个词。",
+        "Hôm nay chúng ta học từ “đứng lại”."
+      ],
+      "放到": [
+        "今天我们学习“放到”这个词。",
+        "Hôm nay chúng ta học từ “đặt vào”."
+      ],
+      "开放": [
+        "我想学会怎么用“开放”。",
+        "Tôi muốn học cách dùng từ “nở hoa”."
+      ],
+      "提前": [
+        "我想学会怎么用“提前”。",
+        "Tôi muốn học cách dùng từ “dời lên ngày sớm hơn”."
+      ],
+      "查": [
+        "我想学会怎么用“查”。",
+        "Tôi muốn học cách dùng từ “nghiên cứu”."
+      ],
+      "出国": [
+        "今天我们学习“出国”这个词。",
+        "Hôm nay chúng ta học từ “ra nước ngoài”."
+      ],
+      "从小": [
+        "今天我们学习“从小”这个词。",
+        "Hôm nay chúng ta học từ “từ nhỏ”."
+      ],
+      "大人": [
+        "今天我们学习“大人”这个词。",
+        "Hôm nay chúng ta học từ “người lớn”."
+      ],
+      "道理": [
+        "今天我们学习“道理”这个词。",
+        "Hôm nay chúng ta học từ “lý do”."
+      ],
+      "动物": [
+        "今天我们学习“动物”这个词。",
+        "Hôm nay chúng ta học từ “động vật”."
+      ],
+      "发": [
+        "我想学会怎么用“发”。",
+        "Tôi muốn học cách dùng từ “gửi đi”."
+      ],
+      "改变": [
+        "我想学会怎么用“改变”。",
+        "Tôi muốn học cách dùng từ “thay đổi”."
+      ],
+      "更": [
+        "今天我们学习“更”这个词。",
+        "Hôm nay chúng ta học từ “hơn”."
+      ],
+      "广场": [
+        "今天我们学习“广场”这个词。",
+        "Hôm nay chúng ta học từ “quảng trường”."
+      ],
+      "好人": [
+        "今天我们学习“好人”这个词。",
+        "Hôm nay chúng ta học từ “người tốt”."
+      ],
+      "画": [
+        "我想学会怎么用“画”。",
+        "Tôi muốn học cách dùng từ “vẽ”."
+      ],
+      "级": [
+        "今天我们学习“级”这个词。",
+        "Hôm nay chúng ta học từ “cấp”."
+      ],
+      "健康": [
+        "老师说“健康”是今天的重点。",
+        "Giáo viên nói “sức khỏe” là trọng tâm hôm nay."
+      ],
+      "接下来": [
+        "今天我们学习“接下来”这个词。",
+        "Hôm nay chúng ta học từ “chấp nhận”."
+      ],
+      "就要": [
+        "今天我们学习“就要”这个词。",
+        "Hôm nay chúng ta học từ “sẽ”."
+      ]
+    }
+  },
+  {
+    "id": "transport-05",
+    "title": "Đi tàu điện",
+    "titleCn": "乘坐地铁",
+    "context": "Mua vé và đổi tuyến",
+    "phraseCn": "我要在哪一站换车？",
+    "phrasePinyin": "Wǒ yào zài nǎ yí zhàn huànchē?",
+    "phraseVi": "Tôi phải đổi tuyến ở ga nào?",
+    "words": [
+      "西北",
+      "公交车",
+      "面前",
+      "问路",
+      "自行车",
+      "赶到",
+      "开业",
+      "跳远",
+      "差不多",
+      "出口",
+      "答应",
+      "大衣",
+      "得",
+      "动物园",
+      "发现",
+      "干杯",
+      "公斤",
+      "广告",
+      "好事",
+      "画家",
+      "急",
+      "讲话",
+      "接着"
+    ],
+    "examples": {
+      "西北": [
+        "今天我们学习“西北”这个词。",
+        "Hôm nay chúng ta học từ “Tây Bắc Trung Quốc”."
+      ],
+      "公交车": [
+        "今天我们学习“公交车”这个词。",
+        "Hôm nay chúng ta học từ “phương tiện giao thông công cộng”."
+      ],
+      "面前": [
+        "今天我们学习“面前”这个词。",
+        "Hôm nay chúng ta học từ “trước mặt”."
+      ],
+      "问路": [
+        "我想学会怎么用“问路”。",
+        "Tôi muốn học cách dùng từ “hỏi đường”."
+      ],
+      "自行车": [
+        "今天我们学习“自行车”这个词。",
+        "Hôm nay chúng ta học từ “xe đạp”."
+      ],
+      "赶到": [
+        "今天我们学习“赶到”这个词。",
+        "Hôm nay chúng ta học từ “vội đến”."
+      ],
+      "开业": [
+        "今天我们学习“开业”这个词。",
+        "Hôm nay chúng ta học từ “khai trương kinh doanh”."
+      ],
+      "跳远": [
+        "我想学会怎么用“跳远”。",
+        "Tôi muốn học cách dùng từ “nhảy xa”."
+      ],
+      "差不多": [
+        "老师说“差不多”是今天的重点。",
+        "Giáo viên nói “gần” là trọng tâm hôm nay."
+      ],
+      "出口": [
+        "今天我们学习“出口”这个词。",
+        "Hôm nay chúng ta học từ “lối ra”."
+      ],
+      "答应": [
+        "我想学会怎么用“答应”。",
+        "Tôi muốn học cách dùng từ “trả lời”."
+      ],
+      "大衣": [
+        "今天我们学习“大衣”这个词。",
+        "Hôm nay chúng ta học từ “áo khoác dài”."
+      ],
+      "得": [
+        "今天我们学习“得”这个词。",
+        "Hôm nay chúng ta học từ “trợ từ kết cấu: dùng sau động từ”."
+      ],
+      "动物园": [
+        "今天我们学习“动物园”这个词。",
+        "Hôm nay chúng ta học từ “sở thú”."
+      ],
+      "发现": [
+        "我想学会怎么用“发现”。",
+        "Tôi muốn học cách dùng từ “để ý”."
+      ],
+      "干杯": [
+        "今天我们学习“干杯”这个词。",
+        "Hôm nay chúng ta học từ “nâng ly chúc mừng”."
+      ],
+      "公斤": [
+        "今天我们学习“公斤”这个词。",
+        "Hôm nay chúng ta học từ “kilôgam”."
+      ],
+      "广告": [
+        "今天我们学习“广告”这个词。",
+        "Hôm nay chúng ta học từ “quảng cáo”."
+      ],
+      "好事": [
+        "今天我们学习“好事”这个词。",
+        "Hôm nay chúng ta học từ “hành động, việc làm, điều hoặc công việc tốt”."
+      ],
+      "画家": [
+        "今天我们学习“画家”这个词。",
+        "Hôm nay chúng ta học từ “họa sĩ”."
+      ],
+      "急": [
+        "老师说“急”是今天的重点。",
+        "Giáo viên nói “khẩn cấp” là trọng tâm hôm nay."
+      ],
+      "讲话": [
+        "今天我们学习“讲话”这个词。",
+        "Hôm nay chúng ta học từ “bài phát biểu”."
+      ],
+      "接着": [
+        "我想学会怎么用“接着”。",
+        "Tôi muốn học cách dùng từ “bắt và giữ”."
+      ]
+    }
+  },
+  {
+    "id": "transport-06",
+    "title": "Nghe thông báo",
+    "titleCn": "听车站广播",
+    "context": "Nghe ga đến và cửa ra",
+    "phraseCn": "下一站是人民广场。",
+    "phrasePinyin": "Xià yí zhàn shì Rénmín Guǎngchǎng.",
+    "phraseVi": "Ga tiếp theo là Quảng trường Nhân Dân.",
+    "words": [
+      "西南",
+      "公里",
+      "拿到",
+      "西餐",
+      "走过",
+      "高速",
+      "开展",
+      "铁路",
+      "长",
+      "出门",
+      "打工",
+      "大自然",
+      "得出",
+      "度",
+      "方便",
+      "感动",
+      "公平",
+      "国际",
+      "好像",
+      "画儿",
+      "计算机",
+      "交给",
+      "街"
+    ],
+    "examples": {
+      "西南": [
+        "今天我们学习“西南”这个词。",
+        "Hôm nay chúng ta học từ “tây nam”."
+      ],
+      "公里": [
+        "今天我们学习“公里”这个词。",
+        "Hôm nay chúng ta học từ “kilômét”."
+      ],
+      "拿到": [
+        "今天我们学习“拿到”这个词。",
+        "Hôm nay chúng ta học từ “lấy được”."
+      ],
+      "西餐": [
+        "今天我们学习“西餐”这个词。",
+        "Hôm nay chúng ta học từ “Món ăn kiểu Tây”."
+      ],
+      "走过": [
+        "今天我们学习“走过”这个词。",
+        "Hôm nay chúng ta học từ “đi qua”."
+      ],
+      "高速": [
+        "老师说“高速”是今天的重点。",
+        "Giáo viên nói “tốc độ cao” là trọng tâm hôm nay."
+      ],
+      "开展": [
+        "我想学会怎么用“开展”。",
+        "Tôi muốn học cách dùng từ “khai mạc”."
+      ],
+      "铁路": [
+        "今天我们学习“铁路”这个词。",
+        "Hôm nay chúng ta học từ “đường sắt”."
+      ],
+      "长": [
+        "我想学会怎么用“长”。",
+        "Tôi muốn học cách dùng từ “trưởng”."
+      ],
+      "出门": [
+        "今天我们学习“出门”这个词。",
+        "Hôm nay chúng ta học từ “ra ngoài”."
+      ],
+      "打工": [
+        "今天我们学习“打工”这个词。",
+        "Hôm nay chúng ta học từ “làm công việc tạm thời hoặc không chính thức”."
+      ],
+      "大自然": [
+        "今天我们学习“大自然”这个词。",
+        "Hôm nay chúng ta học từ “thiên nhiên”."
+      ],
+      "得出": [
+        "今天我们学习“得出”这个词。",
+        "Hôm nay chúng ta học từ “đạt được”."
+      ],
+      "度": [
+        "今天我们学习“度”这个词。",
+        "Hôm nay chúng ta học từ “vượt qua”."
+      ],
+      "方便": [
+        "老师说“方便”是今天的重点。",
+        "Giáo viên nói “tiện lợi” là trọng tâm hôm nay."
+      ],
+      "感动": [
+        "我想学会怎么用“感动”。",
+        "Tôi muốn học cách dùng từ “làm cảm động”."
+      ],
+      "公平": [
+        "老师说“公平”是今天的重点。",
+        "Giáo viên nói “công bằng” là trọng tâm hôm nay."
+      ],
+      "国际": [
+        "今天我们学习“国际”这个词。",
+        "Hôm nay chúng ta học từ “quốc tế”."
+      ],
+      "好像": [
+        "我想学会怎么用“好像”。",
+        "Tôi muốn học cách dùng từ “như thể”."
+      ],
+      "画儿": [
+        "今天我们学习“画儿”这个词。",
+        "Hôm nay chúng ta học từ “bức tranh”."
+      ],
+      "计算机": [
+        "今天我们学习“计算机”这个词。",
+        "Hôm nay chúng ta học từ “máy tính”."
+      ],
+      "交给": [
+        "今天我们学习“交给”这个词。",
+        "Hôm nay chúng ta học từ “đưa”."
+      ],
+      "街": [
+        "今天我们学习“街”这个词。",
+        "Hôm nay chúng ta học từ “đường phố”."
+      ]
+    }
+  },
+  {
+    "id": "transport-07",
+    "title": "Bắt taxi",
+    "titleCn": "乘坐出租车",
+    "context": "Nói điểm đến với tài xế",
+    "phraseCn": "师傅，请送我到这个地址。",
+    "phrasePinyin": "Shīfu, qǐng sòng wǒ dào zhège dìzhǐ.",
+    "phraseVi": "Bác tài, vui lòng đưa tôi đến địa chỉ này.",
+    "words": [
+      "走开",
+      "公路",
+      "南方",
+      "西方",
+      "走进",
+      "高速公路",
+      "离婚",
+      "推开",
+      "常见",
+      "出生",
+      "打算",
+      "带来",
+      "的话",
+      "短",
+      "方便面",
+      "感觉",
+      "公司",
+      "过来",
+      "合适",
+      "坏处",
+      "加",
+      "交朋友",
+      "节"
+    ],
+    "examples": {
+      "走开": [
+        "今天我们学习“走开”这个词。",
+        "Hôm nay chúng ta học từ “rời đi”."
+      ],
+      "公路": [
+        "今天我们学习“公路”这个词。",
+        "Hôm nay chúng ta học từ “đường cao tốc”."
+      ],
+      "南方": [
+        "今天我们学习“南方”这个词。",
+        "Hôm nay chúng ta học từ “phía nam”."
+      ],
+      "西方": [
+        "今天我们学习“西方”这个词。",
+        "Hôm nay chúng ta học từ “phương Tây”."
+      ],
+      "走进": [
+        "今天我们学习“走进”这个词。",
+        "Hôm nay chúng ta học từ “đi vào”."
+      ],
+      "高速公路": [
+        "今天我们学习“高速公路”这个词。",
+        "Hôm nay chúng ta học từ “đường cao tốc”."
+      ],
+      "离婚": [
+        "今天我们学习“离婚”这个词。",
+        "Hôm nay chúng ta học từ “ly hôn”."
+      ],
+      "推开": [
+        "今天我们学习“推开”这个词。",
+        "Hôm nay chúng ta học từ “đẩy ra”."
+      ],
+      "常见": [
+        "今天我们学习“常见”这个词。",
+        "Hôm nay chúng ta học từ “thường thấy”."
+      ],
+      "出生": [
+        "我想学会怎么用“出生”。",
+        "Tôi muốn học cách dùng từ “được sinh ra”."
+      ],
+      "打算": [
+        "我想学会怎么用“打算”。",
+        "Tôi muốn học cách dùng từ “dự định”."
+      ],
+      "带来": [
+        "今天我们学习“带来”这个词。",
+        "Hôm nay chúng ta học từ “mang đến”."
+      ],
+      "的话": [
+        "今天我们学习“的话”这个词。",
+        "Hôm nay chúng ta học từ “nếu”."
+      ],
+      "短": [
+        "老师说“短”是今天的重点。",
+        "Giáo viên nói “ngắn” là trọng tâm hôm nay."
+      ],
+      "方便面": [
+        "今天我们学习“方便面”这个词。",
+        "Hôm nay chúng ta học từ “mì ăn liền”."
+      ],
+      "感觉": [
+        "我想学会怎么用“感觉”。",
+        "Tôi muốn học cách dùng từ “cảm giác”."
+      ],
+      "公司": [
+        "今天我们学习“公司”这个词。",
+        "Hôm nay chúng ta học từ “công ty”."
+      ],
+      "过来": [
+        "我想学会怎么用“过来”。",
+        "Tôi muốn học cách dùng từ “đến”."
+      ],
+      "合适": [
+        "老师说“合适”是今天的重点。",
+        "Giáo viên nói “thích hợp” là trọng tâm hôm nay."
+      ],
+      "坏处": [
+        "今天我们学习“坏处”这个词。",
+        "Hôm nay chúng ta học từ “tổn hại”."
+      ],
+      "加": [
+        "我想学会怎么用“加”。",
+        "Tôi muốn học cách dùng từ “Canada”."
+      ],
+      "交朋友": [
+        "今天我们学习“交朋友”这个词。",
+        "Hôm nay chúng ta học từ “kết bạn”."
+      ],
+      "节": [
+        "今天我们学习“节”这个词。",
+        "Hôm nay chúng ta học từ “khớp”."
+      ]
+    }
+  },
+  {
+    "id": "transport-08",
+    "title": "Đi tàu hỏa",
+    "titleCn": "乘坐火车",
+    "context": "Mua vé và tìm toa tàu",
+    "phraseCn": "请问，在哪儿取票？",
+    "phrasePinyin": "Qǐngwèn, zài nǎr qǔ piào?",
+    "phraseVi": "Xin hỏi, lấy vé ở đâu?",
+    "words": [
+      "前后",
+      "后来",
+      "碰到",
+      "西医",
+      "最近",
+      "公开",
+      "路线",
+      "西部",
+      "常用",
+      "出现",
+      "打印",
+      "单位",
+      "等于",
+      "段",
+      "方面",
+      "感谢",
+      "公园",
+      "过年",
+      "河",
+      "坏人",
+      "加油",
+      "角",
+      "节日"
+    ],
+    "examples": {
+      "前后": [
+        "今天我们学习“前后”这个词。",
+        "Hôm nay chúng ta học từ “khoảng”."
+      ],
+      "后来": [
+        "今天我们学习“后来”这个词。",
+        "Hôm nay chúng ta học từ “sau này”."
+      ],
+      "碰到": [
+        "今天我们学习“碰到”这个词。",
+        "Hôm nay chúng ta học từ “tình cờ gặp”."
+      ],
+      "西医": [
+        "今天我们学习“西医”这个词。",
+        "Hôm nay chúng ta học từ “y học phương Tây”."
+      ],
+      "最近": [
+        "今天我们学习“最近”这个词。",
+        "Hôm nay chúng ta học từ “gần đây”."
+      ],
+      "公开": [
+        "我想学会怎么用“公开”。",
+        "Tôi muốn học cách dùng từ “mở”."
+      ],
+      "路线": [
+        "今天我们学习“路线”这个词。",
+        "Hôm nay chúng ta học từ “hành trình”."
+      ],
+      "西部": [
+        "今天我们学习“西部”这个词。",
+        "Hôm nay chúng ta học từ “phần phía tây”."
+      ],
+      "常用": [
+        "今天我们学习“常用”这个词。",
+        "Hôm nay chúng ta học từ “được sử dụng phổ biến”."
+      ],
+      "出现": [
+        "我想学会怎么用“出现”。",
+        "Tôi muốn học cách dùng từ “xuất hiện”."
+      ],
+      "打印": [
+        "我想学会怎么用“打印”。",
+        "Tôi muốn học cách dùng từ “đóng dấu”."
+      ],
+      "单位": [
+        "今天我们学习“单位”这个词。",
+        "Hôm nay chúng ta học từ “đơn vị”."
+      ],
+      "等于": [
+        "我想学会怎么用“等于”。",
+        "Tôi muốn học cách dùng từ “bằng”."
+      ],
+      "段": [
+        "今天我们学习“段”这个词。",
+        "Hôm nay chúng ta học từ “họ [Duan4]”."
+      ],
+      "方面": [
+        "今天我们学习“方面”这个词。",
+        "Hôm nay chúng ta học từ “khía cạnh”."
+      ],
+      "感谢": [
+        "我想学会怎么用“感谢”。",
+        "Tôi muốn học cách dùng từ “”."
+      ],
+      "公园": [
+        "今天我们学习“公园”这个词。",
+        "Hôm nay chúng ta học từ “công viên”."
+      ],
+      "过年": [
+        "今天我们学习“过年”这个词。",
+        "Hôm nay chúng ta học từ “đón Tết Nguyên Đán”."
+      ],
+      "河": [
+        "今天我们学习“河”这个词。",
+        "Hôm nay chúng ta học từ “sông”."
+      ],
+      "坏人": [
+        "今天我们学习“坏人”这个词。",
+        "Hôm nay chúng ta học từ “người xấu”."
+      ],
+      "加油": [
+        "今天我们学习“加油”这个词。",
+        "Hôm nay chúng ta học từ “thêm dầu”."
+      ],
+      "角": [
+        "今天我们学习“角”这个词。",
+        "Hôm nay chúng ta học từ “góc”."
+      ],
+      "节日": [
+        "今天我们学习“节日”这个词。",
+        "Hôm nay chúng ta học từ “ngày lễ”."
+      ]
+    }
+  },
+  {
+    "id": "transport-09",
+    "title": "Đi máy bay",
+    "titleCn": "乘坐飞机",
+    "context": "Làm thủ tục và tìm cửa lên máy bay",
+    "phraseCn": "我的登机口是几号？",
+    "phrasePinyin": "Wǒ de dēngjīkǒu shì jǐ hào?",
+    "phraseVi": "Cửa lên máy bay của tôi là số mấy?",
+    "words": [
+      "左右",
+      "见到",
+      "骑车",
+      "想到",
+      "做到",
+      "后年",
+      "落后",
+      "眼前",
+      "场",
+      "出院",
+      "大部分",
+      "但",
+      "低",
+      "队",
+      "放下",
+      "干活儿",
+      "狗",
+      "过去",
+      "黑",
+      "换",
+      "家（科学家）",
+      "角度",
+      "斤"
+    ],
+    "examples": {
+      "左右": [
+        "我想学会怎么用“左右”。",
+        "Tôi muốn học cách dùng từ “trái phải”."
+      ],
+      "见到": [
+        "今天我们学习“见到”这个词。",
+        "Hôm nay chúng ta học từ “nhìn thấy”."
+      ],
+      "骑车": [
+        "今天我们学习“骑车”这个词。",
+        "Hôm nay chúng ta học từ “lái xe đạp hoặc xe máy”."
+      ],
+      "想到": [
+        "今天我们学习“想到”这个词。",
+        "Hôm nay chúng ta học từ “nghĩ đến”."
+      ],
+      "做到": [
+        "今天我们学习“做到”这个词。",
+        "Hôm nay chúng ta học từ “hoàn thành”."
+      ],
+      "后年": [
+        "今天我们学习“后年”这个词。",
+        "Hôm nay chúng ta học từ “năm sau nữa”."
+      ],
+      "落后": [
+        "今天我们学习“落后”这个词。",
+        "Hôm nay chúng ta học từ “tụt hậu”."
+      ],
+      "眼前": [
+        "今天我们学习“眼前”这个词。",
+        "Hôm nay chúng ta học từ “trước mắt”."
+      ],
+      "场": [
+        "今天我们学习“场”这个词。",
+        "Hôm nay chúng ta học từ “nơi lớn dùng cho mục đích cụ thể”."
+      ],
+      "出院": [
+        "今天我们学习“出院”这个词。",
+        "Hôm nay chúng ta học từ “xuất viện”."
+      ],
+      "大部分": [
+        "今天我们学习“大部分”这个词。",
+        "Hôm nay chúng ta học từ “phần lớn”."
+      ],
+      "但": [
+        "今天我们学习“但”这个词。",
+        "Hôm nay chúng ta học từ “nhưng”."
+      ],
+      "低": [
+        "我想学会怎么用“低”。",
+        "Tôi muốn học cách dùng từ “thấp”."
+      ],
+      "队": [
+        "今天我们学习“队”这个词。",
+        "Hôm nay chúng ta học từ “phi đội”."
+      ],
+      "放下": [
+        "今天我们学习“放下”这个词。",
+        "Hôm nay chúng ta học từ “đặt xuống”."
+      ],
+      "干活儿": [
+        "今天我们学习“干活儿”这个词。",
+        "Hôm nay chúng ta học từ “biến thể er hoá của 幹活|干活[gan4 huo2]”."
+      ],
+      "狗": [
+        "今天我们学习“狗”这个词。",
+        "Hôm nay chúng ta học từ “chó”."
+      ],
+      "过去": [
+        "今天我们学习“过去”这个词。",
+        "Hôm nay chúng ta học từ “”."
+      ],
+      "黑": [
+        "老师说“黑”是今天的重点。",
+        "Giáo viên nói “viết tắt của tỉnh Hắc Long Giang 黑龍江|黑龙江[Hei1 long2 jiang1]” là trọng tâm hôm nay."
+      ],
+      "换": [
+        "我想学会怎么用“换”。",
+        "Tôi muốn học cách dùng từ “trao đổi”."
+      ],
+      "家（科学家）": [
+        "今天我们学习“家（科学家）”这个词。",
+        "Hôm nay chúng ta học từ “hậu tố chỉ người có chuyên môn”."
+      ],
+      "角度": [
+        "今天我们学习“角度”这个词。",
+        "Hôm nay chúng ta học từ “góc”."
+      ],
+      "斤": [
+        "今天我们学习“斤”这个词。",
+        "Hôm nay chúng ta học từ “cân”."
+      ]
+    }
+  },
+  {
+    "id": "transport-10",
+    "title": "Thuê xe đạp",
+    "titleCn": "骑共享单车",
+    "context": "Mở khóa và trả xe",
+    "phraseCn": "这辆自行车可以用吗？",
+    "phrasePinyin": "Zhè liàng zìxíngchē kěyǐ yòng ma?",
+    "phraseVi": "Chiếc xe đạp này dùng được không?",
+    "words": [
+      "车辆",
+      "交通",
+      "前年",
+      "一路平安",
+      "北部",
+      "将近",
+      "马",
+      "邮票",
+      "超过",
+      "出租",
+      "大大",
+      "但是",
+      "地球",
+      "队长",
+      "放心",
+      "刚",
+      "够",
+      "海",
+      "黑色",
+      "黄",
+      "家庭",
+      "饺子",
+      "进入"
+    ],
+    "examples": {
+      "车辆": [
+        "今天我们学习“车辆”这个词。",
+        "Hôm nay chúng ta học từ “phương tiện giao thông”."
+      ],
+      "交通": [
+        "今天我们学习“交通”这个词。",
+        "Hôm nay chúng ta học từ “kết nối”."
+      ],
+      "前年": [
+        "今天我们学习“前年”这个词。",
+        "Hôm nay chúng ta học từ “năm kia”."
+      ],
+      "一路平安": [
+        "今天我们学习“一路平安”这个词。",
+        "Hôm nay chúng ta học từ “có chuyến đi vui vẻ”."
+      ],
+      "北部": [
+        "今天我们学习“北部”这个词。",
+        "Hôm nay chúng ta học từ “phần phía bắc”."
+      ],
+      "将近": [
+        "今天我们学习“将近”这个词。",
+        "Hôm nay chúng ta học từ “gần như”."
+      ],
+      "马": [
+        "今天我们学习“马”这个词。",
+        "Hôm nay chúng ta học từ “họ [Ma3]”."
+      ],
+      "邮票": [
+        "今天我们学习“邮票”这个词。",
+        "Hôm nay chúng ta học từ “tem”."
+      ],
+      "超过": [
+        "我想学会怎么用“超过”。",
+        "Tôi muốn học cách dùng từ “vượt qua”."
+      ],
+      "出租": [
+        "我想学会怎么用“出租”。",
+        "Tôi muốn học cách dùng từ “cho thuê”."
+      ],
+      "大大": [
+        "今天我们学习“大大”这个词。",
+        "Hôm nay chúng ta học từ “rất nhiều”."
+      ],
+      "但是": [
+        "今天我们学习“但是”这个词。",
+        "Hôm nay chúng ta học từ “nhưng”."
+      ],
+      "地球": [
+        "今天我们学习“地球”这个词。",
+        "Hôm nay chúng ta học từ “trái đất”."
+      ],
+      "队长": [
+        "今天我们学习“队长”这个词。",
+        "Hôm nay chúng ta học từ “đội trưởng”."
+      ],
+      "放心": [
+        "今天我们学习“放心”这个词。",
+        "Hôm nay chúng ta học từ “cảm thấy nhẹ nhõm”."
+      ],
+      "刚": [
+        "今天我们学习“刚”这个词。",
+        "Hôm nay chúng ta học từ “cứng”."
+      ],
+      "够": [
+        "我想学会怎么用“够”。",
+        "Tôi muốn học cách dùng từ “đủ”."
+      ],
+      "海": [
+        "今天我们学习“海”这个词。",
+        "Hôm nay chúng ta học từ “họ [Hai3]”."
+      ],
+      "黑色": [
+        "今天我们学习“黑色”这个词。",
+        "Hôm nay chúng ta học từ “màu đen”."
+      ],
+      "黄": [
+        "老师说“黄”是今天的重点。",
+        "Giáo viên nói “họ [Huang2]” là trọng tâm hôm nay."
+      ],
+      "家庭": [
+        "今天我们学习“家庭”这个词。",
+        "Hôm nay chúng ta học từ “gia đình”."
+      ],
+      "饺子": [
+        "今天我们学习“饺子”这个词。",
+        "Hôm nay chúng ta học từ “bánh sủi cảo”."
+      ],
+      "进入": [
+        "我想学会怎么用“进入”。",
+        "Tôi muốn học cách dùng từ “đi vào”."
+      ]
+    }
+  },
+  {
+    "id": "transport-11",
+    "title": "Gặp sự cố",
+    "titleCn": "交通问题",
+    "context": "Báo trễ chuyến và xin trợ giúp",
+    "phraseCn": "车晚点了，我该怎么办？",
+    "phrasePinyin": "Chē wǎndiǎn le, wǒ gāi zěnme bàn?",
+    "phraseVi": "Xe bị trễ, tôi nên làm thế nào?",
+    "words": [
+      "到处",
+      "接到",
+      "然后",
+      "一路顺风",
+      "背后",
+      "交警",
+      "目前",
+      "展开",
+      "称1",
+      "船",
+      "大多数",
+      "蛋",
+      "点头",
+      "对话",
+      "分钟",
+      "刚才",
+      "故意",
+      "海边",
+      "红",
+      "黄色",
+      "家长",
+      "脚",
+      "进行"
+    ],
+    "examples": {
+      "到处": [
+        "今天我们学习“到处”这个词。",
+        "Hôm nay chúng ta học từ “khắp nơi”."
+      ],
+      "接到": [
+        "今天我们学习“接到”这个词。",
+        "Hôm nay chúng ta học từ “nhận được”."
+      ],
+      "然后": [
+        "今天我们学习“然后”这个词。",
+        "Hôm nay chúng ta học từ “sau đó”."
+      ],
+      "一路顺风": [
+        "今天我们学习“一路顺风”这个词。",
+        "Hôm nay chúng ta học từ “chúc lên đường bình an”."
+      ],
+      "背后": [
+        "今天我们学习“背后”这个词。",
+        "Hôm nay chúng ta học từ “phía sau”."
+      ],
+      "交警": [
+        "今天我们学习“交警”这个词。",
+        "Hôm nay chúng ta học từ “cảnh sát giao thông”."
+      ],
+      "目前": [
+        "今天我们学习“目前”这个词。",
+        "Hôm nay chúng ta học từ “hiện tại”."
+      ],
+      "展开": [
+        "今天我们学习“展开”这个词。",
+        "Hôm nay chúng ta học từ “mở ra”."
+      ],
+      "称1": [
+        "我想学会怎么用“称1”。",
+        "Tôi muốn học cách dùng từ “gọi là”."
+      ],
+      "船": [
+        "今天我们学习“船”这个词。",
+        "Hôm nay chúng ta học từ “biến thể của 船[chuan2]”."
+      ],
+      "大多数": [
+        "今天我们学习“大多数”这个词。",
+        "Hôm nay chúng ta học từ “đại đa số”."
+      ],
+      "蛋": [
+        "今天我们学习“蛋”这个词。",
+        "Hôm nay chúng ta học từ “biến thể của 蜑[Dan4]”."
+      ],
+      "点头": [
+        "今天我们学习“点头”这个词。",
+        "Hôm nay chúng ta học từ “gật đầu”."
+      ],
+      "对话": [
+        "我想学会怎么用“对话”。",
+        "Tôi muốn học cách dùng từ “nói chuyện”."
+      ],
+      "分钟": [
+        "今天我们学习“分钟”这个词。",
+        "Hôm nay chúng ta học từ “phút”."
+      ],
+      "刚才": [
+        "今天我们学习“刚才”这个词。",
+        "Hôm nay chúng ta học từ “vừa nãy”."
+      ],
+      "故意": [
+        "今天我们学习“故意”这个词。",
+        "Hôm nay chúng ta học từ “cố ý”."
+      ],
+      "海边": [
+        "今天我们学习“海边”这个词。",
+        "Hôm nay chúng ta học từ “bờ biển”."
+      ],
+      "红": [
+        "老师说“红”是今天的重点。",
+        "Giáo viên nói “họ [Hong2]” là trọng tâm hôm nay."
+      ],
+      "黄色": [
+        "今天我们学习“黄色”这个词。",
+        "Hôm nay chúng ta học từ “màu vàng”."
+      ],
+      "家长": [
+        "今天我们学习“家长”这个词。",
+        "Hôm nay chúng ta học từ “chủ hộ”."
+      ],
+      "脚": [
+        "今天我们学习“脚”这个词。",
+        "Hôm nay chúng ta học từ “bàn chân”."
+      ],
+      "进行": [
+        "我想学会怎么用“进行”。",
+        "Tôi muốn học cách dùng từ “tiến hành”."
+      ]
+    }
+  },
+  {
+    "id": "transport-12",
+    "title": "Lên kế hoạch đi chơi",
+    "titleCn": "计划出行",
+    "context": "Chọn phương tiện và thời gian",
+    "phraseCn": "我们明天几点出发？",
+    "phrasePinyin": "Wǒmen míngtiān jǐ diǎn chūfā?",
+    "phraseVi": "Ngày mai chúng ta xuất phát lúc mấy giờ?",
+    "words": [
+      "道路",
+      "开机",
+      "受到",
+      "以后",
+      "从前",
+      "接近",
+      "南部",
+      "直到",
+      "成",
+      "吹",
+      "大海",
+      "当",
+      "店",
+      "多么",
+      "份",
+      "刚刚",
+      "顾客",
+      "喊",
+      "红色",
+      "回国",
+      "假",
+      "叫作",
+      "经常"
+    ],
+    "examples": {
+      "道路": [
+        "今天我们学习“道路”这个词。",
+        "Hôm nay chúng ta học từ “đường”."
+      ],
+      "开机": [
+        "今天我们学习“开机”这个词。",
+        "Hôm nay chúng ta học từ “khởi động máy”."
+      ],
+      "受到": [
+        "今天我们学习“受到”这个词。",
+        "Hôm nay chúng ta học từ “nhận được”."
+      ],
+      "以后": [
+        "今天我们学习“以后”这个词。",
+        "Hôm nay chúng ta học từ “sau”."
+      ],
+      "从前": [
+        "今天我们学习“从前”这个词。",
+        "Hôm nay chúng ta học từ “trước đây”."
+      ],
+      "接近": [
+        "我想学会怎么用“接近”。",
+        "Tôi muốn học cách dùng từ “tiếp cận”."
+      ],
+      "南部": [
+        "今天我们学习“南部”这个词。",
+        "Hôm nay chúng ta học từ “phần phía nam”."
+      ],
+      "直到": [
+        "我想学会怎么用“直到”。",
+        "Tôi muốn học cách dùng từ “cho đến”."
+      ],
+      "成": [
+        "我想学会怎么用“成”。",
+        "Tôi muốn học cách dùng từ “họ [Cheng2]”."
+      ],
+      "吹": [
+        "我想学会怎么用“吹”。",
+        "Tôi muốn học cách dùng từ “thổi”."
+      ],
+      "大海": [
+        "今天我们学习“大海”这个词。",
+        "Hôm nay chúng ta học từ “biển”."
+      ],
+      "当": [
+        "我想学会怎么用“当”。",
+        "Tôi muốn học cách dùng từ “”."
+      ],
+      "店": [
+        "今天我们学习“店”这个词。",
+        "Hôm nay chúng ta học từ “quán trọ”."
+      ],
+      "多么": [
+        "今天我们学习“多么”这个词。",
+        "Hôm nay chúng ta học từ “như thế nào”."
+      ],
+      "份": [
+        "今天我们学习“份”这个词。",
+        "Hôm nay chúng ta học từ “lượng từ cho quà tặng, báo, tạp chí, giấy tờ, báo cáo, hợp đồng, v.v.”."
+      ],
+      "刚刚": [
+        "今天我们学习“刚刚”这个词。",
+        "Hôm nay chúng ta học từ “mới đây”."
+      ],
+      "顾客": [
+        "今天我们学习“顾客”这个词。",
+        "Hôm nay chúng ta học từ “khách hàng”."
+      ],
+      "喊": [
+        "我想学会怎么用“喊”。",
+        "Tôi muốn học cách dùng từ “la hét”."
+      ],
+      "红色": [
+        "今天我们学习“红色”这个词。",
+        "Hôm nay chúng ta học từ “màu đỏ”."
+      ],
+      "回国": [
+        "今天我们学习“回国”这个词。",
+        "Hôm nay chúng ta học từ “trở về nước”."
+      ],
+      "假": [
+        "老师说“假”是今天的重点。",
+        "Giáo viên nói “giả” là trọng tâm hôm nay."
+      ],
+      "叫作": [
+        "我想学会怎么用“叫作”。",
+        "Tôi muốn học cách dùng từ “gọi”."
+      ],
+      "经常": [
+        "今天我们学习“经常”这个词。",
+        "Hôm nay chúng ta học từ “thường xuyên”."
+      ]
+    }
+  }
+]
