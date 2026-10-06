@@ -3,9 +3,9 @@
     "short_name": "Ní Hảo",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#FFF9ED",
+    "theme_color": "#116466",
+    "description": "Học tiếng Trung giao tiếp qua hành trình du học, tình huống thực tế và mini-game luyện nghe theo HSK 3.0.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
