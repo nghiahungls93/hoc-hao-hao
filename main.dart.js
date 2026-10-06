@@ -8220,7 +8220,7 @@ var $async$aA6=A.A(function(a,b){if(a===1)return A.w(b,r)
 for(;;)switch(s){case 0:if($.a_==null)A.an0()
 $.a_.toString
 s=2
-return A.q(A.akT("sb_publishable_ltaNA7nnVozoSCOcZIjg","https://qdamvlajydsdtzjwpvhj.supabase.co"),$async$aA6)
+return A.q(A.akT("sb_publishable_Bs2o3BWfbOflh8_Nqd0wBg_0nadIBp_","https://qdamvlajydsdtzjwpvhj.supabase.co"),$async$aA6)
 case 2:$.xS=!0
 if($.a_==null)A.an0()
 q=$.a_
