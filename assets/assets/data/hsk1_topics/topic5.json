@@ -1,9 +1,9 @@
 [
   {
-    "id": "hsk1-topic-05",
-    "title": "Ăn uống hằng ngày",
-    "titleCn": "HSK 1 · 5",
-    "context": "Từ vựng HSK 1 cùng chủ đề",
+    "id": "hsk1-topic-05-lesson-01",
+    "title": "Ăn uống hằng ngày · Bài 1",
+    "titleCn": "HSK 1 · 5-1",
+    "context": "15 từ vựng cùng nhóm nghĩa",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
@@ -22,59 +22,7 @@
       "东西",
       "多少",
       "饭",
-      "饭店",
-      "房间",
-      "房子",
-      "干",
-      "个",
-      "给",
-      "国",
-      "国家",
-      "还是",
-      "好吃",
-      "喝",
-      "和",
-      "会",
-      "机票",
-      "鸡蛋",
-      "家人",
-      "渴",
-      "课本",
-      "了",
-      "妈妈 | 妈",
-      "吗",
-      "买",
-      "没有",
-      "门票",
-      "米饭",
-      "面包",
-      "面条儿",
-      "钱",
-      "钱包",
-      "去",
-      "去年",
-      "商场",
-      "身上",
-      "什么",
-      "水",
-      "水果",
-      "太",
-      "外",
-      "外语",
-      "晚饭",
-      "忘",
-      "午饭",
-      "喜欢",
-      "下课",
-      "新",
-      "一边",
-      "一点儿",
-      "元",
-      "这些",
-      "中国",
-      "中午",
-      "坐下",
-      "做"
+      "饭店"
     ],
     "examples": {
       "八": [
@@ -151,7 +99,35 @@
         "这家饭店的菜很好吃。",
         "Đồ ăn của nhà hàng này rất ngon.",
         "Zhè jiā fàndiàn de cài hěn hǎochī"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-05-lesson-02",
+    "title": "Ăn uống hằng ngày · Bài 2",
+    "titleCn": "HSK 1 · 5-2",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "房间",
+      "房子",
+      "干",
+      "个",
+      "给",
+      "国",
+      "国家",
+      "还是",
+      "好吃",
+      "喝",
+      "和",
+      "会",
+      "机票",
+      "鸡蛋",
+      "家人"
+    ],
+    "examples": {
       "房间": [
         "这是我的房间。",
         "Đây là phòng của tôi.",
@@ -226,7 +202,35 @@
         "我家人都喜欢吃中国菜。",
         "Cả nhà tôi đều thích ăn đồ ăn Trung Quốc.",
         "Wǒ jiārén dōu xǐhuan chī Zhōngguó cài"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-05-lesson-03",
+    "title": "Ăn uống hằng ngày · Bài 3",
+    "titleCn": "HSK 1 · 5-3",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "渴",
+      "课本",
+      "了",
+      "妈妈 | 妈",
+      "吗",
+      "买",
+      "没有",
+      "门票",
+      "米饭",
+      "面包",
+      "面条儿",
+      "钱",
+      "钱包",
+      "去",
+      "去年"
+    ],
+    "examples": {
       "渴": [
         "我口渴了，想喝水。",
         "Tôi khát nước rồi, muốn uống nước.",
@@ -301,7 +305,35 @@
         "去年我买了一辆新车。",
         "Năm ngoái tôi đã mua một chiếc xe mới.",
         "Qùnián wǒ mǎi le yī liàng xīnchē"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-05-lesson-04",
+    "title": "Ăn uống hằng ngày · Bài 4",
+    "titleCn": "HSK 1 · 5-4",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "商场",
+      "身上",
+      "什么",
+      "水",
+      "水果",
+      "太",
+      "外",
+      "外语",
+      "晚饭",
+      "忘",
+      "午饭",
+      "喜欢",
+      "下课",
+      "新",
+      "一边"
+    ],
+    "examples": {
       "商场": [
         "我们去商场买衣服吧。",
         "Chúng ta đi trung tâm thương mại mua quần áo đi.",
@@ -376,7 +408,27 @@
         "她一边吃饭，一边看书。",
         "Cô ấy vừa ăn vừa đọc sách.",
         "Tā yìbiān chīfàn, yìbiān kànshū"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-05-lesson-05",
+    "title": "Ăn uống hằng ngày · Bài 5",
+    "titleCn": "HSK 1 · 5-5",
+    "context": "7 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "一点儿",
+      "元",
+      "这些",
+      "中国",
+      "中午",
+      "坐下",
+      "做"
+    ],
+    "examples": {
       "一点儿": [
         "我想喝一点儿水。",
         "Tôi muốn uống một chút nước.",

@@ -1,9 +1,9 @@
 [
   {
-    "id": "hsk4-review",
+    "id": "hsk4-review-lesson-01",
     "title": "Ôn tập tổng hợp HSK 4",
     "titleCn": "HSK 4 · 复习",
-    "context": "Ôn lại các từ đã học trong cấp độ này",
+    "context": "Bài ôn tập 15 từ",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
@@ -22,22 +22,7 @@
       "办事",
       "棒",
       "保护",
-      "保证",
-      "抱",
-      "报考",
-      "报名",
-      "抱歉",
-      "背",
-      "背包",
-      "北部",
-      "倍",
-      "本科",
-      "本来",
-      "笨",
-      "鼻子",
-      "笔试",
-      "毕业",
-      "毕业生"
+      "保证"
     ],
     "examples": {
       "啊": [
@@ -114,81 +99,6 @@
         "我保证按时完成。",
         "Tôi cam kết hoàn thành đúng hạn.",
         "Wǒ bǎozhèng ànshí wánchéng."
-      ],
-      "抱": [
-        "妈妈抱着孩子。",
-        "Mẹ đang ôm con.",
-        "Māma bàozhe háizi."
-      ],
-      "报考": [
-        "我要报考大学。",
-        "Tôi muốn đăng ký thi đại học.",
-        "Wǒ yào bàokǎo dàxué."
-      ],
-      "报名": [
-        "请尽快报名参加比赛。",
-        "Xin nhanh chóng đăng ký tham gia cuộc thi.",
-        "Qǐng jǐnkuài bàomíng cānjiā bǐsài."
-      ],
-      "抱歉": [
-        "我很抱歉迟到了。",
-        "Tôi rất xin lỗi vì đến muộn.",
-        "Wǒ hěn bàoqiàn chídào le."
-      ],
-      "背": [
-        "他背着书包上学。",
-        "Anh ấy vác cặp sách đi học.",
-        "Tā bēizhe shūbāo shàngxué."
-      ],
-      "背包": [
-        "我的背包很重。",
-        "Balo của tôi rất nặng.",
-        "Wǒ de bēibāo hěn zhòng."
-      ],
-      "北部": [
-        "中国北部冬天很冷。",
-        "Phía Bắc Trung Quốc mùa đông rất lạnh.",
-        "Zhōngguó běibù dōngtiān hěn lěng."
-      ],
-      "倍": [
-        "产量增加了两倍。",
-        "Sản lượng tăng gấp đôi.",
-        "Chǎnliàng zēngjiā le liǎng bèi."
-      ],
-      "本科": [
-        "他正在读本科。",
-        "Anh ấy đang học cử nhân.",
-        "Tā zhèngzài dú běnkē."
-      ],
-      "本来": [
-        "他本来不想去。",
-        "Anh ấy vốn dĩ không muốn đi.",
-        "Tā běnlái bù xiǎng qù."
-      ],
-      "笨": [
-        "你一点都不笨。",
-        "Bạn không ngu ngốc chút nào.",
-        "Nǐ yīdiǎn dōu bù bèn."
-      ],
-      "鼻子": [
-        "他的鼻子很高。",
-        "Mũi anh ấy cao.",
-        "Tā de bízi hěn gāo."
-      ],
-      "笔试": [
-        "明天要笔试。",
-        "Ngày mai phải thi viết.",
-        "Míngtiān yào bǐshì."
-      ],
-      "毕业": [
-        "我明年毕业。",
-        "Năm sau tôi tốt nghiệp.",
-        "Wǒ míngnián bìyè."
-      ],
-      "毕业生": [
-        "他是去年毕业生。",
-        "Anh ấy là sinh viên tốt nghiệp năm ngoái.",
-        "Tā shì qùnián bìyèshēng."
       ]
     }
   }

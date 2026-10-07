@@ -1,9 +1,9 @@
 [
   {
-    "id": "hsk5-review",
+    "id": "hsk5-review-lesson-01",
     "title": "Ôn tập tổng hợp HSK 5",
     "titleCn": "HSK 5 · 复习",
-    "context": "Ôn lại các từ đã học trong cấp độ này",
+    "context": "Bài ôn tập 15 từ",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
@@ -22,22 +22,7 @@
       "包装",
       "保卫",
       "保养",
-      "报答",
-      "报警",
-      "抱怨",
-      "背包",
-      "悲剧",
-      "悲伤",
-      "北极",
-      "被动",
-      "辈",
-      "本人",
-      "鼻子",
-      "比方",
-      "比重",
-      "彼此",
-      "必",
-      "必需"
+      "报答"
     ],
     "examples": {
       "安慰": [
@@ -114,81 +99,6 @@
         "我要好好报答父母。",
         "Tôi muốn báo đáp cha mẹ thật tốt.",
         "Wǒ yào hǎohǎo bàodá fùmǔ."
-      ],
-      "报警": [
-        "发现小偷要立刻报警。",
-        "Phát hiện trộm phải lập tức báo cảnh sát.",
-        "Fāxiàn xiǎotōu yào lìkè bàojǐng."
-      ],
-      "抱怨": [
-        "他总是抱怨工作太累。",
-        "Anh ấy luôn phàn nàn công việc quá mệt.",
-        "Tā zǒngshì bàoyuàn gōngzuò tài lèi."
-      ],
-      "背包": [
-        "旅行时我只带一个背包。",
-        "Khi du lịch tôi chỉ mang một cái ba lô.",
-        "Lǚxíng shí wǒ zhǐ dài yī gè bēibāo."
-      ],
-      "悲剧": [
-        "这部电影是个悲剧。",
-        "Bộ phim này là một bi kịch.",
-        "Zhè bù diànyǐng shì gè bēijù."
-      ],
-      "悲伤": [
-        "听到消息她很悲伤。",
-        "Nghe tin đó cô ấy rất buồn.",
-        "Tīng dào xiāoxī tā hěn bēishāng."
-      ],
-      "北极": [
-        "北极熊生活在北极。",
-        "Gấu Bắc cực sống ở Bắc cực.",
-        "Běijíxióng shēnghuó zài běijí."
-      ],
-      "被动": [
-        "他性格太被动。",
-        "Tính cách anh ấy quá thụ động.",
-        "Tā xìnggé tài bèidòng."
-      ],
-      "辈": [
-        "我们是同辈。",
-        "Chúng ta cùng thế hệ.",
-        "Wǒmen shì tóng bèi."
-      ],
-      "本人": [
-        "本人对此事不知情。",
-        "Bản thân tôi không biết gì về việc này.",
-        "Běnrén duì cǐ shì bù zhī qíng."
-      ],
-      "鼻子": [
-        "我的鼻子有点堵。",
-        "Mũi tôi hơi nghẹt.",
-        "Wǒ de bízi yǒudiǎn dǔ."
-      ],
-      "比方": [
-        "比方说，你可以这样做的。",
-        "Ví dụ, bạn có thể làm như thế này.",
-        "Bǐfang shuō, nǐ kěyǐ zhèyàng zuò de."
-      ],
-      "比重": [
-        "水在地球上的比重很大。",
-        "Tỷ trọng của nước trên Trái Đất rất lớn.",
-        "Shuǐ zài dìqiú shàng de bǐzhòng hěn dà."
-      ],
-      "彼此": [
-        "我们彼此都很了解。",
-        "Chúng ta hiểu rất rõ về nhau.",
-        "Wǒmen bǐcǐ dōu hěn liǎojiě."
-      ],
-      "必": [
-        "努力必有回报。",
-        "Nỗ lực nhất định sẽ có hồi báo.",
-        "Nǔlì bì yǒu huíbào."
-      ],
-      "必需": [
-        "食物是生活必需品。",
-        "Thực phẩm là nhu yếu phẩm sinh hoạt.",
-        "Shíwù shì shēnghuó bìxū pǐn."
       ]
     }
   }

@@ -1,9 +1,9 @@
 [
   {
-    "id": "hsk4-topic-03",
-    "title": "Thời gian và quá trình",
-    "titleCn": "HSK 4 · 3",
-    "context": "Từ vựng HSK 4 cùng chủ đề",
+    "id": "hsk4-topic-03-lesson-01",
+    "title": "Thời gian và quá trình · Bài 1",
+    "titleCn": "HSK 4 · 3-1",
+    "context": "15 từ vựng cùng nhóm nghĩa",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
@@ -22,125 +22,7 @@
       "错误",
       "打败",
       "打针",
-      "袋子",
-      "导游",
-      "等到",
-      "低温",
-      "定",
-      "堵车",
-      "而",
-      "翻译",
-      "方式",
-      "费",
-      "风景",
-      "干",
-      "感受",
-      "高速",
-      "高温",
-      "功夫",
-      "功课",
-      "挂",
-      "管",
-      "光",
-      "害羞",
-      "好处",
-      "红包",
-      "互相",
-      "活动",
-      "获奖",
-      "基础",
-      "继续",
-      "加班",
-      "家长",
-      "假日",
-      "将要",
-      "降温",
-      "仅",
-      "仅仅",
-      "警察",
-      "镜子",
-      "举行",
-      "聚餐",
-      "咳嗽",
-      "空",
-      "空",
-      "垃圾",
-      "浪费",
-      "例子",
-      "亮",
-      "零下",
-      "旅客",
-      "毛衣",
-      "美好",
-      "密码",
-      "面试",
-      "末",
-      "母亲",
-      "嗯",
-      "年底",
-      "排",
-      "皮肤",
-      "平常",
-      "期中",
-      "气温",
-      "前后",
-      "轻",
-      "区",
-      "全部",
-      "确实",
-      "日常",
-      "日记",
-      "日期",
-      "日子",
-      "入住",
-      "摄氏度",
-      "实际",
-      "时间表",
-      "试题",
-      "收听",
-      "数字",
-      "酸",
-      "随着",
-      "躺",
-      "提醒",
-      "停止",
-      "图",
-      "推",
-      "脱",
-      "晚安",
-      "卫生",
-      "污染",
-      "西部",
-      "鲜花",
-      "相比",
-      "详细",
-      "小说",
-      "心情",
-      "星星",
-      "修理",
-      "烟",
-      "演出",
-      "眼前",
-      "夜",
-      "一切",
-      "以内",
-      "一生",
-      "有趣",
-      "友谊",
-      "约",
-      "月份",
-      "再次",
-      "再说",
-      "早晨",
-      "正好",
-      "质量",
-      "至少",
-      "转机",
-      "准",
-      "自",
-      "最终",
-      "做梦",
-      "作文"
+      "袋子"
     ],
     "examples": {
       "安排": [
@@ -189,9 +71,9 @@
         "Tā jīntiān chídào le."
       ],
       "重": [
-        "请重说一遍。",
-        "Xin nói lại một lần.",
-        "Qǐng chóng shuō yī biàn."
+        "这个箱子很重。",
+        "Chiếc vali này rất nặng.",
+        "Zhège xiāngzi hěn zhòng."
       ],
       "重新": [
         "我们重新开始。",
@@ -217,7 +99,35 @@
         "把东西放进袋子。",
         "Đặt đồ vào túi.",
         "Bǎ dōngxi fàng jìn dàizi."
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-03-lesson-02",
+    "title": "Thời gian và quá trình · Bài 2",
+    "titleCn": "HSK 4 · 3-2",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "导游",
+      "等到",
+      "低温",
+      "定",
+      "堵车",
+      "而",
+      "翻译",
+      "方式",
+      "费",
+      "风景",
+      "干",
+      "感受",
+      "高速",
+      "高温",
+      "功夫"
+    ],
+    "examples": {
       "导游": [
         "导游很专业。",
         "Hướng dẫn viên rất chuyên nghiệp.",
@@ -292,7 +202,35 @@
         "他练了十年功夫。",
         "Anh ấy luyện kungfu mười năm.",
         "Tā liàn le shí nián gōngfu."
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-03-lesson-03",
+    "title": "Thời gian và quá trình · Bài 3",
+    "titleCn": "HSK 4 · 3-3",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "功课",
+      "挂",
+      "管",
+      "光",
+      "害羞",
+      "好处",
+      "红包",
+      "互相",
+      "活动",
+      "获奖",
+      "基础",
+      "继续",
+      "加班",
+      "家长",
+      "假日"
+    ],
+    "examples": {
       "功课": [
         "今天的功课很多。",
         "Bài tập hôm nay rất nhiều.",
@@ -367,7 +305,35 @@
         "假日去旅行。",
         "Kỳ nghỉ đi du lịch.",
         "Jiàrì qù lǚxíng."
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-03-lesson-04",
+    "title": "Thời gian và quá trình · Bài 4",
+    "titleCn": "HSK 4 · 3-4",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "将要",
+      "降温",
+      "仅",
+      "仅仅",
+      "警察",
+      "镜子",
+      "举行",
+      "聚餐",
+      "咳嗽",
+      "空",
+      "空",
+      "垃圾",
+      "浪费",
+      "例子",
+      "亮"
+    ],
+    "examples": {
       "将要": [
         "会议将要开始。",
         "Cuộc họp sắp bắt đầu.",
@@ -414,9 +380,9 @@
         "Wǒ yǒudiǎn késou."
       ],
       "空": [
-        "房间是空的。",
-        "Phòng trống không.",
-        "Fángjiān shì kōng de."
+        "我明天有空。",
+        "Ngày mai tôi rảnh.",
+        "Wǒ míngtiān yǒu kòng."
       ],
       "垃圾": [
         "请不要乱扔垃圾。",
@@ -437,7 +403,35 @@
         "灯亮了。",
         "Đèn sáng rồi.",
         "Dēng liàng le."
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-03-lesson-05",
+    "title": "Thời gian và quá trình · Bài 5",
+    "titleCn": "HSK 4 · 3-5",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "零下",
+      "旅客",
+      "毛衣",
+      "美好",
+      "密码",
+      "面试",
+      "末",
+      "母亲",
+      "嗯",
+      "年底",
+      "排",
+      "皮肤",
+      "平常",
+      "期中",
+      "气温"
+    ],
+    "examples": {
       "零下": [
         "今天零下五度。",
         "Hôm nay âm năm độ.",
@@ -512,7 +506,35 @@
         "今天气温很高。",
         "Hôm nay nhiệt độ cao.",
         "Jīntiān qìwēn hěn gāo."
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-03-lesson-06",
+    "title": "Thời gian và quá trình · Bài 6",
+    "titleCn": "HSK 4 · 3-6",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "前后",
+      "轻",
+      "区",
+      "全部",
+      "确实",
+      "日常",
+      "日记",
+      "日期",
+      "日子",
+      "入住",
+      "摄氏度",
+      "实际",
+      "时间表",
+      "试题",
+      "收听"
+    ],
+    "examples": {
       "前后": [
         "前后五分钟。",
         "Khoảng năm phút.",
@@ -587,7 +609,35 @@
         "我每天收听新闻。",
         "Tôi nghe tin tức mỗi ngày.",
         "Wǒ měitiān shōutīng xīnwén."
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-03-lesson-07",
+    "title": "Thời gian và quá trình · Bài 7",
+    "titleCn": "HSK 4 · 3-7",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "数字",
+      "酸",
+      "随着",
+      "躺",
+      "提醒",
+      "停止",
+      "图",
+      "推",
+      "脱",
+      "晚安",
+      "卫生",
+      "污染",
+      "西部",
+      "鲜花",
+      "相比"
+    ],
+    "examples": {
       "数字": [
         "请输入数字。",
         "Xin nhập số.",
@@ -662,7 +712,35 @@
         "相比去年，今年进步很大。",
         "So với năm ngoái, năm nay tiến bộ rất lớn.",
         "Xiāngbǐ qùnián, jīnnián jìnbù hěn dà."
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-03-lesson-08",
+    "title": "Thời gian và quá trình · Bài 8",
+    "titleCn": "HSK 4 · 3-8",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "详细",
+      "小说",
+      "心情",
+      "星星",
+      "修理",
+      "烟",
+      "演出",
+      "眼前",
+      "夜",
+      "一切",
+      "以内",
+      "一生",
+      "有趣",
+      "友谊",
+      "约"
+    ],
+    "examples": {
       "详细": [
         "请给我一个详细的计划。",
         "Xin cho tôi một kế hoạch chi tiết.",
@@ -737,7 +815,33 @@
         "我们约了明天见面。",
         "Chúng ta hẹn gặp ngày mai.",
         "Wǒmen yuē le míngtiān jiànmiàn."
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-03-lesson-09",
+    "title": "Thời gian và quá trình · Bài 9",
+    "titleCn": "HSK 4 · 3-9",
+    "context": "13 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "月份",
+      "再次",
+      "再说",
+      "早晨",
+      "正好",
+      "质量",
+      "至少",
+      "转机",
+      "准",
+      "自",
+      "最终",
+      "做梦",
+      "作文"
+    ],
+    "examples": {
       "月份": [
         "这个月份很忙。",
         "Tháng này rất bận.",

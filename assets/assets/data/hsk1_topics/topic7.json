@@ -1,9 +1,9 @@
 [
   {
-    "id": "hsk1-topic-07",
-    "title": "Thời tiết và xung quanh",
-    "titleCn": "HSK 1 · 7",
-    "context": "Từ vựng HSK 1 cùng chủ đề",
+    "id": "hsk1-topic-07-lesson-01",
+    "title": "Thời tiết và xung quanh · Bài 1",
+    "titleCn": "HSK 1 · 7-1",
+    "context": "15 từ vựng cùng nhóm nghĩa",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
@@ -22,53 +22,7 @@
       "关 ",
       "汉字",
       "花",
-      "记",
-      "间",
-      "今天",
-      "开玩笑",
-      "冷",
-      "里",
-      "零",
-      "没关系",
-      "拿",
-      "那",
-      "男孩儿",
-      "能",
-      "旁边",
-      "漂亮",
-      "七",
-      "请坐",
-      "热",
-      "日",
-      "商店",
-      "上边",
-      "谁",
-      "事",
-      "是不是",
-      "书包",
-      "说",
-      "她们",
-      "天气",
-      "西边",
-      "洗手间",
-      "下雨",
-      "小姐",
-      "笑",
-      "行",
-      "要（动）",
-      "衣服",
-      "医生",
-      "一下儿",
-      "一样",
-      "一些",
-      "有（一）些",
-      "右",
-      "雨",
-      "这",
-      "正在",
-      "重",
-      "最好",
-      "昨天"
+      "记"
     ],
     "examples": {
       "杯子": [
@@ -112,9 +66,9 @@
         "Zhège diànnǎo fēicháng guì"
       ],
       "干": [
-        "这件衣服干了，可以穿了。",
-        "Quần áo này khô rồi, có thể mặc rồi.",
-        "Zhè jiàn yīfu gān le, kěyǐ chuān le"
+        "他总干乱我的计划。\n\n咱们干了这杯酒吧。",
+        "Anh ấy luôn làm loạn kế hoạch của tôi.\n\nChúng ta uống cạn ly rượu này.",
+        "Tā zǒng gān luàn wǒ de jìhuà/\n\n/Zánmen gān le zhè bēi jiǔ ba"
       ],
       "歌": [
         "这首歌很好听。",
@@ -140,7 +94,35 @@
         "我记不住这个汉字。",
         "Tôi không nhớ được chữ Hán này.",
         "Wǒ jì bù zhù zhège hànzì"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-07-lesson-02",
+    "title": "Thời tiết và xung quanh · Bài 2",
+    "titleCn": "HSK 1 · 7-2",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "间",
+      "今天",
+      "开玩笑",
+      "冷",
+      "里",
+      "零",
+      "没关系",
+      "拿",
+      "那",
+      "男孩儿",
+      "能",
+      "旁边",
+      "漂亮",
+      "七",
+      "请坐"
+    ],
+    "examples": {
       "间": [
         "他们之间的感情很好。",
         "Tình cảm giữa họ rất tốt.",
@@ -215,7 +197,35 @@
         "欢迎光临，请坐。",
         "Chào mừng quý khách, mời ngồi.",
         "Huānyíng guānglín, qǐng zuò"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-07-lesson-03",
+    "title": "Thời tiết và xung quanh · Bài 3",
+    "titleCn": "HSK 1 · 7-3",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "热",
+      "日",
+      "商店",
+      "上边",
+      "谁",
+      "事",
+      "是不是",
+      "书包",
+      "说",
+      "她们",
+      "天气",
+      "西边",
+      "洗手间",
+      "下雨",
+      "小姐"
+    ],
+    "examples": {
       "热": [
         "今天的天气很热。",
         "Thời tiết của hôm nay rất nóng.",
@@ -285,7 +295,35 @@
         "王小姐是我的同事。",
         "Cô Vương là đồng nghiệp của tôi.",
         "Wáng xiǎojiě shì wǒ de tóngshì"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-07-lesson-04",
+    "title": "Thời tiết và xung quanh · Bài 4",
+    "titleCn": "HSK 1 · 7-4",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "笑",
+      "行",
+      "要（动）",
+      "衣服",
+      "医生",
+      "一下儿",
+      "一样",
+      "一些",
+      "有（一）些",
+      "右",
+      "雨",
+      "这",
+      "正在",
+      "重",
+      "最好"
+    ],
+    "examples": {
       "笑": [
         "她的笑容很美。",
         "Nụ cười của cô ấy rất đẹp.",
@@ -360,7 +398,21 @@
         "下雨了，你最好带伞。",
         "Trời mưa rồi, tốt nhất bạn nên mang ô.",
         "Xiàyǔ le, nǐ zuìhǎo dài sǎn"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-07-lesson-05",
+    "title": "Thời tiết và xung quanh · Bài 5",
+    "titleCn": "HSK 1 · 7-5",
+    "context": "1 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "昨天"
+    ],
+    "examples": {
       "昨天": [
         "昨天天气很好，我们去公园了。",
         "Hôm qua thời tiết rất đẹp, chúng tôi đã đi công viên.",

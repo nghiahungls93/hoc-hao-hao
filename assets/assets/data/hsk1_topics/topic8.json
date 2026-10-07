@@ -1,9 +1,9 @@
 [
   {
-    "id": "hsk1-review",
+    "id": "hsk1-review-lesson-01",
     "title": "Ôn tập tổng hợp HSK 1",
     "titleCn": "HSK 1 · 复习",
-    "context": "Ôn lại các từ đã học trong cấp độ này",
+    "context": "Bài ôn tập 15 từ",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
@@ -22,22 +22,7 @@
       "半天",
       "帮",
       "帮忙",
-      "包",
-      "包子",
-      "杯",
-      "杯子",
-      "北",
-      "北边",
-      "北京",
-      "本 ",
-      "本子",
-      "比",
-      "别 ",
-      "别的",
-      "别人",
-      "病",
-      "病人",
-      "不大"
+      "包"
     ],
     "examples": {
       "爱": [
@@ -114,81 +99,6 @@
         "妈妈在包饺子。",
         "Mẹ đang gói sủi cảo.",
         "Māma zài bāo jiǎozǐ"
-      ],
-      "包子": [
-        "我今天早上吃了两个包子。",
-        "Sáng nay tôi đã ăn 2 cái bánh bao.",
-        "Wǒ jīntiān zǎoshang chī le liǎng gè bāozǐ"
-      ],
-      "杯": [
-        "我喝了一杯奶茶。\n\n我们队赢得了冠军杯。",
-        "Tôi đã uống 1 ly trà sữa.\n\nĐội chúng tôi đã giành được cúp vô địch.",
-        "Wǒ hēle yībēi nǎichá/\n\n/Wǒmen duì yíngdéle guànjūn bēi"
-      ],
-      "杯子": [
-        "这个杯子太小了。",
-        "Cái ly này quá nhỏ.",
-        "Zhège bēizǐ tài xiǎole"
-      ],
-      "北": [
-        "我们一直往北走吧。",
-        "Chúng ta cứ đi về phía bắc đi.",
-        "Wǒmen yīzhí wǎng běi zǒu ba"
-      ],
-      "北边": [
-        "北边的天气很冷。",
-        "Thời tiết của phương bắc rất lạnh.",
-        "Běibian de tiānqì hěn lěng"
-      ],
-      "北京": [
-        "北京是中国的首都。",
-        "Bắc Kinh là thủ đô của Trung Quốc.",
-        "Běijīng shì zhōngguó de shǒudū"
-      ],
-      "本 ": [
-        "你读过这本书了吗？",
-        "Bạn đã đọc cuốn sách này chưa?",
-        "Nǐ dúguò zhè běn shū le ma?"
-      ],
-      "本子": [
-        "这个歌剧的本子挺有意思的。\n\n在越南，满18周岁就可以考本子了。",
-        "Bản nhạc kịch này thật thú vị.\n\nỞ Việt Nam, bạn đủ 18 tuổi đã có thể thi giấy phép lấy xe.",
-        "Zhège gējù de běnzi tǐng yǒuyìsi de/\n\n/Zài Yuènán, mǎn 18 zhōusuì jiù kěyǐ kǎo běnzǐ le"
-      ],
-      "比": [
-        "我哥哥比我高。",
-        "Anh trai tôi cao hơn tôi.",
-        "Wǒ gēge bǐ wǒ gāo"
-      ],
-      "别 ": [
-        "在医院，大家别大声说话。\n\n他到现在还没来，别是忘了吗？",
-        "Ở bệnh viện, mọi người đừng nói lớn tiếng.\n\nAnh ấy đến bây giờ vẫn chưa đến, lẽ nào anh ấy quên rồi sao?",
-        "Zài yīyuàn, dàjiā bié dàshēng shuōhuà/\n\n/Tā dào xiànzài hái méi lái, bié shì wàng le ma"
-      ],
-      "别的": [
-        "我不要别的，只要那支钢笔。",
-        "Tôi không cần cái nào khác, chỉ cần cây bút đó.",
-        "Wǒ bùyào bié de, zhǐyào nà zhī gāngbǐ"
-      ],
-      "别人": [
-        "这本书可能是别人的。",
-        "Ngoại trừ Tiểu Lệ ra, những người khác đều không muốn đi.",
-        "Chúle Xiǎo Lì yǐwài, biérén dōu bù yuànyì qù"
-      ],
-      "病": [
-        "我生病了。",
-        "Tôi bị bệnh rồi.",
-        "Wǒ shēng bìng le"
-      ],
-      "病人": [
-        "王医生每天都要看十到二十位病人。",
-        "Bác sĩ Vương mỗi ngày đều phải khám từ 10 đến 20 bệnh nhân.",
-        "Wáng yīshēng měitiān dōu yào kàn shí dào èrshí wèi bìngrén"
-      ],
-      "不大": [
-        "这个房间不大。",
-        "Căn phòng này không lớn.",
-        "Zhège fángjiān bù dà"
       ]
     }
   }

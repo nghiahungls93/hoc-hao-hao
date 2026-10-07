@@ -1,9 +1,9 @@
 [
   {
-    "id": "hsk3-topic-06",
-    "title": "Di chuyển và trải nghiệm",
-    "titleCn": "HSK 3 · 6",
-    "context": "Từ vựng HSK 3 cùng chủ đề",
+    "id": "hsk3-topic-06-lesson-01",
+    "title": "Di chuyển và trải nghiệm · Bài 1",
+    "titleCn": "HSK 3 · 6-1",
+    "context": "15 từ vựng cùng nhóm nghĩa",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
@@ -22,115 +22,7 @@
       "城市",
       "传播",
       "传来",
-      "传说",
-      "达到",
-      "打听",
-      "大约",
-      "带动",
-      "到达",
-      "得分",
-      "调",
-      "短处",
-      "发出",
-      "发生",
-      "防",
-      "分别",
-      "赶",
-      "赶紧",
-      "赶快",
-      "高速",
-      "高速公路",
-      "告别",
-      "各地",
-      "工具",
-      "工业",
-      "观看",
-      "合格",
-      "环保",
-      "环境",
-      "计算",
-      "坚决",
-      "建设",
-      "紧",
-      "紧急",
-      "京剧",
-      "就是",
-      "具体",
-      "剧场",
-      "决定",
-      "开发",
-      "恐怕",
-      "老百姓",
-      "理发",
-      "理由",
-      "立刻",
-      "领",
-      "领先",
-      "另外",
-      "留学",
-      "路线",
-      "慢慢",
-      "美",
-      "南部",
-      "配",
-      "皮包",
-      "破",
-      "普及",
-      "前面",
-      "前往",
-      "区",
-      "认出",
-      "认得",
-      "散步",
-      "上来",
-      "上去",
-      "上升",
-      "深入",
-      "失去",
-      "时刻",
-      "始终",
-      "事实",
-      "适用",
-      "属于",
-      "双方",
-      "思想",
-      "速度",
-      "谈",
-      "体验",
-      "调",
-      "调整",
-      "铁路",
-      "同意",
-      "突出",
-      "推开",
-      "退休",
-      "危险",
-      "下来",
-      "线",
-      "香蕉",
-      "行李",
-      "性别",
-      "修",
-      "眼前",
-      "演员",
-      "以来",
-      "应当",
-      "迎接",
-      "影视",
-      "游",
-      "运输",
-      "张",
-      "整理",
-      "正式",
-      "只",
-      "直",
-      "直到",
-      "值得",
-      "主意",
-      "专门",
-      "资格",
-      "自从",
-      "作品"
+      "传说"
     ],
     "examples": {
       "白": [
@@ -207,7 +99,35 @@
         "我听过这个地方的一个传说。",
         "Tôi đã nghe một truyền thuyết về nơi này.",
         "Wǒ tīngguò zhège dìfāng de yí gè chuánshuō."
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-06-lesson-02",
+    "title": "Di chuyển và trải nghiệm · Bài 2",
+    "titleCn": "HSK 3 · 6-2",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "达到",
+      "打听",
+      "大约",
+      "带动",
+      "到达",
+      "得分",
+      "调",
+      "短处",
+      "发出",
+      "发生",
+      "防",
+      "分别",
+      "赶",
+      "赶紧",
+      "赶快"
+    ],
+    "examples": {
       "达到": [
         "你达到了目标了吗？",
         "Bạn đã đạt được mục tiêu chưa?",
@@ -239,9 +159,9 @@
         "Tā zài kǎoshì zhōng défēn hěn gāo"
       ],
       "调": [
-        "他是新调来的学生。",
-        "Bạn ấy là học sinh mới chuyển đến.",
-        "Tā shì xīn diào lái de xuéshēng"
+        "他在调电视的声音。",
+        "Anh ấy đang chỉnh âm lượng của TV.",
+        "Tā zài tiáo diànshì de shēngyīn"
       ],
       "短处": [
         "她的短处是太着急。",
@@ -282,7 +202,35 @@
         "月食太美了，你赶快去看看吧。",
         "Nguyệt thực đẹp quá nè, bạn mau đến đây xem đi.",
         "Yuè shí tàiměi le, nǐ gǎnkuài qù kàn kàn ba"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-06-lesson-03",
+    "title": "Di chuyển và trải nghiệm · Bài 3",
+    "titleCn": "HSK 3 · 6-3",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "高速",
+      "高速公路",
+      "告别",
+      "各地",
+      "工具",
+      "工业",
+      "观看",
+      "合格",
+      "环保",
+      "环境",
+      "计算",
+      "坚决",
+      "建设",
+      "紧",
+      "紧急"
+    ],
+    "examples": {
       "高速": [
         "火车以高速运行。",
         "Tàu chạy với tốc độ cao.",
@@ -357,7 +305,35 @@
         "有紧急情况请马上告诉我。",
         "Có việc khẩn thì báo cho tôi ngay nhé.",
         "Yǒu jǐnjí qíngkuàng qǐng mǎshàng gàosu wǒ"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-06-lesson-04",
+    "title": "Di chuyển và trải nghiệm · Bài 4",
+    "titleCn": "HSK 3 · 6-4",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "京剧",
+      "就是",
+      "具体",
+      "剧场",
+      "决定",
+      "开发",
+      "恐怕",
+      "老百姓",
+      "理发",
+      "理由",
+      "立刻",
+      "领",
+      "领先",
+      "另外",
+      "留学"
+    ],
+    "examples": {
       "京剧": [
         "我看过一次京剧，觉得很有意思。",
         "Tôi từng xem Kinh kịch một lần, thấy rất thú vị.",
@@ -432,7 +408,35 @@
         "她打算去美国留学。",
         "Cô ấy dự định đi Mỹ du học.",
         "tā dǎsuàn qù Měiguó liúxué"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-06-lesson-05",
+    "title": "Di chuyển và trải nghiệm · Bài 5",
+    "titleCn": "HSK 3 · 6-5",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "路线",
+      "慢慢",
+      "美",
+      "南部",
+      "配",
+      "皮包",
+      "破",
+      "普及",
+      "前面",
+      "前往",
+      "区",
+      "认出",
+      "认得",
+      "散步",
+      "上来"
+    ],
+    "examples": {
       "路线": [
         "出租司机看错了路线。",
         "Tài xế taxi nhìn nhầm đường.",
@@ -507,7 +511,35 @@
         "他从楼下上来",
         "Anh ấy đi từ tầng dưới lên",
         "Tā cóng lóuxià shànglái"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-06-lesson-06",
+    "title": "Di chuyển và trải nghiệm · Bài 6",
+    "titleCn": "HSK 3 · 6-6",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "上去",
+      "上升",
+      "深入",
+      "失去",
+      "时刻",
+      "始终",
+      "事实",
+      "适用",
+      "属于",
+      "双方",
+      "思想",
+      "速度",
+      "谈",
+      "体验",
+      "调"
+    ],
+    "examples": {
       "上去": [
         "请把书放上去",
         "Hãy đặt cuốn sách lên phía trên",
@@ -578,6 +610,39 @@
         "Tôi muốn đến Trung Quốc để trải nghiệm cuộc sống địa phương.",
         "Wǒ xiǎng qù Zhōngguó tǐyàn yíxià dāngdì de shēnghuó"
       ],
+      "调": [
+        "他在调电视的声音。",
+        "Anh ấy đang chỉnh âm lượng của TV.",
+        "Tā zài tiáo diànshì de shēngyīn"
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-06-lesson-07",
+    "title": "Di chuyển và trải nghiệm · Bài 7",
+    "titleCn": "HSK 3 · 6-7",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "调整",
+      "铁路",
+      "同意",
+      "突出",
+      "推开",
+      "退休",
+      "危险",
+      "下来",
+      "线",
+      "香蕉",
+      "行李",
+      "性别",
+      "修",
+      "眼前",
+      "演员"
+    ],
+    "examples": {
       "调整": [
         "我们需要调整计划。",
         "Chúng ta cần điều chỉnh kế hoạch.",
@@ -652,7 +717,35 @@
         "他是一位著名的电影演员。",
         "Anh ấy là một diễn viên điện ảnh nổi tiếng.",
         "Tā shì yī wèi zhùmíng de diànyǐng yǎnyuán"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-06-lesson-08",
+    "title": "Di chuyển và trải nghiệm · Bài 8",
+    "titleCn": "HSK 3 · 6-8",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "以来",
+      "应当",
+      "迎接",
+      "影视",
+      "游",
+      "运输",
+      "张",
+      "整理",
+      "正式",
+      "只",
+      "直",
+      "直到",
+      "值得",
+      "主意",
+      "专门"
+    ],
+    "examples": {
       "以来": [
         "去年以来，他一直住在北京。",
         "Kể từ năm ngoái đến nay, anh ấy vẫn sống ở Bắc Kinh.",
@@ -727,7 +820,23 @@
         "我是专门来感谢你的。",
         "Tôi đặc biệt đến để cảm ơn bạn.",
         "Wǒ shì zhuānmén lái gǎnxiè nǐ de"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-06-lesson-09",
+    "title": "Di chuyển và trải nghiệm · Bài 9",
+    "titleCn": "HSK 3 · 6-9",
+    "context": "3 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "资格",
+      "自从",
+      "作品"
+    ],
+    "examples": {
       "资格": [
         "他有参加比赛的资格。",
         "Anh ấy có đủ tư cách tham gia cuộc thi.",

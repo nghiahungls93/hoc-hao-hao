@@ -1,9 +1,9 @@
 [
   {
-    "id": "hsk6-review",
+    "id": "hsk6-review-lesson-01",
     "title": "Ôn tập tổng hợp HSK 6",
     "titleCn": "HSK 6 · 复习",
-    "context": "Ôn lại các từ đã học trong cấp độ này",
+    "context": "Bài ôn tập 15 từ",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
@@ -22,22 +22,7 @@
       "摆脱",
       "败",
       "拜访",
-      "拜年",
-      "版",
-      "版本",
-      "伴随",
-      "扮演",
-      "榜样",
-      "棒球",
-      "保管",
-      "保健",
-      "保暖",
-      "保修",
-      "保障",
-      "爆",
-      "爆发",
-      "报刊",
-      "暴力"
+      "拜年"
     ],
     "examples": {
       "岸": [
@@ -114,81 +99,6 @@
         "春节的时候，我们去给长辈拜年。",
         "Dịp Tết, chúng tôi đi chúc Tết các bậc cao niên.",
         "Chūnjié de shíhou, wǒmen qù gěi zhǎngbèi bàinián"
-      ],
-      "版": [
-        "这是第三版的教材。",
-        "Đây là giáo trình phiên bản thứ ba.",
-        "Zhè shì dì sān bǎn de jiàocái"
-      ],
-      "版本": [
-        "这个软件有很多版本。",
-        "Phần mềm này có nhiều phiên bản.",
-        "Zhège ruǎnjiàn yǒu hěn duō bǎnběn"
-      ],
-      "伴随": [
-        "成功总是伴随着努力。",
-        "Thành công luôn đi kèm với nỗ lực.",
-        "Chénggōng zǒng shì bànsuí zhe nǔlì"
-      ],
-      "扮演": [
-        "她在电影中扮演主角。",
-        "Cô ấy đóng vai chính trong phim.",
-        "Tā zài diànyǐng zhōng bànyǎn zhǔjué"
-      ],
-      "榜样": [
-        "雷锋是我们学习的榜样。",
-        "Lôi Phong là tấm gương để chúng ta học tập.",
-        "Léi Fēng shì wǒmen xuéxí de bǎngyàng"
-      ],
-      "棒球": [
-        "他很喜欢打棒球。",
-        "Anh ấy rất thích chơi bóng chày.",
-        "Tā hěn xǐhuan dǎ bàngqiú"
-      ],
-      "保管": [
-        "请把这些文件保管好。",
-        "Hãy cất giữ những tài liệu này cẩn thận.",
-        "Qǐng bǎ zhèxiē wénjiàn bǎoguǎn hǎo"
-      ],
-      "保健": [
-        "老年人要注意保健。",
-        "Người cao tuổi cần chú ý chăm sóc sức khỏe.",
-        "Lǎoniánrén yào zhùyì bǎojiàn"
-      ],
-      "保暖": [
-        "冬天要注意保暖。",
-        "Mùa đông cần chú ý giữ ấm.",
-        "Dōngtiān yào zhùyì bǎonuǎn"
-      ],
-      "保修": [
-        "这台电脑保修两年。",
-        "Máy tính này được bảo hành hai năm.",
-        "Zhè tái diànnǎo bǎoxiū liǎng nián"
-      ],
-      "保障": [
-        "法律保障公民的权利。",
-        "Pháp luật bảo đảm quyền lợi của công dân.",
-        "Fǎlǜ bǎozhàng gōngmín de quánlì"
-      ],
-      "爆": [
-        "气球突然爆了。",
-        "Quả bóng bay đột nhiên nổ.",
-        "Qìqiú túrán bào le"
-      ],
-      "爆发": [
-        "战争突然爆发了。",
-        "Chiến tranh đột nhiên bùng nổ.",
-        "Zhànzhēng túrán bàofā le"
-      ],
-      "报刊": [
-        "他每天都看报刊。",
-        "Hàng ngày anh ấy đều đọc báo.",
-        "Tā měitiān dōu kàn bàokān"
-      ],
-      "暴力": [
-        "我们反对一切暴力行为。",
-        "Chúng tôi phản đối mọi hành vi bạo lực.",
-        "Wǒmen fǎnduì yīqiè bàolì xíngwéi"
       ]
     }
   }

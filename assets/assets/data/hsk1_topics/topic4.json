@@ -1,9 +1,9 @@
 [
   {
-    "id": "hsk1-topic-04",
-    "title": "Sở thích và cảm xúc",
-    "titleCn": "HSK 1 · 4",
-    "context": "Từ vựng HSK 1 cùng chủ đề",
+    "id": "hsk1-topic-04-lesson-01",
+    "title": "Sở thích và cảm xúc · Bài 1",
+    "titleCn": "HSK 1 · 4-1",
+    "context": "15 từ vựng cùng nhóm nghĩa",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
@@ -22,54 +22,7 @@
       "飞机",
       "贵",
       "好 ",
-      "好看",
-      "好玩儿",
-      "话",
-      "回答",
-      "见面",
-      "觉得",
-      "块",
-      "老人",
-      "门",
-      "哪",
-      "那些",
-      "南",
-      "难",
-      "您",
-      "牛奶",
-      "女人",
-      "女生",
-      "请",
-      "球",
-      "肉",
-      "上网",
-      "身体",
-      "生病",
-      "书",
-      "书店",
-      "说话",
-      "她",
-      "外边",
-      "玩儿",
-      "网上",
-      "先生",
-      "想",
-      "小孩儿",
-      "写",
-      "新年",
-      "星期天",
-      "也",
-      "页",
-      "医院",
-      "一会儿",
-      "有的",
-      "站",
-      "找到",
-      "这里",
-      "中",
-      "字",
-      "最",
-      "最后"
+      "好看"
     ],
     "examples": {
       "爱好": [
@@ -113,9 +66,9 @@
         "Tā xǐhuān dǎ lánqiú"
       ],
       "地": [
-        "孩子们快乐地唱歌。",
-        "Mấy đứa nhỏ vui vẻ hát ca.",
-        "Háizimen kuàilè de chànggē"
+        "地球上有许多不同的生物。",
+        "Trên Trái Đất có rất nhiều sinh vật khác nhau.",
+        "Dìqiú shàng yǒu xǔduō bùtóng de shēngwù"
       ],
       "第 （第二）": [
         "这是第一个问题。",
@@ -146,7 +99,35 @@
         "这本书很好看，我喜欢。",
         "Cuốn sách này rất hay, tôi thích.",
         "Zhè běn shū hěn hǎokàn, wǒ xǐhuān"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-04-lesson-02",
+    "title": "Sở thích và cảm xúc · Bài 2",
+    "titleCn": "HSK 1 · 4-2",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "好玩儿",
+      "话",
+      "回答",
+      "见面",
+      "觉得",
+      "块",
+      "老人",
+      "门",
+      "哪",
+      "那些",
+      "南",
+      "难",
+      "您",
+      "牛奶",
+      "女人"
+    ],
+    "examples": {
       "好玩儿": [
         "这个游戏很好玩儿。",
         "Trò chơi này rất vui.",
@@ -221,7 +202,35 @@
         "女人都喜欢买漂亮的衣服。",
         "Phụ nữ đều thích mua quần áo đẹp.",
         "Nǚrén dōu xǐhuān mǎi piàoliang de yīfu"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-04-lesson-03",
+    "title": "Sở thích và cảm xúc · Bài 3",
+    "titleCn": "HSK 1 · 4-3",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "女生",
+      "请",
+      "球",
+      "肉",
+      "上网",
+      "身体",
+      "生病",
+      "书",
+      "书店",
+      "说话",
+      "她",
+      "外边",
+      "玩儿",
+      "网上",
+      "先生"
+    ],
+    "examples": {
       "女生": [
         "这些女生喜欢画画。",
         "Những nữ sinh này thích vẽ.",
@@ -296,7 +305,35 @@
         "这位是李先生。",
         "Đây là ông Lý.",
         "Zhè wèi shì Lǐ xiānsheng"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-04-lesson-04",
+    "title": "Sở thích và cảm xúc · Bài 4",
+    "titleCn": "HSK 1 · 4-4",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "想",
+      "小孩儿",
+      "写",
+      "新年",
+      "星期天",
+      "也",
+      "页",
+      "医院",
+      "一会儿",
+      "有的",
+      "站",
+      "找到",
+      "这里",
+      "中",
+      "字"
+    ],
+    "examples": {
       "想": [
         "我想去日本旅游。",
         "Tôi muốn đi du lịch Nhật Bản.",
@@ -371,7 +408,22 @@
         "我不认识这个字。",
         "Tôi không biết chữ này.",
         "Wǒ bù rènshi zhège zì"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-04-lesson-05",
+    "title": "Sở thích và cảm xúc · Bài 5",
+    "titleCn": "HSK 1 · 4-5",
+    "context": "2 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "最",
+      "最后"
+    ],
+    "examples": {
       "最": [
         "你最喜欢吃什么水果？",
         "Bạn thích ăn loại trái cây nào nhất?",

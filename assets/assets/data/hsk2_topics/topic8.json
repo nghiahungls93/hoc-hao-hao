@@ -1,9 +1,9 @@
 [
   {
-    "id": "hsk2-review",
+    "id": "hsk2-review-lesson-01",
     "title": "Ôn tập tổng hợp HSK 2",
     "titleCn": "HSK 2 · 复习",
-    "context": "Ôn lại các từ đã học trong cấp độ này",
+    "context": "Bài ôn tập 15 từ",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
@@ -22,22 +22,7 @@
       "帮助",
       "饱",
       "报名",
-      "报纸",
-      "北方",
-      "背",
-      "比如",
-      "比如说",
-      "笔",
-      "笔记",
-      "笔记本",
-      "必须",
-      "边",
-      "变",
-      "变成",
-      "遍",
-      "表",
-      "表示",
-      "不错"
+      "报纸"
     ],
     "examples": {
       "啊": [
@@ -114,81 +99,6 @@
         "我爸爸每天早上都看报纸。",
         "Mỗi buổi sáng ba tôi đều đọc báo.",
         "Wǒ bàba měitiān zǎoshang dōu kàn bàozhǐ"
-      ],
-      "北方": [
-        "中国北方的冬天很冷。",
-        "Mùa đông ở miền Bắc Trung Quốc rất lạnh.",
-        "Zhōngguó běifāng de dōngtiān hěn lěng"
-      ],
-      "背": [
-        "他背小孩走过山坡。\n\n一背柴火足够用了。",
-        "Anh ấy cõng đứa bé đi qua sườn núi.\n\nMột bó củi là đủ dùng rồi.",
-        "Tā bēi xiǎohái zǒuguò shānpō/\n\n/Yī bēi cháihuǒ zúgòu yòng le"
-      ],
-      "比如": [
-        "我喜欢运动，比如跑步和游泳。",
-        "Tôi thích thể thao, ví dụ như chạy bộ và bơi lội.",
-        "Wǒ xǐhuan yùndòng, bǐrú pǎobù hé yóuyǒng"
-      ],
-      "比如说": [
-        "这里有很多好吃的，比如说北京烤鸭和饺子。",
-        "Ở đây có nhiều món ngon, ví dụ như vịt quay Bắc Kinh và sủi cảo.",
-        "Zhèlǐ yǒu hěn duō hǎochī de, bǐrú shuō Běijīng kǎoyā hé jiǎozi"
-      ],
-      "笔": [
-        "我的笔呢？",
-        "Cây bút của tôi đâu rồi?",
-        "Wǒ de bǐ ne?"
-      ],
-      "笔记": [
-        "上课时要认真做笔记。",
-        "Trong lớp học phải ghi chép cẩn thận.",
-        "Shàngkè shí yào rènzhēn zuò bǐjì"
-      ],
-      "笔记本": [
-        "我买了一个新的笔记本。",
-        "Tôi đã mua một quyển sổ ghi chép mới.",
-        "Wǒ mǎi le yí gè xīn de bǐjìběn"
-      ],
-      "必须": [
-        "你必须每天练习说汉语。",
-        "Bạn cần phải luyện tập nói tiếng Trung mỗi ngày.",
-        "Nǐ bìxū měitiān liànxí shuō Hànyǔ"
-      ],
-      "边": [
-        "他坐在窗边看书。",
-        "Anh ấy ngồi bên cửa sổ đọc sách.",
-        "Tā zuò zài chuāng biān kàn shū"
-      ],
-      "变": [
-        "天气变冷了。",
-        "Thời tiết trở lạnh rồi.",
-        "Tiānqì biàn lěng le"
-      ],
-      "变成": [
-        "这些种子都变成花了。",
-        "Những hạt giống này đều biến thành hoa.",
-        "Zhèxiē zhǒngzǐ dōu biàn chéng huā le"
-      ],
-      "遍": [
-        "这本书我看了三遍。",
-        "Quyển sách này tôi đã đọc ba lần.",
-        "Zhè běn shū wǒ kàn le sān biàn"
-      ],
-      "表": [
-        "我的手表坏了。",
-        "Đồng hồ của tôi bị hỏng rồi.",
-        "Wǒ de shǒubiǎo huài le"
-      ],
-      "表示": [
-        "他点头表示同意。",
-        "Anh ấy gật đầu để bày tỏ sự đồng ý.",
-        "Tā diǎntóu biǎoshì tóngyì"
-      ],
-      "不错": [
-        "人家待你可真不错。",
-        "Mọi người đối xử với anh khá tốt.",
-        "Rénjiā dài nǐ kě zhēnbùcuò"
       ]
     }
   }

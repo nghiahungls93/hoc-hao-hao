@@ -1,9 +1,9 @@
 [
   {
-    "id": "hsk2-topic-07",
-    "title": "Đời sống xã hội",
-    "titleCn": "HSK 2 · 7",
-    "context": "Từ vựng HSK 2 cùng chủ đề",
+    "id": "hsk2-topic-07-lesson-01",
+    "title": "Đời sống xã hội · Bài 1",
+    "titleCn": "HSK 2 · 7-1",
+    "context": "15 từ vựng cùng nhóm nghĩa",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
@@ -22,86 +22,7 @@
       "大小",
       "大自然",
       "倒",
-      "等于",
-      "低",
-      "东方",
-      "而且",
-      "方便",
-      "方法",
-      "复习",
-      "公斤",
-      "故事",
-      "海",
-      "好久",
-      "好事",
-      "黑",
-      "忽然",
-      "活动",
-      "计划",
-      "牛",
-      "交",
-      "交给",
-      "脚",
-      "节目",
-      "借",
-      "举手",
-      "句子",
-      "可怕",
-      "可以",
-      "克",
-      "快要",
-      "老",
-      "里头",
-      "例子",
-      "留下",
-      "满",
-      "面",
-      "拿到",
-      "南方",
-      "难受",
-      "便宜",
-      "漂亮",
-      "普通话",
-      "气",
-      "清楚",
-      "晴",
-      "全年",
-      "如果",
-      "实际",
-      "事情",
-      "舒服",
-      "虽然",
-      "太阳",
-      "题",
-      "天上",
-      "通知",
-      "头 (里头）",
-      "图片",
-      "完全",
-      "相同",
-      "小 （小王）",
-      "小声",
-      "小组",
-      "校长",
-      "信号",
-      "许多",
-      "雪",
-      "眼睛",
-      "夜里",
-      "以前",
-      "因为",
-      "影片",
-      "游客",
-      "月",
-      "越来越",
-      "云",
-      "怎样",
-      "纸",
-      "主要",
-      "住房",
-      "自己",
-      "最近",
-      "做法"
+      "等于"
     ],
     "examples": {
       "北方": [
@@ -170,15 +91,43 @@
         "Wǒmen yào bǎohù dàzìrán"
       ],
       "倒": [
-        "风太大，把树都吹倒了。",
-        "Gió quá mạnh, làm cây đổ hết.",
-        "Fēng tài dà, bǎ shù dōu chuī dǎo le"
+        "火车到回去了。",
+        "Chuyến tàu đã quay trở lại.",
+        "Huǒchē dào huíqù le"
       ],
       "等于": [
         "二加二等于四。",
         "Hai cộng hai bằng bốn.",
         "Èr jiā èr děngyú sì"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk2-topic-07-lesson-02",
+    "title": "Đời sống xã hội · Bài 2",
+    "titleCn": "HSK 2 · 7-2",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "低",
+      "东方",
+      "而且",
+      "方便",
+      "方法",
+      "复习",
+      "公斤",
+      "故事",
+      "海",
+      "好久",
+      "好事",
+      "黑",
+      "忽然",
+      "活动",
+      "计划"
+    ],
+    "examples": {
       "低": [
         "这里的温度很低。",
         "Nhiệt độ ở đây rất thấp.",
@@ -253,7 +202,35 @@
         "我们有一个新计划。",
         "Chúng tôi có một kế hoạch mới.",
         "Wǒmen yǒu yí gè xīn jìhuà"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk2-topic-07-lesson-03",
+    "title": "Đời sống xã hội · Bài 3",
+    "titleCn": "HSK 2 · 7-3",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "牛",
+      "交",
+      "交给",
+      "脚",
+      "节目",
+      "借",
+      "举手",
+      "句子",
+      "可怕",
+      "可以",
+      "克",
+      "快要",
+      "老",
+      "里头",
+      "例子"
+    ],
+    "examples": {
       "牛": [
         "田里有很多牛。",
         "Trong ruộng có rất nhiều bò.",
@@ -313,7 +290,35 @@
         "这个例子很容易。",
         "Ví dụ này rất dễ hiểu.",
         "Zhège lìzi hěn róngyì"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk2-topic-07-lesson-04",
+    "title": "Đời sống xã hội · Bài 4",
+    "titleCn": "HSK 2 · 7-4",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "留下",
+      "满",
+      "面",
+      "拿到",
+      "南方",
+      "难受",
+      "便宜",
+      "漂亮",
+      "普通话",
+      "气",
+      "清楚",
+      "晴",
+      "全年",
+      "如果",
+      "实际"
+    ],
+    "examples": {
       "留下": [
         "她留下了一封信。",
         "Cô ấy đã để lại một bức thư.",
@@ -388,7 +393,35 @@
         "这个计划很实际。",
         "Kế hoạch này rất thực tế.",
         "Zhège jìhuà hěn shíjì"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk2-topic-07-lesson-05",
+    "title": "Đời sống xã hội · Bài 5",
+    "titleCn": "HSK 2 · 7-5",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "事情",
+      "舒服",
+      "虽然",
+      "太阳",
+      "题",
+      "天上",
+      "通知",
+      "头 (里头）",
+      "图片",
+      "完全",
+      "相同",
+      "小 （小王）",
+      "小声",
+      "小组",
+      "校长"
+    ],
+    "examples": {
       "事情": [
         "这是一件重要的事情。",
         "Đây là một việc quan trọng.",
@@ -458,7 +491,35 @@
         "校长在开会。",
         "Hiệu trưởng đang họp.",
         "Xiàozhǎng zài kāihuì"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk2-topic-07-lesson-06",
+    "title": "Đời sống xã hội · Bài 6",
+    "titleCn": "HSK 2 · 7-6",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "信号",
+      "许多",
+      "雪",
+      "眼睛",
+      "夜里",
+      "以前",
+      "因为",
+      "影片",
+      "游客",
+      "月",
+      "越来越",
+      "云",
+      "怎样",
+      "纸",
+      "主要"
+    ],
+    "examples": {
       "信号": [
         "这里的信号不好。",
         "Tín hiệu ở đây không tốt.",
@@ -533,7 +594,24 @@
         "这本书的内容很主要。",
         "Nội dung của cuốn sách này rất quan trọng.",
         "Zhè běn shū de nèiróng hěn zhǔyào"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk2-topic-07-lesson-07",
+    "title": "Đời sống xã hội · Bài 7",
+    "titleCn": "HSK 2 · 7-7",
+    "context": "4 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "住房",
+      "自己",
+      "最近",
+      "做法"
+    ],
+    "examples": {
       "住房": [
         "这里的住房很贵。",
         "Nhà ở đây rất đắt.",

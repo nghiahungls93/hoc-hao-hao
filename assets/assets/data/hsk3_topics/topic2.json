@@ -1,9 +1,9 @@
 [
   {
-    "id": "hsk3-topic-02",
-    "title": "Giáo dục và công việc",
-    "titleCn": "HSK 3 · 2",
-    "context": "Từ vựng HSK 3 cùng chủ đề",
+    "id": "hsk3-topic-02-lesson-01",
+    "title": "Giáo dục và công việc · Bài 1",
+    "titleCn": "HSK 3 · 2-1",
+    "context": "15 từ vựng cùng nhóm nghĩa",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
@@ -22,116 +22,7 @@
       "厂",
       "称为",
       "初一",
-      "初级",
-      "创业",
-      "从事",
-      "代表",
-      "单元",
-      "电视台",
-      "发达",
-      "发明",
-      "发言",
-      "方式",
-      "分配",
-      "父亲",
-      "改进",
-      "概念",
-      "赶到",
-      "感冒",
-      "歌声",
-      "更加",
-      "工厂",
-      "工夫",
-      "公布",
-      "共有",
-      "古代",
-      "光明",
-      "规定",
-      "规范",
-      "海关",
-      "好好",
-      "合法",
-      "积极",
-      "基本",
-      "基础",
-      "集中",
-      "记录",
-      "建",
-      "建立",
-      "将近",
-      "交警",
-      "交流",
-      "校",
-      "教材",
-      "进一步",
-      "进展",
-      "经验",
-      "就业",
-      "举办",
-      "开展",
-      "科技",
-      "客观",
-      "快速",
-      "旅行社",
-      "落后",
-      "美术",
-      "难度",
-      "能力",
-      "期",
-      "前后",
-      "前进",
-      "亲切",
-      "请教",
-      "全场",
-      "群",
-      "热烈",
-      "人类",
-      "人群",
-      "人员",
-      "任",
-      "仍然",
-      "容易",
-      "设备",
-      "设立",
-      "声明",
-      "实验",
-      "实验室",
-      "市场",
-      "事实上",
-      "首先",
-      "所",
-      "所长",
-      "提问",
-      "跳远",
-      "推广",
-      "外交",
-      "伟大",
-      "文字",
-      "武术",
-      "现场",
-      "相互",
-      "写作",
-      "性(积极性）",
-      "性格",
-      "宣传",
-      "学费",
-      "压力",
-      "演出",
-      "意义",
-      "应用",
-      "预报",
-      "预习",
-      "员工",
-      "乐队",
-      "整天",
-      "职工",
-      "指出",
-      "制度",
-      "周围",
-      "主动",
-      "抓住",
-      "专业",
-      "状况"
+      "初级"
     ],
     "examples": {
       "安排": [
@@ -208,7 +99,35 @@
         "她在学初级汉语。",
         "Cô ấy đang học tiếng Trung sơ cấp.",
         "Tā zài xué chūjí Hànyǔ"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-02-lesson-02",
+    "title": "Giáo dục và công việc · Bài 2",
+    "titleCn": "HSK 3 · 2-2",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "创业",
+      "从事",
+      "代表",
+      "单元",
+      "电视台",
+      "发达",
+      "发明",
+      "发言",
+      "方式",
+      "分配",
+      "父亲",
+      "改进",
+      "概念",
+      "赶到",
+      "感冒"
+    ],
+    "examples": {
       "创业": [
         "他决定去创业，开自己的公司。",
         "Anh ấy quyết định khởi nghiệp, tự mở công ty riêng.",
@@ -283,7 +202,35 @@
         "他感冒了，不能来上课。",
         "Anh ấy bị cảm, không thể đến lớp.",
         "Tā gǎnmào le, bù néng lái shàngkè"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-02-lesson-03",
+    "title": "Giáo dục và công việc · Bài 3",
+    "titleCn": "HSK 3 · 2-3",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "歌声",
+      "更加",
+      "工厂",
+      "工夫",
+      "公布",
+      "共有",
+      "古代",
+      "光明",
+      "规定",
+      "规范",
+      "海关",
+      "好好",
+      "合法",
+      "积极",
+      "基本"
+    ],
+    "examples": {
       "歌声": [
         "教室里传来了好听的歌声。",
         "Trong lớp học vang lên tiếng hát rất hay.",
@@ -358,7 +305,35 @@
         "我基本学会了高中知识。",
         "Tôi cơ bản đã học xong kiến thức trung học phổ thông rồi.",
         "Wǒ jīběn xuéhuì le gāozhōng zhīshì"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-02-lesson-04",
+    "title": "Giáo dục và công việc · Bài 4",
+    "titleCn": "HSK 3 · 2-4",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "基础",
+      "集中",
+      "记录",
+      "建",
+      "建立",
+      "将近",
+      "交警",
+      "交流",
+      "校",
+      "教材",
+      "进一步",
+      "进展",
+      "经验",
+      "就业",
+      "举办"
+    ],
+    "examples": {
       "基础": [
         "汉字是学习的基础。",
         "Chữ Hán là nền tảng của việc học.",
@@ -433,7 +408,35 @@
         "学校每年都举办一次运动会。",
         "Trường học mỗi năm đều tổ chức một lần đại hội thể thao.",
         "Xuéxiào měinián dōu jǔbàn yí cì yùndònghuì"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-02-lesson-05",
+    "title": "Giáo dục và công việc · Bài 5",
+    "titleCn": "HSK 3 · 2-5",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "开展",
+      "科技",
+      "客观",
+      "快速",
+      "旅行社",
+      "落后",
+      "美术",
+      "难度",
+      "能力",
+      "期",
+      "前后",
+      "前进",
+      "亲切",
+      "请教",
+      "全场"
+    ],
+    "examples": {
       "开展": [
         "公司正在开展新项目。",
         "Công ty đang triển khai dự án mới.",
@@ -508,7 +511,35 @@
         "他的话赢得了全场的掌声",
         "Lời nói của anh ấy giành được tràng vỗ tay của cả hội trường",
         "Tā de huà yíngdé le quánchǎng de zhǎngshēng"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-02-lesson-06",
+    "title": "Giáo dục và công việc · Bài 6",
+    "titleCn": "HSK 3 · 2-6",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "群",
+      "热烈",
+      "人类",
+      "人群",
+      "人员",
+      "任",
+      "仍然",
+      "容易",
+      "设备",
+      "设立",
+      "声明",
+      "实验",
+      "实验室",
+      "市场",
+      "事实上"
+    ],
+    "examples": {
       "群": [
         "教室里有一群孩子在玩游戏",
         "Trong lớp có một nhóm trẻ em đang chơi trò chơi",
@@ -535,9 +566,9 @@
         "Xuéxiào yǒu hěn duō lǎoshī hé gōngzuò rényuán"
       ],
       "任": [
-        "他担任班级的班长",
-        "Anh ấy đảm nhiệm chức vụ lớp trưởng",
-        "Tā dānrèn bānjí de bānzhǎng"
+        "任你什么说，我都不会相信",
+        "bất luận bạn nói cái gì thì tôi cũng sẽ không tin",
+        "Rèn nǐ shénme shuō, wǒ dōu bú huì xiāngxìn"
       ],
       "仍然": [
         "尽管很累，他仍然工作",
@@ -583,7 +614,35 @@
         "这份工作听起来很简单，实际上很难。",
         "Công việc này nghe có vẻ đơn giản, nhưng trên thực tế lại rất khó.",
         "Zhè fèn gōngzuò tīng qǐlái hěn jiǎndān, shíjì shang hěn nán"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-02-lesson-07",
+    "title": "Giáo dục và công việc · Bài 7",
+    "titleCn": "HSK 3 · 2-7",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "首先",
+      "所",
+      "所长",
+      "提问",
+      "跳远",
+      "推广",
+      "外交",
+      "伟大",
+      "文字",
+      "武术",
+      "现场",
+      "相互",
+      "写作",
+      "性(积极性）",
+      "性格"
+    ],
+    "examples": {
       "首先": [
         "首先要做的就是学习。",
         "Việc cần làm đầu tiên chính là học tập.",
@@ -658,7 +717,35 @@
         "他的性格非常开朗。",
         "Học sinh học tập rất tích cực.",
         "Xuéshēngmen xuéxí hěn yǒu jījíxìng"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-02-lesson-08",
+    "title": "Giáo dục và công việc · Bài 8",
+    "titleCn": "HSK 3 · 2-8",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "宣传",
+      "学费",
+      "压力",
+      "演出",
+      "意义",
+      "应用",
+      "预报",
+      "预习",
+      "员工",
+      "乐队",
+      "整天",
+      "职工",
+      "指出",
+      "制度",
+      "周围"
+    ],
+    "examples": {
       "宣传": [
         "他们正在宣传新的环保政策。",
         "Họ đang tuyên truyền chính sách bảo vệ môi trường mới.",
@@ -733,7 +820,24 @@
         "周围环境很安静。",
         "Môi trường xung quanh rất yên tĩnh.",
         "Zhōuwéi huánjìng hěn ānjìng"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-02-lesson-09",
+    "title": "Giáo dục và công việc · Bài 9",
+    "titleCn": "HSK 3 · 2-9",
+    "context": "4 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "主动",
+      "抓住",
+      "专业",
+      "状况"
+    ],
+    "examples": {
       "主动": [
         "她主动帮同学做作业。",
         "Cô ấy chủ động giúp bạn cùng lớp làm bài tập.",

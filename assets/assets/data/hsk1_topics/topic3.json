@@ -1,9 +1,9 @@
 [
   {
-    "id": "hsk1-topic-03",
-    "title": "Ngày tháng và lịch",
-    "titleCn": "HSK 1 · 3",
-    "context": "Từ vựng HSK 1 cùng chủ đề",
+    "id": "hsk1-topic-03-lesson-01",
+    "title": "Ngày tháng và lịch · Bài 1",
+    "titleCn": "HSK 1 · 3-1",
+    "context": "15 từ vựng cùng nhóm nghĩa",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
@@ -22,55 +22,7 @@
       "饿",
       "分 ",
       "风",
-      "高兴",
-      "哥哥  | 哥",
-      "很",
-      "后天",
-      "还",
-      "回",
-      "回来",
-      "今年",
-      "开会",
-      "看病",
-      "考",
-      "课",
-      "楼",
-      "没",
-      "明年",
-      "明天",
-      "奶奶 | 奶",
-      "跑",
-      "起",
-      "起床",
-      "前",
-      "请假",
-      "日期",
-      "上班",
-      "上次",
-      "上午",
-      "生日",
-      "时间",
-      "睡",
-      "岁",
-      "天",
-      "听写",
-      "晚",
-      "忘记",
-      "五",
-      "洗",
-      "下班",
-      "下午",
-      "现在",
-      "小时",
-      "星期",
-      "休息",
-      "月",
-      "再",
-      "再见",
-      "在家",
-      "早",
-      "早饭",
-      "早上"
+      "高兴"
     ],
     "examples": {
       "白天": [
@@ -147,7 +99,35 @@
         "今天我很高兴。",
         "Hôm nay tôi rất vui.",
         "Jīntiān wǒ hěn gāoxìng"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-03-lesson-02",
+    "title": "Ngày tháng và lịch · Bài 2",
+    "titleCn": "HSK 1 · 3-2",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "哥哥  | 哥",
+      "很",
+      "后天",
+      "还",
+      "回",
+      "回来",
+      "今年",
+      "开会",
+      "看病",
+      "考",
+      "课",
+      "楼",
+      "没",
+      "明年",
+      "明天"
+    ],
+    "examples": {
       "哥哥  | 哥": [
         "我的哥哥比我大五岁。",
         "Anh trai tôi lớn hơn tôi năm tuổi.",
@@ -222,7 +202,35 @@
         "明天是星期几？",
         "Ngày mai là thứ mấy?",
         "Míngtiān shì xīngqī jǐ"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-03-lesson-03",
+    "title": "Ngày tháng và lịch · Bài 3",
+    "titleCn": "HSK 1 · 3-3",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "奶奶 | 奶",
+      "跑",
+      "起",
+      "起床",
+      "前",
+      "请假",
+      "日期",
+      "上班",
+      "上次",
+      "上午",
+      "生日",
+      "时间",
+      "睡",
+      "岁",
+      "天"
+    ],
+    "examples": {
       "奶奶 | 奶": [
         "我奶奶今年八十岁。",
         "Bà nội tôi năm nay 80 tuổi.",
@@ -297,7 +305,35 @@
         "今天是星期天。\n\n我喜欢看天上的星星。",
         "Hôm nay là Chủ nhật.\n\nTôi thích ngắm sao trên trời.",
         "Jīntiān shì xīngqītiān/\n\n/Wǒ xǐhuān kàn tiānshàng de xīngxīng"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-03-lesson-04",
+    "title": "Ngày tháng và lịch · Bài 4",
+    "titleCn": "HSK 1 · 3-4",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "听写",
+      "晚",
+      "忘记",
+      "五",
+      "洗",
+      "下班",
+      "下午",
+      "现在",
+      "小时",
+      "星期",
+      "休息",
+      "月",
+      "再",
+      "再见",
+      "在家"
+    ],
+    "examples": {
       "听写": [
         "我们今天有听写考试。",
         "Hôm nay chúng tôi có bài kiểm tra chính tả.",
@@ -372,7 +408,23 @@
         "周末我一般在家休息。",
         "Cuối tuần tôi thường ở nhà nghỉ ngơi.",
         "Zhōumò wǒ yībān zàijiā xiūxi"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-03-lesson-05",
+    "title": "Ngày tháng và lịch · Bài 5",
+    "titleCn": "HSK 1 · 3-5",
+    "context": "3 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "早",
+      "早饭",
+      "早上"
+    ],
+    "examples": {
       "早": [
         "今天你起得很早。",
         "Hôm nay bạn dậy rất sớm.",

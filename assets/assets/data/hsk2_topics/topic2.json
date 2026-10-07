@@ -1,9 +1,9 @@
 [
   {
-    "id": "hsk2-topic-02",
-    "title": "Học tập và nghề nghiệp",
-    "titleCn": "HSK 2 · 2",
-    "context": "Từ vựng HSK 2 cùng chủ đề",
+    "id": "hsk2-topic-02-lesson-01",
+    "title": "Học tập và nghề nghiệp · Bài 1",
+    "titleCn": "HSK 2 · 2-1",
+    "context": "15 từ vựng cùng nhóm nghĩa",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
@@ -22,87 +22,7 @@
       "大家",
       "大门",
       "带来",
-      "到处",
-      "灯",
-      "点头",
-      "短",
-      "对",
-      "对面",
-      "多久",
-      "干活儿",
-      "高中",
-      "公里",
-      "公司",
-      "广场",
-      "合适",
-      "红",
-      "黄",
-      "或者",
-      "机会",
-      "级",
-      "家长",
-      "检查",
-      "叫作",
-      "教师",
-      "教室",
-      "节",
-      "今后",
-      "近",
-      "举行",
-      "开学",
-      "科学",
-      "课堂",
-      "老 ( 老王 )",
-      "离",
-      "留",
-      "留学生",
-      "名称",
-      "那会儿",
-      "难看",
-      "能够",
-      "年级",
-      "努力",
-      "碰见",
-      "千克",
-      "球队",
-      "全部",
-      "全体",
-      "然后",
-      "实习",
-      "实在",
-      "太太",
-      "特别",
-      "疼",
-      "提出",
-      "条",
-      "条件",
-      "听讲",
-      "腿",
-      "网站",
-      "往",
-      "位",
-      "小说",
-      "校园",
-      "笑话儿",
-      "星星",
-      "学期",
-      "眼",
-      "样子",
-      "要求",
-      "一部分",
-      "以后",
-      "以外",
-      "一生",
-      "一直",
-      "影响",
-      "照片",
-      "真正",
-      "中级",
-      "中小学",
-      "重视",
-      "组",
-      "组长",
-      "作用"
+      "到处"
     ],
     "examples": {
       "爱情": [
@@ -136,9 +56,9 @@
         "Háizimen zài cǎodì shàng wánshuǎ"
       ],
       "长": [
-        "这条裤子很长。",
-        "Cái quần này rất dài.",
-        "Zhè tiáo kùzi hěn cháng"
+        "孩子长得很快。",
+        "Đứa trẻ lớn rất nhanh.",
+        "Háizi zhǎng de hěn kuài"
       ],
       "成为": [
         "她已经成为了一名老师。",
@@ -179,7 +99,35 @@
         "公园里到处都是花。",
         "Trong công viên, hoa ở khắp nơi.",
         "Gōngyuán lǐ dàochù dōu shì huā"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk2-topic-02-lesson-02",
+    "title": "Học tập và nghề nghiệp · Bài 2",
+    "titleCn": "HSK 2 · 2-2",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "灯",
+      "点头",
+      "短",
+      "对",
+      "对面",
+      "多久",
+      "干活儿",
+      "高中",
+      "公里",
+      "公司",
+      "广场",
+      "合适",
+      "红",
+      "黄",
+      "或者"
+    ],
+    "examples": {
       "灯": [
         "教室里的灯开着呢。",
         "Đèn trong lớp vẫn còn bật.",
@@ -249,7 +197,35 @@
         "她穿了一条黄色的群子。",
         "Cô ấy mặc một chiếc váy màu vàng.",
         "Tā chuānle yītiáo huángsè de qúnzi"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk2-topic-02-lesson-03",
+    "title": "Học tập và nghề nghiệp · Bài 3",
+    "titleCn": "HSK 2 · 2-3",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "机会",
+      "级",
+      "家长",
+      "检查",
+      "叫作",
+      "教师",
+      "教室",
+      "节",
+      "今后",
+      "近",
+      "举行",
+      "开学",
+      "科学",
+      "课堂",
+      "老 ( 老王 )"
+    ],
+    "examples": {
       "机会": [
         "他得到一个很好的工作机会。",
         "Anh ấy có một cơ hội việc làm rất tốt.",
@@ -324,7 +300,35 @@
         "老王是我的大学同学。",
         "Lão Vương là bạn cùng lớp đại học của tôi.",
         "Lǎo wáng shì wǒ de dàxué tóngxué"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk2-topic-02-lesson-04",
+    "title": "Học tập và nghề nghiệp · Bài 4",
+    "titleCn": "HSK 2 · 2-4",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "离",
+      "留",
+      "留学生",
+      "名称",
+      "那会儿",
+      "难看",
+      "能够",
+      "年级",
+      "努力",
+      "碰见",
+      "千克",
+      "球队",
+      "全部",
+      "全体",
+      "然后"
+    ],
+    "examples": {
       "离": [
         "我家离学校很近。",
         "Nhà tôi cách trường rất gần.",
@@ -399,7 +403,35 @@
         "我先吃饭，然后去学校学习。",
         "Tôi ăn cơm, sau đó đến trường học.",
         "Wǒ xiān chīfàn, ránhòu qù xuéxiào xuéxí"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk2-topic-02-lesson-05",
+    "title": "Học tập và nghề nghiệp · Bài 5",
+    "titleCn": "HSK 2 · 2-5",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "实习",
+      "实在",
+      "太太",
+      "特别",
+      "疼",
+      "提出",
+      "条",
+      "条件",
+      "听讲",
+      "腿",
+      "网站",
+      "往",
+      "位",
+      "小说",
+      "校园"
+    ],
+    "examples": {
       "实习": [
         "她在国际公司实习。",
         "Cô ấy đang thực tập tại công ty quốc tế.",
@@ -474,7 +506,35 @@
         "我们的校园很大。",
         "Khuôn viên trường chúng tôi rất lớn.",
         "Wǒmen de xiàoyuán hěn dà"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk2-topic-02-lesson-06",
+    "title": "Học tập và nghề nghiệp · Bài 6",
+    "titleCn": "HSK 2 · 2-6",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "笑话儿",
+      "星星",
+      "学期",
+      "眼",
+      "样子",
+      "要求",
+      "一部分",
+      "以后",
+      "以外",
+      "一生",
+      "一直",
+      "影响",
+      "照片",
+      "真正",
+      "中级"
+    ],
+    "examples": {
       "星星": [
         "夜晚的星星很美丽。",
         "Những ngôi sao về đêm thật đẹp.",
@@ -544,7 +604,25 @@
         "我学中级汉语。",
         "Tôi học tiếng Trung trung cấp.",
         "Wǒ xué zhōngjí Hànyǔ"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk2-topic-02-lesson-07",
+    "title": "Học tập và nghề nghiệp · Bài 7",
+    "titleCn": "HSK 2 · 2-7",
+    "context": "5 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "中小学",
+      "重视",
+      "组",
+      "组长",
+      "作用"
+    ],
+    "examples": {
       "中小学": [
         "我的弟弟在中小学读书。",
         "Em trai tôi học ở trường tiểu học và trung học.",

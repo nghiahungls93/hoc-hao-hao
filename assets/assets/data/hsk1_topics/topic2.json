@@ -1,9 +1,9 @@
 [
   {
-    "id": "hsk1-topic-02",
-    "title": "Lớp học cơ bản",
-    "titleCn": "HSK 1 · 2",
-    "context": "Từ vựng HSK 1 cùng chủ đề",
+    "id": "hsk1-topic-02-lesson-01",
+    "title": "Lớp học cơ bản · Bài 1",
+    "titleCn": "HSK 1 · 2-1",
+    "context": "15 từ vựng cùng nhóm nghĩa",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
@@ -22,56 +22,7 @@
       "放学",
       "工人",
       "工作",
-      "国外",
-      "后 | 后边",
-      "九",
-      "开",
-      "考试",
-      "老师",
-      "累",
-      "慢",
-      "没什么",
-      "哪儿",
-      "那里",
-      "男",
-      "男生",
-      "南边",
-      "呢",
-      "年级",
-      "前边",
-      "认真",
-      "山",
-      "上",
-      "上课",
-      "上学",
-      "试",
-      "手",
-      "树",
-      "他们",
-      "同学",
-      "图书馆",
-      "问",
-      "我",
-      "西",
-      "小学",
-      "小学生",
-      "学",
-      "学生",
-      "学习",
-      "学校",
-      "学院",
-      "一半",
-      "有时候 | 有时",
-      "有用",
-      "右边",
-      "远",
-      "怎么",
-      "知识",
-      "中间",
-      "中学",
-      "中学生",
-      "重要",
-      "左边"
+      "国外"
     ],
     "examples": {
       "爸爸 | 爸": [
@@ -148,7 +99,35 @@
         "他在国外上大学。",
         "Anh ấy học đại học ở nước ngoài.",
         "Tā zài guówài shàng dàxué"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-02-lesson-02",
+    "title": "Lớp học cơ bản · Bài 2",
+    "titleCn": "HSK 1 · 2-2",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "后 | 后边",
+      "九",
+      "开",
+      "考试",
+      "老师",
+      "累",
+      "慢",
+      "没什么",
+      "哪儿",
+      "那里",
+      "男",
+      "男生",
+      "南边",
+      "呢",
+      "年级"
+    ],
+    "examples": {
       "后 | 后边": [
         "书店在学校的后边。",
         "Hiệu sách ở phía sau trường học.",
@@ -218,7 +197,35 @@
         "你是几年级的学生？",
         "Bạn là học sinh lớp mấy?",
         "Nǐ shì jǐ niánjí de xuéshēng"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-02-lesson-03",
+    "title": "Lớp học cơ bản · Bài 3",
+    "titleCn": "HSK 1 · 2-3",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "前边",
+      "认真",
+      "山",
+      "上",
+      "上课",
+      "上学",
+      "试",
+      "手",
+      "树",
+      "他们",
+      "同学",
+      "图书馆",
+      "问",
+      "我",
+      "西"
+    ],
+    "examples": {
       "前边": [
         "学校就在前边。",
         "Trường học ở ngay phía trước.",
@@ -293,7 +300,35 @@
         "我家在学校西边。",
         "Nhà tôi ở phía tây của trường.",
         "Wǒ jiā zài xuéxiào xībiān"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-02-lesson-04",
+    "title": "Lớp học cơ bản · Bài 4",
+    "titleCn": "HSK 1 · 2-4",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "小学",
+      "小学生",
+      "学",
+      "学生",
+      "学习",
+      "学校",
+      "学院",
+      "一半",
+      "有时候 | 有时",
+      "有用",
+      "右边",
+      "远",
+      "怎么",
+      "知识",
+      "中间"
+    ],
+    "examples": {
       "小学": [
         "我弟弟上小学二年级。",
         "Em trai tôi học lớp 2 tiểu học.",
@@ -363,7 +398,24 @@
         "我家在学校和公司中间。",
         "Nhà tôi nằm giữa trường học và công ty.",
         "Wǒ jiā zài xuéxiào hé gōngsī zhōngjiān"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-02-lesson-05",
+    "title": "Lớp học cơ bản · Bài 5",
+    "titleCn": "HSK 1 · 2-5",
+    "context": "4 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "中学",
+      "中学生",
+      "重要",
+      "左边"
+    ],
+    "examples": {
       "中学": [
         "他是我中学同学。",
         "Anh ấy là bạn học của tôi ở trường trung học.",

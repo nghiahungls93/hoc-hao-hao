@@ -1,9 +1,9 @@
 [
   {
-    "id": "hsk3-topic-03",
-    "title": "Thời gian và hành động",
-    "titleCn": "HSK 3 · 3",
-    "context": "Từ vựng HSK 3 cùng chủ đề",
+    "id": "hsk3-topic-03-lesson-01",
+    "title": "Thời gian và hành động · Bài 1",
+    "titleCn": "HSK 3 · 3-1",
+    "context": "15 từ vựng cùng nhóm nghĩa",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
@@ -22,115 +22,7 @@
       "成熟",
       "重",
       "创新",
-      "创造",
-      "从前",
-      "大使馆",
-      "大夫",
-      "代",
-      "断",
-      "发展",
-      "反复",
-      "反正",
-      "访问",
-      "福",
-      "负责",
-      "敢",
-      "工程师",
-      "工资",
-      "故乡",
-      "广播",
-      "国庆",
-      "果然",
-      "害怕",
-      "红酒",
-      "后年",
-      "互联网",
-      "话剧",
-      "会议",
-      "基本上",
-      "…极了",
-      "纪念",
-      "坚持",
-      "交往",
-      "交易",
-      "结婚",
-      "近期",
-      "精神",
-      "精神",
-      "决赛",
-      "开放",
-      "开始",
-      "课程",
-      "空儿",
-      "困",
-      "离婚",
-      "利用",
-      "连续",
-      "美好",
-      "某",
-      "母亲",
-      "内心",
-      "年初",
-      "年底",
-      "念",
-      "农民",
-      "怕",
-      "跑步",
-      "奇怪",
-      "确保",
-      "确实",
-      "裙子",
-      "任务",
-      "伤",
-      "上面",
-      "深刻",
-      "生长",
-      "石头",
-      "时",
-      "世纪",
-      "事件",
-      "试题",
-      "收音机",
-      "输入",
-      "数量",
-      "死",
-      "随",
-      "台",
-      "铁",
-      "通常",
-      "团结",
-      "退",
-      "卫生",
-      "握手",
-      "武器",
-      "舞台",
-      "系",
-      "显得",
-      "相比",
-      "香",
-      "效果",
-      "形成",
-      "宣布",
-      "训练",
-      "演唱会",
-      "要是",
-      "一方面",
-      "因此",
-      "游戏",
-      "有的是",
-      "预计",
-      "约",
-      "造",
-      "责任",
-      "整",
-      "整个",
-      "直播",
-      "至今",
-      "至少",
-      "钟",
-      "主任",
-      "总",
-      "组合"
+      "创造"
     ],
     "examples": {
       "安装": [
@@ -207,7 +99,35 @@
         "他们一起创造了这个产品。",
         "Họ cùng nhau tạo ra sản phẩm này.",
         "Tāmen yìqǐ chuàngzào le zhège chǎnpǐn"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-03-lesson-02",
+    "title": "Thời gian và hành động · Bài 2",
+    "titleCn": "HSK 3 · 3-2",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "从前",
+      "大使馆",
+      "大夫",
+      "代",
+      "断",
+      "发展",
+      "反复",
+      "反正",
+      "访问",
+      "福",
+      "负责",
+      "敢",
+      "工程师",
+      "工资",
+      "故乡"
+    ],
+    "examples": {
       "从前": [
         "从前这里是一个小村子。",
         "Ngày xưa nơi đây là một ngôi làng nhỏ.",
@@ -282,7 +202,35 @@
         "我的故乡在南方。",
         "Quê hương tôi ở miền Nam.",
         "Wǒ de gùxiāng zài nánfāng"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-03-lesson-03",
+    "title": "Thời gian và hành động · Bài 3",
+    "titleCn": "HSK 3 · 3-3",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "广播",
+      "国庆",
+      "果然",
+      "害怕",
+      "红酒",
+      "后年",
+      "互联网",
+      "话剧",
+      "会议",
+      "基本上",
+      "…极了",
+      "纪念",
+      "坚持",
+      "交往",
+      "交易"
+    ],
+    "examples": {
       "广播": [
         "我每天听中文广播。",
         "Tôi nghe đài phát thanh tiếng Trung mỗi ngày.",
@@ -357,7 +305,35 @@
         "这次交易很成功。",
         "Giao dịch lần này rất thành công.",
         "Zhè cì jiāoyì hěn chénggōng"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-03-lesson-04",
+    "title": "Thời gian và hành động · Bài 4",
+    "titleCn": "HSK 3 · 3-4",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "结婚",
+      "近期",
+      "精神",
+      "精神",
+      "决赛",
+      "开放",
+      "开始",
+      "课程",
+      "空儿",
+      "困",
+      "离婚",
+      "利用",
+      "连续",
+      "美好",
+      "某"
+    ],
+    "examples": {
       "结婚": [
         "他们打算明年结婚。",
         "Họ dự định kết hôn vào năm sau.",
@@ -369,9 +345,9 @@
         "Wǒ jìnqī hěn máng, méiyǒu shíjiān"
       ],
       "精神": [
-        "我今天没有精神。",
-        "Hôm nay tôi chẳng có tinh thần.",
-        "Wǒ jīntiān méiyǒu jīngshén"
+        "你今天看起来很精神。",
+        "Hôm nay trông bạn rất tươi tắn đó.",
+        "Nǐ jīntiān kàn qǐlái hěn jīngshen"
       ],
       "决赛": [
         "明天是足球比赛的决赛。",
@@ -427,7 +403,35 @@
         "某一天我们会再见。",
         "Một ngày nào đó chúng ta sẽ gặp lại.",
         "mǒu yì tiān wǒmen huì zàijiàn"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-03-lesson-05",
+    "title": "Thời gian và hành động · Bài 5",
+    "titleCn": "HSK 3 · 3-5",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "母亲",
+      "内心",
+      "年初",
+      "年底",
+      "念",
+      "农民",
+      "怕",
+      "跑步",
+      "奇怪",
+      "确保",
+      "确实",
+      "裙子",
+      "任务",
+      "伤",
+      "上面"
+    ],
+    "examples": {
       "母亲": [
         "母亲每天都为我准备早饭。",
         "Mỗi ngày mẹ tôi đều chuẩn bị bữa ăn sáng cho tôi.",
@@ -502,7 +506,35 @@
         "桌子上面有一本书",
         "Trên bàn có một quyển sách",
         "Zhuōzi shàngmiàn yǒu yì běn shū"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-03-lesson-06",
+    "title": "Thời gian và hành động · Bài 6",
+    "titleCn": "HSK 3 · 3-6",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "深刻",
+      "生长",
+      "石头",
+      "时",
+      "世纪",
+      "事件",
+      "试题",
+      "收音机",
+      "输入",
+      "数量",
+      "死",
+      "随",
+      "台",
+      "铁",
+      "通常"
+    ],
+    "examples": {
       "深刻": [
         "这次经历给我留下了深刻的印象",
         "Trải nghiệm lần này để lại ấn tượng sâu sắc với tôi.",
@@ -577,7 +609,35 @@
         "我通常七点起床。",
         "Tôi thường dậy lúc 7 giờ.",
         "Wǒ tōngcháng qī diǎn qǐchuáng"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-03-lesson-07",
+    "title": "Thời gian và hành động · Bài 7",
+    "titleCn": "HSK 3 · 3-7",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "团结",
+      "退",
+      "卫生",
+      "握手",
+      "武器",
+      "舞台",
+      "系",
+      "显得",
+      "相比",
+      "香",
+      "效果",
+      "形成",
+      "宣布",
+      "训练",
+      "演唱会"
+    ],
+    "examples": {
       "团结": [
         "我们要团结合作。",
         "Chúng ta phải đoàn kết hợp tác.",
@@ -652,7 +712,35 @@
         "昨晚的演唱会很精彩。",
         "Buổi hòa nhạc tối qua rất đặc sắc.",
         "Zuówǎn de yǎnchànghuì hěn jīngcǎi"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-03-lesson-08",
+    "title": "Thời gian và hành động · Bài 8",
+    "titleCn": "HSK 3 · 3-8",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "要是",
+      "一方面",
+      "因此",
+      "游戏",
+      "有的是",
+      "预计",
+      "约",
+      "造",
+      "责任",
+      "整",
+      "整个",
+      "直播",
+      "至今",
+      "至少",
+      "钟"
+    ],
+    "examples": {
       "要是": [
         "要是明天不下雨，我们就去爬山。",
         "Nếu ngày mai trời không mưa, chúng ta sẽ đi leo núi.",
@@ -727,7 +815,23 @@
         "现在是三钟。",
         "Bây giờ là ba giờ.",
         "Xiànzài shì sān zhōng"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-03-lesson-09",
+    "title": "Thời gian và hành động · Bài 9",
+    "titleCn": "HSK 3 · 3-9",
+    "context": "3 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "主任",
+      "总",
+      "组合"
+    ],
+    "examples": {
       "主任": [
         "李主任今天不在。",
         "Chủ nhiệm Lý hôm nay không có ở đây.",

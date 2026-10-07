@@ -1,9 +1,9 @@
 [
   {
-    "id": "hsk1-topic-06",
-    "title": "Đi lại quen thuộc",
-    "titleCn": "HSK 1 · 6",
-    "context": "Từ vựng HSK 1 cùng chủ đề",
+    "id": "hsk1-topic-06-lesson-01",
+    "title": "Đi lại quen thuộc · Bài 1",
+    "titleCn": "HSK 1 · 6-1",
+    "context": "15 từ vựng cùng nhóm nghĩa",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
@@ -22,61 +22,7 @@
       "地点",
       "点",
       "电话",
-      "电视 | 电视机",
-      "电影院",
-      "动作",
-      "读",
-      "对不起",
-      "放假",
-      "非常",
-      "过",
-      "坏",
-      "回去",
-      "火车",
-      "机场",
-      "记住",
-      "教学楼",
-      "进",
-      "进去",
-      "开车",
-      "看",
-      "看到",
-      "口",
-      "快",
-      "来到",
-      "老",
-      "路",
-      "路口",
-      "路上",
-      "马路",
-      "马上",
-      "那儿",
-      "汽车",
-      "前天",
-      "上车",
-      "时候",
-      "手机",
-      "睡觉",
-      "晚上",
-      "下车",
-      "下次",
-      "先",
-      "星期日",
-      "爷爷",
-      "一块儿",
-      "一起",
-      "用",
-      "找",
-      "这边",
-      "这儿",
-      "真",
-      "真的",
-      "正",
-      "住",
-      "走",
-      "走路",
-      "左",
-      "坐"
+      "电视 | 电视机"
     ],
     "examples": {
       "吧": [
@@ -153,7 +99,35 @@
         "爸爸在看电视。",
         "Bố đang xem tivi.",
         "Bàba zài kàn diànshì"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-06-lesson-02",
+    "title": "Đi lại quen thuộc · Bài 2",
+    "titleCn": "HSK 1 · 6-2",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "电影院",
+      "动作",
+      "读",
+      "对不起",
+      "放假",
+      "非常",
+      "过",
+      "坏",
+      "回去",
+      "火车",
+      "机场",
+      "记住",
+      "教学楼",
+      "进",
+      "进去"
+    ],
+    "examples": {
       "电影院": [
         "我们去电影院看电影。",
         "Chúng tôi đi rạp chiếu phim để xem phim.",
@@ -228,7 +202,35 @@
         "你先进去，我马上来。",
         "Bạn vào trước đi, tôi đến ngay.",
         "Nǐ xiān jìn qù, wǒ mǎshàng lái"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-06-lesson-03",
+    "title": "Đi lại quen thuộc · Bài 3",
+    "titleCn": "HSK 1 · 6-3",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "开车",
+      "看",
+      "看到",
+      "口",
+      "快",
+      "来到",
+      "老",
+      "路",
+      "路口",
+      "路上",
+      "马路",
+      "马上",
+      "那儿",
+      "汽车",
+      "前天"
+    ],
+    "examples": {
       "看": [
         "这本书我看完了。",
         "Tôi đã đọc xong cuốn sách này.",
@@ -298,7 +300,35 @@
         "我前天去了上海。",
         "Hôm kia tôi đã đi Thượng Hải.",
         "Wǒ qiántiān qù le Shànghǎi"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-06-lesson-04",
+    "title": "Đi lại quen thuộc · Bài 4",
+    "titleCn": "HSK 1 · 6-4",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "上车",
+      "时候",
+      "手机",
+      "睡觉",
+      "晚上",
+      "下车",
+      "下次",
+      "先",
+      "星期日",
+      "爷爷",
+      "一块儿",
+      "一起",
+      "用",
+      "找",
+      "这边"
+    ],
+    "examples": {
       "上车": [
         "我们快上车吧。",
         "Chúng ta mau lên xe đi.",
@@ -373,7 +403,29 @@
         "你坐这边吧。",
         "Bạn ngồi bên này đi.",
         "Nǐ zuò zhèbiān ba"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-06-lesson-05",
+    "title": "Đi lại quen thuộc · Bài 5",
+    "titleCn": "HSK 1 · 6-5",
+    "context": "9 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "这儿",
+      "真",
+      "真的",
+      "正",
+      "住",
+      "走",
+      "走路",
+      "左",
+      "坐"
+    ],
+    "examples": {
       "这儿": [
         "你来这儿看看吧。",
         "Bạn đến chỗ này xem thử đi.",

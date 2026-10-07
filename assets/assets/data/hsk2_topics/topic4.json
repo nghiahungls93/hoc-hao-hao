@@ -1,9 +1,9 @@
 [
   {
-    "id": "hsk2-topic-04",
-    "title": "Sức khỏe và cảm xúc",
-    "titleCn": "HSK 2 · 4",
-    "context": "Từ vựng HSK 2 cùng chủ đề",
+    "id": "hsk2-topic-04-lesson-01",
+    "title": "Sức khỏe và cảm xúc · Bài 1",
+    "titleCn": "HSK 2 · 4-1",
+    "context": "15 từ vựng cùng nhóm nghĩa",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
@@ -22,86 +22,7 @@
       "词语",
       "从小",
       "但是",
-      "道路",
-      "的话",
-      "懂",
-      "动物",
-      "多数",
-      "多云",
-      "分开",
-      "感到",
-      "感觉",
-      "顾客",
-      "关心",
-      "过去",
-      "海边",
-      "花园",
-      "画儿",
-      "坏处",
-      "假期",
-      "健康",
-      "讲话",
-      "交朋友",
-      "角度",
-      "结果",
-      "进行",
-      "举",
-      "开机",
-      "靠",
-      "科",
-      "空气",
-      "快乐",
-      "蓝色",
-      "例如",
-      "练习",
-      "流行",
-      "旅游",
-      "绿色",
-      "那时候 | 那时",
-      "难过",
-      "爬",
-      "排球",
-      "平等",
-      "其他",
-      "轻",
-      "秋天",
-      "球",
-      "让",
-      "人们",
-      "认为",
-      "什么样",
-      "十分",
-      "实在",
-      "使用",
-      "说明",
-      "所以",
-      "讨论",
-      "提",
-      "体育",
-      "停车",
-      "同样",
-      "网球",
-      "问题",
-      "午睡",
-      "想到",
-      "想法",
-      "想起",
-      "小时候",
-      "心里",
-      "心中",
-      "姓名",
-      "颜色",
-      "一会儿",
-      "意思",
-      "音乐",
-      "有意思",
-      "院",
-      "院长",
-      "照相",
-      "中医",
-      "住院",
-      "座",
-      "座位"
+      "道路"
     ],
     "examples": {
       "白色": [
@@ -168,7 +89,35 @@
         "我从小就喜欢画画。",
         "Tôi thích vẽ tranh từ nhỏ.",
         "Wǒ cóngxiǎo jiù xǐhuān huàhuà"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk2-topic-04-lesson-02",
+    "title": "Sức khỏe và cảm xúc · Bài 2",
+    "titleCn": "HSK 2 · 4-2",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "的话",
+      "懂",
+      "动物",
+      "多数",
+      "多云",
+      "分开",
+      "感到",
+      "感觉",
+      "顾客",
+      "关心",
+      "过去",
+      "海边",
+      "花园",
+      "画儿",
+      "坏处"
+    ],
+    "examples": {
       "的话": [
         "如果有问题的话，请联系我。",
         "Nếu có vấn đề, xin hãy liên hệ với tôi.",
@@ -238,7 +187,35 @@
         "吸烟对身体有坏处。",
         "Hút thuốc có hại cho sức khỏe.",
         "Xīyān duì shēntǐ yǒu huàichù"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk2-topic-04-lesson-03",
+    "title": "Sức khỏe và cảm xúc · Bài 3",
+    "titleCn": "HSK 2 · 4-3",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "假期",
+      "健康",
+      "讲话",
+      "交朋友",
+      "角度",
+      "结果",
+      "进行",
+      "举",
+      "开机",
+      "靠",
+      "科",
+      "空气",
+      "快乐",
+      "蓝色",
+      "例如"
+    ],
+    "examples": {
       "假期": [
         "我们的假期很长。",
         "Kỳ nghỉ của chúng tôi rất dài.",
@@ -313,7 +290,35 @@
         "我喜欢很多花,例如荷花、菊花、和玫瑰花。",
         "Tôi thích nhiều loại hoa như hoa sen, hoa cúc và hoa hồng.",
         "Wǒ xǐhuān hěnduō huā, lìrú héhuā, júhuā, hé méiguī huā"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk2-topic-04-lesson-04",
+    "title": "Sức khỏe và cảm xúc · Bài 4",
+    "titleCn": "HSK 2 · 4-4",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "练习",
+      "流行",
+      "旅游",
+      "绿色",
+      "那时候 | 那时",
+      "难过",
+      "爬",
+      "排球",
+      "平等",
+      "其他",
+      "轻",
+      "秋天",
+      "球",
+      "让",
+      "人们"
+    ],
+    "examples": {
       "流行": [
         "这部电影在流行全球。",
         "Bộ phim này đang phổ biến trên toàn cầu.",
@@ -383,7 +388,35 @@
         "人们喜欢去公园散步。",
         "Mọi người thích đi dạo trong công viên.",
         "Rénmen xǐhuan qù gōngyuán sànbù"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk2-topic-04-lesson-05",
+    "title": "Sức khỏe và cảm xúc · Bài 5",
+    "titleCn": "HSK 2 · 4-5",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "认为",
+      "什么样",
+      "十分",
+      "实在",
+      "使用",
+      "说明",
+      "所以",
+      "讨论",
+      "提",
+      "体育",
+      "停车",
+      "同样",
+      "网球",
+      "问题",
+      "午睡"
+    ],
+    "examples": {
       "认为": [
         "我认为这个办法很好。",
         "Tôi cho rằng cách này rất tốt.",
@@ -400,9 +433,9 @@
         "Wǒ shífēn xǐhuān zhè běn shū"
       ],
       "实在": [
-        "这个问题实在太难了。",
-        "Vấn đề này thực sự quá khó.",
-        "Zhège wèntí shízài tài nán le"
+        "他工作做得很实在，你放心吧！",
+        "Anh ấy làm việc rất tốt, bạn yên tâm nhé!",
+        "Tā gōngzuò zuò dé hěn shízài, nǐ fàngxīn ba"
       ],
       "使用": [
         "请正确使用电脑。",
@@ -458,7 +491,35 @@
         "午睡对身体很好。",
         "Ngủ trưa tốt cho sức khỏe.",
         "Wǔshuì duì shēntǐ hěn hǎo"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk2-topic-04-lesson-06",
+    "title": "Sức khỏe và cảm xúc · Bài 6",
+    "titleCn": "HSK 2 · 4-6",
+    "context": "15 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "想到",
+      "想法",
+      "想起",
+      "小时候",
+      "心里",
+      "心中",
+      "姓名",
+      "颜色",
+      "一会儿",
+      "意思",
+      "音乐",
+      "有意思",
+      "院",
+      "院长",
+      "照相"
+    ],
+    "examples": {
       "想到": [
         "我想到一个好办法。",
         "Tôi nghĩ ra một cách hay.",
@@ -533,7 +594,24 @@
         "我喜欢照相。",
         "Tôi thích chụp ảnh.",
         "Wǒ xǐhuān zhào xiàng"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk2-topic-04-lesson-07",
+    "title": "Sức khỏe và cảm xúc · Bài 7",
+    "titleCn": "HSK 2 · 4-7",
+    "context": "4 từ vựng cùng nhóm nghĩa",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "中医",
+      "住院",
+      "座",
+      "座位"
+    ],
+    "examples": {
       "中医": [
         "他喜欢学习中医知识。",
         "Anh ấy thích học kiến thức về Đông y.",

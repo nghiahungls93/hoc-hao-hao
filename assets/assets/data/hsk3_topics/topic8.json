@@ -1,9 +1,9 @@
 [
   {
-    "id": "hsk3-review",
+    "id": "hsk3-review-lesson-01",
     "title": "Ôn tập tổng hợp HSK 3",
     "titleCn": "HSK 3 · 复习",
-    "context": "Ôn lại các từ đã học trong cấp độ này",
+    "context": "Bài ôn tập 15 từ",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
@@ -22,22 +22,7 @@
       "搬",
       "搬家",
       "板",
-      "办理",
-      "保",
-      "保安",
-      "保持",
-      "保存",
-      "保护",
-      "保留",
-      "保险",
-      "保证",
-      "报",
-      "报到",
-      "报道",
-      "报告",
-      "背",
-      "北部",
-      "背"
+      "办理"
     ],
     "examples": {
       "安心": [
@@ -95,11 +80,6 @@
         "Ngày mai tôi phải chuyển nhà đi.",
         "Wǒ míngtiān yào bānjiā"
       ],
-      "搬家": [
-        "",
-        "",
-        ""
-      ],
       "板": [
         "他坐在一块木板上。",
         "Anh ấy đang ngồi trên một tấm ván gỗ.",
@@ -109,76 +89,6 @@
         "我去银行办理银行卡。",
         "Tôi đến ngân hàng để làm thẻ ngân hàng.",
         "Wǒ qù yínháng bànlǐ yínhángkǎ"
-      ],
-      "保": [
-        "那个保安很热情。",
-        "Anh bảo vệ đó rất nhiệt tình.",
-        "Nàgè bǎo’ān hěn rèqíng"
-      ],
-      "保安": [
-        "",
-        "",
-        ""
-      ],
-      "保持": [
-        "(tô đỏ 保持)健康很重要。",
-        "Duy trì sức khỏe là rất quan trọng.",
-        "Bǎochí jiànkāng hěn zhòngyào"
-      ],
-      "保存": [
-        "请保存这个文件。",
-        "Hãy lưu giữ tài liệu này.",
-        "Qǐng bǎocún zhège wénjiàn"
-      ],
-      "保护": [
-        "我们要保护环境。",
-        "Chúng ta phải bảo vệ môi trường.",
-        "Wǒmen yào bǎohù huánjìng"
-      ],
-      "保留": [
-        "这些东西要保留吗？",
-        "Những đồ vật này cần giữ lại không?",
-        "Zhèxiē dōngxi yào bǎoliú ma?"
-      ],
-      "保险": [
-        "他买了健康保险。",
-        "Anh ấy đã mua bảo hiểm sức khỏe.",
-        "Tā mǎi le jiànkāng bǎoxiǎn"
-      ],
-      "保证": [
-        "我保证不迟到。",
-        "Tôi đảm bảo sẽ không đến muộn.",
-        "Wǒ bǎozhèng bù chídào"
-      ],
-      "报": [
-        "他的事迹终于见(tô đỏ报)了。",
-        "Cuối cùng sự việc của anh ấy cũng được đăng báo.",
-        "Tā de shìjì zhōngyú jiàn bào le"
-      ],
-      "报到": [
-        "新学生要先报到。",
-        "Học sinh mới phải báo danh trước.",
-        "Xīn xuéshēng yào xiān bàodào"
-      ],
-      "报道": [
-        "新闻报道了这件事。",
-        "Tin tức đã đưa tin về việc này.",
-        "Xīnwén bàodào le zhè jiàn shì"
-      ],
-      "报告": [
-        "他写了一个报告。",
-        "Anh ấy đã viết một bản báo cáo.",
-        "Tā xiě le yí gè bàogào"
-      ],
-      "背": [
-        "我的背有点疼。",
-        "Lưng của tôi đang hơi đau.",
-        "Wǒ de bèi yǒudiǎn téng"
-      ],
-      "北部": [
-        "中国的北部很冷。",
-        "Miền Bắc Trung Quốc rất lạnh.",
-        "Zhōngguó de běibù hěn lěng"
       ]
     }
   }
