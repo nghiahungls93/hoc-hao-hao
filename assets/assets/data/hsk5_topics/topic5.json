@@ -1,0 +1,885 @@
+[
+  {
+    "id": "hsk5-topic-05",
+    "title": "Kinh tế và đời sống",
+    "titleCn": "HSK 5 · 5",
+    "context": "Từ vựng HSK 5 cùng chủ đề",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "拔",
+      "白酒",
+      "包装",
+      "比重",
+      "便于",
+      "饼",
+      "饼干",
+      "不许",
+      "猜",
+      "采购",
+      "餐馆",
+      "餐厅",
+      "餐饮",
+      "册",
+      "叉",
+      "肠",
+      "厂长",
+      "成本",
+      "成交",
+      "冲突",
+      "除夕",
+      "厨房",
+      "辞典",
+      "存款",
+      "打包",
+      "大伙儿",
+      "代价",
+      "贷款",
+      "蛋糕",
+      "挡",
+      "道德",
+      "动手",
+      "对应",
+      "罚款",
+      "分成",
+      "分解",
+      "幅度",
+      "辅助",
+      "改革",
+      "光荣",
+      "滚",
+      "锅",
+      "国民",
+      "合成",
+      "盒饭",
+      "后悔",
+      "慌",
+      "汇款",
+      "会谈",
+      "火腿",
+      "基地",
+      "基金",
+      "技能",
+      "夹",
+      "甲",
+      "价",
+      "艰难",
+      "间接",
+      "胶带",
+      "颗",
+      "利润",
+      "脸盆",
+      "流通",
+      "码头",
+      "买卖",
+      "煤气",
+      "摩擦",
+      "男性",
+      "难以",
+      "拍摄",
+      "赔",
+      "喷",
+      "平原",
+      "评估",
+      "泼",
+      "葡萄酒",
+      "其",
+      "起到",
+      "签名",
+      "签字",
+      "前景",
+      "欠",
+      "情形",
+      "泉",
+      "入门",
+      "散文",
+      "商标",
+      "上涨",
+      "舍得",
+      "神经",
+      "升高",
+      "剩下",
+      "拾",
+      "寿司",
+      "蔬菜",
+      "鼠",
+      "摔倒",
+      "水分",
+      "水库",
+      "随着",
+      "特性",
+      "天然气",
+      "土豆",
+      "兔",
+      "完了",
+      "委托",
+      "污水",
+      "物价",
+      "香肠",
+      "向上",
+      "歇",
+      "协议书",
+      "欣赏",
+      "性能",
+      "押金",
+      "严厉",
+      "邀请",
+      "业务",
+      "依据",
+      "乙",
+      "饮料",
+      "饮食",
+      "用来",
+      "用于",
+      "月饼",
+      "糟糕",
+      "增",
+      "增产",
+      "增大",
+      "增多",
+      "增强",
+      "涨",
+      "涨价",
+      "正版",
+      "挣钱",
+      "职能",
+      "职务",
+      "指甲",
+      "中断",
+      "中秋节",
+      "中药",
+      "助理",
+      "注册",
+      "转化",
+      "醉"
+    ],
+    "examples": {
+      "拔": [
+        "他用力拔出了那颗牙。",
+        "Anh ấy dùng sức nhổ ra cái răng đó.",
+        "Tā yònglì bá chū le nà kē yá."
+      ],
+      "白酒": [
+        "中国人过节常喝白酒。",
+        "Người Trung Quốc thường uống rượu trắng vào dịp lễ.",
+        "Zhōngguórén guòjié cháng hē báijiǔ."
+      ],
+      "包装": [
+        "这个礼物包装得很漂亮。",
+        "Món quà này được đóng gói rất đẹp.",
+        "Zhège lǐwù bāozhuāng de hěn piàoliang."
+      ],
+      "比重": [
+        "水在地球上的比重很大。",
+        "Tỷ trọng của nước trên Trái Đất rất lớn.",
+        "Shuǐ zài dìqiú shàng de bǐzhòng hěn dà."
+      ],
+      "便于": [
+        "这个设计便于携带。",
+        "Thiết kế này thuận tiện cho việc mang theo.",
+        "Zhège shèjì biànyú xiédài."
+      ],
+      "饼": [
+        "月饼是中秋节的传统食品。",
+        "Bánh trung thu là món ăn truyền thống dịp Trung thu.",
+        "Yuèbǐng shì Zhōngqiūjié de chuántǒng shípǐn."
+      ],
+      "饼干": [
+        "孩子喜欢吃巧克力饼干。",
+        "Trẻ con thích ăn bánh quy socola.",
+        "Háizi xǐhuan chī qiǎokèlì bǐnggān."
+      ],
+      "不许": [
+        "这里不许吸烟。",
+        "Ở đây cấm hút thuốc.",
+        "Zhèlǐ bùxǔ xīyān."
+      ],
+      "猜": [
+        "你猜猜我买了什么。",
+        "Bạn đoán xem tôi mua gì.",
+        "Nǐ cāi cāi wǒ mǎile shénme."
+      ],
+      "采购": [
+        "公司派我去采购材料。",
+        "Công ty cử tôi đi mua nguyên liệu.",
+        "Gōngsī pài wǒ qù cǎigòu cáiliào."
+      ],
+      "餐馆": [
+        "这家餐馆的菜很好吃。",
+        "Quán ăn này món ăn rất ngon.",
+        "Zhè jiā cānguǎn de cài hěn hǎochī."
+      ],
+      "餐厅": [
+        "我们去餐厅吃饭吧。",
+        "Chúng ta đi ăn ở nhà hàng nhé.",
+        "Wǒmen qù cāntīng chīfàn ba."
+      ],
+      "餐饮": [
+        "餐饮行业竞争激烈。",
+        "Ngành ăn uống cạnh tranh gay gắt.",
+        "Cānyǐn hángyè jìngzhēng jīliè."
+      ],
+      "册": [
+        "我买了三册词典。",
+        "Tôi mua ba cuốn từ điển.",
+        "Wǒ mǎile sān cè cídiǎn."
+      ],
+      "叉": [
+        "用叉子吃牛排。",
+        "Dùng nĩa ăn bò bít tết.",
+        "Yòng chāzi chī niúpái."
+      ],
+      "肠": [
+        "猪大肠很好吃。",
+        "Lòng lợn heo rất ngon.",
+        "Zhū dàcháng hěn hǎochī."
+      ],
+      "厂长": [
+        "厂长正在开会。",
+        "Giám đốc nhà máy đang họp.",
+        "Chǎngzhǎng zhèngzài kāihuì."
+      ],
+      "成本": [
+        "这个产品的成本很高。",
+        "Chi phí sản xuất sản phẩm này rất cao.",
+        "Zhège chǎnpǐn de chéngběn hěn gāo."
+      ],
+      "成交": [
+        "双方谈好了价格，终于成交了。",
+        "Hai bên thỏa thuận giá cả xong, cuối cùng chốt giao dịch.",
+        "Shuāngfāng tán hǎo le jiàgé, zhōngyú chéngjiāo le."
+      ],
+      "冲突": [
+        "两国之间发生了冲突。",
+        "Giữa hai nước xảy ra xung đột.",
+        "Liǎng guó zhījiān fāshēng le chōngtū."
+      ],
+      "除夕": [
+        "除夕晚上我们吃团圆饭。",
+        "Tối giao thừa chúng tôi ăn cơm tất niên.",
+        "Chúxī wǎnshang wǒmen chī tuányuánfàn."
+      ],
+      "厨房": [
+        "妈妈在厨房做饭。",
+        "Mẹ đang nấu cơm trong bếp.",
+        "Māma zài chúfáng zuò fàn."
+      ],
+      "辞典": [
+        "我买了一本汉越辞典。",
+        "Tôi mua một cuốn từ điển Hán-Việt.",
+        "Wǒ mǎi le yī běn Hàn-Yuè cídiǎn."
+      ],
+      "存款": [
+        "我有十万元存款。",
+        "Tôi có mười vạn tiền gửi ngân hàng.",
+        "Wǒ yǒu shí wàn yuán cúnkuǎn."
+      ],
+      "打包": [
+        "请帮我把剩下的菜打包。",
+        "Làm ơn gói mang về phần thức ăn còn lại cho tôi.",
+        "Qǐng bāng wǒ bǎ shèngxià de cài dǎbāo."
+      ],
+      "大伙儿": [
+        "大伙儿一起去吃饭吧。",
+        "Mọi người cùng đi ăn cơm nhé.",
+        "Dàhuǒr yīqǐ qù chīfàn ba."
+      ],
+      "代价": [
+        "成功需要付出代价。",
+        "Thành công cần phải trả giá.",
+        "Chénggōng xūyào fùchū dàijià."
+      ],
+      "贷款": [
+        "银行给我贷款买房。",
+        "Ngân hàng cho tôi vay tiền mua nhà.",
+        "Yínháng gěi wǒ dàikuǎn mǎifáng."
+      ],
+      "蛋糕": [
+        "生日要吃蛋糕。",
+        "Sinh nhật phải ăn bánh ga tô.",
+        "Shēngrì yào chī dàngāo."
+      ],
+      "挡": [
+        "请别挡着电视。",
+        "Đừng che khuất ti vi.",
+        "Qǐng bié dǎng zhe diànshì."
+      ],
+      "道德": [
+        "道德教育很重要。",
+        "Giáo dục đạo đức rất quan trọng.",
+        "Dàodé jiàoyù hěn zhòngyào."
+      ],
+      "动手": [
+        "我们一起动手做饭吧。",
+        "Chúng ta cùng tự nấu cơm đi.",
+        "Wǒmen yīqǐ dòngshǒu zuò fàn ba."
+      ],
+      "对应": [
+        "这个键对应这个功能。",
+        "Phím này tương ứng với chức năng này.",
+        "Zhège jiàn duìyìng zhège gōngnéng."
+      ],
+      "罚款": [
+        "违章停车要罚款。",
+        "Đỗ xe sai quy định sẽ bị phạt tiền.",
+        "Wéizhāng tíngchē yào fákuǎn."
+      ],
+      "分成": [
+        "我们把钱分成两份。",
+        "Chúng ta chia tiền thành hai phần.",
+        "Wǒmen bǎ qián fēnchéng liǎng fèn."
+      ],
+      "分解": [
+        "这个物质可以分解成水和氧气。",
+        "Chất này có thể phân giải thành nước và oxy.",
+        "Zhège wùzhì kěyǐ fēnjiě chéng shuǐ hé yǎngqì."
+      ],
+      "幅度": [
+        "价格幅度很大。",
+        "Biên độ giá cả rất lớn.",
+        "Jiàgé fúdù hěn dà."
+      ],
+      "辅助": [
+        "这个软件有辅助功能。",
+        "Phần mềm này có chức năng hỗ trợ.",
+        "Zhège ruǎnjiàn yǒu fǔzhù gōngnéng."
+      ],
+      "改革": [
+        "教育改革很重要。",
+        "Cải cách giáo dục rất quan trọng.",
+        "Jiàoyù gǎigé hěn zhòngyào."
+      ],
+      "光荣": [
+        "为国争光很光荣。",
+        "Giành vinh quang cho đất nước rất vẻ vang.",
+        "Wèi guó zhēng guāng hěn guāngróng."
+      ],
+      "滚": [
+        "水滚了，可以泡茶了。",
+        "Nước sôi rồi, có thể pha trà được.",
+        "Shuǐ gǔn le, kěyǐ pào chá le."
+      ],
+      "锅": [
+        "今晚我们吃火锅。",
+        "Tối nay chúng ta ăn lẩu.",
+        "Jīnwǎn wǒmen chī huǒguō."
+      ],
+      "国民": [
+        "国民收入提高了。",
+        "Thu nhập quốc dân tăng lên.",
+        "Guómín shōurù tígāo le."
+      ],
+      "合成": [
+        "水由氢和氧合成。",
+        "Nước được hợp thành từ hydro và oxy.",
+        "Shuǐ yóu qīng hé yǎng héchéng."
+      ],
+      "盒饭": [
+        "我中午吃盒饭。",
+        "Trưa nay tôi ăn cơm hộp.",
+        "Wǒ zhōngwǔ chī héfàn."
+      ],
+      "后悔": [
+        "我后悔没早点买。",
+        "Tôi hối hận không mua sớm hơn.",
+        "Wǒ hòuhuǐ méi zǎo diǎn mǎi."
+      ],
+      "慌": [
+        "不要慌，慢慢来。",
+        "Đừng hoảng, từ từ thôi.",
+        "Bùyào huāng, mànmàn lái."
+      ],
+      "汇款": [
+        "我给你汇款了。",
+        "Tôi đã chuyển tiền cho bạn.",
+        "Wǒ gěi nǐ huìkuǎn le."
+      ],
+      "会谈": [
+        "两国领导人进行会谈。",
+        "Lãnh đạo hai nước tiến hành hội đàm.",
+        "Liǎng guó lǐngdǎorén jìnxíng huìtán."
+      ],
+      "火腿": [
+        "我喜欢吃火腿三明治。",
+        "Tôi thích ăn bánh mì kẹp giăm bông.",
+        "Wǒ xǐhuān chī huǒtuǐ sānmíngzhì."
+      ],
+      "基地": [
+        "这是军事基地。",
+        "Đây là căn cứ quân sự.",
+        "Zhè shì jūnshì jīdì."
+      ],
+      "基金": [
+        "我买了股票基金。",
+        "Tôi mua quỹ cổ phiếu.",
+        "Wǒ mǎile gǔpiào jījīn."
+      ],
+      "技能": [
+        "电脑技能很重要。",
+        "Kỹ năng máy tính rất quan trọng.",
+        "Diànnǎo jìnéng hěn zhòngyào."
+      ],
+      "夹": [
+        "用筷子夹菜。",
+        "Dùng đũa gắp thức ăn.",
+        "Yòng kuàizi jiā cài."
+      ],
+      "甲": [
+        "指甲很长了。",
+        "Móng tay dài rồi.",
+        "Zhǐjia hěn cháng le."
+      ],
+      "价": [
+        "这个价太贵了。",
+        "Giá này đắt quá.",
+        "Zhège jià tài guì le."
+      ],
+      "艰难": [
+        "任务很艰难。",
+        "Nhiệm vụ rất khó khăn.",
+        "Rènwù hěn jiānnán."
+      ],
+      "间接": [
+        "通过间接方式知道。",
+        "Biết qua cách gián tiếp.",
+        "Tōngguò jiànjiē fāngshì zhīdào."
+      ],
+      "胶带": [
+        "用胶带粘好。",
+        "Dùng băng keo dán lại.",
+        "Yòng jiāodài zhān hǎo."
+      ],
+      "颗": [
+        "一颗星星",
+        "Một ngôi sao",
+        "Yī kē xīngxing"
+      ],
+      "利润": [
+        "公司利润增加了。",
+        "Lợi nhuận công ty tăng lên.",
+        "Gōngsī lìrùn zēngjiā le."
+      ],
+      "脸盆": [
+        "脸盆里放点热水。",
+        "Cho chút nước nóng vào chậu rửa mặt.",
+        "Liǎnpén lǐ fàng diǎn rèshuǐ."
+      ],
+      "流通": [
+        "货币流通顺利。",
+        "Tiền tệ lưu thông thuận lợi.",
+        "Huòbì liútōng shùnlì."
+      ],
+      "码头": [
+        "货物在码头卸下。",
+        "Hàng hóa được dỡ xuống ở bến cảng.",
+        "Huòwù zài mǎtóu xiè xià."
+      ],
+      "买卖": [
+        "做买卖要诚信。",
+        "Buôn bán phải thành thật.",
+        "Zuò mǎimài yào chéngxìn."
+      ],
+      "煤气": [
+        "厨房用煤气做饭。",
+        "Bếp dùng ga nấu ăn.",
+        "Chúfáng yòng méiqì zuò fàn."
+      ],
+      "摩擦": [
+        "两国之间有摩擦。",
+        "Giữa hai nước có xung đột.",
+        "Liǎng guó zhījiān yǒu mócā."
+      ],
+      "男性": [
+        "这款香水适合男性。",
+        "Nước hoa này phù hợp với nam giới.",
+        "Zhè kuǎn xiāngshuǐ shìhé nánxìng."
+      ],
+      "难以": [
+        "难以置信。",
+        "Khó mà tin được.",
+        "Nányǐ zhìxìn."
+      ],
+      "拍摄": [
+        "他们在拍摄电影。",
+        "Họ đang quay phim.",
+        "Tāmen zài pāishè diànyǐng."
+      ],
+      "赔": [
+        "坏了就赔钱吧。",
+        "Hỏng thì đền tiền đi.",
+        "Huài le jiù péi qián ba."
+      ],
+      "喷": [
+        "花洒喷出热水。",
+        "Vòi sen phun nước nóng.",
+        "Huāsǎ pēn chū rèshuǐ."
+      ],
+      "平原": [
+        "华北平原很大。",
+        "Đồng bằng Hoa Bắc rất rộng lớn.",
+        "Huáběi píngyuán hěn dà."
+      ],
+      "评估": [
+        "需要对项目进行评估。",
+        "Cần đánh giá dự án.",
+        "Xūyào duì xiàngmù jìnxíng pínggū."
+      ],
+      "泼": [
+        "小心别把水泼出来。",
+        "Cẩn thận đừng làm đổ nước ra.",
+        "Xiǎoxīn bié bǎ shuǐ pō chūlái."
+      ],
+      "葡萄酒": [
+        "来一杯红葡萄酒吧。",
+        "Uống một ly rượu vang đỏ nhé.",
+        "Lái yī bēi hóng pútaojiǔ ba."
+      ],
+      "其": [
+        "各尽其能。",
+        "Mỗi người phát huy hết khả năng của mình.",
+        "Gè jìn qí néng."
+      ],
+      "起到": [
+        "教育起到重要作用。",
+        "Giáo dục đóng vai trò quan trọng.",
+        "Jiàoyù qǐdào zhòngyào zuòyòng."
+      ],
+      "签名": [
+        "明星签名很值钱。",
+        "Chữ ký của ngôi sao rất có giá trị.",
+        "Míngxīng qiānmíng hěn zhíqián."
+      ],
+      "签字": [
+        "领导已经在文件上签字了。",
+        "Lãnh đạo đã ký tên vào văn bản rồi.",
+        "Lǐngdǎo yǐjīng zài wénjiàn shang qiānzì le."
+      ],
+      "前景": [
+        "这个行业前景很好。",
+        "Ngành này có triển vọng rất tốt.",
+        "Zhège hángyè qiánjǐng hěn hǎo."
+      ],
+      "欠": [
+        "我欠他一百块钱。",
+        "Tôi nợ anh ấy một trăm tệ.",
+        "Wǒ qiàn tā yībǎi kuài qián."
+      ],
+      "情形": [
+        "当前情形不太好。",
+        "Tình hình hiện tại không tốt lắm.",
+        "Dāngqián qíngxíng bù tài hǎo."
+      ],
+      "泉": [
+        "温泉很舒服。",
+        "Suối nước nóng rất thoải mái.",
+        "Wēnquán hěn shūfu."
+      ],
+      "入门": [
+        "这本书是汉语入门教材。",
+        "Quyển sách này là giáo trình nhập môn tiếng Hán.",
+        "Zhè běn shū shì Hànyǔ rùmén jiàocái."
+      ],
+      "散文": [
+        "朱自清的散文很美。",
+        "Tản văn của Chu Tự Thanh rất đẹp.",
+        "Zhū Zìqīng de sǎnwén hěn měi."
+      ],
+      "商标": [
+        "注册商标保护品牌。",
+        "Đăng ký thương hiệu để bảo vệ nhãn hiệu.",
+        "Zhùcè shāngbiāo bǎohù pǐnpái."
+      ],
+      "上涨": [
+        "物价上涨了。",
+        "Vật giá tăng lên.",
+        "Wùjià shàngzhǎng le."
+      ],
+      "舍得": [
+        "你舍得花这么多钱吗？",
+        "Bạn chịu chi nhiều tiền thế sao?",
+        "Nǐ shěde huā zhème duō qián ma?"
+      ],
+      "神经": [
+        "神经很紧张。",
+        "Thần kinh rất căng thẳng.",
+        "Shénjīng hěn jǐnzhāng."
+      ],
+      "升高": [
+        "气温在升高。",
+        "Nhiệt độ đang tăng lên.",
+        "Qìwēn zài shēnggāo."
+      ],
+      "剩下": [
+        "饭剩下很多。",
+        "Cơm còn thừa rất nhiều.",
+        "Fàn shèngxià hěn duō."
+      ],
+      "拾": [
+        "他弯腰拾起钱包。",
+        "Anh ấy cúi xuống nhặt ví tiền.",
+        "Tā wānyāo shí qǐ qiánbāo."
+      ],
+      "寿司": [
+        "我想吃寿司。",
+        "Tôi muốn ăn sushi.",
+        "Wǒ xiǎng chī shòusī."
+      ],
+      "蔬菜": [
+        "多吃蔬菜对健康好。",
+        "Ăn nhiều rau củ tốt cho sức khỏe.",
+        "Duō chī shūcài duì jiànkāng hǎo."
+      ],
+      "鼠": [
+        "十二生肖有鼠。",
+        "12 con giáp có chuột.",
+        "Shí’èr shēngxiào yǒu shǔ."
+      ],
+      "摔倒": [
+        "老人摔倒了。",
+        "Ông lão ngã xuống rồi.",
+        "Lǎorén shuāidǎo le."
+      ],
+      "水分": [
+        "水果水分很多。",
+        "Trái cây có nhiều nước.",
+        "Shuǐguǒ shuǐfèn hěn duō."
+      ],
+      "水库": [
+        "水库蓄满了水。",
+        "Hồ chứa đầy nước.",
+        "Shuǐkù xù mǎnle shuǐ."
+      ],
+      "随着": [
+        "随着年龄增长...",
+        "Theo tuổi tác tăng lên...",
+        "Suízhe niánlíng zēngzhǎng..."
+      ],
+      "特性": [
+        "这种材料有防水特性。",
+        "Loại vật liệu này có đặc tính chống nước.",
+        "Zhè zhǒng cáiliào yǒu fángshuǐ tèxìng."
+      ],
+      "天然气": [
+        "我们家用天然气做饭。",
+        "Nhà chúng tôi dùng khí thiên nhiên để nấu ăn.",
+        "Wǒmen jiā yòng tiānránqì zuò fàn."
+      ],
+      "土豆": [
+        "今晚吃炸土豆吧。",
+        "Tối nay ăn khoai tây chiên nhé.",
+        "Jīn wǎn chī zhá tǔdòu ba."
+      ],
+      "兔": [
+        "玉兔是月亮上的兔子。",
+        "Ngọc Thỏ là con thỏ trên mặt trăng.",
+        "Yùtù shì yuèliang shang de tùzi."
+      ],
+      "完了": [
+        "饭吃完了。",
+        "Cơm ăn hết rồi.",
+        "Fàn chī wánle."
+      ],
+      "委托": [
+        "我委托他买票。",
+        "Tôi ủy thác anh ấy mua vé.",
+        "Wǒ wěituō tā mǎi piào."
+      ],
+      "污水": [
+        "污水要处理后排放。",
+        "Nước thải phải xử lý trước khi xả.",
+        "Wūshuǐ yào chǔlǐ hòu páifàng."
+      ],
+      "物价": [
+        "最近物价上涨了。",
+        "Gần đây vật giá tăng lên.",
+        "Zuìjìn wùjià shàngzhǎng le."
+      ],
+      "香肠": [
+        "烤香肠很好吃。",
+        "Xúc xích nướng ngon lắm.",
+        "Kǎo xiāngcháng hěn hǎochī."
+      ],
+      "向上": [
+        "股价向上涨。",
+        "Giá cổ phiếu tăng lên.",
+        "Gǔjià xiàngshàng zhǎng."
+      ],
+      "歇": [
+        "歇一会儿再干。",
+        "Nghỉ một lát rồi làm tiếp.",
+        "Xiē yīhuǐr zài gàn."
+      ],
+      "协议书": [
+        "看协议书内容。",
+        "Xem nội dung văn bản thỏa thuận.",
+        "Kàn xiéyìshū nèiróng."
+      ],
+      "欣赏": [
+        "我很欣赏他的才华。",
+        "Tôi rất đánh giá cao tài năng của anh ấy.",
+        "Wǒ hěn xīnshǎng tā de cáihuá."
+      ],
+      "性能": [
+        "这款手机性能很好。",
+        "Điện thoại này hiệu suất rất tốt.",
+        "Zhè kuǎn shǒujī xìngnéng hěn hǎo."
+      ],
+      "押金": [
+        "租房要交押金。",
+        "Thuê nhà phải đặt cọc tiền.",
+        "Zū fáng yào jiāo yājīn."
+      ],
+      "严厉": [
+        "老师很严厉。",
+        "Thầy giáo rất nghiêm khắc.",
+        "Lǎoshī hěn yánlì."
+      ],
+      "邀请": [
+        "我邀请你来吃饭。",
+        "Tôi mời bạn đến ăn cơm.",
+        "Wǒ yāoqǐng nǐ lái chīfàn."
+      ],
+      "业务": [
+        "他负责销售业务。",
+        "Anh ấy phụ trách nghiệp vụ bán hàng.",
+        "Tā fùzé xiāoshòu yèwù."
+      ],
+      "依据": [
+        "以事实为依据。",
+        "Lấy sự thật làm căn cứ.",
+        "Yǐ shìshí wéi yījù."
+      ],
+      "乙": [
+        "甲乙丙丁。",
+        "Giáp ất bính đinh.",
+        "Jiǎ yǐ bǐng dīng."
+      ],
+      "饮料": [
+        "我想喝冷饮料。",
+        "Tôi muốn uống đồ uống lạnh.",
+        "Wǒ xiǎng hē lěng yǐnliào."
+      ],
+      "饮食": [
+        "注意饮食健康。",
+        "Chú ý chế độ ăn uống lành mạnh.",
+        "Zhùyì yǐnshí jiànkāng."
+      ],
+      "用来": [
+        "这个工具用来切菜。",
+        "Công cụ này dùng để cắt rau.",
+        "Zhège gōngjù yònglái qiē cài."
+      ],
+      "用于": [
+        "这个钱用于教育。",
+        "Số tiền này dùng cho giáo dục.",
+        "Zhège qián yòngyú jiàoyù."
+      ],
+      "月饼": [
+        "中秋节吃月饼。",
+        "Tết Trung thu ăn bánh trung thu.",
+        "Zhōngqiūjié chī yuèbǐng."
+      ],
+      "糟糕": [
+        "情况越来越糟糕。",
+        "Tình hình càng lúc càng tệ.",
+        "Qíngkuàng yuè lái yuè zāogāo."
+      ],
+      "增": [
+        "产量增加了。",
+        "Sản lượng tăng lên.",
+        "Chǎnliàng zēngjiā le."
+      ],
+      "增产": [
+        "农民努力增产粮食。",
+        "Nông dân nỗ lực tăng sản lượng lương thực.",
+        "Nóngmín nǔlì zēngchǎn liángshi."
+      ],
+      "增大": [
+        "风险在增大。",
+        "Rủi ro đang tăng lên.",
+        "Fēngxiǎn zài zēngdà."
+      ],
+      "增多": [
+        "人口不断增多。",
+        "Dân số không ngừng tăng.",
+        "Rénkǒu bùduàn zēngduō."
+      ],
+      "增强": [
+        "锻炼可以增强体质。",
+        "Tập luyện có thể tăng cường thể chất.",
+        "Duànliàn kěyǐ zēngqiáng tǐzhì."
+      ],
+      "涨": [
+        "水位在涨。",
+        "Mực nước đang dâng.",
+        "Shuǐwèi zài zhǎng."
+      ],
+      "涨价": [
+        "商品又涨价了。",
+        "Hàng hóa lại tăng giá rồi.",
+        "Shāngpǐn yòu zhǎngjià le."
+      ],
+      "正版": [
+        "请买正版软件。",
+        "Hãy mua phần mềm chính hãng.",
+        "Qǐng mǎi zhèngbǎn ruǎnjiàn."
+      ],
+      "挣钱": [
+        "年轻人要学会挣钱。",
+        "Người trẻ cần học cách kiếm tiền.",
+        "Niánqīng rén yào xuéhuì zhèngqián."
+      ],
+      "职能": [
+        "政府职能要转变。",
+        "Chức năng chính phủ cần chuyển biến.",
+        "Zhèngfǔ zhínéng yào zhuǎnbiàn."
+      ],
+      "职务": [
+        "他升了职务。",
+        "Anh ấy được thăng chức.",
+        "Tā shēngle zhíwù."
+      ],
+      "指甲": [
+        "剪指甲要定期。",
+        "Cắt móng tay cần định kỳ.",
+        "Jiǎn zhǐjia yào dìngqī."
+      ],
+      "中断": [
+        "会议被中断了。",
+        "Cuộc họp bị gián đoạn.",
+        "Huìyì bèi zhōngduàn le."
+      ],
+      "中秋节": [
+        "中秋节吃月饼。",
+        "Tết Trung Thu ăn bánh trung thu.",
+        "Zhōngqiūjié chī yuèbǐng."
+      ],
+      "中药": [
+        "他吃中药调理身体。",
+        "Anh ấy uống thuốc Bắc để điều dưỡng cơ thể.",
+        "Tā chī zhōngyào tiáolǐ shēntǐ."
+      ],
+      "助理": [
+        "总经理助理很忙。",
+        "Trợ lý tổng giám đốc rất bận.",
+        "Zǒng jīnglǐ zhùlǐ hěn máng."
+      ],
+      "注册": [
+        "在网站注册账号。",
+        "Đăng ký tài khoản trên website.",
+        "Zài wǎngzhàn zhùcè zhànghào."
+      ],
+      "转化": [
+        "把废物转化成能源。",
+        "Chuyển hóa rác thải thành năng lượng.",
+        "Bǎ fèiwù zhuǎnhuà chéng néngyuán."
+      ],
+      "醉": [
+        "他喝醉了。",
+        "Anh ấy say rượu rồi.",
+        "Tā hē zuì le."
+      ]
+    }
+  }
+]

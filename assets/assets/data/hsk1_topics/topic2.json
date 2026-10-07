@@ -1,0 +1,389 @@
+[
+  {
+    "id": "hsk1-topic-02",
+    "title": "Lớp học cơ bản",
+    "titleCn": "HSK 1 · 2",
+    "context": "Từ vựng HSK 1 cùng chủ đề",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "爸爸 | 爸",
+      "班",
+      "半年",
+      "车上",
+      "大学",
+      "大学生",
+      "得到",
+      "地上",
+      "东",
+      "动",
+      "读书",
+      "放学",
+      "工人",
+      "工作",
+      "国外",
+      "后 | 后边",
+      "九",
+      "开",
+      "考试",
+      "老师",
+      "累",
+      "慢",
+      "没什么",
+      "哪儿",
+      "那里",
+      "男",
+      "男生",
+      "南边",
+      "呢",
+      "年级",
+      "前边",
+      "认真",
+      "山",
+      "上",
+      "上课",
+      "上学",
+      "试",
+      "手",
+      "树",
+      "他们",
+      "同学",
+      "图书馆",
+      "问",
+      "我",
+      "西",
+      "小学",
+      "小学生",
+      "学",
+      "学生",
+      "学习",
+      "学校",
+      "学院",
+      "一半",
+      "有时候 | 有时",
+      "有用",
+      "右边",
+      "远",
+      "怎么",
+      "知识",
+      "中间",
+      "中学",
+      "中学生",
+      "重要",
+      "左边"
+    ],
+    "examples": {
+      "爸爸 | 爸": [
+        "他是我的爸爸。",
+        "Ông ấy là ba của tôi.",
+        "Tā shì wǒ de bàba"
+      ],
+      "班": [
+        "我们班有四十五个学生。",
+        "Lớp của chúng tôi có 45 học sinh.",
+        "Wǒmen bān yǒu sìshíwǔ gè xuéshēng"
+      ],
+      "半年": [
+        "我来上海学习已经有半年了。",
+        "Tôi đến Thượng Hải học đã được nửa năm.",
+        "Wǒ lái shànghǎi xuéxí yǐjīng yǒu bànnián le"
+      ],
+      "车上": [
+        "她在车上学英语。",
+        "Cô ấy học tiếng Anh trên xe.",
+        "Tā zài chē shàng xué yīngyǔ"
+      ],
+      "大学": [
+        "他在北京大学学习。",
+        "Anh ấy học ở Đại học Bắc Kinh.",
+        "Tā zài Běijīng dàxué xuéxí"
+      ],
+      "大学生": [
+        "我是大学生。",
+        "Tôi là sinh viên đại học.",
+        "Wǒ shì dàxuéshēng"
+      ],
+      "得到": [
+        "他得到了奖学金。",
+        "Anh ấy đã nhận được học bổng.",
+        "Tā dédào le jiǎngxuéjīn"
+      ],
+      "地上": [
+        "地上有很多树叶。",
+        "Dưới đất có rất nhiều lá cây.",
+        "Dìshàng yǒu hěnduō shùyè"
+      ],
+      "东": [
+        "学校在东边。",
+        "Trường học ở phía Đông.",
+        "Xuéxiào zài dōngbian/ "
+      ],
+      "动": [
+        "她的眼睛动了一下。",
+        "Mắt của cô ấy nhúc nhích một cái.",
+        "Tā de yǎnjīng dòng le yīxià"
+      ],
+      "读书": [
+        "他很努力读书。",
+        "Anh ấy rất chăm chỉ học bài.",
+        "Tā hěn nǔ lì dú shū"
+      ],
+      "放学": [
+        "我们下午四点半放学。",
+        "Chúng tôi tan học lúc 4 giờ 30 chiều.",
+        "Wǒmen xiàwǔ sì diǎn bàn fàngxué"
+      ],
+      "工人": [
+        "工人们每天都努力工作。",
+        "Những công nhân làm việc chăm chỉ mỗi ngày.",
+        "Gōngrénmen měitiān dōu nǔlì gōngzuò"
+      ],
+      "工作": [
+        "他的工作非常忙。",
+        "Công việc của anh ấy rất bận.",
+        "Tā de gōngzuò fēicháng máng"
+      ],
+      "国外": [
+        "他在国外上大学。",
+        "Anh ấy học đại học ở nước ngoài.",
+        "Tā zài guówài shàng dàxué"
+      ],
+      "后 | 后边": [
+        "书店在学校的后边。",
+        "Hiệu sách ở phía sau trường học.",
+        "Shūdiàn zài xuéxiào de hòubian"
+      ],
+      "九": [
+        "这个班有九个学生。",
+        "Lớp này có chín học sinh.",
+        "Zhège bān yǒu jiǔ gè xuéshēng"
+      ],
+      "开": [
+        "他正在学开车。",
+        "Anh ấy đang học lái xe.",
+        "Tā zhèngzài xué kāichē"
+      ],
+      "老师": [
+        "她是我们的汉语老师。",
+        "Cô ấy là giáo viên tiếng Trung của chúng tôi.",
+        "Tā shì wǒmen de Hànyǔ lǎoshī"
+      ],
+      "累": [
+        "今天工作很累。",
+        "Hôm nay công việc rất mệt.",
+        "Jīntiān gōngzuò hěn lèi"
+      ],
+      "慢": [
+        "请说慢一点儿。",
+        "Xin hãy nói chậm một chút.",
+        "Qǐng shuō màn yìdiǎnr"
+      ],
+      "没什么": [
+        "没什么好担心的。",
+        "Không có gì đáng lo lắng cả.",
+        "Méi shénme hǎo dānxīn de"
+      ],
+      "哪儿": [
+        "那部电影是在哪儿拍的？",
+        "Bộ phim đó được quay ở đâu vậy?",
+        "Nà bù diànyǐng shì zài nǎr pāi de"
+      ],
+      "那里": [
+        "我刚从那里回来。",
+        "Tôi vừa từ chỗ đó trở về.",
+        "Wǒ gāng cóng nàlǐ húilái"
+      ],
+      "男": [
+        "我们班有很多男同学。",
+        "Lớp chúng tôi có rất nhiều bạn học sinh nam.",
+        "Wǒmen bān yǒu hěnduō nán tóngxué"
+      ],
+      "男生": [
+        "这个班的男生比女生多。",
+        "Nam sinh trong lớp này nhiều hơn nữ sinh.",
+        "Zhège bān de nánshēng bǐ nǚshēng duō"
+      ],
+      "南边": [
+        "我家在学校南边。",
+        "Nhà tôi ở phía nam của trường.",
+        "Wǒ jiā zài xuéxiào nánbiān"
+      ],
+      "呢": [
+        "我是学生，你呢？",
+        "Tớ là học sinh, còn cậu thì sao?",
+        "Wǒ shì xuéshēng, nǐ ne"
+      ],
+      "年级": [
+        "你是几年级的学生？",
+        "Bạn là học sinh lớp mấy?",
+        "Nǐ shì jǐ niánjí de xuéshēng"
+      ],
+      "前边": [
+        "学校就在前边。",
+        "Trường học ở ngay phía trước.",
+        "Xuéxiào jiù zài qiánbiān"
+      ],
+      "认真": [
+        "他学习很认真。",
+        "Anh ấy học rất chăm chỉ.",
+        "Tā xuéxí hěn rènzhēn"
+      ],
+      "山": [
+        "那座山很高。",
+        "Ngọn núi đó rất cao.",
+        "Nà zuò shān hěn gāo"
+      ],
+      "上": [
+        "书在桌子上。",
+        "Quyển sách ở trên bàn.",
+        "Shū zài zhuōzi shàng"
+      ],
+      "上课": [
+        "现在是上课时间。",
+        "Bây giờ là thời gian lên lớp.",
+        "Xiànzài shì shàngkè shíjiān"
+      ],
+      "上学": [
+        "孩子们七点上学。",
+        "Bọn trẻ đi học lúc 7 giờ.",
+        "Háizimen qī diǎn shàng xué"
+      ],
+      "试": [
+        "我可以试一试吗？",
+        "Tôi có thể thử một chút không?",
+        "Wǒ kěyǐ shì yī shì ma?"
+      ],
+      "手": [
+        "请把手洗干净。",
+        "Hãy rửa tay sạch sẽ.",
+        "Qǐng bǎ shǒu xǐ gānjìng"
+      ],
+      "树": [
+        "这里有一棵大树。",
+        "Ở đây có một cái cây lớn.",
+        "Zhè lǐ yǒu yī kē dà shù"
+      ],
+      "他们": [
+        "他们在学校学习。",
+        "Họ đang học ở trường.",
+        "Tāmen zài xuéxiào xuéxí"
+      ],
+      "同学": [
+        "这是我的同学。",
+        "Đây là bạn học của tôi.",
+        "Zhè shì wǒ de tóngxué"
+      ],
+      "图书馆": [
+        "学校里有三个图书馆。",
+        "Trường có ba thư viện.",
+        "Xuéxiào li yǒu sān gè túshū guǎn"
+      ],
+      "问": [
+        "你可以问问老师这个问题。",
+        "Bạn có thể hỏi giáo viên câu hỏi này.",
+        "Nǐ kěyǐ wèn wèn lǎoshī zhège wèntí"
+      ],
+      "我": [
+        "我是学生。",
+        "Tôi là học sinh.",
+        "Wǒ shì xuéshēng"
+      ],
+      "西": [
+        "我家在学校西边。",
+        "Nhà tôi ở phía tây của trường.",
+        "Wǒ jiā zài xuéxiào xībiān"
+      ],
+      "小学": [
+        "我弟弟上小学二年级。",
+        "Em trai tôi học lớp 2 tiểu học.",
+        "Wǒ dìdi shàng xiǎoxué èr niánjí"
+      ],
+      "小学生": [
+        "她是个聪明的小学生。",
+        "Cô bé ấy là một học sinh tiểu học thông minh.",
+        "Tā shì gè cōngmíng de xiǎoxuéshēng"
+      ],
+      "学": [
+        "我在学汉语。",
+        "Tôi đang học tiếng Trung.",
+        "Wǒ zài xué Hànyǔ"
+      ],
+      "学生": [
+        "她是我的学生。",
+        "Cô ấy là học sinh của tôi.",
+        "Tā shì wǒ de xuéshēng"
+      ],
+      "学习": [
+        "我们应该认真学习。",
+        "Chúng ta nên học tập chăm chỉ.",
+        "Wǒmen yīnggāi rènzhēn xuéxí"
+      ],
+      "学校": [
+        "我们学校很大。",
+        "Trường của chúng tôi rất lớn.",
+        "Wǒmen xuéxiào hěn dà"
+      ],
+      "学院": [
+        "这个学院很大很漂亮。",
+        "Học viện này rất lớn và đẹp.",
+        "Zhège xuéyuàn hěn dà hěn piàoliang"
+      ],
+      "一半": [
+        "我们班一半是男生。",
+        "Một nửa lớp chúng tôi là nam sinh.",
+        "Wǒmen bān yíbàn shì nánshēng"
+      ],
+      "有时候 | 有时": [
+        "我有时候去图书馆学习。",
+        "Đôi khi tôi đến thư viện học.",
+        "Wǒ yǒu shíhòu qù túshūguǎn xuéxí"
+      ],
+      "有用": [
+        "这本书很有用。",
+        "Cuốn sách này rất hữu ích.",
+        "Zhè běn shū hěn yǒuyòng"
+      ],
+      "远": [
+        "我家离学校很远。",
+        "Nhà tôi cách trường học rất xa.",
+        "Wǒ jiā lí xuéxiào hěn yuǎn"
+      ],
+      "怎么": [
+        "你怎么来学校的？",
+        "Bạn đến trường bằng cách nào?",
+        "Nǐ zěnme lái xuéxiào de"
+      ],
+      "知识": [
+        "学习知识很重要。",
+        "Việc học rất quan trọng.",
+        "Xuéxí zhīshi hěn zhòngyào"
+      ],
+      "中间": [
+        "我家在学校和公司中间。",
+        "Nhà tôi nằm giữa trường học và công ty.",
+        "Wǒ jiā zài xuéxiào hé gōngsī zhōngjiān"
+      ],
+      "中学": [
+        "他是我中学同学。",
+        "Anh ấy là bạn học của tôi ở trường trung học.",
+        "Tā shì wǒ zhōngxué tóngxué"
+      ],
+      "中学生": [
+        "他是一个中学生。",
+        "Cậu ấy là một học sinh trung học.",
+        "Tā shì yí gè zhōngxuéshēng"
+      ],
+      "重要": [
+        "学习汉语对我来说很重要。",
+        "Học tiếng Trung rất quan trọng đối với tôi.",
+        "Xuéxí Hànyǔ duì wǒ lái shuō hěn zhòngyào"
+      ],
+      "左边": [
+        "我家在学校左边。",
+        "Nhà tôi ở bên trái trường học.",
+        "Wǒ jiā zài xuéxiào zuǒbian"
+      ]
+    }
+  }
+]

@@ -1,0 +1,759 @@
+[
+  {
+    "id": "hsk3-topic-02",
+    "title": "Giáo dục và công việc",
+    "titleCn": "HSK 3 · 2",
+    "context": "Từ vựng HSK 3 cùng chủ đề",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "安排",
+      "按照",
+      "班级",
+      "保护",
+      "必然",
+      "表面",
+      "并",
+      "不断",
+      "补",
+      "部",
+      "采用",
+      "厂",
+      "称为",
+      "初一",
+      "初级",
+      "创业",
+      "从事",
+      "代表",
+      "单元",
+      "电视台",
+      "发达",
+      "发明",
+      "发言",
+      "方式",
+      "分配",
+      "父亲",
+      "改进",
+      "概念",
+      "赶到",
+      "感冒",
+      "歌声",
+      "更加",
+      "工厂",
+      "工夫",
+      "公布",
+      "共有",
+      "古代",
+      "光明",
+      "规定",
+      "规范",
+      "海关",
+      "好好",
+      "合法",
+      "积极",
+      "基本",
+      "基础",
+      "集中",
+      "记录",
+      "建",
+      "建立",
+      "将近",
+      "交警",
+      "交流",
+      "校",
+      "教材",
+      "进一步",
+      "进展",
+      "经验",
+      "就业",
+      "举办",
+      "开展",
+      "科技",
+      "客观",
+      "快速",
+      "旅行社",
+      "落后",
+      "美术",
+      "难度",
+      "能力",
+      "期",
+      "前后",
+      "前进",
+      "亲切",
+      "请教",
+      "全场",
+      "群",
+      "热烈",
+      "人类",
+      "人群",
+      "人员",
+      "任",
+      "仍然",
+      "容易",
+      "设备",
+      "设立",
+      "声明",
+      "实验",
+      "实验室",
+      "市场",
+      "事实上",
+      "首先",
+      "所",
+      "所长",
+      "提问",
+      "跳远",
+      "推广",
+      "外交",
+      "伟大",
+      "文字",
+      "武术",
+      "现场",
+      "相互",
+      "写作",
+      "性(积极性）",
+      "性格",
+      "宣传",
+      "学费",
+      "压力",
+      "演出",
+      "意义",
+      "应用",
+      "预报",
+      "预习",
+      "员工",
+      "乐队",
+      "整天",
+      "职工",
+      "指出",
+      "制度",
+      "周围",
+      "主动",
+      "抓住",
+      "专业",
+      "状况"
+    ],
+    "examples": {
+      "安排": [
+        "老师安排了明天的课程表。",
+        "Giáo viên đã sắp xếp thời khóa biểu cho ngày mai.",
+        "Lǎoshī ānpái le míngtiān de kèchéngbiǎo"
+      ],
+      "按照": [
+        "我会按照时间表工作。",
+        "Tôi sẽ làm việc theo lịch trình.",
+        "Wǒ huì ànzhào shíjiān biǎo gōngzuò"
+      ],
+      "班级": [
+        "我们班级有二十个学生。",
+        "Lớp chúng tôi có 20 học sinh.",
+        "Wǒmen bānjí yǒu èrshí gè xuéshēng"
+      ],
+      "保护": [
+        "我们要保护环境。",
+        "Chúng ta phải bảo vệ môi trường.",
+        "Wǒmen yào bǎohù huánjìng"
+      ],
+      "必然": [
+        "努力(tô đỏ 必然)成功。",
+        "Chăm chỉ chắc chắn sẽ thành công.",
+        "Nǔlì bìrán chénggōng"
+      ],
+      "表面": [
+        "桌子的表面很干净。",
+        "Bề mặt của cái bàn rất sạch.",
+        "Zhuōzi de biǎomiàn hěn gānjìng"
+      ],
+      "并": [
+        "爸妈同意并支持我出国留学。",
+        "Ba mẹ đồng ý và ủng hộ tôi đi du học.",
+        "Bà mā tóngyì bìng zhīchí wǒ chūguó liúxué"
+      ],
+      "不断": [
+        "他不断地努力学习。",
+        "Anh ấy học hành chăm chỉ không ngừng.",
+        "Tā búduàn de nǔlì xuéxí"
+      ],
+      "补": [
+        "他需要补习数学。",
+        "Anh ấy cần học bù môn Toán.",
+        "Tā xūyào bǔ xí shùxué"
+      ],
+      "部": [
+        "他在公司的人事部工作。",
+        "Anh ấy làm ở phòng nhân sự công ty.",
+        "Tā zài gōngsī de rénshì bù gōngzuò"
+      ],
+      "采用": [
+        "公司采用了新的计划。",
+        "Công ty đã sử dụng kế hoạch mới.",
+        "Gōngsī cǎiyòng le xīn de jìhuà"
+      ],
+      "厂": [
+        "他在一个大厂工作。",
+        "Anh ấy làm việc ở một nhà máy lớn.",
+        "Tā zài yí ge dà chǎng gōngzuò"
+      ],
+      "称为": [
+        "她被称为数学天才。",
+        "Cô ấy được mệnh danh là thiên tài toán học.",
+        "Tā bèi chēng wéi shùxué tiāncái"
+      ],
+      "初一": [
+        "我弟弟今年上初一了。\n\n大年初一，我们去外婆家拜年。",
+        "Em trai tôi hiện đang học lớp 7.\n\nMùng một Tết, chúng tôi đến nhà bà ngoại chúc Tết.",
+        "Wǒ dì di jīnnián shàng chū yī le/\n\n/Dànián chūyī, wǒmen qù wàipó jiā bàinián"
+      ],
+      "初级": [
+        "她在学初级汉语。",
+        "Cô ấy đang học tiếng Trung sơ cấp.",
+        "Tā zài xué chūjí Hànyǔ"
+      ],
+      "创业": [
+        "他决定去创业，开自己的公司。",
+        "Anh ấy quyết định khởi nghiệp, tự mở công ty riêng.",
+        "Tā juédìng qù chuàngyè, kāi zìjǐ de gōngsī"
+      ],
+      "从事": [
+        "她从事教育工作了很多年。",
+        "Cô ấy làm trong ngành giáo dục nhiều năm rồi.",
+        "Tā cóngshì jiàoyù gōngzuò le hěnduō nián"
+      ],
+      "代表": [
+        "他是我们学校的代表。",
+        "Anh ấy là đại diện cho trường chúng tôi.",
+        "Tā shì wǒmen xuéxiào de dàibiǎo"
+      ],
+      "单元": [
+        "今天我们学习第十单元。",
+        "Hôm nay chúng ta học bài số 10.",
+        "Jīntiān wǒmen xuéxí dì shí dānyuán"
+      ],
+      "电视台": [
+        "我爸爸在电视台工作。",
+        "Ba tôi làm việc ở đài truyền hình.",
+        "Wǒ bàba zài diànshìtái gōngzuò"
+      ],
+      "发达": [
+        "这个公司很发达。",
+        "Công ty này rất phát triển.",
+        "Zhège gōngsī hěn fādá"
+      ],
+      "发明": [
+        "这个用品是他们的公司发明的。",
+        "Sản phẩm này là của công ty họ phát minh.",
+        "Zhège yòngpǐn shì tāmen de gōngsī fāmíng de"
+      ],
+      "发言": [
+        "在毕业时，学生会发言感谢老师。",
+        "Buổi lễ tốt nghiệp, học sinh sẽ phát biểu cảm ơn thầy cô.",
+        "Zài bìyè shí, xuéshēnghuì fāyán gǎnxiè lǎoshī"
+      ],
+      "方式": [
+        "李老师的教学方式很有趣，也很容易懂。",
+        "Cách dạy học của giáo viên Lý rất thú vị và rất dễ hiểu.",
+        "Lǐ lǎoshī de jiàoxué fāngshì hěn yǒuqù, yě hěn róngyì dǒng"
+      ],
+      "分配": [
+        "老师分配我们俩是一组。",
+        "Giáo viên phân chia 2 chúng tôi thành 1 nhóm.",
+        "Lǎoshī fēnpèi wǒmen liǎ shì yī zǔ/ "
+      ],
+      "父亲": [
+        "父亲每天都很努力工作。",
+        "Bố tôi làm việc chăm chỉ mỗi ngày.",
+        "Fùqīn měitiān dōu hěn nǔlì gōngzuò"
+      ],
+      "改进": [
+        "我们要改进工作方法。",
+        "Chúng ta cần cải tiến cách làm việc.",
+        "Wǒmen yào gǎijìn gōngzuò fāngfǎ"
+      ],
+      "概念": [
+        "老师解释了这个概念。",
+        "Giáo viên đã giải thích khái niệm này.",
+        "Lǎoshī jiěshì le zhège gàiniàn"
+      ],
+      "赶到": [
+        "他赶到学校了。",
+        "Anh ấy đã đến trường rồi.",
+        "Tā gǎndào xuéxiào le"
+      ],
+      "感冒": [
+        "他感冒了，不能来上课。",
+        "Anh ấy bị cảm, không thể đến lớp.",
+        "Tā gǎnmào le, bù néng lái shàngkè"
+      ],
+      "歌声": [
+        "教室里传来了好听的歌声。",
+        "Trong lớp học vang lên tiếng hát rất hay.",
+        "Jiàoshì lǐ chuán lái le hǎotīng de gēshēng"
+      ],
+      "更加": [
+        "我要更加努力学习。",
+        "Tôi cần phải học hành chăm chỉ hơn.",
+        "Wǒ yào gèngjiā nǔlì xuéxí"
+      ],
+      "工厂": [
+        "他在一家工厂工作。",
+        "Anh ấy làm việc trong một nhà máy.",
+        "Tā zài yì jiā gōngchǎng gōngzuò"
+      ],
+      "工夫": [
+        "以为做好这件事，他花了很多功夫。",
+        "Học tốt tiếng Trung cần thời gian và công sức.",
+        "Yǐwéi zuò hǎo zhè jiàn shì, tā huā le hěnduō gōngfū"
+      ],
+      "公布": [
+        "老师公布了考试成绩。",
+        "Giáo viên đã công bố điểm thi.",
+        "Lǎoshī gōngbù le kǎoshì chéngjì"
+      ],
+      "共有": [
+        "这两家公司共有五百名员工。",
+        "Hai công ty này có tổng cộng 500 nhân viên.",
+        "Zhè liǎng jiā gōngsī gòngyǒu wǔbǎi míng yuángōng"
+      ],
+      "古代": [
+        "他在学古代历史。",
+        "Anh ấy đang học lịch sử cổ đại.",
+        "Tā zài xué gǔdài lìshǐ"
+      ],
+      "光明": [
+        "努力学习会带来光明的未来。",
+        "Học hành chăm chỉ sẽ đem lại tương lai tươi sáng.",
+        "Nǔlì xuéxí huì dàilái guāngmíng de wèilái"
+      ],
+      "规定": [
+        "这是学校的规定。",
+        "Đây là quy định của trường.",
+        "Zhè shì xuéxiào de guīdìng"
+      ],
+      "规范": [
+        "我们要遵守工作规范。",
+        "Chúng ta phải tuân thủ quy chuẩn công việc.",
+        "Wǒmen yào zūnshǒu gōngzuò guīfàn"
+      ],
+      "海关": [
+        "他在海关工作。",
+        "Anh ấy làm việc ở hải quan.",
+        "Tā zài hǎiguān gōngzuò"
+      ],
+      "好好": [
+        "你要好好学习。",
+        "Bạn phải học hành chăm chỉ nhé.",
+        "Nǐ yào hǎohǎo xuéxí"
+      ],
+      "合法": [
+        "这家公司是合法的。",
+        "Công ty này là hợp pháp.",
+        "Zhè jiā gōngsī shì héfǎ de"
+      ],
+      "积极": [
+        "他学习很积极。",
+        "Cậu ấy học rất tích cực.",
+        "Tā xuéxí hěn jījí"
+      ],
+      "基本": [
+        "我基本学会了高中知识。",
+        "Tôi cơ bản đã học xong kiến thức trung học phổ thông rồi.",
+        "Wǒ jīběn xuéhuì le gāozhōng zhīshì"
+      ],
+      "基础": [
+        "汉字是学习的基础。",
+        "Chữ Hán là nền tảng của việc học.",
+        "Hànzì shì xuéxí de jīchǔ"
+      ],
+      "集中": [
+        "请集中注意力学习。",
+        "Hãy tập trung chú ý vào học hành.",
+        "Qǐng jízhōng zhùyì lì xuéxí"
+      ],
+      "记录": [
+        "老师记录学生成绩。",
+        "Giáo viên ghi lại điểm học sinh.",
+        "Lǎoshī jìlù xuéshēng chéngjì"
+      ],
+      "建": [
+        "他们在建一个学校。",
+        "Họ đang xây một ngôi trường.",
+        "Tāmen zài jiàn yí gè xuéxiào"
+      ],
+      "建立": [
+        "我们建立了一个新公司。",
+        "Chúng tôi đã thiết lập tình bạn.",
+        "Wǒmen jiànlì le yīgè xīn gōngsī"
+      ],
+      "将近": [
+        "他每天工作将近十个小时。",
+        "Anh ấy mỗi ngày làm việc xấp xỉ gần 10 tiếng đồng hồ.",
+        "Tā měitiān gōngzuò jiāngjìn shí gè xiǎoshí"
+      ],
+      "交警": [
+        "交警在马路上工作。",
+        "Cảnh sát giao thông làm việc trên đường.",
+        "Jiāojǐng zài mǎlù shàng gōngzuò"
+      ],
+      "交流": [
+        "在学校，除了学习，你应该跟朋友多交流。",
+        "Ở trường học, bên cạnh học hành, bạn nên giao lưu nhiều hơn với bạn bè.",
+        "Zài xuéxiào, chúle xuéxí, nǐ yīnggāi gēn péngyǒu duō jiāoliú"
+      ],
+      "校": [
+        "我在这所学校学习。",
+        "Tôi học ở ngôi trường này.",
+        "Wǒ zài zhè suǒ xuéxiào xuéxí"
+      ],
+      "教材": [
+        "老师给了我们新的教材。",
+        "Giáo viên đưa cho chúng tôi tài liệu mới.",
+        "Lǎoshī gěi le wǒmen xīn de jiàocái"
+      ],
+      "进一步": [
+        "我想进一步了解这个公司。",
+        "Tôi muốn tìm hiểu thêm về công ty này.",
+        "Wǒ xiǎng jìnyíbù liǎojiě zhè ge gōngsī"
+      ],
+      "进展": [
+        "工作进展得非常顺利。",
+        "Công việc phát triển rất thuận lợi.",
+        "Gōngzuò jìnzhǎn de fēicháng shùnlì"
+      ],
+      "经验": [
+        "她有很多工作经验。",
+        "Cô ấy có nhiều kinh nghiệm làm việc.",
+        "Tā yǒu hěn duō gōngzuò jīngyàn"
+      ],
+      "就业": [
+        "大学毕业后他马上寻找就业。",
+        "Sau khi tốt nghiệp đại học, anh ấy nhanh chóng đi tìm việc làm.",
+        "Dàxué bìyè hòu tā mǎshàng xúnzhǎo jiùyè"
+      ],
+      "举办": [
+        "学校每年都举办一次运动会。",
+        "Trường học mỗi năm đều tổ chức một lần đại hội thể thao.",
+        "Xuéxiào měinián dōu jǔbàn yí cì yùndònghuì"
+      ],
+      "开展": [
+        "公司正在开展新项目。",
+        "Công ty đang triển khai dự án mới.",
+        "Gōngsī zhèngzài kāizhǎn xīn xiàngmù"
+      ],
+      "科技": [
+        "科技改变了我们的生活。",
+        "Khoa học kỹ thuật đã thay đổi cuộc sống của chúng ta.",
+        "Kējì gǎibiàn le wǒmen de shēnghuó"
+      ],
+      "客观": [
+        "老师的意见很客观。",
+        "Ý kiến của thầy cô rất khách quan.",
+        "Lǎoshī de yìjiàn hěn kèguān"
+      ],
+      "快速": [
+        "他学习得很快速。",
+        "Anh ấy học rất nhanh.",
+        "Tā xuéxí de hěn kuàisù"
+      ],
+      "旅行社": [
+        "她在旅行社工作。",
+        "Cô ấy làm việc ở công ty du lịch.",
+        "Tā zài lǚxíngshè gōngzuò"
+      ],
+      "落后": [
+        "我的学习成绩落后了很多。\n\n我爷爷的想法有点落后。",
+        "Thành tích học tập của tôi đang thụt lùi rất nhiều.\n\nTư tưởng của ông nội tôi có chút lạc hậu.",
+        "Wǒ de xuéxí chéngjì luòhòu le hěnduō/\n\n/Wǒ yéye de xiǎngfǎ yǒudiǎn luòhòu"
+      ],
+      "美术": [
+        "他在学美术。",
+        "Anh ấy đang học mỹ thuật.",
+        "Tā zài xué měishù"
+      ],
+      "难度": [
+        "这项工作的难度很高。",
+        "Công việc này có độ khó rất cao.",
+        "Zhè xiàng gōngzuò de nándù hěn gāo"
+      ],
+      "能力": [
+        "他的工作能力很强。",
+        "Năng lực làm việc của anh ấy rất tốt.",
+        "Tā de gōngzuò nénglì hěn qiáng"
+      ],
+      "期": [
+        "这个学期我选了三门课。",
+        "Học kỳ này tôi đã chọn ba môn học",
+        "Zhège xué qī wǒ xuǎnle sān mén kè"
+      ],
+      "前后": [
+        "教室前后都有门。",
+        "Trước và sau lớp học đều có cửa",
+        "Jiàoshì qiánhòu dōu yǒu mén"
+      ],
+      "前进": [
+        "学习要一步一步前进。",
+        "Học tập là phải tiến từng bước một",
+        "Xuéxí yào yí bù yí bù qiánjìn"
+      ],
+      "亲切": [
+        "老师对学生很亲切。",
+        "Thầy giáo rất thân thiết với học sinh",
+        "Lǎoshī duì xuéshēng hěn qīnqiè"
+      ],
+      "请教": [
+        "这件事我需要请教老师",
+        "Việc này tôi cần xin ý kiến thầy giáo",
+        "Zhè jiàn shì wǒ xūyào qǐngjiào lǎoshī"
+      ],
+      "全场": [
+        "他的话赢得了全场的掌声",
+        "Lời nói của anh ấy giành được tràng vỗ tay của cả hội trường",
+        "Tā de huà yíngdé le quánchǎng de zhǎngshēng"
+      ],
+      "群": [
+        "教室里有一群孩子在玩游戏",
+        "Trong lớp có một nhóm trẻ em đang chơi trò chơi",
+        "Jiàoshì lǐ yǒu yì qún háizi zài wán yóuxì."
+      ],
+      "热烈": [
+        "同学们对新活动表示热烈的兴趣",
+        "Các bạn học sinh bày tỏ sự quan tâm nhiệt liệt đối với hoạt động mới",
+        "Tóngxuémen duì xīn huódòng biǎoshì rèliè de xìngqù."
+      ],
+      "人类": [
+        "这项研究对人类有很大帮助",
+        "Nghiên cứu này có ích lớn đối với nhân loại",
+        "Zhè xiàng yánjiū duì rénlèi yǒu hěn dà bāngzhù"
+      ],
+      "人群": [
+        "广场上有很多人群",
+        "Trên quảng trường có rất nhiều đám đông",
+        "Guǎngchǎng shàng yǒu hěn duō rénqún"
+      ],
+      "人员": [
+        "学校有很多老师和工作人员",
+        "Trường học có nhiều giáo viên và nhân viên",
+        "Xuéxiào yǒu hěn duō lǎoshī hé gōngzuò rényuán"
+      ],
+      "任": [
+        "他担任班级的班长",
+        "Anh ấy đảm nhiệm chức vụ lớp trưởng",
+        "Tā dānrèn bānjí de bānzhǎng"
+      ],
+      "仍然": [
+        "尽管很累，他仍然工作",
+        "Dù rất mệt, anh ấy vẫn tiếp tục làm việc",
+        "Jǐnguǎn hěn lèi, tā réngrán gōngzuò"
+      ],
+      "容易": [
+        "学中文不容易",
+        "Học tiếng Trung không dễ",
+        "Xué Zhōngwén bù róngyì"
+      ],
+      "设备": [
+        "学校买了新的教学设备",
+        "Trường học đã mua thiết bị giảng dạy mới",
+        "Xuéxiào mǎi le xīn de jiàoxué shèbèi"
+      ],
+      "设立": [
+        "学校设立了新的图书馆",
+        "Trường học đã thành lập thư viện mớ",
+        "Xuéxiào shèlì le xīn de túshūguǎn"
+      ],
+      "声明": [
+        "公司声明，这不是假新闻。",
+        "Công ty tuyên bố rằng đây không phải tin giả.",
+        "Gōngsī shēngmíng, zhè bù shì jiǎ xīnwén"
+      ],
+      "实验": [
+        "我们要做一个化学实验。",
+        "Chúng ta cần làm một thí nghiệm hóa học.",
+        "Wǒmen yào zuò yī ge huàxué shíyàn"
+      ],
+      "实验室": [
+        "我们学校有很多实验室。",
+        "Trường chúng tôi có rất nhiều phòng thí nghiệm.",
+        "Wǒmen xuéxiào yǒu hěn duō shíyànshì"
+      ],
+      "市场": [
+        "中国的汽车市场很大。",
+        "Thị trường ô tô của Trung Quốc rất lớn.",
+        "Zhōngguó de qìchē shìchǎng hěn dà"
+      ],
+      "事实上": [
+        "这份工作听起来很简单，实际上很难。",
+        "Công việc này nghe có vẻ đơn giản, nhưng trên thực tế lại rất khó.",
+        "Zhè fèn gōngzuò tīng qǐlái hěn jiǎndān, shíjì shang hěn nán"
+      ],
+      "首先": [
+        "首先要做的就是学习。",
+        "Việc cần làm đầu tiên chính là học tập.",
+        "Shǒuxiān yào zuò de jiù shì xuéxí"
+      ],
+      "所": [
+        "我不喜欢在那所大学读书。",
+        "Tôi không thích học ở trường đại học đó.",
+        "Wǒ bù xǐhuan zài nà suǒ dàxué dúshū"
+      ],
+      "所长": [
+        "他是我爸爸工作那个研究所的所长。",
+        "Ông ấy là viện trưởng của viện nghiên cứu nơi ba tôi làm việc.",
+        "Tā shì wǒ bàba gōngzuò nàgè yánjiūsuǒ de suǒzhǎng"
+      ],
+      "提问": [
+        "老师让同学们提问。",
+        "Giáo viên bảo các bạn học sinh đặt câu hỏi.",
+        "Lǎoshī ràng tóngxuémen tíwèn"
+      ],
+      "跳远": [
+        "他在学校运动会上参加跳远比赛。",
+        "Anh ấy tham gia cuộc thi nhảy xa trong đại hội thể thao của trường.",
+        "Tā zài xuéxiào yùndònghuì shàng cānjiā tiàoyuǎn bǐsài"
+      ],
+      "推广": [
+        "公司正在大力推广这款新产品。",
+        "Công ty đang ra sức quảng bá sản phẩm mới này.",
+        "Gōngsī zhèngzài dàlì tuīguǎng zhè kuǎn xīn chǎnpǐn"
+      ],
+      "外交": [
+        "他从事外交工作。",
+        "Anh ấy làm công tác ngoại giao.",
+        "Tā cóngshì wàijiāo gōngzuò"
+      ],
+      "伟大": [
+        "这是一位伟大的科学家。",
+        "Đây là một nhà khoa học vĩ đại.",
+        "Zhè shì yī wèi wěidà de kēxuéjiā"
+      ],
+      "文字": [
+        "这种文字很难学。",
+        "Loại chữ viết này rất khó học.",
+        "Zhè zhǒng wénzì hěn nán xué"
+      ],
+      "武术": [
+        "他从小学习武术。",
+        "Anh ấy học võ thuật từ nhỏ.",
+        "Tā cóng xiǎo xuéxí wǔshù"
+      ],
+      "现场": [
+        "记者在现场进行报道。",
+        "Phóng viên đang tiến hành đưa tin tại hiện trường.",
+        "Jìzhě zài xiànchǎng jìnxíng bàodǎo"
+      ],
+      "相互": [
+        "同学之间应该相互学习。",
+        "Giữa các bạn học nên học hỏi lẫn nhau.",
+        "Tóngxué zhī jiān yīnggāi xiānghù xuéxí"
+      ],
+      "写作": [
+        "老师让我们写作一篇关于环保的文章。",
+        "Giáo viên yêu cầu chúng tôi viết một bài văn về bảo vệ môi trường.",
+        "Lǎoshī ràng wǒmen xiězuò yì piān guānyú huánbǎo de wénzhāng"
+      ],
+      "性(积极性）": [
+        "学生们学习很有积极性。",
+        "Việc này mang tính nguy hiểm nhất định.",
+        "Zhè jiàn shì jùyǒu yīdìng de wēixiǎn xìng"
+      ],
+      "性格": [
+        "他的性格非常开朗。",
+        "Học sinh học tập rất tích cực.",
+        "Xuéshēngmen xuéxí hěn yǒu jījíxìng"
+      ],
+      "宣传": [
+        "他们正在宣传新的环保政策。",
+        "Họ đang tuyên truyền chính sách bảo vệ môi trường mới.",
+        "Tāmen zhèngzài xuānchuán xīn de huánbǎo zhèngcè"
+      ],
+      "学费": [
+        "大学学费每年都在上涨。",
+        "Học phí đại học tăng lên mỗi năm.",
+        "Dàxué xuéfèi měi nián dōu zài shàngzhǎng"
+      ],
+      "压力": [
+        "她承受着很大的工作压力。",
+        "Cô ấy đang chịu áp lực công việc rất lớn.",
+        "Tā chéngshòuzhe hěn dà de gōngzuò yālì"
+      ],
+      "演出": [
+        "学校今晚要演出一个话剧。",
+        "Tối nay trường sẽ biểu diễn một vở kịch.",
+        "Xuéxiào jīnwǎn yào yǎnchū yī gè huàjù/ "
+      ],
+      "意义": [
+        "这项工作非常有意义。",
+        "Công việc này vô cùng có ý nghĩa.",
+        "Zhè xiàng gōngzuò fēicháng yǒu yìyì"
+      ],
+      "应用": [
+        "我们要把学到的知识应用到实践中。",
+        "Chúng ta phải áp dụng kiến thức đã học vào thực tế.",
+        "Wǒmen yào bǎ xuédào de zhīshi yìngyòng dào shíjiàn zhōng"
+      ],
+      "预报": [
+        "老师预报了下周的考试内容。",
+        "Giáo viên báo trước nội dung kiểm tra tuần sau.",
+        "Lǎoshī yùbào le xià zhōu de kǎoshì nèiróng"
+      ],
+      "预习": [
+        "学生应该在课前预习新课。",
+        "Học sinh nên xem trước bài học mới trước khi lên lớp.",
+        "Xuéshēng yīnggāi zài kè qián yùxí xīn kè"
+      ],
+      "员工": [
+        "公司的员工都很努力。",
+        "Nhân viên của công ty đều rất chăm chỉ.",
+        "Gōngsī de yuángōng dōu hěn nǔlì"
+      ],
+      "乐队": [
+        "学校的乐队要参加表演。",
+        "Ban nhạc của trường sẽ tham gia buổi biểu diễn.",
+        "Xuéxiào de yuèduì yào cānjiā biǎoyǎn"
+      ],
+      "整天": [
+        "他整天都在忙工作。",
+        "Anh ấy bận rộn làm việc suốt cả ngày.",
+        "Tā zhěngtiān dōu zài máng gōngzuò"
+      ],
+      "职工": [
+        "公司的职工福利很好。",
+        "Phúc lợi nhân viên của công ty rất tốt.",
+        "Gōngsī de zhígōng fúlì hěn hǎo"
+      ],
+      "指出": [
+        "老师指出了我的错误。",
+        "Giáo viên đã chỉ ra lỗi sai của tôi.",
+        "Lǎoshī zhǐchū le wǒ de cuòwù"
+      ],
+      "制度": [
+        "公司有严格的制度。",
+        "Công ty có chế độ/quy định nghiêm ngặt.",
+        "Gōngsī yǒu yángé de zhìdù"
+      ],
+      "周围": [
+        "周围环境很安静。",
+        "Môi trường xung quanh rất yên tĩnh.",
+        "Zhōuwéi huánjìng hěn ānjìng"
+      ],
+      "主动": [
+        "她主动帮同学做作业。",
+        "Cô ấy chủ động giúp bạn cùng lớp làm bài tập.",
+        "Tā zhǔdòng bāng tóngxué zuò zuòyè"
+      ],
+      "抓住": [
+        "我们要抓住这个机会，好好学习。",
+        "Chúng ta phải nắm bắt cơ hội này, học tập thật tốt.",
+        "Wǒmen yào zhuāzhù zhège jīhuì, hǎohǎo xuéxí"
+      ],
+      "专业": [
+        "你的专业是什么？",
+        "Chuyên ngành của bạn là gì?",
+        "Nǐ de zhuānyè shì shénme"
+      ],
+      "状况": [
+        "公司的经营状况良好。",
+        "Tình trạng kinh doanh của công ty tốt.",
+        "Gōngsī de jīngyíng zhuàngkuàng liánghǎo"
+      ]
+    }
+  }
+]

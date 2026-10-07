@@ -1,0 +1,417 @@
+[
+  {
+    "id": "hsk1-topic-05",
+    "title": "Ăn uống hằng ngày",
+    "titleCn": "HSK 1 · 5",
+    "context": "Từ vựng HSK 1 cùng chủ đề",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "八",
+      "百",
+      "包子",
+      "杯",
+      "不大",
+      "菜",
+      "尝尝",
+      "吃饭",
+      "出",
+      "大",
+      "电",
+      "东西",
+      "多少",
+      "饭",
+      "饭店",
+      "房间",
+      "房子",
+      "干",
+      "个",
+      "给",
+      "国",
+      "国家",
+      "还是",
+      "好吃",
+      "喝",
+      "和",
+      "会",
+      "机票",
+      "鸡蛋",
+      "家人",
+      "渴",
+      "课本",
+      "了",
+      "妈妈 | 妈",
+      "吗",
+      "买",
+      "没有",
+      "门票",
+      "米饭",
+      "面包",
+      "面条儿",
+      "钱",
+      "钱包",
+      "去",
+      "去年",
+      "商场",
+      "身上",
+      "什么",
+      "水",
+      "水果",
+      "太",
+      "外",
+      "外语",
+      "晚饭",
+      "忘",
+      "午饭",
+      "喜欢",
+      "下课",
+      "新",
+      "一边",
+      "一点儿",
+      "元",
+      "这些",
+      "中国",
+      "中午",
+      "坐下",
+      "做"
+    ],
+    "examples": {
+      "八": [
+        "他买了八个苹果。",
+        "Anh ấy đã mua tám quả táo.",
+        "Tā mǎi le bā gè píngguǒ"
+      ],
+      "百": [
+        "我有一百块钱。",
+        "Tôi có một trăm tệ.",
+        "Wǒ yǒu yībǎi kuài qián"
+      ],
+      "包子": [
+        "我今天早上吃了两个包子。",
+        "Sáng nay tôi đã ăn 2 cái bánh bao.",
+        "Wǒ jīntiān zǎoshang chī le liǎng gè bāozǐ"
+      ],
+      "杯": [
+        "我喝了一杯奶茶。\n\n我们队赢得了冠军杯。",
+        "Tôi đã uống 1 ly trà sữa.\n\nĐội chúng tôi đã giành được cúp vô địch.",
+        "Wǒ hēle yībēi nǎichá/\n\n/Wǒmen duì yíngdéle guànjūn bēi"
+      ],
+      "不大": [
+        "这个房间不大。",
+        "Căn phòng này không lớn.",
+        "Zhège fángjiān bù dà"
+      ],
+      "菜": [
+        "今天的菜很好吃。",
+        "Món ăn của hôm nay rất ngon.",
+        "Jīntiān de cài hěn hǎo chī"
+      ],
+      "尝尝": [
+        "你尝尝这个菜。",
+        "Bạn hãy nếm thử món ăn này.",
+        "Nǐ cháng cháng zhège cài"
+      ],
+      "吃饭": [
+        "我们一起去吃饭吧。",
+        "Chúng ta cùng nhau đi ăn cơm nhé.",
+        "Wǒmen yīqǐ qù chīfàn ba"
+      ],
+      "出": [
+        "他出去买东西了。",
+        "Anh ấy ra ngoài mua đồ ăn rồi.",
+        "Tā chū qù mǎi dōngxi le"
+      ],
+      "大": [
+        "这个房子很大。",
+        "Căn nhà này rất lớn.",
+        "Zhège fángzi hěn dà"
+      ],
+      "电": [
+        "我的手机没电了。",
+        "Điện thoại tôi hết pin rồi.",
+        "Wǒ de shǒujī méi diàn le"
+      ],
+      "东西": [
+        "吃东西的时候不要说话。",
+        "Không nên nói chuyện khi đang ăn.",
+        "Chī dōngxi de shíhòu bùyào shuōhuà"
+      ],
+      "多少": [
+        "这个多少钱？",
+        "Cái này bao nhiêu tiền?",
+        "Zhège duōshǎo qián?"
+      ],
+      "饭": [
+        "我还没吃晚饭呢。\n\n他每天都吃三顿饭。",
+        "Tôi vẫn chưa ăn cơm tối. \n\nMỗi ngày anh ấy đều ăn ba bữa.",
+        "Wǒ hái méi chī wǎnfàn ne/\n\n/Tā měitiān dōu chī sān dùn fàn"
+      ],
+      "饭店": [
+        "这家饭店的菜很好吃。",
+        "Đồ ăn của nhà hàng này rất ngon.",
+        "Zhè jiā fàndiàn de cài hěn hǎochī"
+      ],
+      "房间": [
+        "这是我的房间。",
+        "Đây là phòng của tôi.",
+        "Zhè shì wǒ de fángjiān"
+      ],
+      "房子": [
+        "他们买了一套新房子。",
+        "Họ đã mua một căn nhà mới.",
+        "Tāmen mǎi le yī tào xīn fángzi"
+      ],
+      "干": [
+        "他总干乱我的计划。\n\n咱们干了这杯酒吧。",
+        "Anh ấy luôn làm loạn kế hoạch của tôi.\n\nChúng ta uống cạn ly rượu này.",
+        "Tā zǒng gān luàn wǒ de jìhuà/\n\n/Zánmen gān le zhè bēi jiǔ ba"
+      ],
+      "个": [
+        "我买了一个新手机。",
+        "Tôi đã mua một chiếc điện thoại mới.",
+        "Wǒ mǎi le yī gè xīn shǒujī"
+      ],
+      "给": [
+        "妈妈给我买了一本书。",
+        "Mẹ đã mua cho tôi một quyển sách.",
+        "Māma gěi wǒ mǎi le yī běn shū"
+      ],
+      "国": [
+        "中国的美食非常有名。",
+        "Ẩm thực của Trung Quốc rất nổi tiếng.",
+        "Zhōngguó de měishí fēicháng yǒumíng"
+      ],
+      "国家": [
+        "我爱我的国家。",
+        "Tôi yêu đất nước của tôi.",
+        "Wǒ ài wǒ de guójiā"
+      ],
+      "还是": [
+        "你想喝茶还是咖啡？",
+        "Bạn muốn uống trà hay cà phê?",
+        "Nǐ xiǎng hē chá háishì kāfēi?"
+      ],
+      "好吃": [
+        "这家餐厅的菜非常好吃。",
+        "Món ăn của nhà hàng này rất ngon.",
+        "Zhè jiā cāntīng de cài fēicháng hǎochī"
+      ],
+      "喝": [
+        "我每天早上都喝咖啡。",
+        "Mỗi sáng tôi đều uống cà phê.",
+        "Wǒ měitiān zǎoshang dōu hē kāfēi"
+      ],
+      "和": [
+        "我买了一本书和一件衣服。",
+        "Tôi đã mua 1 cuốn sách và 1 bộ quần áo.",
+        "Wǒ mǎile yī běn shū hé yī jiàn yīfú"
+      ],
+      "会": [
+        "你会做中国菜吗？",
+        "Bạn biết nấu món Trung Quốc không?",
+        "Nǐ huì zuò zhōngguó cài ma"
+      ],
+      "机票": [
+        "你买机票了吗？",
+        "Bạn đã mua vé máy bay chưa?",
+        "Nǐ mǎi jīpiào le ma"
+      ],
+      "鸡蛋": [
+        "我买了一些鸡蛋。",
+        "Tôi đã mua một vài quả trứng.",
+        "Wǒ mǎi le yīxiē jīdàn"
+      ],
+      "家人": [
+        "我家人都喜欢吃中国菜。",
+        "Cả nhà tôi đều thích ăn đồ ăn Trung Quốc.",
+        "Wǒ jiārén dōu xǐhuan chī Zhōngguó cài"
+      ],
+      "渴": [
+        "我口渴了，想喝水。",
+        "Tôi khát nước rồi, muốn uống nước.",
+        "Wǒ kǒu kě le, xiǎng hē shuǐ"
+      ],
+      "课本": [
+        "你带课本了吗？",
+        "Bạn có mang sách giáo khoa không?",
+        "Nǐ dài kèběn le ma"
+      ],
+      "了": [
+        "我吃了一个苹果。",
+        "Tôi đã ăn một quả táo.",
+        "Wǒ chī le yīgè píngguǒ"
+      ],
+      "妈妈 | 妈": [
+        "我妈妈做饭很好吃。",
+        "Mẹ tôi nấu ăn rất ngon.",
+        "Wǒ māma zuò fàn hěn hǎo chī"
+      ],
+      "吗": [
+        "你喜欢中国菜吗？",
+        "Bạn có thích món ăn Trung Quốc không?",
+        "Nǐ xǐhuan Zhōngguó cài ma"
+      ],
+      "买": [
+        "我想买一件衣服。",
+        "Tôi muốn mua một cái áo.",
+        "Wǒ xiǎng mǎi yí jiàn yīfu"
+      ],
+      "没有": [
+        "我没有钱。",
+        "Tôi không có tiền.",
+        "Wǒ méiyǒu qián"
+      ],
+      "门票": [
+        "这张门票多少钱？",
+        "",
+        "Zhè zhāng ménpiào duōshǎo qián"
+      ],
+      "米饭": [
+        "我每天都吃米饭。",
+        "Ngày nào tôi cũng ăn cơm.",
+        "Wǒ měitiān dōu chī mǐfàn"
+      ],
+      "面包": [
+        "你想吃面包吗？",
+        "Bạn có muốn ăn bánh mì không?",
+        "Nǐ xiǎng chī miànbāo ma"
+      ],
+      "面条儿": [
+        "这碗面条儿很好吃。",
+        "Tô mì này rất ngon.",
+        "Zhè wǎn miàntiáor hěn hǎochī"
+      ],
+      "钱": [
+        "我没钱。",
+        "Tôi không có tiền.",
+        "Wǒ méi qián"
+      ],
+      "钱包": [
+        "我的钱包不见了。",
+        "Ví tiền của tôi bị mất rồi.",
+        "Wǒ de qiánbāo bú jiàn le"
+      ],
+      "去": [
+        "他吃完饭就去了。",
+        "Anh ấy ăn xong rồi đi ngay.",
+        "Tā chī wán fàn jiù qù le"
+      ],
+      "去年": [
+        "去年我买了一辆新车。",
+        "Năm ngoái tôi đã mua một chiếc xe mới.",
+        "Qùnián wǒ mǎi le yī liàng xīnchē"
+      ],
+      "商场": [
+        "我们去商场买衣服吧。",
+        "Chúng ta đi trung tâm thương mại mua quần áo đi.",
+        "Wǒmen qù shāngchǎng mǎi yīfú ba"
+      ],
+      "身上": [
+        "你身上有钱吗？",
+        "Bạn có tiền trong người không?",
+        "Nǐ shēnshang yǒu qián ma"
+      ],
+      "什么": [
+        "你想吃什么？",
+        "Bạn muốn ăn gì?",
+        "Nǐ xiǎng chī shénme"
+      ],
+      "水": [
+        "我想喝水。",
+        "Tôi muốn uống nước.",
+        "Wǒ xiǎng hē shuǐ"
+      ],
+      "水果": [
+        "我每天都吃水果。",
+        "Tôi ăn trái cây mỗi ngày.",
+        "Wǒ měitiān dōu chī shuǐguǒ"
+      ],
+      "太": [
+        "这个菜太好吃了。",
+        "Món ăn này quá ngon.",
+        "Zhège cài tài hǎochī le"
+      ],
+      "外": [
+        "我们去外面吃饭吧。",
+        "Chúng ta ra ngoài ăn đi.",
+        "Wǒmen qù wàimiàn chīfàn ba"
+      ],
+      "外语": [
+        "你会说几种外语？",
+        "Bạn biết nói mấy thứ tiếng nước ngoài?",
+        "Nǐ huì shuō jǐ zhǒng wàiyǔ"
+      ],
+      "晚饭": [
+        "我们一起吃晚饭吧。",
+        "Chúng ta cùng đi ăn tối nhé.",
+        "Wǒmen yìqǐ chī wǎnfàn ba"
+      ],
+      "忘": [
+        "我忘了带钱包。",
+        "Tôi quên mang ví tiền rồi.",
+        "Wǒ wàng le dài qiánbāo"
+      ],
+      "午饭": [
+        "我们一起去吃午饭吧。",
+        "Chúng ta cùng đi ăn trưa nhé.",
+        "Wǒmen yīqǐ qù chī wǔfàn ba"
+      ],
+      "喜欢": [
+        "我很喜欢吃中国菜。",
+        "Tôi rất thích ăn món Trung Quốc.",
+        "Wǒ hěn xǐhuan chī Zhōngguó cài"
+      ],
+      "下课": [
+        "下课后，我们去喝奶茶吧。",
+        "Tan học xong, chúng ta đi uống trà sữa nhé.",
+        "Xiàkè hòu, wǒmen qù hē nǎichá ba"
+      ],
+      "新": [
+        "我买了一件新衣服。",
+        "Tôi đã mua một bộ quần áo mới.",
+        "Wǒ mǎi le yí jiàn xīn yīfú"
+      ],
+      "一边": [
+        "她一边吃饭，一边看书。",
+        "Cô ấy vừa ăn vừa đọc sách.",
+        "Tā yìbiān chīfàn, yìbiān kànshū"
+      ],
+      "一点儿": [
+        "我想喝一点儿水。",
+        "Tôi muốn uống một chút nước.",
+        "Wǒ xiǎng hē yìdiǎnr shuǐ"
+      ],
+      "元": [
+        "这本书五十元。",
+        "Cuốn sách này giá 50 tệ.",
+        "Zhè běn shū wǔshí yuán"
+      ],
+      "这些": [
+        "这些水果很好吃。",
+        "Những loại trái cây này rất ngon.",
+        "Zhèxiē shuǐguǒ hěn hǎochī"
+      ],
+      "中国": [
+        "中国是一个美丽的国家。",
+        "Trung Quốc là một đất nước xinh đẹp.",
+        "Zhōngguó shì yī gè měilì de guójiā"
+      ],
+      "中午": [
+        "我们中午去吃饭吧。",
+        "Chúng ta đi ăn trưa nhé.",
+        "Wǒmen zhōngwǔ qù chīfàn ba"
+      ],
+      "坐下": [
+        "咱们坐下谈吧。",
+        "Chúng ta ngồi xuống nói chuyện.",
+        "Zánmen zuòxia tán ba"
+      ],
+      "做": [
+        "我妈做中国菜非常好吃。",
+        "Mẹ tôi làm đồ ăn Trung Quốc rất ngon.",
+        "Wǒ mā zuò Zhōngguó cài fēicháng hǎochī"
+      ]
+    }
+  }
+]

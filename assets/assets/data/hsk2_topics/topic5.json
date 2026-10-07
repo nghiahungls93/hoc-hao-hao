@@ -1,0 +1,592 @@
+[
+  {
+    "id": "hsk2-topic-05",
+    "title": "Ẩm thực và mua sắm",
+    "titleCn": "HSK 2 · 5",
+    "context": "Từ vựng HSK 2 cùng chủ đề",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "饱",
+      "报名",
+      "比如说",
+      "笔记本",
+      "不行",
+      "菜单",
+      "常见",
+      "超市",
+      "出租",
+      "词",
+      "大海",
+      "大多数",
+      "大衣",
+      "蛋",
+      "得出",
+      "等",
+      "读音",
+      "段",
+      "饭馆",
+      "方便面",
+      "方面",
+      "放下",
+      "份",
+      "够",
+      "好",
+      "好处",
+      "黑色",
+      "湖",
+      "黄色",
+      "回国",
+      "计算机",
+      "加",
+      "讲",
+      "角",
+      "饺子",
+      "教育",
+      "斤",
+      "经过",
+      "经理",
+      "酒",
+      "考生",
+      "快餐",
+      "筷子",
+      "老年",
+      "礼物",
+      "两",
+      "亮",
+      "辆",
+      "卖",
+      "米",
+      "难听",
+      "排队",
+      "篇",
+      "片",
+      "平时",
+      "瓶",
+      "球鞋",
+      "取",
+      "全国",
+      "商量",
+      "少年",
+      "食物",
+      "收",
+      "收到",
+      "数字",
+      "它们",
+      "套",
+      "挺好",
+      "头 (名，量）",
+      "外卖",
+      "完",
+      "晚报",
+      "晚餐",
+      "碗",
+      "万",
+      "味道",
+      "午餐",
+      "西餐",
+      "习惯",
+      "信用卡",
+      "药",
+      "药片",
+      "药水",
+      "一共",
+      "已经",
+      "以下",
+      "一点点",
+      "银行",
+      "应该",
+      "油",
+      "鱼",
+      "咱们",
+      "只",
+      "中餐",
+      "字典",
+      "租",
+      "做饭"
+    ],
+    "examples": {
+      "饱": [
+        "我吃饱了。",
+        "Tôi ăn no rồi.",
+        "Wǒ chī bǎo le"
+      ],
+      "报名": [
+        "你报名参加比赛了吗？",
+        "Bạn đã đăng ký tham gia cuộc thi chưa?",
+        "Nǐ bàomíng cānjiā bǐsài le ma"
+      ],
+      "比如说": [
+        "这里有很多好吃的，比如说北京烤鸭和饺子。",
+        "Ở đây có nhiều món ngon, ví dụ như vịt quay Bắc Kinh và sủi cảo.",
+        "Zhèlǐ yǒu hěn duō hǎochī de, bǐrú shuō Běijīng kǎoyā hé jiǎozi"
+      ],
+      "笔记本": [
+        "我买了一个新的笔记本。",
+        "Tôi đã mua một quyển sổ ghi chép mới.",
+        "Wǒ mǎi le yí gè xīn de bǐjìběn"
+      ],
+      "不行": [
+        "这样做不行。",
+        "Làm như vậy không được đâu.",
+        "Zhèyàng zuò bùxíng"
+      ],
+      "菜单": [
+        "请给我菜单。",
+        "Xin vui lòng đưa cho tôi thực đơn.",
+        "Qǐng gěi wǒ càidān"
+      ],
+      "常见": [
+        "这种花在公园里很常见。",
+        "Loài hoa này rất thường thấy trong công viên.",
+        "Zhè zhǒng huā zài gōngyuán lǐ hěn chángjiàn"
+      ],
+      "超市": [
+        "我去超市买点水果。",
+        "Tôi đi siêu thị mua ít trái cây.",
+        "Wǒ qù chāoshì mǎi diǎn shuǐguǒ"
+      ],
+      "出租": [
+        "这套房子正在出租。",
+        "Căn nhà này đang cho thuê.",
+        "Zhè tào fángzi zhèngzài chūzū"
+      ],
+      "词": [
+        "这个词是什么意思？",
+        "Từ này có nghĩa gì?",
+        "Zhège cí shì shénme yìsi?"
+      ],
+      "大海": [
+        "这片大海真美。",
+        "Biển này đẹp thật.",
+        "Zhè piàn dàhǎi zhēn měi/ "
+      ],
+      "大多数": [
+        "大多数人都喜欢吃甜食。",
+        "Phần lớn mọi người đều thích ăn đồ ngọt.",
+        "Dàduōshù rén dōu xǐhuān chī tiánshí"
+      ],
+      "大衣": [
+        "冬天我会穿厚大衣。",
+        "Mùa đông tôi sẽ mặc áo khoác dày.",
+        "Dōngtiān wǒ huì chuān hòu dàyī"
+      ],
+      "蛋": [
+        "我喜欢吃鸡蛋。",
+        "Tôi thích ăn trứng gà.",
+        "Wǒ xǐhuan chī jīdàn"
+      ],
+      "得出": [
+        "我们可以从实验中得出结论。",
+        "Chúng ta có thể rút ra kết luận từ thí nghiệm.",
+        "Wǒmen kěyǐ cóng shíyàn zhōng déchū jiélùn"
+      ],
+      "等": [
+        "我喜欢吃苹果、香蕉、橘子等等。",
+        "Tôi thích ăn táo, chuối, cam, v.v.",
+        "Wǒ xǐhuān chī píngguǒ, xiāngjiāo, júzi děng děng"
+      ],
+      "读音": [
+        "这个字的读音是什么？",
+        "Cách phát âm của chữ này là gì?",
+        "Zhège zì de dúyīn shì shénme"
+      ],
+      "段": [
+        "请读这段话。",
+        "Vui lòng đọc đoạn văn này.",
+        "Qǐng dú zhè duàn huà"
+      ],
+      "饭馆": [
+        "这家饭馆的菜很好吃。",
+        "Tôi đã tìm thấy một nơi tuyệt đẹp.",
+        "Zhè jiā fànguǎn de cài hěn hǎochī"
+      ],
+      "方便面": [
+        "我喜欢吃方便面。",
+        "Tôi thích ăn mì ăn liền.",
+        "Wǒ xǐhuān chī fāngbiànmiàn"
+      ],
+      "方面": [
+        "他在数学方面很有天赋。",
+        "Anh ấy có năng khiếu về toán học.",
+        "Tā zài shùxué fāngmiàn hěn yǒu tiānfù/ "
+      ],
+      "放下": [
+        "请放下手中的笔。",
+        "Hãy đặt bút xuống.",
+        "Qǐng fàngxià shǒuzhōng de bǐ"
+      ],
+      "份": [
+        "我点了一份炒饭。",
+        "Tôi đã gọi một phần cơm rang.",
+        "Wǒ diǎnle yī fèn chǎofàn"
+      ],
+      "够": [
+        "这些钱不够买车。",
+        "Số tiền này không đủ mua xe.",
+        "Zhèxiē qián bù gòu mǎi chē"
+      ],
+      "好": [
+        "我身体很好。",
+        "Sức khoẻ của tôi rất tốt.",
+        "Wǒ shēntǐ hěn hǎo"
+      ],
+      "好处": [
+        "多喝热水对身体有好处。",
+        "Uống nhiều nước nóng tốt cho sức khỏe.",
+        "Duō hē rè shuǐ duì shēntǐ yǒu hǎochù"
+      ],
+      "黑色": [
+        "这条裙子是黑色的。",
+        "Chiếc váy này có màu đen.",
+        "Zhè tiáo qúnzi shì hēisè de"
+      ],
+      "湖": [
+        "湖里的水很清。",
+        "Nước trong hồ rất trong.",
+        "Hú lǐ de shuǐ hěn qīng"
+      ],
+      "回国": [
+        "他昨天回国了。",
+        "Hôm qua anh ấy đã về nước.",
+        "Tā zuótiān huíguó le"
+      ],
+      "计算机": [
+        "我买了一台计算机。",
+        "Tôi đã mua một chiếc máy tính.",
+        "Wǒ mǎile yī tái jìsuànjī"
+      ],
+      "加": [
+        "请给我加点水。",
+        "Xin cho tôi thêm một chút nước.",
+        "Qǐng gěi wǒ jiā diǎn shuǐ"
+      ],
+      "讲": [
+        "老师讲得很清楚。",
+        "Thầy giáo giảng rất rõ ràng.",
+        "Lǎoshī jiǎng de hěn qīngchǔ"
+      ],
+      "角": [
+        "桌子有四个角。",
+        "Cái bàn có bốn góc.",
+        "Zhuōzi yǒu sì gè jiǎo"
+      ],
+      "饺子": [
+        "我很喜欢吃饺子。",
+        "Tôi rất thích ăn sủi cảo.",
+        "Wǒ hěn xǐhuān chī jiǎozi"
+      ],
+      "教育": [
+        "教育对孩子很重要。",
+        "Giáo dục rất quan trọng đối với trẻ em.",
+        "Jiàoyù duì háizi hěn zhòngyào"
+      ],
+      "斤": [
+        "我买了两斤苹果。",
+        "Tôi mua một cân táo.",
+        "Wǒ mǎi le liǎng jīn píngguǒ"
+      ],
+      "经过": [
+        "经过商店时，他买了一些水果。",
+        "Khi đi qua cửa hàng, anh ấy mua một ít trái cây.",
+        "Jīngguò shāngdiàn shí tā mǎi le yīxiē shuǐguǒ"
+      ],
+      "经理": [
+        "他是我们的经理。",
+        "Anh ấy là giám đốc của chúng tôi.",
+        "Tā shì wǒmen de jīnglǐ"
+      ],
+      "酒": [
+        "我不喝酒。",
+        "Tôi không uống rượu.",
+        "Wǒ bù hē jiǔ"
+      ],
+      "考生": [
+        "考生们很紧张。",
+        "Các thí sinh rất căng thẳng.",
+        "Kǎoshēngmen hěn jǐnzhāng"
+      ],
+      "快餐": [
+        "我们去吃快餐吧！",
+        "Chúng ta đi ăn đồ ăn nhanh nhé!",
+        "Wǒmen qù chī kuàicān ba"
+      ],
+      "筷子": [
+        "我不会用筷子。",
+        "Tôi không biết dùng đũa.",
+        "Wǒ bù huì yòng kuàizi"
+      ],
+      "老年": [
+        "老年人喜欢喝茶。",
+        "Người già thích uống trà.",
+        "Lǎonián rén xǐhuān hē chá"
+      ],
+      "礼物": [
+        "这是送给你的礼物。",
+        "Đây là món quà dành tặng bạn.",
+        "Zhè shì sòng gěi nǐ de lǐwù"
+      ],
+      "两": [
+        "他买了五两花生米。",
+        "Anh ấy mua năm lạng đậu phộng.",
+        "Tā mǎi le wǔ liǎng huāshēng mǐ"
+      ],
+      "亮": [
+        "这个房间很亮。",
+        "Căn phòng này rất sáng.",
+        "Zhège fángjiān hěn liàng"
+      ],
+      "辆": [
+        "他买了一辆新车。",
+        "Anh ấy đã mua một chiếc xe mới.",
+        "Tā mǎile yí liàng xīn chē"
+      ],
+      "卖": [
+        "他在市场卖水果。",
+        "Anh ấy bán trái cây ở chợ.",
+        "Tā zài shìchǎng mài shuǐguǒ"
+      ],
+      "米": [
+        "我想买一公斤米。\n\n我哥哥一米八。",
+        "Tôi muốn mua một ký gạo.\n\nAnh trai tôi cao 1,8 mét.",
+        "Wǒ xiǎng mǎi yì gōngjīn mǐ/\n\n/Wǒ gēgē yī mǐ bā"
+      ],
+      "难听": [
+        "这首歌太难听了。",
+        "Bài hát này quá khó nghe.",
+        "Zhè shǒu gē tài nántīng le"
+      ],
+      "排队": [
+        "我们要排队买票。",
+        "Chúng tôi phải xếp hàng mua vé.",
+        "Wǒmen yào páiduì mǎipiào"
+      ],
+      "篇": [
+        "他写了一篇文章。",
+        "Anh ấy đã viết một bài văn.",
+        "Tā xiě le yī piān wénzhāng"
+      ],
+      "片": [
+        "我吃了一片面包。",
+        "Tôi đã ăn một lát bánh mì.",
+        "Wǒ chīle yí piàn miànbāo"
+      ],
+      "平时": [
+        "我平时不喝咖啡。",
+        "Tôi thường ngày không uống cà phê.",
+        "Wǒ píngshí bù hē kāfēi"
+      ],
+      "瓶": [
+        "我买了一瓶水。",
+        "Tôi đã mua một chai nước.",
+        "Wǒ mǎile yì píng shuǐ"
+      ],
+      "球鞋": [
+        "我买了新球鞋。",
+        "Tôi đã mua đôi giày thể thao mới.",
+        "Wǒ mǎi le xīn qiúxié"
+      ],
+      "取": [
+        "我去银行取钱。",
+        "Tôi đi ngân hàng rút tiền.",
+        "Wǒ qù yínháng qǔ qián"
+      ],
+      "全国": [
+        "全国(tô đỏ)都在庆祝春节。",
+        "Cả nước đều đang ăn mừng Tết Nguyên Đán.",
+        "Quánguó dōu zài qìngzhù Chūnjié"
+      ],
+      "商量": [
+        "他们在商量这件事。",
+        "Họ đang bàn bạc về việc này.",
+        "Tāmen zài shāngliáng zhè jiàn shì"
+      ],
+      "少年": [
+        "这些少年很有活力。",
+        "Những thiếu niên này rất năng động.",
+        "Zhèxiē shàonián hěn yǒu huólì"
+      ],
+      "食物": [
+        "这些食物很健康。",
+        "Những thực phẩm này rất tốt cho sức khỏe.",
+        "Zhèxiē shíwù hěn jiànkāng"
+      ],
+      "收": [
+        "他们还没收房租。",
+        "Họ vẫn chưa thu tiền thuê nhà.",
+        "Tāmen hái méishōu fángzū"
+      ],
+      "收到": [
+        "我收到了一份礼物。",
+        "Tôi đã nhận được một món quà.",
+        "Wǒ shōudào le yí fèn lǐwù"
+      ],
+      "数字": [
+        "请写下这个数字。",
+        "Hãy viết số này xuống.",
+        "Qǐng xiě xià zhège shùzì"
+      ],
+      "它们": [
+        "它们(tô đỏ)正在吃东西。",
+        "Họ đang ăn.",
+        "Tāmen zhèngzài chī dōngxī"
+      ],
+      "套": [
+        "我买了一套衣服。",
+        "Tôi đã mua một bộ quần áo.",
+        "Wǒ mǎi le yí tào yīfu"
+      ],
+      "挺好": [
+        "这个饭馆挺好。",
+        "Nhà hàng này khá tốt.",
+        "Zhè gè fànguǎn tǐng hǎo"
+      ],
+      "头 (名，量）": [
+        "我家有一头牛。\n\n我买了两头蒜。",
+        "Nhà tôi có một con bò.\n\nTôi đã mua hai củ tỏi.",
+        "Wǒjiā yǒu yītóu niú/\n\n/Wǒ mǎile liǎngtóu suàn"
+      ],
+      "外卖": [
+        "我点了外卖。",
+        "Tôi đã đặt đồ ăn mang đi.",
+        "Wǒ diǎn le wàimài"
+      ],
+      "完": [
+        "我吃完饭了。",
+        "Tôi đã ăn xong cơm.",
+        "Wǒ chī wán fàn le"
+      ],
+      "晚报": [
+        "我买了一份晚报。",
+        "Tôi đã mua một tờ báo buổi tối.",
+        "Wǒ mǎi le yí fèn wǎnbào"
+      ],
+      "晚餐": [
+        "我们一起吃晚餐。",
+        "Chúng tôi ăn tối cùng nhau.",
+        "Wǒmen yìqǐ chī wǎncān"
+      ],
+      "碗": [
+        "我买了一个碗。",
+        "Tôi đã mua một cái bát.",
+        "Wǒ mǎi le yí gè wǎn"
+      ],
+      "万": [
+        "这个手机两万元。",
+        "Chiếc điện thoại này giá 20 nghìn nhân dân tệ.",
+        "Zhè gè shǒujī liǎng wàn yuán"
+      ],
+      "味道": [
+        "这个菜味道很好。",
+        "Món ăn này có hương vị rất ngon.",
+        "Zhè gè cài wèidào hěn hǎo"
+      ],
+      "午餐": [
+        "我们一起吃午餐吧！",
+        "Chúng ta cùng ăn trưa nhé!",
+        "Wǒmen yīqǐ chī wǔcān ba"
+      ],
+      "西餐": [
+        "我喜欢吃西餐。",
+        "Tôi thích ăn món Tây.",
+        "Wǒ xǐhuān chī xīcān"
+      ],
+      "习惯": [
+        "我习惯早上喝茶。",
+        "Tôi có thói quen uống trà buổi sáng.",
+        "Wǒ xíguàn zǎoshang hē chá"
+      ],
+      "信用卡": [
+        "我用信用卡买东西。",
+        "Tôi dùng thẻ tín dụng để mua đồ.",
+        "Wǒ yòng xìnyòngkǎ mǎi dōngxi"
+      ],
+      "药": [
+        "你要吃药吗？",
+        "Bạn có cần uống thuốc không?",
+        "Nǐ yào chī yào ma"
+      ],
+      "药片": [
+        "我每天吃两片药片。",
+        "Tôi uống hai viên thuốc mỗi ngày.",
+        "Wǒ měitiān chī liǎng piàn yàopiàn"
+      ],
+      "药水": [
+        "这个药水很苦。",
+        "Thuốc nước này rất đắng.",
+        "Zhège yàoshuǐ hěn kǔ"
+      ],
+      "一共": [
+        "这些书一共多少钱？",
+        "Những quyển sách này tổng cộng bao nhiêu tiền?",
+        "Zhèxiē shū yígòng duōshǎo qián?"
+      ],
+      "已经": [
+        "我已经吃饭了。",
+        "Tôi đã ăn cơm rồi.",
+        "Wǒ yǐjīng chī fàn le."
+      ],
+      "以下": [
+        "这本书适合十岁以下。",
+        "Cuốn sách này phù hợp với trẻ dưới 10 tuổi.",
+        "Zhè běn shū shìhé shí suì yǐxià"
+      ],
+      "一点点": [
+        "请给我一点点水。",
+        "Làm ơn cho tôi một chút nước.",
+        "Qǐng gěi wǒ yì diǎndiǎn shuǐ"
+      ],
+      "银行": [
+        "他去银行取钱。",
+        "Anh ấy đi ngân hàng rút tiền.",
+        "Tā qù yínháng qǔ qián"
+      ],
+      "应该": [
+        "你应该多喝水。",
+        "Bạn nên uống nhiều nước.",
+        "Nǐ yīnggāi duō hē shuǐ"
+      ],
+      "油": [
+        "炒菜需要用油。",
+        "Xào rau cần dùng dầu.",
+        "Chǎocài xūyào yòng yóu"
+      ],
+      "鱼": [
+        "这个鱼很好吃。",
+        "Con cá này rất ngon.",
+        "Zhège yú hěn hǎochī"
+      ],
+      "咱们": [
+        "咱们吃饭吧。",
+        "Chúng ta ăn cơm đi.",
+        "Zánmen chīfàn ba"
+      ],
+      "只": [
+        "他只喝咖啡，不喝茶。",
+        "Anh ấy chỉ uống cà phê, không uống trà.",
+        "Tā zhǐ hē kāfēi, bù hē chá"
+      ],
+      "中餐": [
+        "我喜欢吃中餐。",
+        "Tôi thích ăn món Trung.",
+        "Wǒ xǐhuān chī zhōngcān"
+      ],
+      "字典": [
+        "我买了一本新字典。",
+        "Tôi đã mua một cuốn từ điển mới.",
+        "Wǒ mǎi le yī běn xīn zìdiǎn"
+      ],
+      "租": [
+        "我租了一间房子。",
+        "Tôi đã thuê một căn phòng.",
+        "Wǒ zū le yī jiān fángzi"
+      ],
+      "做饭": [
+        "妈妈每天做饭给我们吃。",
+        "Mẹ nấu ăn cho chúng tôi mỗi ngày.",
+        "Māma měitiān zuòfàn gěi wǒmen chī"
+      ]
+    }
+  }
+]

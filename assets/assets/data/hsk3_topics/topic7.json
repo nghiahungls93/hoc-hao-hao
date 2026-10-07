@@ -1,0 +1,753 @@
+[
+  {
+    "id": "hsk3-topic-07",
+    "title": "Xã hội và môi trường",
+    "titleCn": "HSK 3 · 7",
+    "context": "Từ vựng HSK 3 cùng chủ đề",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "保存",
+      "报道",
+      "背",
+      "被子",
+      "变化",
+      "不论",
+      "不得不",
+      "长期",
+      "场所",
+      "朝",
+      "持续",
+      "初步",
+      "村",
+      "导演",
+      "底下",
+      "读者",
+      "短裤",
+      "短期",
+      "防止",
+      "房屋",
+      "放到",
+      "飞行",
+      "丰富",
+      "服装",
+      "改造",
+      "歌手",
+      "各种",
+      "共同",
+      "姑娘",
+      "观察",
+      "过程",
+      "行",
+      "互相",
+      "话题",
+      "机器",
+      "坚强",
+      "简直",
+      "建成",
+      "将来",
+      "教练",
+      "结合",
+      "金",
+      "经济",
+      "景色",
+      "静",
+      "旧",
+      "看上去",
+      "老板",
+      "老头儿",
+      "乐观",
+      "理论",
+      "力量",
+      "联合国",
+      "了",
+      "录音",
+      "毛",
+      "毛病",
+      "媒体",
+      "木头",
+      "目前",
+      "内容",
+      "年代",
+      "年纪",
+      "暖和",
+      "批准",
+      "苹果",
+      "普遍",
+      "其次",
+      "强烈",
+      "取消",
+      "热爱",
+      "认可",
+      "仍",
+      "商品",
+      "设计",
+      "社会",
+      "胜利",
+      "实力",
+      "实行",
+      "事故",
+      "试验",
+      "首都",
+      "输",
+      "束",
+      "谈判",
+      "提前",
+      "题目",
+      "天空",
+      "停止",
+      "突然",
+      "推动",
+      "完善",
+      "卫生间",
+      "温暖",
+      "文化",
+      "西部",
+      "显然",
+      "现实",
+      "现象",
+      "消息",
+      "形式",
+      "修改",
+      "压",
+      "羊",
+      "阳光",
+      "银牌",
+      "营养",
+      "由于",
+      "预防",
+      "早已",
+      "造成",
+      "照",
+      "正(形)",
+      "证据",
+      "只是",
+      "制定",
+      "中华民族",
+      "重大",
+      "专题",
+      "状态",
+      "自然",
+      "自主",
+      "作者"
+    ],
+    "examples": {
+      "保存": [
+        "请保存这个文件。",
+        "Hãy lưu giữ tài liệu này.",
+        "Qǐng bǎocún zhège wénjiàn"
+      ],
+      "报道": [
+        "新闻报道了这件事。",
+        "Tin tức đã đưa tin về việc này.",
+        "Xīnwén bàodào le zhè jiàn shì"
+      ],
+      "背": [
+        "我的背有点疼。",
+        "Lưng của tôi đang hơi đau.",
+        "Wǒ de bèi yǒudiǎn téng"
+      ],
+      "被子": [
+        "晚上天气冷，你们要盖被子。",
+        "Ban đêm trời lạnh, các bạn phải nhớ đắp chăn.",
+        "Wǎnshàng tiānqì lěng, nǐmen yào gài bèizi"
+      ],
+      "变化": [
+        "天气有点变化。",
+        "Thời tiết có chút thay đổi.",
+        "Tiānqì yǒudiǎn biànhuà"
+      ],
+      "不论": [
+        "不论天气怎样，我们都去。",
+        "Bất kể thời tiết ra sao, chúng ta đều đi.",
+        "Búlùn tiānqì zěnyàng, wǒmen dōu qù"
+      ],
+      "不得不": [
+        "因为下雨了，我不得不在家。",
+        "Bởi vì trời mưa rồi, tôi đành phải ở nhà.",
+        "Yīnwèi xià yǔ le, wǒ bùdé bù zàijiā"
+      ],
+      "长期": [
+        "她长期生活在法国。",
+        "Cô ấy đã sống ở Pháp một thời gian dài.",
+        "Tā chángqī shēnghuó zài fàguó"
+      ],
+      "场所": [
+        "图书馆是安静的场所。",
+        "Thư viện là nơi yên tĩnh.",
+        "Túshūguǎn shì ānjìng de chǎngsuǒ"
+      ],
+      "朝": [
+        "花朝着太阳开。",
+        "Hoa nở hướng về phía mặt trời.",
+        "Huā cháo zhe tàiyáng kāi"
+      ],
+      "持续": [
+        "下雨已经持续了三天了。",
+        "Mưa đã kéo dài suốt ba ngày rồi.",
+        "Xià yǔ yǐjīng chíxù le sān tiān le"
+      ],
+      "初步": [
+        "我们已经有了初步的计划。",
+        "Chúng tôi đã có kế hoạch sơ bộ rồi.",
+        "Wǒmen yǐjīng yǒu le chūbù de jìhuà"
+      ],
+      "村": [
+        "我奶奶住在一个安静的村里。",
+        "Bà tôi sống ở một ngôi làng yên tĩnh.",
+        "Wǒ nǎinai zhù zài yí gè ānjìng de cūn lǐ"
+      ],
+      "导演": [
+        "这部电影的导演很有名。",
+        "Đạo diễn của bộ phim này rất nổi tiếng.",
+        "Zhè bù diànyǐng de dǎoyǎn hěn yǒumíng"
+      ],
+      "底下": [
+        "桌子底下有一个笔。",
+        "Dưới bàn có một cây bút.",
+        "Zhuōzi dǐxia yǒu yīgè bǐ"
+      ],
+      "读者": [
+        "她是这本书的忠实读者。",
+        "Cô ấy là độc giả trung thành của cuốn sách này.",
+        "Tā shì zhè běn shū de zhōngshí dúzhě"
+      ],
+      "短裤": [
+        "夏天我常穿短裤。",
+        "Vào mùa hè tôi thường mặc quần short.",
+        "Xiàtiān wǒ cháng chuān duǎnkù"
+      ],
+      "短期": [
+        "这是一个短期目标。",
+        "Đây là mục tiêu ngắn hạn.",
+        "Zhè shì yīgè duǎnqī mùbiāo"
+      ],
+      "防止": [
+        "多洗手可以防止感冒。",
+        "Rửa tay nhiều có thể phòng tránh cảm cúm.",
+        "Duō xǐshǒu kěyǐ fángzhǐ gǎnmào"
+      ],
+      "房屋": [
+        "这座房屋很漂亮。",
+        "Ngôi nhà này rất đẹp.",
+        "Zhè zuò fángwū hěn piàoliang"
+      ],
+      "放到": [
+        "请把书放到桌子上。",
+        "Hãy đặt cuốn sách lên bàn.",
+        "Qǐng bǎ shū fàngdào zhuōzi shàng"
+      ],
+      "飞行": [
+        "鸟儿在空中自由地飞行。",
+        "Chim đang tự do bay lượn trên bầu trời.",
+        "Niǎor zài kōngzhōng zìyóu de fēixíng"
+      ],
+      "丰富": [
+        "她的生活非常丰富。",
+        "Cuộc sống của cô ấy rất phong phú.",
+        "Tā de shēnghuó fēicháng fēngfù"
+      ],
+      "服装": [
+        "她的服装很漂亮。",
+        "Bộ trang phục của cô ấy rất đẹp.",
+        "Tā de fúzhuāng hěn piàoliang"
+      ],
+      "改造": [
+        "他们在改造这座老房子。",
+        "Họ đang sửa sang ngôi nhà cũ này.",
+        "Tāmen zài gǎizào zhè zuò lǎo fángzi"
+      ],
+      "歌手": [
+        "这个歌手唱得很好。",
+        "Ca sĩ này hát rất hay.",
+        "Zhège gēshǒu chàng de hěn hǎo"
+      ],
+      "各种": [
+        "超市里有各种水果。",
+        "Siêu thị có nhiều loại trái cây.",
+        "Chāoshì lǐ yǒu gèzhǒng shuǐguǒ"
+      ],
+      "共同": [
+        "我们有一个共同的目标。",
+        "Chúng tôi có cùng một mục tiêu.",
+        "Wǒmen yǒu yí ge gòngtóng de mùbiāo"
+      ],
+      "姑娘": [
+        "那个姑娘很漂亮。",
+        "Cô gái kia rất xinh đẹp.",
+        "Nàge gūniang hěn piàoliang"
+      ],
+      "观察": [
+        "他正在观察天气的变化。",
+        "Anh ấy đang quan sát sự thay đổi của thời tiết.",
+        "Tā zhèngzài guānchá tiānqì de biànhuà"
+      ],
+      "过程": [
+        "成功需要努力的过程。",
+        "Thành công cần quá trình nỗ lực.",
+        "Chénggōng xūyào nǔlì de guòchéng"
+      ],
+      "行": [
+        "我们都是医生，是同行。",
+        "Chúng tôi đều cùng nghề làm bác sĩ.",
+        "Wǒmen dōu shì yīshēng, shì tóngxíng"
+      ],
+      "互相": [
+        "他们互相帮助。",
+        "Họ giúp đỡ lẫn nhau.",
+        "Tāmen hùxiāng bāngzhù."
+      ],
+      "话题": [
+        "这个话题很有意思。",
+        "Chủ đề này rất thú vị.",
+        "Zhège huàtí hěn yǒuyìsi"
+      ],
+      "机器": [
+        "工厂里有很多新机器。",
+        "Trong nhà máy có rất nhiều máy móc mới.",
+        "Gōngchǎng lǐ yǒu hěn duō xīn jīqì"
+      ],
+      "坚强": [
+        "她是个坚强的女孩。",
+        "Cô ấy rất kiên quyết không đồng ý với ý kiến này.",
+        "Tā shì gè jiānqiáng de nǚhái"
+      ],
+      "简直": [
+        "这事简直太难了。",
+        "Việc này thật là quá khó.",
+        "Zhè shì jiǎnzhí tài nán le"
+      ],
+      "建成": [
+        "新大楼已经建成了。",
+        "Tòa nhà mới đã xây xong.",
+        "Xīn dàlóu yǐjīng jiànchéng le"
+      ],
+      "将来": [
+        "将来我要当医生。",
+        "Tương lai tôi muốn làm bác sĩ.",
+        "Jiānglái wǒ yào dāng yīshēng"
+      ],
+      "教练": [
+        "我的教练很严格。",
+        "Huấn luyện viên của tôi rất nghiêm khắc.",
+        "Wǒ de jiàoliàn hěn yángé"
+      ],
+      "结合": [
+        "请把理论和实践结合起来。",
+        "Hãy kết hợp lý thuyết và thực hành.",
+        "Qǐng bǎ lǐlùn hé shíjiàn jiéhé qǐlái"
+      ],
+      "金": [
+        "这个戒指是金的。",
+        "Chiếc nhẫn này làm bằng vàng.",
+        "Zhè ge jièzhǐ shì jīn de"
+      ],
+      "经济": [
+        "这个城市的经济发展得很好。",
+        "Kinh tế của thành phố này phát triển rất tốt.",
+        "Zhè ge chéngshì de jīngjì fāzhǎn de hěn hǎo"
+      ],
+      "景色": [
+        "山上的景色非常美。",
+        "Cảnh trên núi rất đẹp.",
+        "Shān shàng de jǐngsè fēicháng měi"
+      ],
+      "静": [
+        "图书馆里很静。",
+        "Trong thư viện rất yên tĩnh.",
+        "Túshūguǎn lǐ hěn jìng"
+      ],
+      "旧": [
+        "我的电脑很旧了。",
+        "Máy tính của tôi cũ rồi.",
+        "Wǒ de diànnǎo hěn jiù le"
+      ],
+      "看上去": [
+        "她看上去比我大一岁。",
+        "Cô ấy trông có vẻ lớn hơn tôi một tuổi.",
+        "Tā kàn shàngqù bǐ wǒ dà yí suì"
+      ],
+      "老板": [
+        "我的老板很亲切。",
+        "Sếp của tôi rất thân thiện.",
+        "Wǒ de lǎobǎn hěn qīnqiè"
+      ],
+      "老头儿": [
+        "公园里有很多老头儿在下棋。",
+        "Trong công viên có nhiều ông lão đang chơi cờ.",
+        "Gōngyuán lǐ yǒu hěn duō lǎotóur zài xiàqí"
+      ],
+      "乐观": [
+        "她性格很乐观。",
+        "Cô ấy có tính cách rất lạc quan.",
+        "Tā xìnggé hěn lèguān"
+      ],
+      "理论": [
+        "这个理论很重要。",
+        "Lý luận này rất quan trọng.",
+        "Zhè gè lǐlùn hěn zhòng yào"
+      ],
+      "力量": [
+        "团结就是力量。",
+        "Đoàn kết chính là sức mạnh.",
+        "Tuánjié jiù shì lìliàng"
+      ],
+      "联合国": [
+        "联合国有很多成员国。",
+        "Liên Hợp Quốc có rất nhiều quốc gia thành viên.",
+        "Liánhéguó yǒu hěn duō chéngyuánguó"
+      ],
+      "了": [
+        "这件事我忘不了。",
+        "Tôi hiểu rồi.",
+        "Zhè jiàn shì wǒ wàng bù liǎo"
+      ],
+      "录音": [
+        "我录音了全部会议内容。",
+        "Tôi đã ghi âm toàn bộ nội dung cuộc họp.",
+        "Wǒ lùyīn le quánbù huìyì nèiróng"
+      ],
+      "毛": [
+        "猫的毛很软。",
+        "Lông của mèo rất mềm.",
+        "Māo de máo hěn ruǎn"
+      ],
+      "毛病": [
+        "这台电脑有毛病。",
+        "Cái máy tính này có vấn đề.",
+        "Zhè tái diànnǎo yǒu máobìng"
+      ],
+      "媒体": [
+        "媒体报道了这个新闻。",
+        "Truyền thông đã đưa tin về việc này.",
+        "Méitǐ bàodào le zhè gè xīnwén"
+      ],
+      "木头": [
+        "这张桌子是木头做的。",
+        "Cái bàn này được làm bằng gỗ.",
+        "Zhè zhāng zhuōzi shì mùtou zuò de"
+      ],
+      "目前": [
+        "目前我们还没有决定。",
+        "Hiện tại chúng tôi vẫn chưa quyết định.",
+        "Mùqián wǒmen hái méiyǒu juédìng"
+      ],
+      "内容": [
+        "这本书的内容非常精彩。",
+        "Nội dung của cuốn sách này rất đặc sắc.",
+        "Zhè běn shū de nèiróng fēicháng jīngcǎi"
+      ],
+      "年代": [
+        "这是八十年代的老歌。",
+        "Đây là bài hát cũ từ thập niên 80.",
+        "Zhè shì bāshí niándài de lǎo gē"
+      ],
+      "年纪": [
+        "奶奶年纪大了，需要多休息。",
+        "Bà đã lớn tuổi rồi, cần nghỉ ngơi nhiều hơn.",
+        "Nǎinai niánjì dà le, xūyào duō xiūxi"
+      ],
+      "暖和": [
+        "今天天气很暖和。",
+        "Thời tiết hôm nay thật ấm áp.",
+        "Jīntiān tiānqì hěn nuǎnhuo"
+      ],
+      "批准": [
+        "这个计划已经被批准了。",
+        "Kế hoạch này đã được phê duyệt.",
+        "Zhège jìhuà yǐjīng bèi pīzhǔn le"
+      ],
+      "苹果": [
+        "这些个苹果很甜。",
+        "những quả táo này rất ngọt",
+        "Zhèxiē ge píngguǒ hěn tián"
+      ],
+      "普遍": [
+        "这种错误很普遍。",
+        "những lỗi này cũng rất thường gặp",
+        "Zhè zhǒng cuòwù hěn pǔbiàn"
+      ],
+      "其次": [
+        "首先，我想学习汉语，其次，我想了解中国文化。",
+        "đầu tiên, tôi muốn học tiếng Trung; thứ hai, tôi muốn tìm hiểu văn hóa Trung Quốc",
+        "Shǒuxiān, wǒ xiǎng xuéxí Hànyǔ, qícì, wǒ xiǎng liǎojiě Zhōngguó wénhuà"
+      ],
+      "强烈": [
+        "我对音乐有强烈的兴趣。",
+        "Tôi có hứng thú mạnh mẽ với âm nhạc",
+        "Wǒ duì yīnyuè yǒu qiángliè de xìngqù"
+      ],
+      "取消": [
+        "因为下雨，比赛被取消了",
+        "Vì trời mưa, trận đấu đã bị hủy",
+        "Yīnwèi xiàyǔ, bǐsài bèi qǔxiāo le"
+      ],
+      "热爱": [
+        "她从小就热爱音乐",
+        "Cô ấy từ nhỏ đã say mê âm nhạc",
+        "Tā cóng xiǎo jiù rè’ài yīnyuè"
+      ],
+      "认可": [
+        "她的发言得到了认可",
+        "Phát biểu của cô ấy đã được công nhận",
+        "Tā de fāyán dédào le rènkě"
+      ],
+      "仍": [
+        "虽然下雨，他仍去上班",
+        "Dù trời mưa, anh ấy vẫn đi làm",
+        "Suīrán xiàyǔ, tā réng qù shàngbān"
+      ],
+      "商品": [
+        "超市里有各种各样的商品",
+        "Trong siêu thị có đủ loại hàng hóa",
+        "Chāoshì lǐ yǒu gè zhǒng gè yàng de shāngpǐn"
+      ],
+      "设计": [
+        "这个产品的设计很漂亮",
+        "Thiết kế của sản phẩm này rất đẹp",
+        "Zhège chǎnpǐn de shèjì hěn piàoliang"
+      ],
+      "社会": [
+        "社会的发展很快",
+        "xã hội phát triển rất nhanh",
+        "Shèhuì de fāzhǎn hěn kuài"
+      ],
+      "胜利": [
+        "我们队取得了胜利。",
+        "Đội chúng tôi đã giành được chiến thắng.",
+        "Wǒmen duì qǔdé le shènglì"
+      ],
+      "实力": [
+        "这个队的实力很强。",
+        "Thực lực của đội này rất mạnh.",
+        "Zhè ge duì de shílì hěn qiáng"
+      ],
+      "实行": [
+        "这个计划很难实行。",
+        "Kế hoạch này rất khó thực hiện.",
+        "Zhè ge jìhuà hěn nán shíxíng"
+      ],
+      "事故": [
+        "工厂发生了安全事故。",
+        "Nhà máy đã xảy ra sự cố an toàn.",
+        "Gōngchǎng fāshēng le ānquán shìgù"
+      ],
+      "试验": [
+        "我们正在做一项重要的试验。",
+        "Chúng tôi đang làm một thử nghiệm quan trọng.",
+        "Wǒmen zhèngzài zuò yī xiàng zhòngyào de shìyàn"
+      ],
+      "首都": [
+        "河内是首都的越南。",
+        "Hà Nội là thủ đô của Việt Nam.",
+        "Hénèi shì Yuènán de shǒudū"
+      ],
+      "输": [
+        "他们在比赛中输了。",
+        "Họ đã thua trong trận đấu.",
+        "Tāmen zài bǐsài zhōng shū le"
+      ],
+      "束": [
+        "她手里拿着一束玫瑰。",
+        "Cô ấy cầm một bó hoa hồng trong tay.",
+        "Tā shǒu lǐ názhe yī shù méiguī"
+      ],
+      "谈判": [
+        "双方正在进行谈判。",
+        "Hai bên đang tiến hành đàm phán.",
+        "Shuāngfāng zhèngzài jìnxíng tánpàn"
+      ],
+      "提前": [
+        "我们提前完成了任务。",
+        "Chúng tôi đã hoàn thành sớm nhiệm vụ.",
+        "Wǒmen tíqián wánchéng le rènwu"
+      ],
+      "题目": [
+        "这道题目的答案不难。",
+        "Đáp án của đề bài này không khó.",
+        "Zhè dào tímù de dá àn bù nán"
+      ],
+      "天空": [
+        "天空中有很多星星。",
+        "Trên bầu trời có rất nhiều ngôi sao.",
+        "Tiānkōng zhōng yǒu hěn duō xīngxing"
+      ],
+      "停止": [
+        "雨终于停止了。",
+        "Mưa cuối cùng đã ngừng rơi.",
+        "Yǔ zhōngyú tíngzhǐ le"
+      ],
+      "突然": [
+        "天气突然变冷了。",
+        "Thời tiết đột nhiên trở lạnh rồi.",
+        "Tiānqì tūrán biàn lěng le"
+      ],
+      "推动": [
+        "政府正在推动经济发展。",
+        "Chính phủ đang thúc đẩy phát triển kinh tế.",
+        "Zhèngfǔ zhèngzài tuīdòng jīngjì fāzhǎn"
+      ],
+      "完善": [
+        "这个计划必须得完善。",
+        "Kế hoạch này nhất định phải được làm cho hoàn chỉnh.",
+        "Zhège jìhuà bìxū děi wánshàn"
+      ],
+      "卫生间": [
+        "卫生间在哪里？",
+        "Nhà vệ sinh ở đâu?",
+        "Wèishēngjiān zài nǎlǐ"
+      ],
+      "温暖": [
+        "春天来了，天气越来越温暖。",
+        "Mùa xuân đến rồi, thời tiết ngày càng ấm áp.",
+        "Chūntiān láile, tiānqì yuè lái yuè wēnnuǎn"
+      ],
+      "文化": [
+        "我们应该学习不同的文化。",
+        "Chúng ta nên học hỏi những nền văn hóa khác nhau.",
+        "Wǒmen yīnggāi xuéxí bùtóng de wénhuà"
+      ],
+      "西部": [
+        "中国西部有很多山。",
+        "Miền Tây Trung Quốc có rất nhiều núi.",
+        "Zhōngguó xībù yǒu hěnduō shān"
+      ],
+      "显然": [
+        "这个结果是显然的。",
+        "Kết quả này là hiển nhiên.",
+        "Zhège jiéguǒ shì xiǎnrán de"
+      ],
+      "现实": [
+        "我们必须面对现实。",
+        "Chúng ta phải đối mặt với hiện thực.",
+        "Wǒmen bìxū miànduì xiànshí"
+      ],
+      "现象": [
+        "这是一种常见的自然现象。",
+        "Đây là một hiện tượng tự nhiên thường thấy.",
+        "Zhè shì yī zhǒng chángjiàn de zìrán xiànxiàng"
+      ],
+      "消息": [
+        "我收到了一个好消息。",
+        "Tôi đã nhận được một tin tức tốt.",
+        "Wǒ shōudàole yīgè hǎo xiāoxī"
+      ],
+      "形式": [
+        "这种比赛的形式很有趣。",
+        "Hình thức cuộc thi này rất thú vị.",
+        "Zhè zhǒng bǐsài de xíngshì hěn yǒuqù"
+      ],
+      "修改": [
+        "这份文件还需要修改。",
+        "Tài liệu này vẫn cần phải chỉnh sửa.",
+        "Zhè fèn wénjiàn hái xūyào xiūgǎi"
+      ],
+      "压": [
+        "不要在纸上压重物。",
+        "Đừng đè vật nặng lên giấy.",
+        "Bú yào zài zhǐ shang yā zhòngwù"
+      ],
+      "羊": [
+        "草原上有很多羊。",
+        "Trên thảo nguyên có rất nhiều dê.",
+        "Cǎoyuán shàng yǒu hěn duō yáng"
+      ],
+      "阳光": [
+        "早晨的阳光照在窗户上。",
+        "Ánh nắng buổi sáng chiếu lên cửa sổ.",
+        "Zǎochén de yángguāng zhào zài chuānghu shàng"
+      ],
+      "银牌": [
+        "她赢得了奥运银牌。",
+        "Cô ấy đã giành được huy chương bạc Olympic.",
+        "Tā yíngdéle Àoyùn yínpái"
+      ],
+      "营养": [
+        "这种食物很有营养。",
+        "Loại thực phẩm này rất có dinh dưỡng.",
+        "Zhè zhǒng shíwù hěn yǒu yíngyǎng"
+      ],
+      "由于": [
+        "由于下雨，比赛被取消了。",
+        "Do trời mưa, trận đấu đã bị hủy bỏ.",
+        "Yóuyú xià yǔ, bǐsài bèi qǔxiāo le"
+      ],
+      "预防": [
+        "我们要预防感冒。",
+        "Chúng ta cần phòng ngừa cảm cúm.",
+        "Wǒmen yào yùfáng gǎnmào"
+      ],
+      "早已": [
+        "我早已把这件事忘了。",
+        "Tôi đã quên chuyện này từ lâu rồi.",
+        "Wǒ zǎoyǐ bǎ zhè jiàn shì wàngle"
+      ],
+      "造成": [
+        "事故造成了交通堵塞。",
+        "Vụ tai nạn đã gây ra tắc nghẽn giao thông.",
+        "Shìgù zàochéngle jiāotōng dǔsè"
+      ],
+      "照": [
+        "阳光照在草地上。",
+        "Ánh nắng chiếu trên bãi cỏ.",
+        "Yángguāng zhào zài cǎodì shang"
+      ],
+      "正(形)": [
+        "请站在照片正中间。",
+        "Xin hãy đứng chính giữa bức ảnh.",
+        "Qǐng zhàn zài zhàopiàn zhèng zhōngjiān"
+      ],
+      "证据": [
+        "警方正在寻找犯罪证据。",
+        "Cảnh sát đang tìm kiếm bằng chứng phạm tội.",
+        "Jǐngfāng zhèngzài xúnzhǎo fànzuì zhèngjù"
+      ],
+      "只是": [
+        "我只是说说而已。",
+        "Tôi chỉ là nói chơi thôi.",
+        "Wǒ zhǐshì shuōshuō éryǐ"
+      ],
+      "制定": [
+        "我们需要制定一个新计划。",
+        "Chúng ta cần xây dựng một kế hoạch mới.",
+        "Wǒmen xūyào zhìdìng yīgè xīn jìhuà"
+      ],
+      "中华民族": [
+        "中华民族历史悠久。",
+        "Dân tộc Trung Hoa có lịch sử lâu đời.",
+        "Zhōnghuá mínzú lìshǐ yōujiǔ"
+      ],
+      "重大": [
+        "这是一个重大的决定。",
+        "Đây là một quyết định quan trọng/trọng đại.",
+        "Zhè shì yīgè zhòngdà de juédìng"
+      ],
+      "专题": [
+        "这次会议讨论了一个重要的专题。",
+        "Cuộc họp này đã thảo luận một chuyên đề quan trọng.",
+        "Zhè cì huìyì tǎolùn le yīgè zhòngyào de zhuāntí"
+      ],
+      "状态": [
+        "她最近的精神状态不太好。",
+        "Tình trạng tinh thần của cô ấy gần đây không được tốt lắm.",
+        "Tā zuìjìn de jīngshén zhuàngtài bú tài hǎo"
+      ],
+      "自然": [
+        "大自然的美丽。",
+        "Vẻ đẹp của thiên nhiên.",
+        "Dà zìrán de měilì"
+      ],
+      "自主": [
+        "她在经济上很自主。",
+        "Cô ấy rất tự chủ về mặt kinh tế.",
+        "Tā zài jīngjì shàng hěn zìzhǔ"
+      ],
+      "作者": [
+        "这本书的作者是鲁迅。",
+        "Tác giả của cuốn sách này là Lỗ Tấn.",
+        "Zhè běn shū de zuòzhě shì Lǔ Xùn"
+      ]
+    }
+  }
+]

@@ -1,0 +1,753 @@
+[
+  {
+    "id": "hsk3-topic-04",
+    "title": "Tâm trạng và quan điểm",
+    "titleCn": "HSK 3 · 4",
+    "context": "Từ vựng HSK 3 cùng chủ đề",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "保持",
+      "保留",
+      "保险",
+      "比例",
+      "标题",
+      "表达",
+      "表格",
+      "表明",
+      "播放",
+      "不安",
+      "彩色",
+      "产生",
+      "充满",
+      "打破",
+      "当初",
+      "地区",
+      "电视剧",
+      "调查",
+      "定期",
+      "发送",
+      "范围",
+      "费用",
+      "分组",
+      "风险",
+      "复印",
+      "复杂",
+      "个性",
+      "公开",
+      "功夫",
+      "观众",
+      "广大",
+      "国内",
+      "合作",
+      "化 (现代化）",
+      "环",
+      "集体",
+      "继续",
+      "简单",
+      "建议",
+      "交费",
+      "结实",
+      "结束",
+      "解决",
+      "精彩",
+      "警察",
+      "久",
+      "看起来",
+      "空",
+      "空调",
+      "乐",
+      "类",
+      "类似",
+      "连续剧",
+      "联合",
+      "联系",
+      "龙",
+      "绿茶",
+      "没用",
+      "美丽",
+      "迷",
+      "面对",
+      "民间",
+      "明显",
+      "内",
+      "牌子",
+      "判断",
+      "啤酒",
+      "气候",
+      "强",
+      "情况",
+      "全面",
+      "全球",
+      "日常",
+      "如何",
+      "伤心",
+      "生产",
+      "胜",
+      "时代",
+      "实际上",
+      "使",
+      "世界杯",
+      "适应",
+      "收听",
+      "手续",
+      "受",
+      "书架",
+      "汤",
+      "糖",
+      "头",
+      "土",
+      "推进",
+      "完美",
+      "玩具",
+      "危害",
+      "为",
+      "为了",
+      "希望",
+      "显示",
+      "相当",
+      "相关",
+      "信封",
+      "形象",
+      "选手",
+      "烟",
+      "一切",
+      "已",
+      "印象",
+      "贏",
+      "邮票",
+      "邮箱",
+      "游泳",
+      "杂志",
+      "真实",
+      "整体",
+      "证",
+      "志愿者",
+      "制作",
+      "终于",
+      "种",
+      "祝",
+      "追",
+      "总是",
+      "足球"
+    ],
+    "examples": {
+      "保持": [
+        "(tô đỏ 保持)健康很重要。",
+        "Duy trì sức khỏe là rất quan trọng.",
+        "Bǎochí jiànkāng hěn zhòngyào"
+      ],
+      "保留": [
+        "这些东西要保留吗？",
+        "Những đồ vật này cần giữ lại không?",
+        "Zhèxiē dōngxi yào bǎoliú ma?"
+      ],
+      "保险": [
+        "他买了健康保险。",
+        "Anh ấy đã mua bảo hiểm sức khỏe.",
+        "Tā mǎi le jiànkāng bǎoxiǎn"
+      ],
+      "比例": [
+        "男女比例差不多。",
+        "Tỷ lệ nam nữ gần như bằng nhau.",
+        "Nánnǚ bǐlì chàbuduō"
+      ],
+      "标题": [
+        "请写一个好标题。",
+        "Hãy viết một tiêu đề hay.",
+        "Qǐng xiě yí gè hǎo biāotí"
+      ],
+      "表达": [
+        "他用汉语表达自己的想法。",
+        "Anh ấy dùng tiếng Trung biểu đạt suy nghĩ của mình.",
+        "Tā yòng hànyǔ biǎodá zìjǐ de xiǎngfǎ"
+      ],
+      "表格": [
+        "请把信息写在这个表格里。",
+        "Vui lòng viết thông tin vào bảng này.",
+        "Qǐng bǎ xìnxī xiě zài zhè ge biǎogé lǐ"
+      ],
+      "表明": [
+        "他需要表明自己的想法。",
+        "Anh ấy cần bày tỏ suy nghĩ của mình.",
+        "Tā xūyào biǎomíng zìjǐ de xiǎngfǎ"
+      ],
+      "播放": [
+        "请播放这首歌。",
+        "Vui lòng phát bài hát này.",
+        "Qǐng bōfàng zhè shǒu gē"
+      ],
+      "不安": [
+        "她感到很不安。",
+        "Cô ấy cảm thấy rất bất an.",
+        "Tā gǎndào hěn bù’ān"
+      ],
+      "彩色": [
+        "我喜欢彩色的的衣服。",
+        "Tôi thích quần áo nhiều màu sắc.",
+        "Wǒ xǐhuan cǎisè de yīfu"
+      ],
+      "产生": [
+        "这个问题产生了很多麻烦。",
+        "Vấn đề này gây ra nhiều rắc rối.",
+        "Zhège wèntí chǎnshēng le hěn duō máfan"
+      ],
+      "充满": [
+        "她的眼里充满了快乐。",
+        "Mắt cô ấy tràn đầy niềm vui.",
+        "Tā de yǎn lǐ chōngmǎn le kuàilè"
+      ],
+      "打破": [
+        "小明打破了一个杯子。",
+        "Tiểu Minh làm vỡ một cái ly.",
+        "Xiǎomíng dǎpò le yí gè bēizi"
+      ],
+      "当初": [
+        "我当初也有这样的想法。",
+        "Lúc đầu tôi cũng có suy nghĩ như vậy.",
+        "Wǒ dāngchū yě yǒu zhèyàng de xiǎngfǎ"
+      ],
+      "地区": [
+        "这个地区冬天很冷。",
+        "Khu vực này mùa đông rất lạnh.",
+        "Zhège dìqū dōngtiān hěn lěng"
+      ],
+      "电视剧": [
+        "她喜欢看韩国电视剧。",
+        "Cô ấy thích xem phim truyền hình Hàn Quốc.",
+        "Tā xǐhuān kàn Hánguó diànshìjù"
+      ],
+      "调查": [
+        "他们正在调查这个问题。",
+        "Họ đang điều tra về vấn đề này.",
+        "Tāmen zhèngzài diàochá zhège wèntí"
+      ],
+      "定期": [
+        "医生让我定期检查身体。",
+        "Bác sĩ bảo tôi kiểm tra sức khỏe định kỳ.",
+        "Yīshēng ràng wǒ dìngqī jiǎnchá shēntǐ"
+      ],
+      "发送": [
+        "我已经发送电子邮件给他了。",
+        "Vui lòng gửi bức thư này đi.",
+        "Wǒ yǐjīng fāsòng diànzǐ yóujiàn gěi tā le"
+      ],
+      "范围": [
+        "这个问题不在讨论范围内。",
+        "Vấn đề này không nằm trong phạm vi thảo luận.",
+        "Zhège wèntí bú zài tǎolùn fànwéi nèi"
+      ],
+      "费用": [
+        "我们要先准备好旅行的费用。",
+        "Chúng ta cần chuẩn bị sẵn chi phí cho chuyến du lịch.",
+        "Wǒmen yào xiān zhǔnbèi hǎo lǚxíng de fèiyòng"
+      ],
+      "分组": [
+        "我们分组做这个练习。",
+        "Chúng tôi chia nhóm để làm bài tập này.",
+        "Wǒmen fēnzǔ zuò zhège liànxí"
+      ],
+      "风险": [
+        "这个游戏有很多风险，我不敢玩。",
+        "Trò chơi này có quá nhiều rủi ro, tôi không dám chơi.",
+        "Zhège yóuxì yǒu hěnduō fēngxiǎn, wǒ bù gǎn wán"
+      ],
+      "复印": [
+        "请帮我复印这份文件。",
+        "Làm ơn giúp tôi photocopy tài liệu này.",
+        "Qǐng bāng wǒ fùyìn zhè fèn wénjiàn"
+      ],
+      "复杂": [
+        "这个问题很复杂。",
+        "Vấn đề này rất phức tạp.",
+        "Zhège wèntí hěn fùzá"
+      ],
+      "个性": [
+        "她是一个很有个性的女孩。",
+        "Cô ấy là một cô gái rất cá tính.",
+        "Tā shì yí gè hěn yǒu gèxìng de nǚhái"
+      ],
+      "公开": [
+        "他们公开了这件事。",
+        "Họ đã công khai chuyện này.",
+        "Tāmen gōngkāi le zhè jiàn shì"
+      ],
+      "功夫": [
+        "我从小就喜欢中国功夫。",
+        "Từ nhỏ tôi đã thích võ thuật Trung Hoa.",
+        "Wǒ cóng xiǎo jiù xǐhuān Zhōngguó gōngfu"
+      ],
+      "观众": [
+        "观众们都很兴奋。",
+        "Các khán giả đều rất hào hứng.",
+        "Guānzhòng men dōu hěn xīngfèn"
+      ],
+      "广大": [
+        "这个草原很广大。",
+        "Thảo nguyên này rất rộng lớn.",
+        "Zhège cǎoyuán hěn guǎngdà"
+      ],
+      "国内": [
+        "我喜欢去国内旅游。",
+        "Tôi thích đi du lịch trong nước.",
+        "Wǒ xǐhuān qù guónèi lǚyóu"
+      ],
+      "合作": [
+        "我们希望与贵公司合作。",
+        "Chúng tôi mong được hợp tác với quý công ty.",
+        "Wǒmen xīwàng yǔ guì gōngsī hézuò"
+      ],
+      "化 (现代化）": [
+        "越南正在现代化。",
+        "Việt Nam đang hiện đại hóa.",
+        "Yuènán zhèngzài xiàndàihuà"
+      ],
+      "环": [
+        "她戴着一只玉环。",
+        "Cô ấy đeo một vòng ngọc.",
+        "Tā dài zhe yī zhī yù huán"
+      ],
+      "集体": [
+        "我们加入了集体运动。",
+        "Chúng tôi là một tập thể.",
+        "Wǒmen jiārù le jítǐ yùndòng"
+      ],
+      "继续": [
+        "请继续回答问题。",
+        "Mời bạn tiếp tục trả lời câu hỏi.",
+        "Qǐng jìxù huídá wèntí"
+      ],
+      "简单": [
+        "这个问题很简单。",
+        "Vấn đề này rất đơn giản.",
+        "Zhège wèntí hěn jiǎndān"
+      ],
+      "建议": [
+        "我有一个好建议。",
+        "Tôi có một đề xuất hay.",
+        "Wǒ yǒu yí gè hǎo jiànyì"
+      ],
+      "交费": [
+        "我们要先交费。",
+        "Chúng tôi phải nộp phí trước.",
+        "Wǒmen yào xiān jiāofèi"
+      ],
+      "结实": [
+        "这张桌子非常结实。",
+        "Cái bàn này rất chắc chắn.",
+        "Zhè zhāng zhuōzi fēicháng jiēshi"
+      ],
+      "结束": [
+        "比赛已经结束了。",
+        "Trận đấu đã kết thúc rồi.",
+        "Bǐsài yǐjīng jiéshù le"
+      ],
+      "解决": [
+        "他帮助我解决了问题。",
+        "Anh ấy giúp tôi giải quyết vấn đề.",
+        "Tā bāngzhù wǒ jiějué le wèntí"
+      ],
+      "精彩": [
+        "这部电影非常精彩。",
+        "Bộ phim này rất đặc sắc.",
+        "Zhè bù diànyǐng fēicháng jīngcǎi"
+      ],
+      "警察": [
+        "有问题可以找警察帮忙。",
+        "Có vấn đề gì thì có thể nhờ cảnh sát giúp.",
+        "Yǒu wèntí kěyǐ zhǎo jǐngchá bāngmáng"
+      ],
+      "久": [
+        "我们好久不见了。",
+        "Lâu rồi chúng ta không gặp nhau.",
+        "Wǒmen hǎo jiǔ bú jiàn le"
+      ],
+      "看起来": [
+        "他看起来很高兴。",
+        "Anh ấy trông có vẻ rất vui.",
+        "Tā kàn qǐlái hěn gāoxìng"
+      ],
+      "空": [
+        "我的书包是空的。",
+        "Cặp sách của tôi trống rỗng.",
+        "Wǒ de shūbāo shì kōng de"
+      ],
+      "空调": [
+        "请把关门，因为房间里开着空调。",
+        "Vui lòng đóng cửa, bởi vì trong phòng đang bật điều hòa.",
+        "Qǐng bǎ guānmén, yīnwèi fángjiān lǐ kāizhe kòngtiáo"
+      ],
+      "乐": [
+        "孩子们玩得很快乐。",
+        "Bọn trẻ chơi rất vui vẻ.",
+        "Háizimen wán de hěn kuàilè"
+      ],
+      "类": [
+        "这种类的书我很喜欢。",
+        "Tôi rất thích loại sách này.",
+        "Zhè zhǒng lèi de shū wǒ hěn xǐhuān"
+      ],
+      "类似": [
+        "这两个词意思类似。",
+        "Hai từ này có nghĩa tương tự nhau.",
+        "Zhè liǎng gè cí yìsi lèisì"
+      ],
+      "连续剧": [
+        "她喜欢看韩国连续剧。",
+        "Cô ấy thích xem phim Hàn Quốc dài tập.",
+        "Tā xǐhuan kàn Hánguó liánxùjù"
+      ],
+      "联合": [
+        "我们要联合起来解决问题。",
+        "Chúng ta cần liên hợp lại để giải quyết vấn đề.",
+        "Wǒmen yào liánhé qǐlái jiějué wèntí"
+      ],
+      "联系": [
+        "有问题可以联系我。",
+        "Có vấn đề gì thì có thể liên lạc với tôi.",
+        "Yǒu wèntí kěyǐ liánxì wǒ"
+      ],
+      "龙": [
+        "中国人很喜欢龙。",
+        "Người Trung Quốc rất thích rồng.",
+        "Zhōngguó rén hěn xǐhuān lóng"
+      ],
+      "绿茶": [
+        "我喜欢喝绿茶。",
+        "Tôi thích uống trà xanh.",
+        "Wǒ xǐhuan hē lǜchá"
+      ],
+      "没用": [
+        "这个方法一点儿也没用。",
+        "Cách này hoàn toàn vô dụng.",
+        "Zhè gè fāngfǎ yìdiǎnr yě méiyòng"
+      ],
+      "美丽": [
+        "她是一个美丽的女孩。",
+        "Cô ấy là một cô gái xinh đẹp.",
+        "Tā shì yí gè měilì de nǚhái"
+      ],
+      "迷": [
+        "我是他的粉丝，我很迷他。\n\n我迷路了。",
+        "Tôi là fan của anh ấy, tôi rất mê anh ấy.\n\nTôi lạc đường rồi",
+        "Wǒ shì tā de fěnsī, wǒ hěn mí tā/\n\n/Wǒ mílù le"
+      ],
+      "面对": [
+        "我们要勇敢面对问题。",
+        "Chúng ta phải dũng cảm đối mặt với vấn đề.",
+        "Wǒmen yào yǒnggǎn miànduì wèntí"
+      ],
+      "民间": [
+        "他喜欢听民间故事。",
+        "Anh ấy thích nghe chuyện dân gian.",
+        "Tā xǐhuan tīng mínjiān gùshì"
+      ],
+      "明显": [
+        "这个问题的答案明显不对。",
+        "Đáp án của câu này rõ ràng không đúng.",
+        "Zhège wèntí de dá'àn míngxiǎn bùduì"
+      ],
+      "内": [
+        "请把文件放在抽屉内。",
+        "Vui lòng đặt tài liệu vào trong ngăn kéo.",
+        "Qǐng bǎ wénjiàn fàng zài chōuti nèi"
+      ],
+      "牌子": [
+        "我喜欢这个品牌的衣服。",
+        "Tôi thích quần áo của nhãn hiệu này.",
+        "Wǒ xǐhuān zhège páizi de yīfu"
+      ],
+      "判断": [
+        "你能判断这个问题的原因吗？",
+        "Bạn có thể phán đoán nguyên nhân của vấn đề này không?",
+        "Nǐ néng pànduàn zhè ge wèntí de yuányīn ma?"
+      ],
+      "啤酒": [
+        "他喜欢喝冰啤酒。",
+        "Anh ấy thích uống bia lạnh.",
+        "Tā xǐhuan hē bīng píjiǔ"
+      ],
+      "气候": [
+        "北京的气候和上海不一样。",
+        "Khí hậu ở Bắc Kinh và Thượng hải thì giống nhau",
+        "Běijīng de qìhòu hé Shànghǎi bù yíyàng"
+      ],
+      "强": [
+        "她的汉语比我强。",
+        "Tiếng Trung của cô ấy giỏi hơn tôi",
+        "Tā de Hànyǔ bǐ wǒ qiáng"
+      ],
+      "情况": [
+        "医生想知道病人的情况",
+        "Bác sĩ muốn biết tình hình của bệnh nhân",
+        "Yīshēng xiǎng zhīdào bìngrén de qíngkuàng"
+      ],
+      "全面": [
+        "我们需要对这个问题进行全面的了解",
+        "Chúng ta cần tìm hiểu toàn diện về vấn đề này",
+        "Wǒmen xūyào duì zhège wèntí jìnxíng quánmiàn de liǎojiě"
+      ],
+      "全球": [
+        "这部电影在全球都很受欢迎",
+        "Bộ phim này rất được yêu thích trên toàn thế giới",
+        "Zhè bù diànyǐng zài quánqiú dōu hěn shòu huānyíng"
+      ],
+      "日常": [
+        "我喜欢记录日常生活",
+        "Tôi thích ghi chép cuộc sống thường ngày",
+        "Wǒ xǐhuān jìlù rìcháng shēnghuó"
+      ],
+      "如何": [
+        "我不知道如何回答这个问题",
+        "Tôi không biết trả lời câu hỏi này thế nào",
+        "Wǒ bù zhīdào rúhé huídá zhège wèntí"
+      ],
+      "伤心": [
+        "她听到这个消息很伤心",
+        "Cô ấy nghe tin này rất buồn",
+        "Tā tīngdào zhège xiāoxi hěn shāngxīn"
+      ],
+      "生产": [
+        "她刚刚生产了一个男孩。",
+        "Cô ấy vừa sinh một bé trai.",
+        "Tā gānggāng shēngchǎn le yī gè nánhái"
+      ],
+      "胜": [
+        "这真是一个胜地。",
+        "Đây thật sự là một thắng cảnh.",
+        "Zhè zhēn shì yī gè shèngdì"
+      ],
+      "时代": [
+        "我们生活在一个新的时代。",
+        "Chúng ta đang sống trong một thời đại mới.",
+        "Wǒmen shēnghuó zài yī ge xīn de shídài"
+      ],
+      "实际上": [
+        "实际上，这个问题不太难。",
+        "Thực ra, vấn đề này không quá khó.",
+        "Shíjì shang, zhè ge wèntí bú tài nán"
+      ],
+      "使": [
+        "这件事使我很难过。",
+        "Việc này khiến tôi rất buồn.",
+        "Zhè jiàn shì shǐ wǒ hěn nánguò"
+      ],
+      "世界杯": [
+        "我很喜欢看世界杯的比赛。",
+        "Tôi rất thích xem các trận đấu của World Cup.",
+        "Wǒ hěn xǐhuān kàn shìjièbēi de bǐsài"
+      ],
+      "适应": [
+        "我需要时间来适应新的生活。",
+        "Tôi cần thời gian để thích nghi với cuộc sống mới.",
+        "Wǒ xūyào shíjiān lái shìyìng xīn de shēnghuó"
+      ],
+      "收听": [
+        "他喜欢收听音乐节目。",
+        "Anh ấy thích nghe chương trình âm nhạc.",
+        "Tā xǐhuan shōutīng yīnyuè jiémù"
+      ],
+      "手续": [
+        "请提前准备好所有必要的手续。",
+        "Vui lòng chuẩn bị trước tất cả các thủ tục cần thiết.",
+        "Qǐng tíqián zhǔnbèi hǎo suǒyǒu bìyào de shǒuxù"
+      ],
+      "受": [
+        "这部电影受观众喜爱。",
+        "Bộ phim này được khán giả yêu thích.",
+        "Zhè bù diànyǐng shòu guānzhòng xǐài"
+      ],
+      "书架": [
+        "请把书放回书架上。",
+        "Vui lòng đặt sách trở lại giá sách.",
+        "Qǐng bǎ shū fàng huí shūjià shàng"
+      ],
+      "汤": [
+        "我喜欢喝鸡汤。",
+        "Tôi thích uống canh gà.",
+        "Wǒ xǐhuān hē jītāng"
+      ],
+      "糖": [
+        "孩子们喜欢吃糖。",
+        "Trẻ con thích ăn kẹo.",
+        "Háizimen xǐhuān chī táng"
+      ],
+      "头": [
+        "我的头有点儿疼。",
+        "Đầu tôi hơi đau.",
+        "ǒ de tóu yǒu diǎnr téng"
+      ],
+      "土": [
+        "花盆里有很多土。",
+        "Trong chậu hoa có rất nhiều đất.",
+        "Huāpén lǐ yǒu hěn duō tǔ"
+      ],
+      "推进": [
+        "我们正在推进这个项目。",
+        "Chúng tôi đang thúc đẩy dự án này.",
+        "Wǒmen zhèngzài tuījìn zhè ge xiàngmù"
+      ],
+      "完美": [
+        "她的表现非常完美。",
+        "Phần thể hiện của cô ấy vô cùng hoàn hảo.",
+        "Tā de biǎoxiàn fēicháng wánměi"
+      ],
+      "玩具": [
+        "孩子们喜欢新玩具。",
+        "Lũ trẻ thích đồ chơi mới.",
+        "Háizimen xǐhuān xīn wánjù"
+      ],
+      "危害": [
+        "吸烟危害健康。",
+        "Hút thuốc lá gây hại cho sức khỏe.",
+        "Xīyān wēihài jiànkāng"
+      ],
+      "为": [
+        "我为你感到高兴。",
+        "Tôi cảm thấy vui vì bạn.",
+        "Wǒ wèi nǐ gǎndào gāoxìng"
+      ],
+      "为了": [
+        "为了健康，他开始跑步。",
+        "Để có sức khỏe, anh ấy bắt đầu chạy bộ.",
+        "Wèile jiànkāng, tā kāishǐ pǎobù"
+      ],
+      "希望": [
+        "我希望你天天开心。",
+        "Tôi hy vọng bạn mỗi ngày đều vui vẻ.",
+        "Wǒ xīwàng nǐ tiāntiān kāixīn"
+      ],
+      "显示": [
+        "电脑屏幕显示出最新的数据。",
+        "Màn hình máy tính hiển thị dữ liệu mới nhất.",
+        "Diànnǎo píngmù xiǎnshì chū zuìxīn de shùjù"
+      ],
+      "相当": [
+        "这个问题相当复杂。",
+        "Vấn đề này tương đối phức tạp.",
+        "Zhège wèntí xiāngdāng fùzá"
+      ],
+      "相关": [
+        "这个问题跟环境保护相关。",
+        "Vấn đề này có liên quan đến việc bảo vệ môi trường.",
+        "Zhège wèntí gēn huánjìng bǎohù xiāngguān"
+      ],
+      "信封": [
+        "请把信放在信封里。",
+        "Xin hãy đặt thư vào trong phong bì.",
+        "Qǐng bǎ xìn fàng zài xìnfēng lǐ"
+      ],
+      "形象": [
+        "这位演员的形象很好。",
+        "Hình tượng của diễn viên này rất tốt.",
+        "Zhè wèi yǎnyuán de xíngxiàng hěn hǎo"
+      ],
+      "选手": [
+        "这位选手打破了世界纪录。",
+        "Tuyển thủ này đã phá kỷ lục thế giới.",
+        "Zhè wèi xuǎnshǒu dǎpò le shìjiè jìlù"
+      ],
+      "烟": [
+        "请勿在室内吸烟。",
+        "Xin đừng hút thuốc trong nhà.",
+        "Qǐng wù zài shì nèi xī yān"
+      ],
+      "一切": [
+        "一切都很顺利。",
+        "Mọi thứ đều rất suôn sẻ.",
+        "Yīqiè dōu hěn shùnlì"
+      ],
+      "已": [
+        "我们的计划已完成。",
+        "Kế hoạch của chúng tôi đã hoàn thành.",
+        "Wǒmen de jìhuà yǐ wánchéng"
+      ],
+      "印象": [
+        "她给我留下了深刻的印象。",
+        "Cô ấy để lại cho tôi một ấn tượng sâu sắc.",
+        "Tā gěi wǒ liúxiàle shēnkè de yìnxiàng"
+      ],
+      "贏": [
+        "我们队赢了比赛。",
+        "Đội của chúng tôi đã thắng trận đấu.",
+        "Wǒmen duì yíngle bǐsài"
+      ],
+      "邮票": [
+        "他喜欢收集世界各地的邮票。",
+        "Anh ấy thích sưu tầm tem từ khắp nơi trên thế giới.",
+        "Tā xǐhuān shōují shìjiè gèdì de yóupiào"
+      ],
+      "邮箱": [
+        "请把信件投入邮箱。",
+        "Vui lòng bỏ thư vào hộp thư.",
+        "Qǐng bǎ xìnjiàn tóurù yóuxiāng"
+      ],
+      "游泳": [
+        "她周末喜欢去游泳。",
+        "Cô ấy thích đi bơi vào cuối tuần.",
+        "Tā zhōumò xǐhuān qù yóuyǒng"
+      ],
+      "杂志": [
+        "航空运输的速度最快。",
+        "Tôi thích đọc tạp chí thời trang.",
+        "Wǒ xǐhuān yuèdú shíshàng zázhì"
+      ],
+      "真实": [
+        "这是一个真实的故事。",
+        "Đây là một câu chuyện có thật.",
+        "Zhè shì yī gè zhēnshí de gùshi"
+      ],
+      "整体": [
+        "我们要从整体来看待问题。",
+        "Chúng ta phải nhìn nhận vấn đề một cách tổng thể.",
+        "Wǒmen yào cóng zhěngtǐ lái kàndài wèntí"
+      ],
+      "证": [
+        "请出示你的有效证件。",
+        "Vui lòng xuất trình giấy tờ tùy thân có hiệu lực của bạn.",
+        "Qǐng chūshì nǐ de yǒuxiào zhèngjiàn"
+      ],
+      "志愿者": [
+        "志愿者们正在帮助灾民。",
+        "Tình nguyện viên đang giúp đỡ nạn nhân thiên tai.",
+        "Zhìyuànzhě men zhèngzài bāngzhù zāimín"
+      ],
+      "制作": [
+        "她喜欢制作小礼物。",
+        "Cô ấy thích làm/chế tác những món quà nhỏ.",
+        "Tā xǐhuān zhìzuò xiǎo lǐwù"
+      ],
+      "终于": [
+        "我们终于成功了。",
+        "Chúng tôi cuối cùng cũng thành công rồi.",
+        "Wǒmen zhōngyú chénggōng le"
+      ],
+      "种": [
+        "我喜欢这种类的花。",
+        "Tôi thích loại hoa này.",
+        "Wǒ xǐhuān zhè zhǒnglèi de huā"
+      ],
+      "祝": [
+        "祝你生日快乐！",
+        "Chúc bạn sinh nhật vui vẻ!",
+        "Zhù nǐ shēngrì kuàilè"
+      ],
+      "追": [
+        "警察在追小偷。",
+        "Cảnh sát đang đuổi theo tên trộm.",
+        "Jǐngchá zài zhuī xiǎotōu"
+      ],
+      "总是": [
+        "她总是笑得很开心。",
+        "Cô ấy lúc nào cũng cười rất vui.",
+        "Tā zǒng shì xiào de hěn kāixīn"
+      ],
+      "足球": [
+        "他喜欢踢足球。",
+        "Anh ấy thích đá bóng.",
+        "Tā xǐhuān tī zúqiú"
+      ]
+    }
+  }
+]

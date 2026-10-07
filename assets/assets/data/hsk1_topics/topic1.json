@@ -1,0 +1,676 @@
+[
+  {
+    "id": "hsk1-topic-01",
+    "title": "Chào hỏi và gia đình",
+    "titleCn": "HSK 1 · 1",
+    "context": "Từ vựng HSK 1 cùng chủ đề",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "爱",
+      "白 ",
+      "帮",
+      "帮忙",
+      "包",
+      "本 ",
+      "比",
+      "别 ",
+      "别人",
+      "病人",
+      "不对",
+      "不客气",
+      "不用",
+      "唱",
+      "出来",
+      "错",
+      "打",
+      "打开",
+      "地方",
+      "弟弟 |  弟",
+      "对 ",
+      "儿子",
+      "二",
+      "飞",
+      "干净",
+      "干什么",
+      "高",
+      "告诉",
+      "跟",
+      "关上",
+      "还",
+      "还有",
+      "孩子",
+      "汉语",
+      "好听",
+      "号",
+      "回到",
+      "回家",
+      "几",
+      "记得",
+      "家",
+      "家里",
+      "见",
+      "教",
+      "叫",
+      "姐姐",
+      "介绍",
+      "进来",
+      "就",
+      "看见",
+      "课文",
+      "来",
+      "里边",
+      "两",
+      "六",
+      "楼上",
+      "楼下",
+      "忙",
+      "毛",
+      "没事儿",
+      "妹妹 | 妹",
+      "门口",
+      "们（朋友们）",
+      "名字",
+      "明白",
+      "哪里",
+      "哪些",
+      "那边",
+      "男朋友",
+      "男人",
+      "你",
+      "你们",
+      "女",
+      "女儿",
+      "女孩儿",
+      "女朋友",
+      "朋友",
+      "起来",
+      "请进",
+      "请问",
+      "人",
+      "认识",
+      "三",
+      "少",
+      "生气",
+      "十",
+      "是",
+      "四",
+      "送",
+      "他",
+      "听",
+      "听到",
+      "听见",
+      "外国",
+      "网友",
+      "我们",
+      "下",
+      "下边",
+      "小",
+      "小朋友",
+      "谢谢",
+      "一",
+      "有",
+      "有名",
+      "在",
+      "着",
+      "知道",
+      "中文",
+      "准备",
+      "桌子",
+      "子（桌子）"
+    ],
+    "examples": {
+      "爱": [
+        "爸爸爱妈妈。",
+        "Ba yêu mẹ.",
+        "Bàba ài māmā"
+      ],
+      "白 ": [
+        "我姐姐的皮肤很白。",
+        "Da của chị tôi rất trắng.",
+        "Wǒ jiějiě de pífū hěn bái"
+      ],
+      "帮": [
+        "他经常帮我做家务。",
+        "Anh ấy thường giúp tôi làm việc nhà.",
+        "Tā jīngcháng bāng wǒ zuò jiāwù"
+      ],
+      "帮忙": [
+        "你可以来帮忙吗？",
+        "Bạn có thể lại giúp đỡ không?",
+        "Nǐ kěyǐ lái bāngmáng ma?"
+      ],
+      "包": [
+        "妈妈在包饺子。",
+        "Mẹ đang gói sủi cảo.",
+        "Māma zài bāo jiǎozǐ"
+      ],
+      "本 ": [
+        "你读过这本书了吗？",
+        "Bạn đã đọc cuốn sách này chưa?",
+        "Nǐ dúguò zhè běn shū le ma?"
+      ],
+      "比": [
+        "我哥哥比我高。",
+        "Anh trai tôi cao hơn tôi.",
+        "Wǒ gēge bǐ wǒ gāo"
+      ],
+      "别 ": [
+        "在医院，大家别大声说话。\n\n他到现在还没来，别是忘了吗？",
+        "Ở bệnh viện, mọi người đừng nói lớn tiếng.\n\nAnh ấy đến bây giờ vẫn chưa đến, lẽ nào anh ấy quên rồi sao?",
+        "Zài yīyuàn, dàjiā bié dàshēng shuōhuà/\n\n/Tā dào xiànzài hái méi lái, bié shì wàng le ma"
+      ],
+      "别人": [
+        "这本书可能是别人的。",
+        "Ngoại trừ Tiểu Lệ ra, những người khác đều không muốn đi.",
+        "Chúle Xiǎo Lì yǐwài, biérén dōu bù yuànyì qù"
+      ],
+      "病人": [
+        "王医生每天都要看十到二十位病人。",
+        "Bác sĩ Vương mỗi ngày đều phải khám từ 10 đến 20 bệnh nhân.",
+        "Wáng yīshēng měitiān dōu yào kàn shí dào èrshí wèi bìngrén"
+      ],
+      "不对": [
+        "你的答案不对。",
+        "Đáp án của bạn không đúng.",
+        "Nǐ de dá'àn bù duì"
+      ],
+      "不客气": [
+        "A: 谢谢你！\nB: 不客气！",
+        "A: Cảm ơn bạn! \nB: Đừng khách sáo!",
+        "A: /Xièxiè nǐ/\nB: /Búkèqi"
+      ],
+      "不用": [
+        "你不用担心。",
+        "Bạn không cần phải lo lắng.",
+        "Nǐ búyòng dānxīn"
+      ],
+      "唱": [
+        "她唱太好了，大家都起立鼓掌。",
+        "Cô ấy hát rất hay, mọi người đều đứng dậy vỗ tay.",
+        "Tā chàng tài hǎo le, dàjiā dōu qǐlì gǔzhǎng"
+      ],
+      "出来": [
+        "你出来，我跟你说句话。",
+        "Anh ra đây tôi nói chuyện với anh.",
+        "Nǐ chūlái，wǒ gēn nǐ shuō jù huà"
+      ],
+      "错": [
+        "你做错了。",
+        "Bạn làm sai rồi.",
+        "Nǐ zuò cuò le"
+      ],
+      "打": [
+        "我弟弟在打篮球。",
+        "Em trai tôi đang chơi bóng rổ.",
+        "Wǒ dìdi zài dǎqiú"
+      ],
+      "打开": [
+        "请你把门打开。",
+        "Xin bạn hãy mở cửa ra.",
+        "Qǐng nǐ bǎ mén dǎkāi"
+      ],
+      "地方": [
+        "他是这个地方的人。",
+        "Anh ấy là người bản địa.",
+        "Tā shì zhège dìfāng de rén"
+      ],
+      "弟弟 |  弟": [
+        "我有一个弟弟。",
+        "Tôi có một người em trai.",
+        "Wǒ yǒu yīgè dìdi"
+      ],
+      "对 ": [
+        "你的答案是对的。",
+        "Câu trả lời của bạn là đúng.",
+        "Nǐ de dá'àn shì duì de"
+      ],
+      "儿子": [
+        "我有一个儿子。",
+        "Tôi có một cậu con trai.",
+        "Wǒ yǒu yí gè érzi"
+      ],
+      "二": [
+        "我们班有二十人。",
+        "Lớp chúng ta có 20 người.",
+        "Wǒmen bān yǒu èrshí rén"
+      ],
+      "飞": [
+        "小鸟在天上飞得很快。",
+        "Con chim nhỏ bay rất nhanh trên trời.",
+        "Xiǎo niǎo zài tiān shàng fēi de hěn kuài"
+      ],
+      "干净": [
+        "你的房间很干净。",
+        "Phòng của bạn rất sạch sẽ.",
+        "Nǐ de fángjiān hěn gānjìng"
+      ],
+      "干什么": [
+        "你干什么不早说呀?",
+        "Tại sao bạn không nói sớm?",
+        "Nǐ gànshénme bù zǎo shuō ya"
+      ],
+      "高": [
+        "你比我高一点儿。",
+        "Bạn cao hơn tôi một chút.",
+        "Nǐ bǐ wǒ gāo yìdiǎnr"
+      ],
+      "告诉": [
+        "妈妈告诉我早点回家。",
+        "Mẹ bảo tôi về nhà sớm.",
+        "Māma gàosu wǒ zǎodiǎn huíjiā"
+      ],
+      "跟": [
+        "我跟朋友一起去旅行。",
+        "Tôi đi du lịch cùng bạn bè.",
+        "Wǒ gēn péngyǒu yīqǐ qù lǚxíng"
+      ],
+      "关上": [
+        "请关上门，谢谢你！",
+        "Hãy đóng cửa lại, cảm ơn bạn.",
+        "Qǐng guānshàng mén, xièxiè nǐ"
+      ],
+      "还": [
+        "他有一个哥哥，还有一个妹妹。",
+        "Cậu ấy có một anh trai, còn có một em gái nữa.",
+        "Tā yǒu yī gè gēge, hái yǒu yī gè mèimei"
+      ],
+      "还有": [
+        "我家里还有两只猫。",
+        "Nhà tôi còn có hai con mèo.",
+        "Wǒ jiālǐ hái yǒu liǎng zhī māo"
+      ],
+      "孩子": [
+        "孩子们在公园玩儿。",
+        "Mấy đứa trẻ đang chơi trong công viên.",
+        "Háizimen zài gōngyuán wánr"
+      ],
+      "汉语": [
+        "他的汉语说得很好。",
+        "Anh ấy nói tiếng Trung rất giỏi.",
+        "Tā de Hànyǔ shuō de hěn hăo"
+      ],
+      "好听": [
+        "这首歌很好听。",
+        "Bài hát này rất hay.",
+        "Zhè shǒu gē hěn hǎotīng"
+      ],
+      "号": [
+        "你的房间号是多少？",
+        "Số phòng của bạn là bao nhiêu?",
+        "Nǐ de fángjiān hào shì duōshǎo"
+      ],
+      "回到": [
+        "他回到家了。",
+        "Anh ấy đã về đến nhà rồi.",
+        "Tā huídào jiā le"
+      ],
+      "回家": [
+        "朋友们都回家了。",
+        "Các bạn tôi đều đã về nhà rồi.",
+        "Péngyǒumen dōu huí jiā le"
+      ],
+      "几": [
+        "你有几个兄弟姐妹？",
+        "Bạn có mấy anh chị em?",
+        "Nǐ yǒu jǐ gè xiōngdì jiěmèi"
+      ],
+      "记得": [
+        "你还记得他的生日吗？",
+        "Bạn còn nhớ sinh nhật của anh ấy không?",
+        "Nǐ hái jìdé tā de shēngrì ma"
+      ],
+      "家": [
+        "我家在上海。",
+        "Nhà tôi ở Thượng Hải.",
+        "Wǒ jiā zài Shànghǎi"
+      ],
+      "家里": [
+        "我家里有很多书。",
+        "Trong nhà tôi có rất nhiều sách.",
+        "Wǒ jiālǐ yǒu hěn duō shū"
+      ],
+      "见": [
+        "我在公园见到朋友。",
+        "Tôi gặp bạn ở công viên.",
+        "Wǒ zài gōngyuán jiàn dào péngyǒu"
+      ],
+      "教": [
+        "她教我们英语。",
+        "Cô ấy dạy chúng tôi tiếng Anh.",
+        "Tā jiāo wǒmen Yīngyǔ"
+      ],
+      "叫": [
+        "妈妈叫我回家。",
+        "Mẹ gọi tôi về nhà.",
+        "Māmā jiào wǒ huí jiā"
+      ],
+      "姐姐": [
+        "她是我的姐姐。",
+        "Cô ấy là chị gái tôi.",
+        "Tā shì wǒ de jiějie"
+      ],
+      "介绍": [
+        "我来介绍一下我的朋友。",
+        "Tôi giới thiệu chút về bạn của tôi.",
+        "Wǒ lái jièshào yīxià wǒ de péngyou"
+      ],
+      "进来": [
+        "他刚刚进来了。",
+        "Anh ấy vừa mới vào.",
+        "Tā gānggāng jìn lái le"
+      ],
+      "就": [
+        "他下班后就回家了。",
+        "Anh ấy tan làm liền về nhà.",
+        "Tā xiàbān hòu jiù huíjiā le"
+      ],
+      "看见": [
+        "我看见一只小鸟在树上唱歌。",
+        "Tôi nhìn thấy một con chim đang hót trên cây.",
+        "Wǒ kànjiàn yī zhī xiǎo niǎo zài shù shàng chànggē"
+      ],
+      "课文": [
+        "请大家朗读课文。",
+        "Mọi người vui lòng đọc to bài khóa.",
+        "Qǐng dàjiā lǎngdú kèwén"
+      ],
+      "来": [
+        "你什么时候来我家?",
+        "Khi nào bạn đến nhà tôi?",
+        "Nǐ shénme shíhòu lái wǒ jiā"
+      ],
+      "里边": [
+        "你在里边等我。",
+        "Bạn đợi tôi ở bên trong nhé.",
+        "Nǐ zài lǐbiān děng wǒ"
+      ],
+      "两": [
+        "我有两个姐姐。",
+        "Tôi có hai chị gái.",
+        "Wǒ yǒu liǎng gè jiějie"
+      ],
+      "六": [
+        "我家有六口人。",
+        "Nhà tôi có sáu người.",
+        "Wǒ jiā yǒu liù kǒu rén"
+      ],
+      "楼上": [
+        "我哥哥在楼上睡觉。",
+        "Anh trai tôi đang ngủ trên tầng.",
+        "Wǒ gēge zài lóu shàng shuìjiào"
+      ],
+      "楼下": [
+        "我在楼下等你。",
+        "Tôi đang đợi bạn ở tầng dưới.",
+        "Wǒ zài lóu xià děng nǐ"
+      ],
+      "忙": [
+        "他最近很忙。",
+        "Dạo này anh ấy rất bận.",
+        "Tā zuìjìn hěn máng"
+      ],
+      "毛": [
+        "小狗的毛很软。",
+        "Lông của chú chó con rất mềm.",
+        "Xiǎogǒu de máo hěn ruǎn"
+      ],
+      "没事儿": [
+        "没事儿，我帮你。",
+        "Không sao đâu, tôi giúp bạn.",
+        "Méi shìr, wǒ bāng nǐ"
+      ],
+      "妹妹 | 妹": [
+        "我有一个妹妹。",
+        "Tôi có một người em gái.",
+        "Wǒ yǒu yīgè mèimei"
+      ],
+      "门口": [
+        "我在门口等你。",
+        "Tôi đang đợi bạn ở cửa ra vào.",
+        "Wǒ zài ménkǒu děng nǐ"
+      ],
+      "们（朋友们）": [
+        "我们是好朋友。",
+        "Chúng tôi là bạn tốt.",
+        "Wǒmen shì hǎo péngyǒu"
+      ],
+      "名字": [
+        "你的名字是什么？",
+        "Tên của bạn là gì?",
+        "Nǐ de míngzi shì shénme"
+      ],
+      "明白": [
+        "我明白你的意思。",
+        "Tôi hiểu ý của bạn.",
+        "Wǒ míngbai nǐ de yìsi"
+      ],
+      "哪里": [
+        "你住在哪里？",
+        "Bạn sống ở đâu?",
+        "Nǐ zhù zài nǎlǐ"
+      ],
+      "哪些": [
+        "你见过哪些名人？",
+        "Bạn đã gặp những người nổi tiếng nào?",
+        "Nǐ jiànguò nǎxiē míngrén"
+      ],
+      "那边": [
+        "你看到那边的猫了吗？",
+        "Bạn có thấy con mèo bên đó không?",
+        "Nǐ kàn dào nà bian de māo le ma"
+      ],
+      "男朋友": [
+        "她的男朋友很帅。",
+        "Bạn trai của cô ấy rất đẹp trai.",
+        "Tā de nánpéngyou hěn shuài"
+      ],
+      "男人": [
+        "那个男人在看手机。",
+        "Người đàn ông đó đang xem điện thoại.",
+        "Nàgè nánrén zài kàn shǒujī"
+      ],
+      "你": [
+        "你喜欢吃什么？",
+        "Bạn thích ăn gì?",
+        "Nǐ xǐhuan chī shénme"
+      ],
+      "你们": [
+        "你们要去哪儿？",
+        "Các bạn muốn đi đâu?",
+        "Nǐmen yào qù nǎr"
+      ],
+      "女": [
+        "我的女儿非常可爱。",
+        "Con gái tôi rất dễ thương.",
+        "Wǒ de nǚ ér fēicháng kě ài"
+      ],
+      "女孩儿": [
+        "你家女孩儿几岁了？",
+        "Con gái nhà bạn mấy tuổi rồi?",
+        "Nǐ jiā nǚháir jǐ suì le"
+      ],
+      "女朋友": [
+        "你有女朋友吗？",
+        "Cậu có bạn gái chưa?",
+        "Nǐ yǒu nǚ péngyǒu ma"
+      ],
+      "朋友": [
+        "我有很多朋友。",
+        "Tôi có rất nhiều bạn.",
+        "Wǒ yǒu hěn duō péngyou"
+      ],
+      "起来": [
+        "他站起来了。",
+        "Anh ấy đứng dậy rồi.",
+        "Tā zhàn qǐlái le"
+      ],
+      "请进": [
+        "请进，大家都在等你。",
+        "Mời vào, mọi người đang chờ bạn.",
+        "Qǐng jìn, dàjiā dōu zài děng nǐ"
+      ],
+      "请问": [
+        "请问您有空吗？",
+        "Xin hỏi anh có rảnh không ạ?",
+        "Qǐngwèn nín yǒu kòng ma"
+      ],
+      "人": [
+        "这个世界上有很多好人。",
+        "Trên thế giới này có rất nhiều người tốt.",
+        "Zhège shìjiè shàng yǒu hěn duō hǎorén"
+      ],
+      "认识": [
+        "我认识他。",
+        "Tôi quen biết anh ấy.",
+        "Wǒ rènshi tā"
+      ],
+      "三": [
+        "我有三个好朋友。",
+        "Tôi có ba người bạn tốt.",
+        "Wǒ yǒu sān gè hǎo péngyǒu"
+      ],
+      "少": [
+        "这里的人很少。",
+        "Ở đây rất ít người.",
+        "Zhèlǐ de rén hěn shǎo"
+      ],
+      "生气": [
+        "妈妈生气了。",
+        "Mẹ giận rồi.",
+        "Māmā shēngqì le"
+      ],
+      "十": [
+        "他十岁就会游泳。",
+        "Anh ấy mười tuổi đã biết bơi.",
+        "Tā shí suì jiù huì yóuyǒng"
+      ],
+      "是": [
+        "他是我的好朋友。",
+        "Anh ấy là bạn tốt của tôi.",
+        "Tā shì wǒ de hǎo péngyǒu"
+      ],
+      "四": [
+        "他家有四口人。",
+        "Gia đình anh ấy có bốn người.",
+        "Tā jiā yǒu sì kǒu rén"
+      ],
+      "送": [
+        "我送你一本书。",
+        "Tôi tặng bạn một quyển sách.",
+        "Wǒ sòng nǐ yī běn shū"
+      ],
+      "他": [
+        "他是我的朋友。",
+        "Anh ấy là bạn của tôi.",
+        "Tā shì wǒ de péngyǒu"
+      ],
+      "听": [
+        "他在听歌。",
+        "Anh ấy đang nghe nhạc.",
+        "Tā zài tīng gē"
+      ],
+      "听到": [
+        "我听到了你的声音。",
+        "Tôi đã nghe thấy giọng của bạn.",
+        "Wǒ tīngdào le nǐ de shēngyīn"
+      ],
+      "听见": [
+        "你听见了吗？",
+        "Bạn có nghe thấy không?",
+        "Nǐ tīngjiàn le ma"
+      ],
+      "外国": [
+        "他是外国人。",
+        "Anh ấy là người nước ngoài.",
+        "Tā shì wàiguó rén"
+      ],
+      "网友": [
+        "我有很多网友。",
+        "Tôi có nhiều bạn trên mạng.",
+        "Wǒ yǒu hěnduō wǎngyǒu"
+      ],
+      "我们": [
+        "我们是好朋友。",
+        "Chúng tôi là bạn tốt của nhau.",
+        "Wǒmen shì hǎo péngyǒu"
+      ],
+      "下": [
+        "上有父母，下有儿女。",
+        "Trên có cha mẹ, dưới có con cái.",
+        "Shàng yǒu fùmǔ, xià yǒu érnǚ"
+      ],
+      "下边": [
+        "桌子下边有一只猫。",
+        "Dưới bàn có một con mèo.",
+        "Zhuōzi xiàbian yǒu yī zhī māo"
+      ],
+      "小": [
+        "这只狗很小，很可爱。",
+        "Con chó này rất nhỏ, rất đáng yêu.",
+        "Zhè zhī gǒu hěn xiǎo, hěn kě'ài"
+      ],
+      "小朋友": [
+        "小朋友们都喜欢听故事。",
+        "Các bạn nhỏ đều thích nghe kể chuyện.",
+        "Xiǎopéngyǒu men dōu xǐhuan tīng gùshì"
+      ],
+      "谢谢": [
+        "谢谢你的帮助。",
+        "Cảm ơn sự giúp đỡ của bạn.",
+        "Xièxie nǐ de bāngzhù"
+      ],
+      "一": [
+        "我只有一个妹妹。",
+        "Tôi chỉ có một em gái.",
+        "Wǒ zhǐ yǒu yī gè mèimei"
+      ],
+      "有": [
+        "我有一个好朋友。",
+        "Tôi có một người bạn tốt.",
+        "Wǒ yǒu yī gè hǎo péngyǒu"
+      ],
+      "有名": [
+        "这家餐厅很有名。",
+        "Nhà hàng này rất nổi tiếng.",
+        "Zhè jiā cāntīng hěn yǒumíng"
+      ],
+      "在": [
+        "我在家看电视。",
+        "Tôi ở nhà xem tivi.",
+        "Wǒ zài jiā kàn diànshì"
+      ],
+      "着": [
+        "他笑着说话。",
+        "Anh ấy vừa cười vừa nói.",
+        "Tā xiào zhe shuōhuà"
+      ],
+      "知道": [
+        "你知道他的名字吗？",
+        "Bạn có biết tên của anh ấy không?",
+        "Nǐ zhīdào tā de míngzi ma?"
+      ],
+      "中文": [
+        "你的中文很好。",
+        "Tiếng Trung của bạn rất tốt",
+        "Nǐ de Zhōngwén hěn hǎo"
+      ],
+      "准备": [
+        "A: 你准备好了吗？\nB: 我们要出发了。",
+        "A: Bạn chuẩn bị xong chưa? \nB: Chúng ta sắp xuất phát rồi.",
+        "A: /Nǐ zhǔnbèi hǎo le ma/\nB: /Wǒmen yào chūfā le"
+      ],
+      "桌子": [
+        "书在桌子上，你看见了吗？",
+        "Quyển sách ở trên bàn, bạn thấy chưa?",
+        "Shū zài zhuōzi shàng, nǐ kànjiàn le ma"
+      ],
+      "子（桌子）": [
+        "你的桌子很大，很好看。",
+        "Cái bàn của bạn rất lớn, rất đẹp.",
+        "Nǐ de zhuōzi hěn dà, hěn hǎokàn"
+      ]
+    }
+  }
+]

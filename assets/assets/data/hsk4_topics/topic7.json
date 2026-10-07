@@ -1,0 +1,801 @@
+[
+  {
+    "id": "hsk4-topic-07",
+    "title": "Văn hóa và tự nhiên",
+    "titleCn": "HSK 4 · 7",
+    "context": "Từ vựng HSK 4 cùng chủ đề",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "背包",
+      "便于",
+      "播放",
+      "部",
+      "不仅",
+      "材料",
+      "查找",
+      "出口",
+      "窗",
+      "粗",
+      "错过",
+      "答案",
+      "打印机",
+      "大赛",
+      "大自然",
+      "等",
+      "地球",
+      "东部",
+      "队",
+      "多么",
+      "多样",
+      "反对",
+      "放弃",
+      "份",
+      "改",
+      "干杯",
+      "钢琴",
+      "歌声",
+      "更加",
+      "共同",
+      "顾客",
+      "观众",
+      "规定",
+      "海洋",
+      "寒冷",
+      "盒子",
+      "忽然",
+      "会员",
+      "货",
+      "基本",
+      "寄",
+      "假",
+      "将来",
+      "降落",
+      "教练",
+      "结果",
+      "今后",
+      "禁止",
+      "经济",
+      "景区",
+      "举",
+      "开玩笑",
+      "棵",
+      "客厅",
+      "恐怕",
+      "拉",
+      "来得及",
+      "理想",
+      "凉",
+      "留",
+      "旅馆",
+      "乱",
+      "帽子",
+      "梦",
+      "面对",
+      "目前",
+      "男士",
+      "能否",
+      "农村",
+      "暖和",
+      "牌子",
+      "乒乓球",
+      "普通话",
+      "气候",
+      "签证",
+      "桥",
+      "球队",
+      "取",
+      "缺少",
+      "扔",
+      "仍然",
+      "商品",
+      "稍微",
+      "社会",
+      "生命",
+      "失望",
+      "十字路口",
+      "世纪",
+      "首",
+      "数量",
+      "顺序",
+      "算",
+      "弹",
+      "讨厌",
+      "听众",
+      "痛",
+      "图片",
+      "推迟",
+      "完全",
+      "危险",
+      "文件",
+      "无法",
+      "细心",
+      "线上",
+      "相互",
+      "项",
+      "效果",
+      "信息",
+      "性",
+      "亚洲",
+      "演",
+      "眼镜",
+      "阳光",
+      "要是",
+      "赢",
+      "由于",
+      "友好",
+      "原谅",
+      "院长",
+      "云",
+      "责任",
+      "增长",
+      "正常",
+      "知识",
+      "指",
+      "重",
+      "专业",
+      "准确",
+      "自然",
+      "尊重",
+      "座位"
+    ],
+    "examples": {
+      "背包": [
+        "我的背包很重。",
+        "Balo của tôi rất nặng.",
+        "Wǒ de bēibāo hěn zhòng."
+      ],
+      "便于": [
+        "这个设计便于使用。",
+        "Thiết kế này tiện sử dụng.",
+        "Zhège shèjì biànyú shǐyòng."
+      ],
+      "播放": [
+        "电视正在播放新闻。",
+        "Ti vi đang phát tin tức.",
+        "Diànshì zhèngzài bōfàng xīnwén."
+      ],
+      "部": [
+        "这是一部电影。",
+        "Đây là một bộ phim.",
+        "Zhè shì yī bù diànyǐng."
+      ],
+      "不仅": [
+        "不仅漂亮，而且聪明。",
+        "Không chỉ xinh đẹp mà còn thông minh.",
+        "Bùjǐn piàoliang, érqiě cōngmíng."
+      ],
+      "材料": [
+        "这些是建筑材料。",
+        "Đây là vật liệu xây dựng.",
+        "Zhèxiē shì jiànzhù cáiliào."
+      ],
+      "查找": [
+        "我在查找资料。",
+        "Tôi đang tìm kiếm tài liệu.",
+        "Wǒ zài cházhǎo zīliào."
+      ],
+      "出口": [
+        "出口在哪里？",
+        "Lối ra ở đâu?",
+        "Chūkǒu zài nǎlǐ?"
+      ],
+      "窗": [
+        "打开窗。",
+        "Mở cửa sổ.",
+        "Dǎkāi chuāng."
+      ],
+      "粗": [
+        "这根绳子很粗。",
+        "Dây này rất to.",
+        "Zhè gēn shéngzi hěn cū."
+      ],
+      "错过": [
+        "不要错过机会。",
+        "Đừng bỏ lỡ cơ hội.",
+        "Bùyào cuòguò jīhuì."
+      ],
+      "答案": [
+        "这是正确答案。",
+        "Đây là đáp án đúng.",
+        "Zhè shì zhèngquè dá’àn."
+      ],
+      "打印机": [
+        "打印机坏了。",
+        "Máy in hỏng rồi.",
+        "Dǎyìnjī huài le."
+      ],
+      "大赛": [
+        "这是国际大赛。",
+        "Đây là cuộc thi quốc tế lớn.",
+        "Zhè shì guójì dàsài."
+      ],
+      "大自然": [
+        "我们爱大自然。",
+        "Chúng ta yêu thiên nhiên.",
+        "Wǒmen ài dàzìrán."
+      ],
+      "等": [
+        "苹果、香蕉等",
+        "Táo, chuối và v.v.",
+        "Píngguǒ, xiāngjiāo děng"
+      ],
+      "地球": [
+        "保护地球。",
+        "Bảo vệ trái đất.",
+        "Bǎohù dìqiú."
+      ],
+      "东部": [
+        "中国东部发达。",
+        "Phía Đông Trung Quốc phát triển.",
+        "Zhōngguó dōngbù fādá."
+      ],
+      "队": [
+        "这是足球队。",
+        "Đây là đội bóng đá.",
+        "Zhè shì zúqiú duì."
+      ],
+      "多么": [
+        "多么美丽啊！",
+        "Thật là đẹp biết bao!",
+        "Duōme měilì a!"
+      ],
+      "多样": [
+        "文化多样。",
+        "Văn hóa đa dạng.",
+        "Wénhuà duōyàng."
+      ],
+      "反对": [
+        "我反对这个计划。",
+        "Tôi phản đối kế hoạch này.",
+        "Wǒ fǎnduì zhège jìhuà."
+      ],
+      "放弃": [
+        "不要放弃。",
+        "Đừng bỏ cuộc.",
+        "Bùyào fàngqì."
+      ],
+      "份": [
+        "我要一份报纸。",
+        "Tôi muốn một tờ báo.",
+        "Wǒ yào yī fèn bàozhǐ."
+      ],
+      "改": [
+        "请改一下这个句子。",
+        "Xin sửa câu này một chút.",
+        "Qǐng gǎi yīxià zhège jùzi."
+      ],
+      "干杯": [
+        "来，我们干杯！",
+        "Nào, chúng ta cạn ly!",
+        "Lái, wǒmen gānbēi!"
+      ],
+      "钢琴": [
+        "她会弹钢琴。",
+        "Cô ấy biết chơi piano.",
+        "Tā huì tán gāngqín."
+      ],
+      "歌声": [
+        "她的歌声很美。",
+        "Tiếng hát của cô ấy rất hay.",
+        "Tā de gēshēng hěn měi."
+      ],
+      "更加": [
+        "天气更加冷了。",
+        "Thời tiết càng lạnh hơn.",
+        "Tiānqì gèngjiā lěng le."
+      ],
+      "共同": [
+        "这是我们的共同目标。",
+        "Đây là mục tiêu chung của chúng ta.",
+        "Zhè shì wǒmen de gòngtóng mùbiāo."
+      ],
+      "顾客": [
+        "顾客很满意。",
+        "Khách hàng rất hài lòng.",
+        "Gùkè hěn mǎnyì."
+      ],
+      "观众": [
+        "观众很多。",
+        "Khán giả rất đông.",
+        "Guānzhòng hěn duō."
+      ],
+      "规定": [
+        "按规定不能吸烟。",
+        "Theo quy định không được hút thuốc.",
+        "Àn guīdìng bùnéng xīyān."
+      ],
+      "海洋": [
+        "保护海洋很重要。",
+        "Bảo vệ đại dương rất quan trọng.",
+        "Bǎohù hǎiyáng hěn zhòngyào."
+      ],
+      "寒冷": [
+        "今天天气很寒冷。",
+        "Hôm nay trời rất lạnh.",
+        "Jīntiān tiānqì hěn hánlěng."
+      ],
+      "盒子": [
+        "把东西放进盒子。",
+        "Đặt đồ vào hộp.",
+        "Bǎ dōngxi fàng jìn hézi."
+      ],
+      "忽然": [
+        "忽然下雨了。",
+        "Bỗng nhiên trời mưa.",
+        "Hūrán xiàyǔ le."
+      ],
+      "会员": [
+        "我是俱乐部会员。",
+        "Tôi là thành viên câu lạc bộ.",
+        "Wǒ shì jùlèbù huìyuán."
+      ],
+      "货": [
+        "商店里的货很多。",
+        "Hàng hóa trong cửa hàng rất nhiều.",
+        "Shāngdiàn lǐ de huò hěn duō."
+      ],
+      "基本": [
+        "这是基本要求。",
+        "Đây là yêu cầu cơ bản.",
+        "Zhè shì jīběn yāoqiú."
+      ],
+      "寄": [
+        "我寄了一封信。",
+        "Tôi đã gửi một bức thư.",
+        "Wǒ jì le yī fēng xìn."
+      ],
+      "假": [
+        "这是假的。",
+        "Đây là đồ giả.",
+        "Zhè shì jiǎ de."
+      ],
+      "将来": [
+        "将来我会成功。",
+        "Tương lai tôi sẽ thành công.",
+        "Jiānglái wǒ huì chénggōng."
+      ],
+      "降落": [
+        "飞机正在降落。",
+        "Máy bay đang hạ cánh.",
+        "Fēijī zhèngzài jiàngluò."
+      ],
+      "教练": [
+        "教练很专业。",
+        "Huấn luyện viên rất chuyên nghiệp.",
+        "Jiàoliàn hěn zhuānyè."
+      ],
+      "结果": [
+        "结果很好。",
+        "Kết quả rất tốt.",
+        "Jiéguǒ hěn hǎo."
+      ],
+      "今后": [
+        "今后我会努力。",
+        "Từ nay về sau tôi sẽ cố gắng.",
+        "Jīnhòu wǒ huì nǔlì."
+      ],
+      "禁止": [
+        "这里禁止吸烟。",
+        "Ở đây cấm hút thuốc.",
+        "Zhèlǐ jìnzhǐ xīyān."
+      ],
+      "经济": [
+        "经济发展很快。",
+        "Kinh tế phát triển rất nhanh.",
+        "Jīngjì fāzhǎn hěn kuài."
+      ],
+      "景区": [
+        "景区内禁止吸烟。",
+        "Trong khu du lịch cấm hút thuốc.",
+        "Jǐngqū nèi jìnzhǐ xīyān."
+      ],
+      "举": [
+        "请举手回答。",
+        "Xin giơ tay trả lời.",
+        "Qǐng jǔ shǒu huídá."
+      ],
+      "开玩笑": [
+        "别开玩笑了。",
+        "Đừng đùa nữa.",
+        "Bié kāi wánxiào le."
+      ],
+      "棵": [
+        "门前有两棵树。",
+        "Trước cửa có hai cây.",
+        "Mén qián yǒu liǎng kē shù."
+      ],
+      "客厅": [
+        "客厅很大。",
+        "Phòng khách rất rộng.",
+        "Kètīng hěn dà."
+      ],
+      "恐怕": [
+        "恐怕要下雨了。",
+        "E rằng trời sắp mưa rồi.",
+        "Kǒngpà yào xiàyǔ le."
+      ],
+      "拉": [
+        "请帮我拉一下门。",
+        "Xin kéo cửa giúp tôi.",
+        "Qǐng bāng wǒ lā yīxià mén."
+      ],
+      "来得及": [
+        "我们还来得及。",
+        "Chúng ta còn kịp.",
+        "Wǒmen hái láidejí."
+      ],
+      "理想": [
+        "我的理想是当医生。",
+        "Lý tưởng của tôi là làm bác sĩ.",
+        "Wǒ de lǐxiǎng shì dāng yīshēng."
+      ],
+      "凉": [
+        "今天天气很凉。",
+        "Hôm nay trời mát.",
+        "Jīntiān tiānqì hěn liáng."
+      ],
+      "留": [
+        "请留在这里。",
+        "Xin ở lại đây.",
+        "Qǐng liú zài zhèlǐ."
+      ],
+      "旅馆": [
+        "我们住在旅馆。",
+        "Chúng ta ở khách sạn.",
+        "Wǒmen zhù zài lǚguǎn."
+      ],
+      "乱": [
+        "房间很乱。",
+        "Phòng lộn xộn lắm.",
+        "Fángjiān hěn luàn."
+      ],
+      "帽子": [
+        "戴帽子。",
+        "Đội mũ.",
+        "Dài màozi."
+      ],
+      "梦": [
+        "我做了一个梦。",
+        "Tôi mơ một giấc mơ.",
+        "Wǒ zuò le yīgè mèng."
+      ],
+      "面对": [
+        "我们要面对现实。",
+        "Chúng ta phải đối mặt với thực tế.",
+        "Wǒmen yào miànduì xiànshí."
+      ],
+      "目前": [
+        "目前一切正常。",
+        "Hiện tại mọi thứ bình thường.",
+        "Mùqián yīqiè zhèngcháng."
+      ],
+      "男士": [
+        "男士优先。",
+        "Nam giới ưu tiên.",
+        "Nánshì yōuxiān."
+      ],
+      "能否": [
+        "能否帮我一个忙？",
+        "Có thể giúp tôi một việc không?",
+        "Néngfǒu bāng wǒ yīgè máng?"
+      ],
+      "农村": [
+        "我在农村长大。",
+        "Tôi lớn lên ở nông thôn.",
+        "Wǒ zài nóngcūn zhǎngdà."
+      ],
+      "暖和": [
+        "屋里很暖和。",
+        "Trong nhà rất ấm.",
+        "Wū lǐ hěn nuǎnhuo."
+      ],
+      "牌子": [
+        "这个牌子很贵。",
+        "Nhãn hiệu này rất đắt.",
+        "Zhège páizi hěn guì."
+      ],
+      "乒乓球": [
+        "我们打乒乓球。",
+        "Chúng ta chơi bóng bàn.",
+        "Wǒmen dǎ pīngpāngqiú."
+      ],
+      "普通话": [
+        "我说普通话。",
+        "Tôi nói tiếng phổ thông.",
+        "Wǒ shuō pǔtōnghuà."
+      ],
+      "气候": [
+        "这里的气候很好。",
+        "Khí hậu ở đây rất tốt.",
+        "Zhèlǐ de qìhòu hěn hǎo."
+      ],
+      "签证": [
+        "我申请签证。",
+        "Tôi nộp đơn xin visa.",
+        "Wǒ shēnqǐng qiānzhèng."
+      ],
+      "桥": [
+        "桥很长。",
+        "Cầu rất dài.",
+        "Qiáo hěn cháng."
+      ],
+      "球队": [
+        "我们的球队赢了。",
+        "Đội bóng của chúng ta thắng.",
+        "Wǒmen de qiúduì yíng le."
+      ],
+      "取": [
+        "请取票。",
+        "Xin lấy vé.",
+        "Qǐng qǔ piào."
+      ],
+      "缺少": [
+        "这个项目缺少资金。",
+        "Dự án này thiếu kinh phí.",
+        "Zhège xiàngmù quēshǎo zījīn."
+      ],
+      "扔": [
+        "不要乱扔垃圾。",
+        "Đừng vứt rác bừa bãi.",
+        "Bùyào luàn rēng lājī."
+      ],
+      "仍然": [
+        "天气仍然很冷。",
+        "Thời tiết vẫn còn rất lạnh.",
+        "Tiānqì réngrán hěn lěng."
+      ],
+      "商品": [
+        "商店里的商品很多。",
+        "Hàng hóa trong cửa hàng rất nhiều.",
+        "Shāngdiàn lǐ de shāngpǐn hěn duō."
+      ],
+      "稍微": [
+        "天气稍微有点冷。",
+        "Thời tiết hơi lạnh một chút.",
+        "Tiānqì shāowēi yǒudiǎn lěng."
+      ],
+      "社会": [
+        "社会在快速发展。",
+        "Xã hội đang phát triển nhanh chóng.",
+        "Shèhuì zài kuài sù fāzhǎn."
+      ],
+      "生命": [
+        "保护生命很重要。",
+        "Bảo vệ sinh mệnh rất quan trọng.",
+        "Bǎohù shēngmìng hěn zhòngyào."
+      ],
+      "失望": [
+        "我对结果很失望。",
+        "Tôi rất thất vọng với kết quả.",
+        "Wǒ duì jiéguǒ hěn shīwàng."
+      ],
+      "十字路口": [
+        "我们在十字路口见面。",
+        "Chúng ta gặp nhau ở ngã tư.",
+        "Wǒmen zài shízì lùkǒu jiànmiàn."
+      ],
+      "世纪": [
+        "这是二十一世纪。",
+        "Đây là thế kỷ hai mươi mốt.",
+        "Zhè shì èrshíyī shìjì."
+      ],
+      "首": [
+        "这是一首歌。",
+        "Đây là một bài hát.",
+        "Zhè shì yī shǒu gē."
+      ],
+      "数量": [
+        "数量不够。",
+        "Số lượng không đủ.",
+        "Shùliàng bú gòu."
+      ],
+      "顺序": [
+        "请按顺序排队。",
+        "Xin xếp hàng theo thứ tự.",
+        "Qǐng àn shùnxù páiduì."
+      ],
+      "算": [
+        "我算错了。",
+        "Tôi tính sai rồi.",
+        "Wǒ suàn cuò le."
+      ],
+      "弹": [
+        "她弹钢琴。",
+        "Cô ấy chơi piano.",
+        "Tā tán gāngqín."
+      ],
+      "讨厌": [
+        "我讨厌下雨。",
+        "Tôi ghét trời mưa.",
+        "Wǒ tǎoyàn xiàyǔ."
+      ],
+      "听众": [
+        "听众很多。",
+        "Thính giả rất đông.",
+        "Tīngzhòng hěn duō."
+      ],
+      "痛": [
+        "我的头很痛。",
+        "Đầu tôi đau lắm.",
+        "Wǒ de tóu hěn tòng."
+      ],
+      "图片": [
+        "发一张图片。",
+        "Gửi một hình ảnh.",
+        "Fā yī zhāng túpiàn."
+      ],
+      "推迟": [
+        "会议推迟了。",
+        "Cuộc họp hoãn lại.",
+        "Huìyì tuīchí le."
+      ],
+      "完全": [
+        "我完全同意。",
+        "Tôi hoàn toàn đồng ý.",
+        "Wǒ wánquán tóngyì."
+      ],
+      "危险": [
+        "这里很危险。",
+        "Ở đây rất nguy hiểm.",
+        "Zhèlǐ hěn wēixiǎn."
+      ],
+      "文件": [
+        "请保存文件。",
+        "Xin lưu file.",
+        "Qǐng bǎocún wénjiàn."
+      ],
+      "无法": [
+        "我无法忘记。",
+        "Tôi không thể quên.",
+        "Wǒ wúfǎ wàngjì."
+      ],
+      "细心": [
+        "她很细心。",
+        "Cô ấy rất chu đáo.",
+        "Tā hěn xìxīn."
+      ],
+      "线上": [
+        "线上会议。",
+        "Cuộc họp trực tuyến.",
+        "Xiànshàng huìyì."
+      ],
+      "相互": [
+        "我们要相互帮助。",
+        "Chúng ta phải giúp đỡ lẫn nhau.",
+        "Wǒmen yào xiānghù bāngzhù."
+      ],
+      "项": [
+        "这是一项重要任务。",
+        "Đây là một nhiệm vụ quan trọng.",
+        "Zhè shì yī xiàng zhòngyào rènwu."
+      ],
+      "效果": [
+        "这个药效果很好。",
+        "Thuốc này hiệu quả rất tốt.",
+        "Zhège yào xiàoguǒ hěn hǎo."
+      ],
+      "信息": [
+        "请提供更多信息。",
+        "Xin cung cấp thêm thông tin.",
+        "Qǐng tígōng gèng duō xìnxī."
+      ],
+      "性": [
+        "安全性",
+        "Tính an toàn",
+        "Ānquán xìng"
+      ],
+      "亚洲": [
+        "亚洲很大。",
+        "Châu Á rất lớn.",
+        "Yàzhōu hěn dà."
+      ],
+      "演": [
+        "她演得很好。",
+        "Cô ấy diễn rất hay.",
+        "Tā yǎn de hěn hǎo."
+      ],
+      "眼镜": [
+        "我戴眼镜。",
+        "Tôi đeo kính.",
+        "Wǒ dài yǎnjìng."
+      ],
+      "阳光": [
+        "阳光很温暖。",
+        "Ánh nắng rất ấm áp.",
+        "Yángguāng hěn wēnnuǎn."
+      ],
+      "要是": [
+        "要是下雨，我们就不去了。",
+        "Nếu trời mưa, chúng ta sẽ không đi.",
+        "Yàoshi xiàyǔ, wǒmen jiù bú qù le."
+      ],
+      "赢": [
+        "我们队赢了比赛。",
+        "Đội chúng ta thắng trận.",
+        "Wǒmen duì yíng le bǐsài."
+      ],
+      "由于": [
+        "由于天气不好，我们取消了。",
+        "Do thời tiết xấu, chúng ta hủy.",
+        "Yóuyú tiānqì bù hǎo, wǒmen qǔxiāo le."
+      ],
+      "友好": [
+        "他们关系很友好。",
+        "Quan hệ của họ rất thân thiện.",
+        "Tāmen guānxì hěn yǒuhǎo."
+      ],
+      "原谅": [
+        "请原谅我。",
+        "Xin tha thứ cho tôi.",
+        "Qǐng yuánliàng wǒ."
+      ],
+      "院长": [
+        "院长在开会。",
+        "Viện trưởng đang họp.",
+        "Yuànzhǎng zài kāihuì."
+      ],
+      "云": [
+        "天上有白云。",
+        "Trên trời có mây trắng.",
+        "Tiān shàng yǒu bái yún."
+      ],
+      "责任": [
+        "这是我的责任。",
+        "Đây là trách nhiệm của tôi.",
+        "Zhè shì wǒ de zérèn."
+      ],
+      "增长": [
+        "经济在增长。",
+        "Kinh tế đang tăng trưởng.",
+        "Jīngjì zài zēngzhǎng."
+      ],
+      "正常": [
+        "一切正常。",
+        "Mọi thứ bình thường.",
+        "Yīqiè zhèngcháng."
+      ],
+      "知识": [
+        "知识就是力量。",
+        "Kiến thức là sức mạnh.",
+        "Zhīshi jiùshì lìliàng."
+      ],
+      "指": [
+        "请指一下方向。",
+        "Xin chỉ hướng.",
+        "Qǐng zhǐ yīxià fāngxiàng."
+      ],
+      "重": [
+        "这个箱子很重。",
+        "Chiếc vali này rất nặng.",
+        "Zhège xiāngzi hěn zhòng."
+      ],
+      "专业": [
+        "我的专业是计算机。",
+        "Chuyên ngành của tôi là máy tính.",
+        "Wǒ de zhuānyè shì jìsuànjī."
+      ],
+      "准确": [
+        "答案很准确。",
+        "Đáp án rất chính xác.",
+        "Dá’àn hěn zhǔnquè."
+      ],
+      "自然": [
+        "保护自然环境。",
+        "Bảo vệ môi trường thiên nhiên.",
+        "Bǎohù zìrán huánjìng."
+      ],
+      "尊重": [
+        "互相尊重。",
+        "Tôn trọng lẫn nhau.",
+        "Hùxiāng zūnzhòng."
+      ],
+      "座位": [
+        "请找座位。",
+        "Xin tìm chỗ ngồi.",
+        "Qǐng zhǎo zuòwèi."
+      ]
+    }
+  }
+]

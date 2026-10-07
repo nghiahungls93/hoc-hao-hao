@@ -1,0 +1,855 @@
+[
+  {
+    "id": "hsk5-topic-03",
+    "title": "Trình tự và biến đổi",
+    "titleCn": "HSK 5 · 3",
+    "context": "Từ vựng HSK 5 cùng chủ đề",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "拜访",
+      "背包",
+      "辈",
+      "必",
+      "闭幕",
+      "博客",
+      "不耐烦",
+      "不曾",
+      "猜测",
+      "叉子",
+      "查询",
+      "差（一）点儿",
+      "长度",
+      "承办",
+      "丑",
+      "出版",
+      "处在",
+      "传递",
+      "此时",
+      "打（介）",
+      "打扮",
+      "大熊猫",
+      "大于",
+      "待",
+      "当年",
+      "地震",
+      "洞",
+      "毒",
+      "发射",
+      "发行",
+      "繁荣",
+      "丰收",
+      "钢琴",
+      "高跟鞋",
+      "更换",
+      "工艺",
+      "公式",
+      "共计",
+      "光线",
+      "过于",
+      "盒子",
+      "华语",
+      "画面",
+      "灰色",
+      "火灾",
+      "加热",
+      "加速",
+      "减轻",
+      "建造",
+      "键盘",
+      "将要",
+      "届",
+      "今日",
+      "剧本",
+      "开幕",
+      "考核",
+      "客户",
+      "控制",
+      "宽度",
+      "浪漫",
+      "礼拜",
+      "例外",
+      "邻居",
+      "落实",
+      "贸易",
+      "秒",
+      "明亮",
+      "模样",
+      "难得",
+      "年度",
+      "旁",
+      "披",
+      "品",
+      "齐全",
+      "气体",
+      "签证",
+      "墙壁",
+      "清晨",
+      "清理",
+      "染",
+      "热门",
+      "仍旧",
+      "软件",
+      "扇",
+      "稍",
+      "稍微",
+      "深处",
+      "胜负",
+      "时机",
+      "视频",
+      "书法",
+      "熟悉",
+      "水产品",
+      "水灾",
+      "岁月",
+      "逃",
+      "桃花",
+      "讨厌",
+      "题材",
+      "厅",
+      "停留",
+      "外界",
+      "为期",
+      "慰问",
+      "文艺",
+      "误解",
+      "先后",
+      "鲜艳",
+      "闲",
+      "消除",
+      "小偷儿",
+      "信念",
+      "休闲",
+      "寻求",
+      "夜间",
+      "一带",
+      "一下儿（副）",
+      "一口气",
+      "硬",
+      "用不着",
+      "优惠",
+      "羽绒服",
+      "预备",
+      "元旦",
+      "约束",
+      "灾难",
+      "再次",
+      "暂停",
+      "珍贵",
+      "证书",
+      "之内",
+      "支出",
+      "值班",
+      "只不过",
+      "主办",
+      "专辑",
+      "专利",
+      "子弹",
+      "自杀",
+      "阻碍"
+    ],
+    "examples": {
+      "拜访": [
+        "明天我要去拜访老师。",
+        "Ngày mai tôi sẽ đi thăm thầy giáo.",
+        "Míngtiān wǒ yào qù bàifǎng lǎoshī."
+      ],
+      "背包": [
+        "旅行时我只带一个背包。",
+        "Khi du lịch tôi chỉ mang một cái ba lô.",
+        "Lǚxíng shí wǒ zhǐ dài yī gè bēibāo."
+      ],
+      "辈": [
+        "我们是同辈。",
+        "Chúng ta cùng thế hệ.",
+        "Wǒmen shì tóng bèi."
+      ],
+      "必": [
+        "努力必有回报。",
+        "Nỗ lực nhất định sẽ có hồi báo.",
+        "Nǔlì bì yǒu huíbào."
+      ],
+      "闭幕": [
+        "大会于昨晚闭幕。",
+        "Đại hội đã bế mạc tối qua.",
+        "Dàhuì yú zuówǎn bìmù."
+      ],
+      "博客": [
+        "我每天更新博客。",
+        "Tôi cập nhật blog mỗi ngày.",
+        "Wǒ měitiān gēngxīn bókè."
+      ],
+      "不耐烦": [
+        "别不耐烦，好好听我说。",
+        "Đừng cáu kỉnh, nghe tôi nói cho hết đã.",
+        "Bié bùnàifán, hǎohǎo tīng wǒ shuō."
+      ],
+      "不曾": [
+        "我不曾去过日本。",
+        "Tôi chưa từng đến Nhật Bản.",
+        "Wǒ bùcéng qùguò Rìběn."
+      ],
+      "猜测": [
+        "这只是我的猜测。",
+        "Đây chỉ là sự suy đoán của tôi.",
+        "Zhè zhǐshì wǒ de cāicè."
+      ],
+      "叉子": [
+        "请把叉子递给我。",
+        "Làm ơn đưa cái nĩa cho tôi.",
+        "Qǐng bǎ chāzi dì gěi wǒ."
+      ],
+      "查询": [
+        "我要查询火车时刻表。",
+        "Tôi muốn tra cứu giờ tàu.",
+        "Wǒ yào cháxún huǒchē shíkèbiǎo."
+      ],
+      "差（一）点儿": [
+        "我差一点儿迟到了。",
+        "Tôi suýt nữa thì muộn giờ.",
+        "Wǒ chà yì diǎnr chídàole."
+      ],
+      "长度": [
+        "这条河长度五百公里。",
+        "Con sông này dài năm trăm kilômét.",
+        "Zhè tiáo hé chángdù wǔbǎi gōnglǐ."
+      ],
+      "承办": [
+        "这家公司承办了这次会议。",
+        "Công ty này đảm nhận tổ chức hội nghị lần này.",
+        "Zhè jiā gōngsī chéngbàn le zhè cì huìyì."
+      ],
+      "丑": [
+        "这个角色很丑但很有趣。",
+        "Vai diễn này xấu nhưng rất thú vị.",
+        "Zhège juésè hěn chǒu dàn hěn yǒuqù."
+      ],
+      "出版": [
+        "这本书明年出版。",
+        "Quyển sách này sẽ xuất bản năm sau.",
+        "Zhè běn shū míngnián chūbǎn."
+      ],
+      "处在": [
+        "我们正处在发展阶段。",
+        "Chúng ta đang ở giai đoạn phát triển.",
+        "Wǒmen zhèng chǔzài fāzhǎn jiēduàn."
+      ],
+      "传递": [
+        "请把文件传递给我。",
+        "Xin chuyển tài liệu cho tôi.",
+        "Qǐng bǎ wénjiàn chuándì gěi wǒ."
+      ],
+      "此时": [
+        "此时无声胜有声。",
+        "Lúc này im lặng thắng ngàn lời nói.",
+        "Cǐshí wú shēng shèng yǒu shēng."
+      ],
+      "打（介）": [
+        "打今天起，我要努力学习。",
+        "Kể từ hôm nay, tôi sẽ nỗ lực học tập.",
+        "Dǎ jīntiān qǐ, wǒ yào nǔlì xuéxí."
+      ],
+      "打扮": [
+        "她今天打扮得很漂亮。",
+        "Hôm nay cô ấy ăn mặc rất xinh đẹp.",
+        "Tā jīntiān dǎban de hěn piàoliang."
+      ],
+      "大熊猫": [
+        "大熊猫是中国国宝。",
+        "Gấu trúc là quốc bảo của Trung Quốc.",
+        "Dàxióngmāo shì Zhōngguó guóbǎo."
+      ],
+      "大于": [
+        "十大于五。",
+        "Mười lớn hơn năm.",
+        "Shí dàyú wǔ."
+      ],
+      "待": [
+        "我待在北京两年了。",
+        "Tôi đã ở Bắc Kinh hai năm rồi.",
+        "Wǒ dāi zài Běijīng liǎng nián le."
+      ],
+      "当年": [
+        "当年我在这里上学。",
+        "Năm đó tôi học ở đây.",
+        "Dāngnián wǒ zài zhèlǐ shàngxué."
+      ],
+      "地震": [
+        "昨天发生了地震。",
+        "Hôm qua xảy ra động đất.",
+        "Zuótiān fāshēngle dìzhèn."
+      ],
+      "洞": [
+        "山里有个大洞。",
+        "Trong núi có một hang lớn.",
+        "Shān lǐ yǒu gè dà dòng."
+      ],
+      "毒": [
+        "这个蘑菇有毒。",
+        "Nấm này có độc.",
+        "Zhège mógu yǒu dú."
+      ],
+      "发射": [
+        "中国成功发射了卫星。",
+        "Trung Quốc thành công phóng vệ tinh.",
+        "Zhōngguó chénggōng fāshè le wèixīng."
+      ],
+      "发行": [
+        "这张专辑明天发行。",
+        "Album này phát hành ngày mai.",
+        "Zhè zhāng zhuānjí míngtiān fāxíng."
+      ],
+      "繁荣": [
+        "城市越来越繁荣。",
+        "Thành phố ngày càng thịnh vượng.",
+        "Chéngshì yuè lái yuè fánróng."
+      ],
+      "丰收": [
+        "今年农民丰收了。",
+        "Năm nay nông dân được mùa.",
+        "Jīnnián nóngmín fēngshōu le."
+      ],
+      "钢琴": [
+        "她会弹钢琴。",
+        "Cô ấy biết chơi piano.",
+        "Tā huì tán gāngqín."
+      ],
+      "高跟鞋": [
+        "她穿高跟鞋很漂亮。",
+        "Cô ấy mang giày cao gót trông rất đẹp.",
+        "Tā chuān gāogēnxié hěn piàoliang."
+      ],
+      "更换": [
+        "请更换电池。",
+        "Làm ơn thay pin.",
+        "Qǐng gēnghuàn diànchí."
+      ],
+      "工艺": [
+        "这个工艺很复杂。",
+        "Kỹ thuật này rất phức tạp.",
+        "Zhège gōngyì hěn fùzá."
+      ],
+      "公式": [
+        "这个数学公式很难。",
+        "Công thức toán này rất khó.",
+        "Zhège shùxué gōngshì hěn nán."
+      ],
+      "共计": [
+        "费用共计五百元。",
+        "Tổng chi phí là năm trăm nhân dân tệ.",
+        "Fèiyòng gòngjì wǔbǎi yuán."
+      ],
+      "光线": [
+        "房间光线充足。",
+        "Phòng có ánh sáng đầy đủ.",
+        "Fángjiān guāngxiàn chōngzú."
+      ],
+      "过于": [
+        "不要过于担心。",
+        "Đừng lo lắng quá.",
+        "Bùyào guòyú dānxīn."
+      ],
+      "盒子": [
+        "这个盒子里是什么？",
+        "Trong hộp này là gì?",
+        "Zhège hézi lǐ shì shénme?"
+      ],
+      "华语": [
+        "这部电影有华语配音。",
+        "Bộ phim này có lồng tiếng Hoa.",
+        "Zhè bù diànyǐng yǒu huáyǔ pèiyīn."
+      ],
+      "画面": [
+        "这个画面的颜色很美。",
+        "Khung hình này màu sắc rất đẹp.",
+        "Zhège huàmiàn de yánsè hěn měi."
+      ],
+      "灰色": [
+        "今天天空是灰色的。",
+        "Hôm nay trời xám xịt.",
+        "Jīntiān tiānkōng shì huīsè de."
+      ],
+      "火灾": [
+        "昨天发生了一起火灾。",
+        "Hôm qua xảy ra một vụ cháy.",
+        "Zuótiān fāshēngle yī qǐ huǒzāi."
+      ],
+      "加热": [
+        "把牛奶加热一下。",
+        "Hâm sữa một chút.",
+        "Bǎ niúnǎi jiārè yīxià."
+      ],
+      "加速": [
+        "汽车开始加速了。",
+        "Xe hơi bắt đầu tăng tốc.",
+        "Qìchē kāishǐ jiāsù le."
+      ],
+      "减轻": [
+        "药物可以减轻疼痛。",
+        "Thuốc có thể giảm đau.",
+        "Yàowù kěyǐ jiǎnqīng téngtòng."
+      ],
+      "建造": [
+        "他们在建造桥梁。",
+        "Họ đang xây cầu.",
+        "Tāmen zài jiànzào qiáoliáng."
+      ],
+      "键盘": [
+        "我的键盘坏了。",
+        "Bàn phím của tôi hỏng rồi.",
+        "Wǒ de jiànpán huài le."
+      ],
+      "将要": [
+        "会议将要开始。",
+        "Cuộc họp sắp bắt đầu.",
+        "Huìyì jiāngyào kāishǐ."
+      ],
+      "届": [
+        "第三十届奥运会",
+        "Kỳ Olympic thứ 30",
+        "Dì sānshí jiè Àoyùnhuì"
+      ],
+      "今日": [
+        "今日份快乐已到账。",
+        "Phần hạnh phúc hôm nay đã về tài khoản.",
+        "Jīnrì fèn kuàilè yǐ dàozhàng."
+      ],
+      "剧本": [
+        "这个剧本写得很好。",
+        "Kịch bản này viết rất hay.",
+        "Zhège jùběn xiě de hěn hǎo."
+      ],
+      "开幕": [
+        "大会明天开幕。",
+        "Đại hội khai mạc ngày mai.",
+        "Dàhuì míngtiān kāimù."
+      ],
+      "考核": [
+        "年终要进行绩效考核。",
+        "Cuối năm sẽ đánh giá hiệu suất.",
+        "Niánzhōng yào jìnxíng jìxiào kǎohé."
+      ],
+      "客户": [
+        "我们要维护好客户关系。",
+        "Chúng ta cần duy trì tốt quan hệ khách hàng.",
+        "Wǒmen yào wéihù hǎo kèhù guānxì."
+      ],
+      "控制": [
+        "请控制好情绪。",
+        "Xin kiểm soát tốt cảm xúc.",
+        "Qǐng kòngzhì hǎo qíngxù."
+      ],
+      "宽度": [
+        "这条河宽度有五十米。",
+        "Con sông này rộng năm mươi mét.",
+        "Zhè tiáo hé kuāndù yǒu wǔshí mǐ."
+      ],
+      "浪漫": [
+        "今晚很浪漫。",
+        "Tối nay rất lãng mạn.",
+        "Jīn wǎn hěn làngmàn."
+      ],
+      "礼拜": [
+        "下个礼拜见。",
+        "Tuần sau gặp nhé.",
+        "Xià gè lǐbài jiàn."
+      ],
+      "例外": [
+        "没有例外。",
+        "Không có ngoại lệ.",
+        "Méiyǒu lìwài."
+      ],
+      "邻居": [
+        "邻居很友好。",
+        "Hàng xóm rất thân thiện.",
+        "Línjū hěn yǒuhǎo."
+      ],
+      "落实": [
+        "政策要落实到位。",
+        "Chính sách phải được triển khai đúng chỗ.",
+        "Zhèngcè yào luòshí dào wèi."
+      ],
+      "贸易": [
+        "国际贸易很重要。",
+        "Thương mại quốc tế rất quan trọng.",
+        "Guójì màoyì hěn zhòngyào."
+      ],
+      "秒": [
+        "只差一秒就赢了。",
+        "Chỉ thiếu một giây là thắng rồi.",
+        "Zhǐ chà yī miǎo jiù yíng le."
+      ],
+      "明亮": [
+        "房间很明亮。",
+        "Phòng rất sáng sủa.",
+        "Fángjiān hěn míngliàng."
+      ],
+      "模样": [
+        "你现在这个模样真帅。",
+        "Dáng vẻ của bạn bây giờ thật đẹp trai.",
+        "Nǐ xiànzài zhège múyàng zhēn shuài."
+      ],
+      "难得": [
+        "难得休息一天。",
+        "Hiếm khi được nghỉ một ngày.",
+        "Nándé xiūxi yī tiān."
+      ],
+      "年度": [
+        "年度最佳球员",
+        "Cầu thủ xuất sắc nhất năm",
+        "Niándù zuìjiā qiúyuán"
+      ],
+      "旁": [
+        "站在我旁边。",
+        "Đứng bên cạnh tôi.",
+        "Zhàn zài wǒ pángbiān."
+      ],
+      "披": [
+        "披上外套。",
+        "Khoác áo ngoài.",
+        "Pī shang wàitào."
+      ],
+      "品": [
+        "先品一口茶。",
+        "Nếm một ngụm trà trước đã.",
+        "Xiān pǐn yī kǒu chá."
+      ],
+      "齐全": [
+        "设备很齐全。",
+        "Thiết bị rất đầy đủ.",
+        "Shèbèi hěn qíquán."
+      ],
+      "气体": [
+        "空气是一种气体。",
+        "Không khí là một loại khí.",
+        "Kōngqì shì yī zhǒng qìtǐ."
+      ],
+      "签证": [
+        "我申请了旅游签证。",
+        "Tôi đã xin visa du lịch.",
+        "Wǒ shēnqǐngle lǚyóu qiānzhèng."
+      ],
+      "墙壁": [
+        "墙壁刷成白色。",
+        "Tường được quét sơn trắng.",
+        "Qiángbì shuā chéng báisè."
+      ],
+      "清晨": [
+        "清晨的空气很清新。",
+        "Không khí sáng sớm rất trong lành.",
+        "Qīngchén de kōngqì hěn qīngxīn."
+      ],
+      "清理": [
+        "周末我要清理房间。",
+        "Cuối tuần tôi sẽ dọn dẹp phòng.",
+        "Zhōumò wǒ yào qīnglǐ fángjiān."
+      ],
+      "染": [
+        "不要染坏习惯。",
+        "Đừng nhiễm thói xấu.",
+        "Bùyào rǎn huài xíguàn."
+      ],
+      "热门": [
+        "AI是当前的热门话题。",
+        "AI là chủ đề hot hiện nay.",
+        "AI shì dāngqián de rèmén huàtí."
+      ],
+      "仍旧": [
+        "生活仍旧忙碌。",
+        "Cuộc sống vẫn bận rộn như cũ.",
+        "Shēnghuó réngjiù mánglù."
+      ],
+      "软件": [
+        "下载新软件。",
+        "Tải phần mềm mới.",
+        "Xiàzài xīn ruǎnjiàn."
+      ],
+      "扇": [
+        "用手扇风。",
+        "Dùng tay quạt gió.",
+        "Yòng shǒu shān fēng."
+      ],
+      "稍": [
+        "请稍等一下。",
+        "Xin chờ một chút.",
+        "Qǐng shāo děng yīxià."
+      ],
+      "稍微": [
+        "今天稍微冷一点。",
+        "Hôm nay hơi lạnh một chút.",
+        "Jīntiān shāowēi lěng yīdiǎn."
+      ],
+      "深处": [
+        "森林深处很安静。",
+        "Sâu trong rừng rất yên tĩnh.",
+        "Sēnlín shēnchù hěn ānjìng."
+      ],
+      "胜负": [
+        "比赛胜负已定。",
+        "Kết quả thắng thua trận đấu đã rõ.",
+        "Bǐsài shèngfù yǐ dìng."
+      ],
+      "时机": [
+        "现在是好时机。",
+        "Bây giờ là thời cơ tốt.",
+        "Xiànzài shì hǎo shíjī."
+      ],
+      "视频": [
+        "我拍了一个视频。",
+        "Tôi quay một video.",
+        "Wǒ pāile yī gè shìpín."
+      ],
+      "书法": [
+        "中国书法很美。",
+        "Thư pháp Trung Quốc rất đẹp.",
+        "Zhōngguó shūfǎ hěn měi."
+      ],
+      "熟悉": [
+        "我对这里很熟悉。",
+        "Tôi rất quen thuộc với nơi này.",
+        "Wǒ duì zhèlǐ hěn shúxī."
+      ],
+      "水产品": [
+        "海边水产品很丰富。",
+        "Ven biển thủy sản rất phong phú.",
+        "Hǎibiān shuǐchǎnpǐn hěn fēngfù."
+      ],
+      "水灾": [
+        "今年发生了水灾。",
+        "Năm nay xảy ra lũ lụt.",
+        "Jīnnián fāshēngle shuǐzāi."
+      ],
+      "岁月": [
+        "岁月不饶人。",
+        "Thời gian không tha ai.",
+        "Suìyuè bù ráorén."
+      ],
+      "逃": [
+        "别想逃！",
+        "Đừng hòng chạy trốn!",
+        "Bié xiǎng táo!"
+      ],
+      "桃花": [
+        "春天桃花开了。",
+        "Mùa xuân hoa đào nở.",
+        "Chūntiān táohuā kāi le."
+      ],
+      "讨厌": [
+        "我讨厌下雨天。",
+        "Tôi ghét ngày mưa.",
+        "Wǒ tǎoyàn xiàyǔ tiān."
+      ],
+      "题材": [
+        "这个电影题材很好。",
+        "Chủ đề phim này rất hay.",
+        "Zhège diànyǐng tícái hěn hǎo."
+      ],
+      "厅": [
+        "客厅很宽敞。",
+        "Phòng khách rất rộng rãi.",
+        "Kètīng hěn kuānchang."
+      ],
+      "停留": [
+        "我在北京停留三天。",
+        "Tôi lưu lại Bắc Kinh ba ngày.",
+        "Wǒ zài Běijīng tíngliú sān tiān."
+      ],
+      "外界": [
+        "不要受外界影响。",
+        "Đừng bị ảnh hưởng từ bên ngoài.",
+        "Bùyào shòu wàijiè yǐngxiǎng."
+      ],
+      "为期": [
+        "为期三天的会议。",
+        "Hội nghị kéo dài ba ngày.",
+        "Wéiqī sān tiān de huìyì."
+      ],
+      "慰问": [
+        "领导慰问员工。",
+        "Lãnh đạo thăm hỏi nhân viên.",
+        "Lǐngdǎo wèiwèn yuángōng."
+      ],
+      "文艺": [
+        "周末有文艺演出。",
+        "Cuối tuần có biểu diễn văn nghệ.",
+        "Zhōumò yǒu wényì yǎnchū."
+      ],
+      "误解": [
+        "这是个误解。",
+        "Đây là một sự hiểu lầm.",
+        "Zhè shì gè wùjiě."
+      ],
+      "先后": [
+        "他们先后到了。",
+        "Họ lần lượt đến.",
+        "Tāmen xiānhòu dào le."
+      ],
+      "鲜艳": [
+        "花朵颜色鲜艳。",
+        "Hoa có màu sắc rực rỡ.",
+        "Huāduǒ yánsè xiānyàn."
+      ],
+      "闲": [
+        "今天很闲。",
+        "Hôm nay rất nhàn.",
+        "Jīntiān hěn xián."
+      ],
+      "消除": [
+        "消除误会。",
+        "Xóa bỏ hiểu lầm.",
+        "Xiāochú wùhuì."
+      ],
+      "小偷儿": [
+        "小心小偷儿！",
+        "Cẩn thận tên trộm!",
+        "Xiǎoxīn xiǎotōur!"
+      ],
+      "信念": [
+        "坚定信念很重要。",
+        "Kiên định niềm tin rất quan trọng.",
+        "Jiāndìng xìnniàn hěn zhòngyào."
+      ],
+      "休闲": [
+        "周末去休闲一下。",
+        "Cuối tuần đi thư giãn một chút.",
+        "Zhōumò qù xiūxián yīxià."
+      ],
+      "寻求": [
+        "寻求帮助。",
+        "Tìm kiếm sự giúp đỡ.",
+        "Xúnqiú bāngzhù."
+      ],
+      "夜间": [
+        "夜间温度低。",
+        "Ban đêm nhiệt độ thấp.",
+        "Yèjiān wēndù dī."
+      ],
+      "一带": [
+        "黄河一带很美。",
+        "Khu vực sông Hoàng Hà rất đẹp.",
+        "Huánghé yídài hěn měi."
+      ],
+      "一下儿（副）": [
+        "等一下儿。",
+        "Chờ một chút.",
+        "Děng yīxiàr."
+      ],
+      "一口气": [
+        "他一口气跑了五公里。",
+        "Anh ấy chạy một mạch năm kilômét.",
+        "Tā yìkǒuqì pǎole wǔ gōnglǐ."
+      ],
+      "硬": [
+        "这个床垫太硬了。",
+        "Cái nệm này cứng quá.",
+        "Zhège chuángdiàn tài yìng le."
+      ],
+      "用不着": [
+        "用不着担心。",
+        "Không cần lo lắng.",
+        "Yòngbuzháo dānxīn."
+      ],
+      "优惠": [
+        "今天有优惠活动。",
+        "Hôm nay có hoạt động ưu đãi.",
+        "Jīntiān yǒu yōuhuì huódòng."
+      ],
+      "羽绒服": [
+        "冬天穿羽绒服很暖和。",
+        "Mùa đông mặc áo lông vũ rất ấm.",
+        "Dōngtiān chuān yǔróngfú hěn nuǎnhuo."
+      ],
+      "预备": [
+        "预备开始！",
+        "Chuẩn bị... bắt đầu!",
+        "Yùbèi kāishǐ!"
+      ],
+      "元旦": [
+        "元旦快乐！",
+        "Chúc mừng năm mới!",
+        "Yuándàn kuàilè!"
+      ],
+      "约束": [
+        "法律约束行为。",
+        "Pháp luật ràng buộc hành vi.",
+        "Fǎlǜ yuēshù xíngwéi."
+      ],
+      "灾难": [
+        "这是一场大灾难。",
+        "Đây là một thảm họa lớn.",
+        "Zhè shì yī chǎng dà zāinàn."
+      ],
+      "再次": [
+        "请再次确认。",
+        "Xin xác nhận lần nữa.",
+        "Qǐng zàicì quèrèn."
+      ],
+      "暂停": [
+        "比赛暂停五分钟。",
+        "Trận đấu tạm dừng năm phút.",
+        "Bǐsài zàntíng wǔ fēnzhōng."
+      ],
+      "珍贵": [
+        "时间很珍贵。",
+        "Thời gian rất quý giá.",
+        "Shíjiān hěn zhēnguì."
+      ],
+      "证书": [
+        "我拿到了毕业证书。",
+        "Tôi nhận được bằng tốt nghiệp.",
+        "Wǒ ná dàole bìyè zhèngshū."
+      ],
+      "之内": [
+        "三天之内完成。",
+        "Hoàn thành trong vòng ba ngày.",
+        "Sān tiān zhīnèi wánchéng."
+      ],
+      "支出": [
+        "每月支出要控制好。",
+        "Chi tiêu hàng tháng cần kiểm soát tốt.",
+        "Měi yuè zhīchū yào kòngzhì hǎo."
+      ],
+      "值班": [
+        "今晚我值班。",
+        "Tối nay tôi trực ban.",
+        "Jīn wǎn wǒ zhíbān."
+      ],
+      "只不过": [
+        "他只不过迟到了。",
+        "Anh ấy chỉ là muộn giờ thôi.",
+        "Tā zhǐbúguò chídàole."
+      ],
+      "主办": [
+        "中国主办奥运会。",
+        "Trung Quốc tổ chức Olympic.",
+        "Zhōngguó zhǔbàn Àoyùnhuì."
+      ],
+      "专辑": [
+        "新专辑很受欢迎。",
+        "Album mới rất được hoan nghênh.",
+        "Xīn zhuānjí hěn shòu huānyíng."
+      ],
+      "专利": [
+        "申请专利保护。",
+        "Đăng ký bảo hộ bằng sáng chế.",
+        "Shēnqǐng zhuānlì bǎohù."
+      ],
+      "子弹": [
+        "子弹用完了。",
+        "Đạn hết rồi.",
+        "Zǐdàn yòng wán le."
+      ],
+      "自杀": [
+        "自杀是不对的。",
+        "Tự sát là không đúng.",
+        "Zìshā shì bù duì de."
+      ],
+      "阻碍": [
+        "不要阻碍交通。",
+        "Đừng cản trở giao thông.",
+        "Bùyào zǔ’ài jiāotōng."
+      ]
+    }
+  }
+]

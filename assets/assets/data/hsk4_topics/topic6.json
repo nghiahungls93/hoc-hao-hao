@@ -1,0 +1,801 @@
+[
+  {
+    "id": "hsk4-topic-06",
+    "title": "Không gian và giao thông",
+    "titleCn": "HSK 4 · 6",
+    "context": "Từ vựng HSK 4 cùng chủ đề",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "安检",
+      "按照",
+      "办理",
+      "抱歉",
+      "背",
+      "本来",
+      "标准",
+      "表格",
+      "不论",
+      "不得不",
+      "参观",
+      "查看",
+      "车速",
+      "车位",
+      "城",
+      "乘",
+      "乘客",
+      "乘坐",
+      "出差",
+      "出租",
+      "从来",
+      "大巴",
+      "道",
+      "到底",
+      "到来",
+      "道路",
+      "地址",
+      "电动车",
+      "调查",
+      "动车",
+      "度假",
+      "分数",
+      "否则",
+      "符合",
+      "赶",
+      "赶快",
+      "赶上",
+      "高于",
+      "公路",
+      "估计",
+      "故意",
+      "观看",
+      "逛",
+      "寒假",
+      "后悔",
+      "坏处",
+      "换乘",
+      "及时",
+      "即使",
+      "计划",
+      "既然",
+      "将",
+      "交警",
+      "交通",
+      "叫作",
+      "街道",
+      "接着",
+      "结账",
+      "尽管",
+      "景点",
+      "剧院",
+      "看法",
+      "可惜",
+      "克",
+      "肯定",
+      "快递",
+      "浪漫",
+      "理发",
+      "俩",
+      "连",
+      "两",
+      "目的地",
+      "偶尔",
+      "陪",
+      "皮鞋",
+      "期末",
+      "起到",
+      "千克",
+      "巧",
+      "亲戚",
+      "入口",
+      "商量",
+      "上门",
+      "少量",
+      "生",
+      "省",
+      "师傅",
+      "失去",
+      "使馆",
+      "视频",
+      "市区",
+      "收费",
+      "熟悉",
+      "暑假",
+      "说法",
+      "说明书",
+      "死",
+      "孙子",
+      "台",
+      "趟",
+      "特点",
+      "提",
+      "填写",
+      "条件",
+      "停",
+      "停车",
+      "停车场",
+      "通",
+      "网址",
+      "无论",
+      "相反",
+      "响",
+      "性别",
+      "修",
+      "也许",
+      "引起",
+      "优点",
+      "游玩",
+      "有着",
+      "杂志",
+      "暂停",
+      "着火",
+      "整个",
+      "证明",
+      "值",
+      "值得",
+      "只好",
+      "著名",
+      "准时",
+      "租",
+      "作品"
+    ],
+    "examples": {
+      "安检": [
+        "请在机场进行安检。",
+        "Xin vui lòng kiểm tra an ninh tại sân bay.",
+        "Qǐng zài jīchǎng jìnxíng ānjiǎn."
+      ],
+      "按照": [
+        "按照规定，我们不能迟到。",
+        "Theo quy định, chúng ta không được đến muộn.",
+        "Ànzhào guīdìng, wǒmen bùnéng chídào."
+      ],
+      "办理": [
+        "我要去银行办理业务。",
+        "Tôi phải đến ngân hàng làm thủ tục.",
+        "Wǒ yào qù yínháng bànlǐ yèwù."
+      ],
+      "抱歉": [
+        "我很抱歉迟到了。",
+        "Tôi rất xin lỗi vì đến muộn.",
+        "Wǒ hěn bàoqiàn chídào le."
+      ],
+      "背": [
+        "他背着书包上学。",
+        "Anh ấy vác cặp sách đi học.",
+        "Tā bēizhe shūbāo shàngxué."
+      ],
+      "本来": [
+        "他本来不想去。",
+        "Anh ấy vốn dĩ không muốn đi.",
+        "Tā běnlái bù xiǎng qù."
+      ],
+      "标准": [
+        "他的发音很标准。",
+        "Phát âm của anh ấy rất chuẩn.",
+        "Tā de fāyīn hěn biāozhǔn."
+      ],
+      "表格": [
+        "请填写这个表格。",
+        "Xin điền vào bảng này.",
+        "Qǐng tiánxiě zhège biǎogé."
+      ],
+      "不论": [
+        "不论多难，我都会坚持。",
+        "Dù khó đến đâu, tôi cũng sẽ kiên trì.",
+        "Búlùn duō nán, wǒ dōu huì jiānchí."
+      ],
+      "不得不": [
+        "我不得不离开。",
+        "Tôi không thể không rời đi.",
+        "Wǒ bùdébù líkāi."
+      ],
+      "参观": [
+        "我们去参观博物馆。",
+        "Chúng ta đi thăm bảo tàng.",
+        "Wǒmen qù cānguān bówùguǎn."
+      ],
+      "查看": [
+        "请查看邮件。",
+        "Xin kiểm tra email.",
+        "Qǐng chákàn yóujiàn."
+      ],
+      "车速": [
+        "请控制车速。",
+        "Xin kiểm soát tốc độ xe.",
+        "Qǐng kòngzhì chēsù."
+      ],
+      "车位": [
+        "这里有车位吗？",
+        "Ở đây có chỗ đỗ xe không?",
+        "Zhèlǐ yǒu chēwèi ma?"
+      ],
+      "城": [
+        "这是一座古城。",
+        "Đây là một thành cổ.",
+        "Zhè shì yī zuò gǔchéng."
+      ],
+      "乘": [
+        "我乘地铁上班。",
+        "Tôi đi tàu điện ngầm đi làm.",
+        "Wǒ chéng dìtiě shàngbān."
+      ],
+      "乘客": [
+        "乘客请上车。",
+        "Hành khách xin lên xe.",
+        "Chéngkè qǐng shàngchē."
+      ],
+      "乘坐": [
+        "请乘坐公交车。",
+        "Xin đi xe buýt.",
+        "Qǐng chéngzuò gōngjiāochē."
+      ],
+      "出差": [
+        "他去北京出差。",
+        "Anh ấy đi công tác Bắc Kinh.",
+        "Tā qù Běijīng chūchāi."
+      ],
+      "出租": [
+        "这辆车出租。",
+        "Chiếc xe này cho thuê.",
+        "Zhè liàng chē chūzū."
+      ],
+      "从来": [
+        "我从来不吸烟。",
+        "Tôi chưa từng hút thuốc.",
+        "Wǒ cónglái bù xīyān."
+      ],
+      "大巴": [
+        "我们坐大巴去旅行。",
+        "Chúng ta đi xe buýt lớn đi du lịch.",
+        "Wǒmen zuò dàbā qù lǚxíng."
+      ],
+      "道": [
+        "这是正确的道。",
+        "Đây là cách đúng.",
+        "Zhè shì zhèngquè de dào."
+      ],
+      "到底": [
+        "你到底去不去？",
+        "Rốt cuộc bạn có đi không?",
+        "Nǐ dàodǐ qù bù qù?"
+      ],
+      "到来": [
+        "春天到来了。",
+        "Mùa xuân đã đến.",
+        "Chūntiān dàolái le."
+      ],
+      "道路": [
+        "道路很宽。",
+        "Đường sá rất rộng.",
+        "Dàolù hěn kuān."
+      ],
+      "地址": [
+        "这是我的地址。",
+        "Đây là địa chỉ của tôi.",
+        "Zhè shì wǒ de dìzhǐ."
+      ],
+      "电动车": [
+        "我骑电动车上班。",
+        "Tôi đi xe điện đi làm.",
+        "Wǒ qí diàndòngchē shàngbān."
+      ],
+      "调查": [
+        "警察在调查。",
+        "Cảnh sát đang điều tra.",
+        "Jǐngchá zài diàochá."
+      ],
+      "动车": [
+        "我坐动车旅行。",
+        "Tôi đi tàu cao tốc du lịch.",
+        "Wǒ zuò dòngchē lǚxíng."
+      ],
+      "度假": [
+        "我们去海边度假。",
+        "Chúng ta đi biển nghỉ dưỡng.",
+        "Wǒmen qù hǎibiān dùjià."
+      ],
+      "分数": [
+        "他的考试分数很高。",
+        "Điểm thi của anh ấy rất cao.",
+        "Tā de kǎoshì fēnshù hěn gāo."
+      ],
+      "否则": [
+        "快走，否则要迟到了。",
+        "Nhanh đi, nếu không thì muộn rồi.",
+        "Kuài zǒu, fǒuzé yào chídào le."
+      ],
+      "符合": [
+        "你的条件符合要求。",
+        "Điều kiện của bạn phù hợp với yêu cầu.",
+        "Nǐ de tiáojiàn fúhé yāoqiú."
+      ],
+      "赶": [
+        "我要赶火车。",
+        "Tôi phải đuổi kịp tàu.",
+        "Wǒ yào gǎn huǒchē."
+      ],
+      "赶快": [
+        "赶快走！",
+        "Mau mau đi!",
+        "Gǎnkuài zǒu!"
+      ],
+      "赶上": [
+        "我赶上了末班车。",
+        "Tôi đã bắt kịp chuyến xe cuối.",
+        "Wǒ gǎnshàng le mòbānchē."
+      ],
+      "高于": [
+        "他的成绩高于平均分。",
+        "Điểm của anh ấy cao hơn mức trung bình.",
+        "Tā de chéngjì gāoyú píngjūn fēn."
+      ],
+      "公路": [
+        "这条公路很宽。",
+        "Con đường này rất rộng.",
+        "Zhè tiáo gōnglù hěn kuān."
+      ],
+      "估计": [
+        "我估计他会来。",
+        "Tôi đoán anh ấy sẽ đến.",
+        "Wǒ gūjì tā huì lái."
+      ],
+      "故意": [
+        "他故意迟到。",
+        "Anh ấy cố tình đến muộn.",
+        "Tā gùyì chídào."
+      ],
+      "观看": [
+        "我们一起观看比赛。",
+        "Chúng ta cùng xem trận đấu.",
+        "Wǒmen yīqǐ guānkàn bǐsài."
+      ],
+      "逛": [
+        "我们去逛街吧。",
+        "Chúng ta đi dạo phố đi.",
+        "Wǒmen qù guàngjiē ba."
+      ],
+      "寒假": [
+        "寒假快到了。",
+        "Kỳ nghỉ đông sắp đến.",
+        "Hánjià kuài dào le."
+      ],
+      "后悔": [
+        "我后悔没去。",
+        "Tôi hối hận vì không đi.",
+        "Wǒ hòuhuǐ méi qù."
+      ],
+      "坏处": [
+        "吸烟有很多坏处。",
+        "Hút thuốc có nhiều tác hại.",
+        "Xīyān yǒu hěn duō huàichù."
+      ],
+      "换乘": [
+        "在这里换乘地铁。",
+        "Đổi tàu điện ngầm ở đây.",
+        "Zài zhèlǐ huànchéng dìtiě."
+      ],
+      "及时": [
+        "请及时回复。",
+        "Xin trả lời kịp thời.",
+        "Qǐng jíshí huífù."
+      ],
+      "即使": [
+        "即使下雨也要去。",
+        "Dù mưa cũng phải đi.",
+        "Jíshǐ xiàyǔ yě yào qù."
+      ],
+      "计划": [
+        "我的计划是去旅行。",
+        "Kế hoạch của tôi là đi du lịch.",
+        "Wǒ de jìhuà shì qù lǚxíng."
+      ],
+      "既然": [
+        "既然来了，就多玩会儿。",
+        "Đã đến rồi thì ở lại chơi thêm đi.",
+        "Jìrán lái le, jiù duō wán huìr."
+      ],
+      "将": [
+        "我将去北京。",
+        "Tôi sẽ đi Bắc Kinh.",
+        "Wǒ jiāng qù Běijīng."
+      ],
+      "交警": [
+        "交警在指挥交通。",
+        "Cảnh sát giao thông đang điều tiết giao thông.",
+        "Jiāojǐng zài zhǐhuī jiāotōng."
+      ],
+      "交通": [
+        "交通很拥堵。",
+        "Giao thông rất kẹt xe.",
+        "Jiāotōng hěn yōngdǔ."
+      ],
+      "叫作": [
+        "这个叫作手机。",
+        "Cái này được gọi là điện thoại.",
+        "Zhège jiàozuò shǒujī."
+      ],
+      "街道": [
+        "街道很干净。",
+        "Đường phố rất sạch sẽ.",
+        "Jiēdào hěn gānjìng."
+      ],
+      "接着": [
+        "接着说。",
+        "Tiếp tục nói đi.",
+        "Jiēzhe shuō."
+      ],
+      "结账": [
+        "服务员，请结账。",
+        "Nhân viên ơi, thanh toán đi.",
+        "Fúwùyuán, qǐng jiézhàng."
+      ],
+      "尽管": [
+        "尽管说。",
+        "Cứ nói đi.",
+        "Jǐnguǎn shuō."
+      ],
+      "景点": [
+        "这个景点游客很多。",
+        "Điểm du lịch này có rất nhiều du khách.",
+        "Zhège jǐngdiǎn yóukè hěn duō."
+      ],
+      "剧院": [
+        "我们去剧院看戏。",
+        "Chúng ta đi nhà hát xem kịch.",
+        "Wǒmen qù jùyuàn kàn xì."
+      ],
+      "看法": [
+        "你的看法是什么？",
+        "Quan điểm của bạn là gì?",
+        "Nǐ de kànfǎ shì shénme?"
+      ],
+      "可惜": [
+        "太可惜了，你没来。",
+        "Tiếc quá, bạn không đến.",
+        "Tài kěxī le, nǐ méi lái."
+      ],
+      "克": [
+        "这袋糖有五百克。",
+        "Túi đường này có năm trăm gam.",
+        "Zhè dài táng yǒu wǔbǎi kè."
+      ],
+      "肯定": [
+        "我肯定他会来。",
+        "Tôi chắc chắn anh ấy sẽ đến.",
+        "Wǒ kěndìng tā huì lái."
+      ],
+      "快递": [
+        "快递已经到了。",
+        "Chuyển phát nhanh đã đến.",
+        "Kuàidì yǐjīng dào le."
+      ],
+      "浪漫": [
+        "这个地方很浪漫。",
+        "Nơi này rất lãng mạn.",
+        "Zhège dìfang hěn làngmàn."
+      ],
+      "理发": [
+        "我要去理发。",
+        "Tôi đi cắt tóc.",
+        "Wǒ yào qù lǐfà."
+      ],
+      "俩": [
+        "我们俩一起去。",
+        "Hai chúng ta đi cùng.",
+        "Wǒmen liǎ yīqǐ qù."
+      ],
+      "连": [
+        "连他都不知道。",
+        "Ngay cả anh ấy cũng không biết.",
+        "Lián tā dōu bù zhīdào."
+      ],
+      "两": [
+        "两辆车",
+        "Hai chiếc xe",
+        "Liǎng liàng chē"
+      ],
+      "目的地": [
+        "我们到达目的地了。",
+        "Chúng ta đã đến nơi.",
+        "Wǒmen dàodá mùdìdì le."
+      ],
+      "偶尔": [
+        "我偶尔去健身。",
+        "Tôi thỉnh thoảng đi tập gym.",
+        "Wǒ ǒu’ěr qù jiànshēn."
+      ],
+      "陪": [
+        "我陪你去。",
+        "Tôi đi cùng bạn.",
+        "Wǒ péi nǐ qù."
+      ],
+      "皮鞋": [
+        "我穿皮鞋。",
+        "Tôi đi giày da.",
+        "Wǒ chuān píxié."
+      ],
+      "期末": [
+        "期末考试快到了。",
+        "Kỳ thi cuối kỳ sắp đến.",
+        "Qīmò kǎoshì kuài dào le."
+      ],
+      "起到": [
+        "这起到很大作用。",
+        "Điều này phát huy tác dụng lớn.",
+        "Zhè qǐdào hěn dà zuòyòng."
+      ],
+      "千克": [
+        "这个苹果两千克。",
+        "Quả táo này hai kilô.",
+        "Zhège píngguǒ liǎng qiānkè."
+      ],
+      "巧": [
+        "你来得真巧。",
+        "Bạn đến đúng lúc thật.",
+        "Nǐ lái de zhēn qiǎo."
+      ],
+      "亲戚": [
+        "亲戚来家里。",
+        "Họ hàng đến nhà.",
+        "Qīnqi lái jiālǐ."
+      ],
+      "入口": [
+        "入口在哪里？",
+        "Lối vào ở đâu?",
+        "Rùkǒu zài nǎlǐ?"
+      ],
+      "商量": [
+        "我们商量一下计划。",
+        "Chúng ta bàn bạc kế hoạch một chút.",
+        "Wǒmen shāngliang yīxià jìhuà."
+      ],
+      "上门": [
+        "快递上门服务。",
+        "Chuyển phát nhanh phục vụ tận nhà.",
+        "Kuàidì shàngmén fúwù."
+      ],
+      "少量": [
+        "请加少量糖。",
+        "Xin thêm một ít đường.",
+        "Qǐng jiā shǎoliàng táng."
+      ],
+      "生": [
+        "这个苹果是生的。",
+        "Quả táo này còn sống.",
+        "Zhège píngguǒ shì shēng de."
+      ],
+      "省": [
+        "我来自广东省。",
+        "Tôi đến từ tỉnh Quảng Đông.",
+        "Wǒ láizì Guǎngdōng shěng."
+      ],
+      "师傅": [
+        "师傅，请帮我修车。",
+        "Thầy ơi, xin sửa xe giúp tôi.",
+        "Shīfu, qǐng bāng wǒ xiū chē."
+      ],
+      "失去": [
+        "他失去了机会。",
+        "Anh ấy đã mất cơ hội.",
+        "Tā shīqù le jīhuì."
+      ],
+      "使馆": [
+        "我去使馆办签证。",
+        "Tôi đến đại sứ quán làm visa.",
+        "Wǒ qù shǐguǎn bàn qiānzhèng."
+      ],
+      "视频": [
+        "我看了一个有趣的视频。",
+        "Tôi xem một video thú vị.",
+        "Wǒ kàn le yīgè yǒuqù de shìpín."
+      ],
+      "市区": [
+        "市区交通很拥堵。",
+        "Khu trung tâm giao thông rất kẹt xe.",
+        "Shìqū jiāotōng hěn yōngdǔ."
+      ],
+      "收费": [
+        "这里停车收费。",
+        "Ở đây đỗ xe thu phí.",
+        "Zhèlǐ tíngchē shōufèi."
+      ],
+      "熟悉": [
+        "我熟悉这个地方。",
+        "Tôi quen thuộc nơi này.",
+        "Wǒ shúxi zhège dìfang."
+      ],
+      "暑假": [
+        "暑假我去旅行。",
+        "Kỳ nghỉ hè tôi đi du lịch.",
+        "Shǔjià wǒ qù lǚxíng."
+      ],
+      "说法": [
+        "你的说法不对。",
+        "Cách nói của bạn không đúng.",
+        "Nǐ de shuōfǎ bú duì."
+      ],
+      "说明书": [
+        "请看说明书。",
+        "Xin xem hướng dẫn sử dụng.",
+        "Qǐng kàn shuōmíngshū."
+      ],
+      "死": [
+        "他笑死了。",
+        "Anh ấy cười chết đi được.",
+        "Tā xiào sǐ le."
+      ],
+      "孙子": [
+        "孙子在玩游戏。",
+        "Cháu trai đang chơi game.",
+        "Sūnzi zài wán yóuxì."
+      ],
+      "台": [
+        "一台电脑",
+        "Một chiếc máy tính",
+        "Yī tái diànnǎo"
+      ],
+      "趟": [
+        "我去了一趟北京。",
+        "Tôi đi một chuyến Bắc Kinh.",
+        "Wǒ qù le yī tàng Běijīng."
+      ],
+      "特点": [
+        "这个城市的特点是现代化。",
+        "Đặc điểm của thành phố này là hiện đại.",
+        "Zhège chéngshì de tèdiǎn shì xiàndàihuà."
+      ],
+      "提": [
+        "请提一下行李。",
+        "Xin mang hành lý một chút.",
+        "Qǐng tí yīxià xíngli."
+      ],
+      "填写": [
+        "请填写表格。",
+        "Xin điền vào bảng.",
+        "Qǐng tiánxiě biǎogé."
+      ],
+      "条件": [
+        "条件很好。",
+        "Điều kiện rất tốt.",
+        "Tiáojiàn hěn hǎo."
+      ],
+      "停": [
+        "车停在这里。",
+        "Xe dừng ở đây.",
+        "Chē tíng zài zhèlǐ."
+      ],
+      "停车": [
+        "请在这里停车。",
+        "Xin đỗ xe ở đây.",
+        "Qǐng zài zhèlǐ tíngchē."
+      ],
+      "停车场": [
+        "停车场满了。",
+        "Bãi đỗ xe đầy rồi.",
+        "Tíngchēchǎng mǎn le."
+      ],
+      "通": [
+        "路通了。",
+        "Đường thông rồi.",
+        "Lù tōng le."
+      ],
+      "网址": [
+        "请给我网址。",
+        "Xin cho tôi địa chỉ web.",
+        "Qǐng gěi wǒ wǎngzhǐ."
+      ],
+      "无论": [
+        "无论如何都要去。",
+        "Dù thế nào cũng phải đi.",
+        "Wúlùn rúhé dōu yào qù."
+      ],
+      "相反": [
+        "他的看法和我相反。",
+        "Quan điểm của anh ấy trái ngược với tôi.",
+        "Tā de kànfǎ hé wǒ xiāngfǎn."
+      ],
+      "响": [
+        "电话响了。",
+        "Điện thoại reo rồi.",
+        "Diànhuà xiǎng le."
+      ],
+      "性别": [
+        "请填写性别。",
+        "Xin điền giới tính.",
+        "Qǐng tiánxiě xìngbié."
+      ],
+      "修": [
+        "我去修手机。",
+        "Tôi đi sửa điện thoại.",
+        "Wǒ qù xiū shǒujī."
+      ],
+      "也许": [
+        "也许他会来。",
+        "Có lẽ anh ấy sẽ đến.",
+        "Yěxǔ tā huì lái."
+      ],
+      "引起": [
+        "这引起了大家的注意。",
+        "Điều này gây chú ý của mọi người.",
+        "Zhè yǐnqǐ le dàjiā de zhùyì."
+      ],
+      "优点": [
+        "他的优点很多。",
+        "Ưu điểm của anh ấy rất nhiều.",
+        "Tā de yōudiǎn hěn duō."
+      ],
+      "游玩": [
+        "我们去公园游玩。",
+        "Chúng ta đi công viên chơi.",
+        "Wǒmen qù gōngyuán yóuwán."
+      ],
+      "有着": [
+        "这个城市有着悠久的历史。",
+        "Thành phố này có lịch sử lâu đời.",
+        "Zhège chéngshì yǒuzhe yōujiǔ de lìshǐ."
+      ],
+      "杂志": [
+        "我订了一本杂志。",
+        "Tôi đặt một cuốn tạp chí.",
+        "Wǒ dìng le yī běn zázhì."
+      ],
+      "暂停": [
+        "比赛暂停了。",
+        "Trận đấu tạm dừng.",
+        "Bǐsài zàntíng le."
+      ],
+      "着火": [
+        "房子着火了。",
+        "Nhà cháy rồi.",
+        "Fángzi zháohuǒ le."
+      ],
+      "整个": [
+        "整个城市都很热闹。",
+        "Cả thành phố rất nhộn nhịp.",
+        "Zhěnggè chéngshì dōu hěn rènao."
+      ],
+      "证明": [
+        "这证明他是正确的。",
+        "Điều này chứng minh anh ấy đúng.",
+        "Zhè zhèngmíng tā shì zhèngquè de."
+      ],
+      "值": [
+        "这部手机值一千块。",
+        "Chiếc điện thoại này đáng giá một nghìn đồng.",
+        "Zhè bù shǒujī zhí yīqiān kuài."
+      ],
+      "值得": [
+        "这个电影值得看。",
+        "Bộ phim này đáng xem.",
+        "Zhège diànyǐng zhídé kàn."
+      ],
+      "只好": [
+        "没车了，我只好走路。",
+        "Không có xe, tôi đành phải đi bộ.",
+        "Méi chē le, wǒ zhǐhǎo zǒulù."
+      ],
+      "著名": [
+        "这是一座著名城市。",
+        "Đây là một thành phố nổi tiếng.",
+        "Zhè shì yī zuò zhùmíng chéngshì."
+      ],
+      "准时": [
+        "请准时到达。",
+        "Xin đến đúng giờ.",
+        "Qǐng zhǔnshí dàodá."
+      ],
+      "租": [
+        "我租了一辆车。",
+        "Tôi thuê một chiếc xe.",
+        "Wǒ zū le yī liàng chē."
+      ],
+      "作品": [
+        "这是一件艺术作品。",
+        "Đây là một tác phẩm nghệ thuật.",
+        "Zhè shì yī jiàn yìshù zuòpǐn."
+      ]
+    }
+  }
+]

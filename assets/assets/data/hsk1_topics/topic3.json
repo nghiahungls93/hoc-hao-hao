@@ -1,0 +1,393 @@
+[
+  {
+    "id": "hsk1-topic-03",
+    "title": "Ngày tháng và lịch",
+    "titleCn": "HSK 1 · 3",
+    "context": "Từ vựng HSK 1 cùng chủ đề",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "白天",
+      "半",
+      "半天",
+      "差",
+      "唱歌",
+      "穿",
+      "次",
+      "地图",
+      "电影",
+      "都",
+      "多",
+      "饿",
+      "分 ",
+      "风",
+      "高兴",
+      "哥哥  | 哥",
+      "很",
+      "后天",
+      "还",
+      "回",
+      "回来",
+      "今年",
+      "开会",
+      "看病",
+      "考",
+      "课",
+      "楼",
+      "没",
+      "明年",
+      "明天",
+      "奶奶 | 奶",
+      "跑",
+      "起",
+      "起床",
+      "前",
+      "请假",
+      "日期",
+      "上班",
+      "上次",
+      "上午",
+      "生日",
+      "时间",
+      "睡",
+      "岁",
+      "天",
+      "听写",
+      "晚",
+      "忘记",
+      "五",
+      "洗",
+      "下班",
+      "下午",
+      "现在",
+      "小时",
+      "星期",
+      "休息",
+      "月",
+      "再",
+      "再见",
+      "在家",
+      "早",
+      "早饭",
+      "早上"
+    ],
+    "examples": {
+      "白天": [
+        "早睡吧，你白天还要去上课。",
+        "Ngủ sớm đi, bạn ban ngày còn phải đi học.",
+        "Zǎo shuì ba, nǐ báitiān hái yào qù shàngkè"
+      ],
+      "半": [
+        "现在六点半。\n\n我们在半路上遇到了他。",
+        "Bây giờ là 6 giờ rưỡi.\n\nChúng tôi đã gặp anh ấy giữa đường.",
+        "Xiànzài liù diǎn bàn/\n\n/Wǒmen zài bàn lùshàng yù dàole tā"
+      ],
+      "半天": [
+        "我今天要工作半天。\n\n我在门口等了你半天。",
+        "Tôi hôm nay phải đi làm nửa ngày.\n\nAnh đã đứng trước cửa đợi em rất lâu.",
+        "Wǒ jīntiān yào gōngzuò bàntiān/\n\n/Wǒ zài ménkǒu děng le nǐ bàntiān"
+      ],
+      "差": [
+        "他今天状态很差。",
+        "Trạng thái của anh hôm nay rất tệ.",
+        "Tā jīntiān zhuàngtài hěn chà"
+      ],
+      "唱歌": [
+        "我家邻居昨天一直不停地唱歌。",
+        "Ngày hôm qua hàng xóm của tôi ca hát không ngừng.",
+        "Wǒjiā línjū zuótiān yīzhí bù tíng de chànggē"
+      ],
+      "穿": [
+        "今天我穿了件新衣服。",
+        "Hôm nay tôi mặc quần áo mới.",
+        "Jīntiān wǒ chuān le jiàn xīn yīfu"
+      ],
+      "次": [
+        "这是我第一次来这里。",
+        "Đây là lần đầu tiên tôi đến đây.",
+        "Zhè shì wǒ dì yī cì lái zhè lǐ"
+      ],
+      "地图": [
+        "这是世界地图。",
+        "Đây là bản đồ thế giới.",
+        "Zhè shì shìjiè dìtú"
+      ],
+      "电影": [
+        "昨天我们看了一部电影。",
+        "Hôm qua chúng tôi đã xem một bộ phim.",
+        "Zuótiān wǒmen kàn le yī bù diànyǐng"
+      ],
+      "都": [
+        "我们都很忙。",
+        "Chúng tôi đều rất bận.",
+        "Wǒmen dōu hěn máng"
+      ],
+      "多": [
+        "今天的作业不太多。",
+        "Bài tập hôm nay không nhiều lắm.",
+        "Jīntiān de zuòyè bù tài duō"
+      ],
+      "饿": [
+        "我现在很饿。",
+        "Bây giờ tôi rất đói.",
+        "Wǒ xiànzài hěn è"
+      ],
+      "分 ": [
+        "这次考试我考了100分。",
+        "Kỳ thi lần này tôi thi được 100 điểm.",
+        "Zhè cì kǎoshì wǒ kǎole 100 fēn"
+      ],
+      "风": [
+        "今天的风很大，不要出去。",
+        "Hôm nay gió lớn, đừng ra ngoài.",
+        "Jīntiān de fēng hěn dà, bù yào chūqù"
+      ],
+      "高兴": [
+        "今天我很高兴。",
+        "Hôm nay tôi rất vui.",
+        "Jīntiān wǒ hěn gāoxìng"
+      ],
+      "哥哥  | 哥": [
+        "我的哥哥比我大五岁。",
+        "Anh trai tôi lớn hơn tôi năm tuổi.",
+        "Wǒ de gēge bǐ wǒ dà wǔ suì"
+      ],
+      "很": [
+        "今天的课文很长， 生词很多。",
+        "Hôm nay bài khoá rất dài, nên từ mới rất nhiều.",
+        "Jīntiān de kèwén hěn cháng, shēngcí hěnduō"
+      ],
+      "后天": [
+        "我们后天去北京。",
+        "Chúng tôi sẽ đi Bắc Kinh vào ngày kia.",
+        "Wǒmen hòutiān qù Běijīng"
+      ],
+      "还": [
+        "她明天把书还给图书馆。",
+        "Ngày mai cô ấy sẽ đem sách trả lại cho thư viện",
+        "Tā míngtiān bǎ shū huán gěi túshū guǎn"
+      ],
+      "回": [
+        "我每天六点回家。",
+        "Tôi về nhà lúc 6 giờ mỗi ngày.",
+        "Wǒ měitiān liù diǎn huí jiā"
+      ],
+      "回来": [
+        "他晚上七点回来。",
+        "Anh ấy sẽ quay lại lúc 7 giờ tối.",
+        "Tā wǎnshàng qī diǎn huí lái"
+      ],
+      "今年": [
+        "今年是2025年。",
+        "Năm nay là năm 2025.",
+        "Jīnnián shì 2025 nián"
+      ],
+      "开会": [
+        "我下午三点要开会。",
+        "Tôi có cuộc họp lúc 3 giờ chiều.",
+        "Wǒ xiàwǔ sān diǎn yào kāi huì"
+      ],
+      "看病": [
+        "我今天去医院看病。",
+        "Hôm nay tôi đi bệnh viện khám bệnh.",
+        "Wǒ jīntiān qù yīyuàn kàn bìng"
+      ],
+      "考": [
+        "这次考试很难。",
+        "Kỳ thi lần này rất khó.",
+        "Zhè cì kǎoshì hěn nán"
+      ],
+      "课": [
+        "今天的汉语课很有意思。",
+        "Bài học tiếng Trung hôm nay rất thú vị.",
+        "Jīntiān de Hànyǔ kè hěn yǒuyìsi"
+      ],
+      "楼": [
+        "他们住在五楼。",
+        "Họ sống ở tầng năm.",
+        "Tāmen zhù zài wǔ lóu"
+      ],
+      "没": [
+        "我今天没时间。",
+        "Hôm nay tôi không có thời gian (không rảnh).",
+        "Wǒ jīntiān méi shíjiān"
+      ],
+      "明年": [
+        "明年我想去中国。",
+        "Năm sau tôi muốn đi Trung Quốc.",
+        "Míngnián wǒ xiǎng qù Zhōngguó"
+      ],
+      "明天": [
+        "明天是星期几？",
+        "Ngày mai là thứ mấy?",
+        "Míngtiān shì xīngqī jǐ"
+      ],
+      "奶奶 | 奶": [
+        "我奶奶今年八十岁。",
+        "Bà nội tôi năm nay 80 tuổi.",
+        "Wǒ nǎinai jīnnián bāshí suì"
+      ],
+      "跑": [
+        "他每天早上都跑步。",
+        "Anh ấy chạy bộ mỗi sáng.",
+        "Tā měitiān zǎoshang dōu pǎobù"
+      ],
+      "起": [
+        "今天睡到上午10点才起。",
+        "Nay ngủ đến 10 giờ mới dậy.",
+        "Jīntiān shuì dào shàngwǔ 10 diǎn cái qǐ"
+      ],
+      "起床": [
+        "我每天六点起床。",
+        "Mỗi ngày tôi thức dậy lúc 6 giờ.",
+        "Wǒ měitiān liù diǎn qǐchuáng"
+      ],
+      "前": [
+        "他12号前会回来。",
+        "Anh ấy sẽ trở lại trước ngày 12.",
+        "Tā 12 hào qián huì huílái"
+      ],
+      "请假": [
+        "老师，今天我想请假。",
+        "Thầy ơi, hôm nay em muốn xin nghỉ.",
+        "Lǎoshī, jīntiān wǒ xiǎng qǐngjià"
+      ],
+      "日期": [
+        "文件的日期写错了。",
+        "Ngày tháng trên tài liệu bị sai rồi.",
+        "Wénjiàn de rìqí xiě cuò le"
+      ],
+      "上班": [
+        "他每天八点上班。",
+        "Mỗi ngày anh ấy đi làm lúc 8 giờ.",
+        "Tā měitiān bā diǎn shàngbān"
+      ],
+      "上次": [
+        "上次我们去上海了。",
+        "Lần trước chúng tôi đã đi Thượng Hải.",
+        "Shàng cì wǒmen qù Shànghǎi le"
+      ],
+      "上午": [
+        "我上午有一个会议。",
+        "Tôi có một cuộc họp vào buổi sáng.",
+        "Wǒ shàngwǔ yǒu yī gè huìyì"
+      ],
+      "生日": [
+        "你的生日是几月几号？",
+        "Sinh nhật của bạn là ngày mấy tháng mấy?",
+        "Nǐ de shēngrì shì jǐ yuè jǐ hào"
+      ],
+      "时间": [
+        "时间过得真快。",
+        "Thời gian trôi qua thật nhanh.",
+        "Shíjiān guò dé zhēn kuài"
+      ],
+      "睡": [
+        "他昨天晚上睡得很早。",
+        "Tối qua anh ấy ngủ rất sớm.",
+        "Tā zuótiān wǎnshàng shuì de hěn zǎo"
+      ],
+      "岁": [
+        "她今年二十岁了。",
+        "Cô ấy năm nay 20 tuổi rồi.",
+        "Tā jīnnián èrshí suì le"
+      ],
+      "天": [
+        "今天是星期天。\n\n我喜欢看天上的星星。",
+        "Hôm nay là Chủ nhật.\n\nTôi thích ngắm sao trên trời.",
+        "Jīntiān shì xīngqītiān/\n\n/Wǒ xǐhuān kàn tiānshàng de xīngxīng"
+      ],
+      "听写": [
+        "我们今天有听写考试。",
+        "Hôm nay chúng tôi có bài kiểm tra chính tả.",
+        "Wǒmen jīntiān yǒu tīngxiě kǎoshì"
+      ],
+      "晚": [
+        "现在太晚了，快睡吧。",
+        "Bây giờ quá muộn rồi, mau ngủ đi.",
+        "Xiànzài tài wǎn le, kuài shuì ba"
+      ],
+      "忘记": [
+        "请不要忘记明天的会议。",
+        "Xin đừng quên cuộc họp ngày mai.",
+        "Qǐng bú yào wàngjì míngtiān de huìyì"
+      ],
+      "五": [
+        "她今天买了五个苹果。",
+        "Hôm nay cô ấy đã mua năm quả táo.",
+        "Tā jīntiān mǎi le wǔ gè píngguǒ"
+      ],
+      "洗": [
+        "现在我要洗衣服。",
+        "Bây giờ tôi phải giặt quần áo.",
+        "Xiànzài wǒ yào xǐ yīfu"
+      ],
+      "下班": [
+        "我今晚八点下班。",
+        "Tối nay tôi tan làm lúc 8 giờ.",
+        "Wǒ jīn wǎn bā diǎn xiàbān"
+      ],
+      "下午": [
+        "我下午三点有个会议。",
+        "Tôi có một cuộc họp vào lúc 3 giờ chiều.",
+        "Wǒ xiàwǔ sān diǎn yǒu gè huìyì"
+      ],
+      "现在": [
+        "我现在就去做。",
+        "Tôi đi làm bây giờ đây.",
+        "Wǒ xiànzài jiù qù zuò"
+      ],
+      "小时": [
+        "我等了一个小时。",
+        "Tôi đã đợi 1 tiếng.",
+        "Wǒ děng le yí gè xiǎoshí"
+      ],
+      "星期": [
+        "这个星期很忙。",
+        "Tuần này rất bận.",
+        "Zhège xīngqī hěn máng"
+      ],
+      "休息": [
+        "我每天都要休息一小时。",
+        "Tôi phải nghỉ ngơi một giờ mỗi ngày.",
+        "Wǒ měitiān dōu yào xiūxi yī xiǎoshí"
+      ],
+      "月": [
+        "今年的二月有二十九天。\n\n今天的月亮很漂亮。",
+        "Tháng Hai năm nay có 29 ngày.\n\nMặt trăng hôm nay rất đẹp.",
+        "Jīnnián de èryuè yǒu èrshíjiǔ tiān/\n\n/Jīntiān de yuèliàng hěn piàoliang"
+      ],
+      "再": [
+        "请再说一遍。",
+        "Xin hãy nói lại một lần nữa.",
+        "Qǐng zài shuō yí biàn"
+      ],
+      "再见": [
+        "A: 明天见！\nB: 再见！",
+        "A: Hẹn gặp lại ngày mai! \nB: Tạm biệt!",
+        "A:/Míngtiān jiàn!/ \nB: /Zàijiàn!"
+      ],
+      "在家": [
+        "周末我一般在家休息。",
+        "Cuối tuần tôi thường ở nhà nghỉ ngơi.",
+        "Zhōumò wǒ yībān zàijiā xiūxi"
+      ],
+      "早": [
+        "今天你起得很早。",
+        "Hôm nay bạn dậy rất sớm.",
+        "Jīntiān nǐ qǐ de hěn zǎo"
+      ],
+      "早饭": [
+        "你今天吃早饭了吗？",
+        "Hôm nay bạn đã ăn sáng chưa?",
+        "Nǐ jīntiān chī zǎofàn le ma"
+      ],
+      "早上": [
+        "早上空气很好。",
+        "Không khí buổi sáng rất tốt.",
+        "Zǎoshang kōngqì hěn hǎo"
+      ]
+    }
+  }
+]

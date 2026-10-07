@@ -1,0 +1,195 @@
+[
+  {
+    "id": "hsk4-review",
+    "title": "Ôn tập tổng hợp HSK 4",
+    "titleCn": "HSK 4 · 复习",
+    "context": "Ôn lại các từ đã học trong cấp độ này",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "啊",
+      "爱情",
+      "爱心",
+      "安检",
+      "安排",
+      "按",
+      "按时",
+      "按照",
+      "白酒",
+      "办公",
+      "办理",
+      "办事",
+      "棒",
+      "保护",
+      "保证",
+      "抱",
+      "报考",
+      "报名",
+      "抱歉",
+      "背",
+      "背包",
+      "北部",
+      "倍",
+      "本科",
+      "本来",
+      "笨",
+      "鼻子",
+      "笔试",
+      "毕业",
+      "毕业生"
+    ],
+    "examples": {
+      "啊": [
+        "啊，这太棒了！",
+        "À, cái này quá tuyệt vời!",
+        "Ā, zhè tài bàng le!"
+      ],
+      "爱情": [
+        "他们的爱情故事很感人。",
+        "Câu chuyện tình yêu của họ rất cảm động.",
+        "Tāmen de àiqíng gùshì hěn gǎnrén."
+      ],
+      "爱心": [
+        "她总是帮助别人，很有爱心。",
+        "Cô ấy luôn giúp đỡ người khác, rất có lòng nhân ái.",
+        "Tā zǒngshì bāngzhù biérén, hěn yǒu àixīn."
+      ],
+      "安检": [
+        "请在机场进行安检。",
+        "Xin vui lòng kiểm tra an ninh tại sân bay.",
+        "Qǐng zài jīchǎng jìnxíng ānjiǎn."
+      ],
+      "安排": [
+        "我已经安排好了明天的会议。",
+        "Tôi đã sắp xếp xong cuộc họp ngày mai.",
+        "Wǒ yǐjīng ānpái hǎo le míngtiān de huìyì."
+      ],
+      "按": [
+        "按计划，我们明天出发。",
+        "Theo kế hoạch, chúng ta sẽ khởi hành ngày mai.",
+        "Àn jìhuà, wǒmen míngtiān chūfā."
+      ],
+      "按时": [
+        "请按时到达学校。",
+        "Xin hãy đến trường đúng giờ.",
+        "Qǐng ànshí dàodá xuéxiào."
+      ],
+      "按照": [
+        "按照规定，我们不能迟到。",
+        "Theo quy định, chúng ta không được đến muộn.",
+        "Ànzhào guīdìng, wǒmen bùnéng chídào."
+      ],
+      "白酒": [
+        "中国人常喝白酒庆祝节日。",
+        "Người Trung Quốc thường uống rượu trắng để ăn mừng lễ hội.",
+        "Zhōngguórén cháng hē báijiǔ qìngzhù jiérì."
+      ],
+      "办公": [
+        "他在公司办公。",
+        "Anh ấy đang làm việc tại công ty.",
+        "Tā zài gōngsī bàngōng."
+      ],
+      "办理": [
+        "我要去银行办理业务。",
+        "Tôi phải đến ngân hàng làm thủ tục.",
+        "Wǒ yào qù yínháng bànlǐ yèwù."
+      ],
+      "办事": [
+        "他很会办事。",
+        "Anh ấy rất giỏi lo việc.",
+        "Tā hěn huì bànshì."
+      ],
+      "棒": [
+        "你做得真棒！",
+        "Bạn làm rất tuyệt!",
+        "Nǐ zuò de zhēn bàng!"
+      ],
+      "保护": [
+        "我们要保护环境。",
+        "Chúng ta phải bảo vệ môi trường.",
+        "Wǒmen yào bǎohù huánjìng."
+      ],
+      "保证": [
+        "我保证按时完成。",
+        "Tôi cam kết hoàn thành đúng hạn.",
+        "Wǒ bǎozhèng ànshí wánchéng."
+      ],
+      "抱": [
+        "妈妈抱着孩子。",
+        "Mẹ đang ôm con.",
+        "Māma bàozhe háizi."
+      ],
+      "报考": [
+        "我要报考大学。",
+        "Tôi muốn đăng ký thi đại học.",
+        "Wǒ yào bàokǎo dàxué."
+      ],
+      "报名": [
+        "请尽快报名参加比赛。",
+        "Xin nhanh chóng đăng ký tham gia cuộc thi.",
+        "Qǐng jǐnkuài bàomíng cānjiā bǐsài."
+      ],
+      "抱歉": [
+        "我很抱歉迟到了。",
+        "Tôi rất xin lỗi vì đến muộn.",
+        "Wǒ hěn bàoqiàn chídào le."
+      ],
+      "背": [
+        "他背着书包上学。",
+        "Anh ấy vác cặp sách đi học.",
+        "Tā bēizhe shūbāo shàngxué."
+      ],
+      "背包": [
+        "我的背包很重。",
+        "Balo của tôi rất nặng.",
+        "Wǒ de bēibāo hěn zhòng."
+      ],
+      "北部": [
+        "中国北部冬天很冷。",
+        "Phía Bắc Trung Quốc mùa đông rất lạnh.",
+        "Zhōngguó běibù dōngtiān hěn lěng."
+      ],
+      "倍": [
+        "产量增加了两倍。",
+        "Sản lượng tăng gấp đôi.",
+        "Chǎnliàng zēngjiā le liǎng bèi."
+      ],
+      "本科": [
+        "他正在读本科。",
+        "Anh ấy đang học cử nhân.",
+        "Tā zhèngzài dú běnkē."
+      ],
+      "本来": [
+        "他本来不想去。",
+        "Anh ấy vốn dĩ không muốn đi.",
+        "Tā běnlái bù xiǎng qù."
+      ],
+      "笨": [
+        "你一点都不笨。",
+        "Bạn không ngu ngốc chút nào.",
+        "Nǐ yīdiǎn dōu bù bèn."
+      ],
+      "鼻子": [
+        "他的鼻子很高。",
+        "Mũi anh ấy cao.",
+        "Tā de bízi hěn gāo."
+      ],
+      "笔试": [
+        "明天要笔试。",
+        "Ngày mai phải thi viết.",
+        "Míngtiān yào bǐshì."
+      ],
+      "毕业": [
+        "我明年毕业。",
+        "Năm sau tôi tốt nghiệp.",
+        "Wǒ míngnián bìyè."
+      ],
+      "毕业生": [
+        "他是去年毕业生。",
+        "Anh ấy là sinh viên tốt nghiệp năm ngoái.",
+        "Tā shì qùnián bìyèshēng."
+      ]
+    }
+  }
+]

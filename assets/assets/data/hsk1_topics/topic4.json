@@ -1,0 +1,387 @@
+[
+  {
+    "id": "hsk1-topic-04",
+    "title": "Sở thích và cảm xúc",
+    "titleCn": "HSK 1 · 4",
+    "context": "Từ vựng HSK 1 cùng chủ đề",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "爱好",
+      "北京",
+      "别的",
+      "病",
+      "不",
+      "茶",
+      "吃",
+      "打球",
+      "地",
+      "第 （第二）",
+      "放",
+      "飞机",
+      "贵",
+      "好 ",
+      "好看",
+      "好玩儿",
+      "话",
+      "回答",
+      "见面",
+      "觉得",
+      "块",
+      "老人",
+      "门",
+      "哪",
+      "那些",
+      "南",
+      "难",
+      "您",
+      "牛奶",
+      "女人",
+      "女生",
+      "请",
+      "球",
+      "肉",
+      "上网",
+      "身体",
+      "生病",
+      "书",
+      "书店",
+      "说话",
+      "她",
+      "外边",
+      "玩儿",
+      "网上",
+      "先生",
+      "想",
+      "小孩儿",
+      "写",
+      "新年",
+      "星期天",
+      "也",
+      "页",
+      "医院",
+      "一会儿",
+      "有的",
+      "站",
+      "找到",
+      "这里",
+      "中",
+      "字",
+      "最",
+      "最后"
+    ],
+    "examples": {
+      "爱好": [
+        "我爱好打篮球。",
+        "Tôi thích chơi bóng rổ.",
+        "Wǒ àihào dǎ lánqiú"
+      ],
+      "北京": [
+        "北京是中国的首都。",
+        "Bắc Kinh là thủ đô của Trung Quốc.",
+        "Běijīng shì zhōngguó de shǒudū"
+      ],
+      "别的": [
+        "我不要别的，只要那支钢笔。",
+        "Tôi không cần cái nào khác, chỉ cần cây bút đó.",
+        "Wǒ bùyào bié de, zhǐyào nà zhī gāngbǐ"
+      ],
+      "病": [
+        "我生病了。",
+        "Tôi bị bệnh rồi.",
+        "Wǒ shēng bìng le"
+      ],
+      "不": [
+        "我不喜欢吃辣。",
+        "Tôi không thích ăn cay.",
+        "Wǒ bù xǐhuān chī là"
+      ],
+      "茶": [
+        "我喜欢喝茶。",
+        "Tôi thích uống trà.",
+        "Wǒ xǐhuān hē chá"
+      ],
+      "吃": [
+        "我喜欢吃苹果。",
+        "Tôi thích ăn táo.",
+        "Wǒ xǐhuan chī píngguǒ"
+      ],
+      "打球": [
+        "他们很喜欢打球。",
+        "Cậu ấy thích chơi bóng rổ.",
+        "Tā xǐhuān dǎ lánqiú"
+      ],
+      "地": [
+        "孩子们快乐地唱歌。",
+        "Mấy đứa nhỏ vui vẻ hát ca.",
+        "Háizimen kuàilè de chànggē"
+      ],
+      "第 （第二）": [
+        "这是第一个问题。",
+        "Đây là câu hỏi đầu tiên.",
+        "Zhè shì dì yī gè wèntí"
+      ],
+      "放": [
+        "请把书放在桌子上。",
+        "Vui lòng đặt quyển sách lên bàn.",
+        "Qǐng bǎ shū fàng zài zhuōzi shàng"
+      ],
+      "飞机": [
+        "我第一次坐飞机时特别开心。",
+        "Lần đầu tiên tôi đi máy bay, tôi rất vui mừng.",
+        "Wǒ dì yī cì zuò fēijī shí tèbié kāixīn"
+      ],
+      "贵": [
+        "这件衣服太贵了。",
+        "Bộ quần áo này quá đắt!",
+        "Zhè jiàn yīfu tài guì le"
+      ],
+      "好 ": [
+        "你身体好吗？",
+        "Bạn có khỏe không?",
+        "Nǐ shēntǐ hǎo ma"
+      ],
+      "好看": [
+        "这本书很好看，我喜欢。",
+        "Cuốn sách này rất hay, tôi thích.",
+        "Zhè běn shū hěn hǎokàn, wǒ xǐhuān"
+      ],
+      "好玩儿": [
+        "这个游戏很好玩儿。",
+        "Trò chơi này rất vui.",
+        "Zhège yóuxì hěn hǎowánr"
+      ],
+      "话": [
+        "她的话让我很高兴。",
+        "Lời của cô ấy làm tôi rất vui.",
+        "Tā de huà ràng wǒ hěn gāoxìng"
+      ],
+      "回答": [
+        "请回答我的问题。",
+        "Hãy trả lời câu hỏi của tôi.",
+        "Qǐng huídá wǒ de wèntí"
+      ],
+      "见面": [
+        "我很高兴和你见面。",
+        "Tôi rất vui khi gặp bạn.",
+        "Wǒ hěn gāoxìng hé nǐ jiànmiàn"
+      ],
+      "觉得": [
+        "我觉得这本书很好看。",
+        "Tôi cảm thấy cuốn sách này rất hay.",
+        "Wǒ juéde zhè běn shū hěn hǎokàn"
+      ],
+      "块": [
+        "我喜欢吃糖块儿。",
+        "Tôi thích ăn kẹo viên.",
+        "Wǒ xǐhuan chī táng kuàir"
+      ],
+      "老人": [
+        "老人喜欢在公园散步。",
+        "Các cụ già thích đi dạo trong công viên.",
+        "Lǎorén xǐhuan zài gōngyuán sànbù"
+      ],
+      "门": [
+        "我把门关上了。",
+        "Tôi đã đóng cửa lại.",
+        "Wǒ bǎ mén guānshàng le"
+      ],
+      "哪": [
+        "你喜欢哪本书？",
+        "Bạn thích quyển sách nào?",
+        "Nǐ xǐhuān nǎ běn shū"
+      ],
+      "那些": [
+        "那些书都送给你吧。",
+        "Những cuốn sách này đều cho cậu.",
+        "Nàxiē shū dōu sòng gěi nǐ ba"
+      ],
+      "南": [
+        "我喜欢南方的美食。",
+        "Tôi thích ẩm thực miền Nam.",
+        "Wǒ xǐhuan nánfāng de měishí"
+      ],
+      "难": [
+        "这个问题很难回答。",
+        "Câu hỏi này rất khó trả lời.",
+        "Zhège wèntí hěn nán huídá"
+      ],
+      "您": [
+        "您喜欢喝茶还是喝咖啡？",
+        "Ngài thích uống trà hay cà phê?",
+        "Nín xǐhuan hē chá háishì hē kāfēi"
+      ],
+      "牛奶": [
+        "我喜欢喝牛奶。",
+        "Tôi thích uống sữa.",
+        "Wǒ xǐhuan hē niúnǎi"
+      ],
+      "女人": [
+        "女人都喜欢买漂亮的衣服。",
+        "Phụ nữ đều thích mua quần áo đẹp.",
+        "Nǚrén dōu xǐhuān mǎi piàoliang de yīfu"
+      ],
+      "女生": [
+        "这些女生喜欢画画。",
+        "Những nữ sinh này thích vẽ.",
+        "Zhèxiē nǚshēng xǐhuān huà huà"
+      ],
+      "请": [
+        "请给我一杯水。",
+        "Xin hãy cho tôi một cốc nước.",
+        "Qǐng gěi wǒ yì bēi shuǐ"
+      ],
+      "球": [
+        "他喜欢踢足球。",
+        "Anh ấy thích đá bóng.",
+        "Tā xǐhuan tī zúqiú"
+      ],
+      "肉": [
+        "我喜欢吃鸡肉。",
+        "Tôi thích ăn thịt gà.",
+        "Wǒ xǐhuan chī jīròu"
+      ],
+      "上网": [
+        "他喜欢上网买东西。",
+        "Anh ấy thích mua hàng online.",
+        "Tā xǐhuan shàng wǎng mǎi dōngxi"
+      ],
+      "身体": [
+        "你身体好吗？",
+        "Sức khỏe của bạn có tốt không?",
+        "Nǐ shēntǐ hǎo ma"
+      ],
+      "生病": [
+        "他昨天生病了。",
+        "Hôm qua anh ấy bị bệnh.",
+        "Tā zuótiān shēng bìng le"
+      ],
+      "书": [
+        "我喜欢看书。",
+        "Tôi thích đọc sách.",
+        "Wǒ xǐhuan kàn shū"
+      ],
+      "书店": [
+        "我喜欢去书店。",
+        "Tôi thích đi nhà sách.",
+        "Wǒ xǐhuan qù shūdiàn"
+      ],
+      "说话": [
+        "请不要大声说话。",
+        "Vui lòng đừng nói chuyện lớn tiếng.",
+        "Qǐng bùyào dàshēng shuōhuà"
+      ],
+      "她": [
+        "她喜欢听音乐。",
+        "Cô ấy thích nghe nhạc.",
+        "Tā xǐhuan tīng yīnyuè"
+      ],
+      "外边": [
+        "外边有很多漂亮的花。",
+        "Bên ngoài có rất nhiều hoa đẹp.",
+        "Wàibian yǒu hěnduō piàoliang de huā"
+      ],
+      "玩儿": [
+        "孩子们喜欢玩儿游戏。",
+        "Bọn trẻ thích chơi trò chơi.",
+        "Háizimen xǐhuān wánr yóuxì"
+      ],
+      "网上": [
+        "现在很多人喜欢在网上买东西。",
+        "Hiện nay nhiều người thích mua đồ trên mạng.",
+        "Xiànzài hěnduō rén xǐhuān zài wǎngshàng mǎi dōngxī"
+      ],
+      "先生": [
+        "这位是李先生。",
+        "Đây là ông Lý.",
+        "Zhè wèi shì Lǐ xiānsheng"
+      ],
+      "想": [
+        "我想去日本旅游。",
+        "Tôi muốn đi du lịch Nhật Bản.",
+        "Wǒ xiǎng qù Rìběn lǚyóu"
+      ],
+      "小孩儿": [
+        "小孩儿喜欢玩游戏。",
+        "Trẻ con thích chơi trò chơi.",
+        "Xiǎoháir xǐhuan wán yóuxì"
+      ],
+      "写": [
+        "请写下你的名字。",
+        "Vui lòng viết tên của bạn xuống.",
+        "Qǐng xiě xià nǐ de míngzi"
+      ],
+      "新年": [
+        "新年快乐！",
+        "Năm mới vui vẻ!",
+        "Xīnnián kuài lè"
+      ],
+      "星期天": [
+        "星期天我喜欢睡懒觉。",
+        "Chủ nhật tôi thích ngủ nướng.",
+        "Xīngqītiān wǒ xǐhuan shuì lǎnjiào"
+      ],
+      "也": [
+        "我也喜欢吃苹果。",
+        "Tôi cũng thích ăn táo.",
+        "Wǒ yě xǐhuan chī píngguǒ"
+      ],
+      "页": [
+        "请翻到第五页。",
+        "Vui lòng lật đến trang 5.",
+        "Qǐng fān dào dì wǔ yè"
+      ],
+      "医院": [
+        "他生病了，要去医院。",
+        "Anh ấy bị ốm, cần đến bệnh viện.",
+        "Tā shēngbìng le, yào qù yīyuàn"
+      ],
+      "一会儿": [
+        "请等我一会儿。",
+        "Vui lòng đợi tôi một lát.",
+        "Qǐng děng wǒ yíhuìr"
+      ],
+      "有的": [
+        "有的人喜欢喝咖啡,有的人喜欢喝茶。",
+        "Có người thích uống cà phê, có người thích uống trà.",
+        "Yǒude rén xǐhuan hē kāfēi，yǒude rén xǐhuan hē chá"
+      ],
+      "站": [
+        "请站在这儿。",
+        "Xin hãy đứng ở đây.",
+        "Qǐng zhàn zài zhèr"
+      ],
+      "找到": [
+        "我找到钥匙了。",
+        "Tôi tìm thấy chìa khóa rồi.",
+        "Wǒ zhǎodào yàoshi le"
+      ],
+      "这里": [
+        "这里的风景很美。",
+        "Phong cảnh ở đây rất đẹp.",
+        "Zhè lǐ de fēngjǐng hěn měi"
+      ],
+      "中": [
+        "她站在房间中间。",
+        "Cô ấy đứng ở giữa phòng.",
+        "Tā zhàn zài fángjiān de zhōngjiān"
+      ],
+      "字": [
+        "我不认识这个字。",
+        "Tôi không biết chữ này.",
+        "Wǒ bù rènshi zhège zì"
+      ],
+      "最": [
+        "你最喜欢吃什么水果？",
+        "Bạn thích ăn loại trái cây nào nhất?",
+        "Nǐ zuì xǐhuan chī shénme shuǐguǒ"
+      ],
+      "最后": [
+        "最后一个问题，你听好了。",
+        "Câu hỏi cuối cùng, bạn nghe kỹ nhé.",
+        "Zuìhòu yī gè wèntí, nǐ tīng hǎo le"
+      ]
+    }
+  }
+]

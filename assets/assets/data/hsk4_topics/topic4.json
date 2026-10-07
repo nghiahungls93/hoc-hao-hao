@@ -1,0 +1,807 @@
+[
+  {
+    "id": "hsk4-topic-04",
+    "title": "Tâm lý và nhận thức",
+    "titleCn": "HSK 4 · 4",
+    "context": "Từ vựng HSK 4 cùng chủ đề",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "保证",
+      "北部",
+      "表",
+      "不过",
+      "部分",
+      "擦",
+      "茶叶",
+      "产生",
+      "出现",
+      "吹",
+      "此次",
+      "此外",
+      "答",
+      "大夫",
+      "当时",
+      "登机",
+      "底下",
+      "订",
+      "短信",
+      "对于",
+      "法",
+      "烦",
+      "房东",
+      "费用",
+      "复印",
+      "复杂",
+      "感觉",
+      "胳膊",
+      "各地",
+      "公共",
+      "姑娘",
+      "关键",
+      "广告",
+      "国籍",
+      "喊",
+      "好笑",
+      "厚",
+      "话剧",
+      "回忆",
+      "活泼",
+      "激动",
+      "加入",
+      "减少",
+      "健身",
+      "交流",
+      "教学",
+      "解释",
+      "进行",
+      "精彩",
+      "京剧",
+      "就是",
+      "举例",
+      "烤",
+      "考虑",
+      "空气",
+      "苦",
+      "困",
+      "冷静",
+      "联系",
+      "列",
+      "零食",
+      "另外",
+      "旅行",
+      "美丽",
+      "免费",
+      "民族",
+      "南部",
+      "难忘",
+      "男性",
+      "女性",
+      "牌",
+      "排球",
+      "葡萄",
+      "普遍",
+      "千万",
+      "强",
+      "情况",
+      "区别",
+      "全都",
+      "热闹",
+      "任何",
+      "散步",
+      "伤心",
+      "少见",
+      "少年",
+      "师生",
+      "食品",
+      "使",
+      "适应",
+      "输",
+      "顺利",
+      "说明",
+      "抬头",
+      "提前",
+      "体检",
+      "通过",
+      "童年",
+      "同样",
+      "袜子",
+      "网购",
+      "闻",
+      "无",
+      "无聊",
+      "吸",
+      "现有",
+      "想法",
+      "小组",
+      "信号",
+      "醒",
+      "许多",
+      "研究",
+      "严重",
+      "养成",
+      "夜晚",
+      "已",
+      "因此",
+      "尤其",
+      "有效",
+      "原因",
+      "约会",
+      "阅读",
+      "着",
+      "整理",
+      "正式",
+      "植物",
+      "种",
+      "祝",
+      "装",
+      "资料",
+      "总结",
+      "座",
+      "作者"
+    ],
+    "examples": {
+      "保证": [
+        "我保证按时完成。",
+        "Tôi cam kết hoàn thành đúng hạn.",
+        "Wǒ bǎozhèng ànshí wánchéng."
+      ],
+      "北部": [
+        "中国北部冬天很冷。",
+        "Phía Bắc Trung Quốc mùa đông rất lạnh.",
+        "Zhōngguó běibù dōngtiān hěn lěng."
+      ],
+      "表": [
+        "我的表坏了。",
+        "Đồng hồ của tôi hỏng rồi.",
+        "Wǒ de biǎo huài le."
+      ],
+      "不过": [
+        "很好，不过有点贵。",
+        "Rất tốt, nhưng hơi đắt.",
+        "Hěn hǎo, búguò yǒudiǎn guì."
+      ],
+      "部分": [
+        "这是其中的一部分。",
+        "Đây là một phần trong đó.",
+        "Zhè shì qízhōng de yī bùfen."
+      ],
+      "擦": [
+        "请擦干净桌子。",
+        "Xin lau sạch bàn.",
+        "Qǐng cā gānjìng zhuōzi."
+      ],
+      "茶叶": [
+        "我喜欢喝绿茶茶叶。",
+        "Tôi thích uống lá trà xanh.",
+        "Wǒ xǐhuān hē lǜchá cháyè."
+      ],
+      "产生": [
+        "这个想法产生了问题。",
+        "Ý tưởng này tạo ra vấn đề.",
+        "Zhège xiǎngfǎ chǎnshēng le wèntí."
+      ],
+      "出现": [
+        "问题出现了。",
+        "Vấn đề đã xuất hiện.",
+        "Wèntí chūxiàn le."
+      ],
+      "吹": [
+        "风吹得很厉害。",
+        "Gió thổi mạnh.",
+        "Fēng chuī de hěn lìhai."
+      ],
+      "此次": [
+        "此次旅行很愉快。",
+        "Lần du lịch này rất vui vẻ.",
+        "Cǐcì lǚxíng hěn yúkuài."
+      ],
+      "此外": [
+        "此外，还有一个问题。",
+        "Ngoài ra, còn một vấn đề nữa.",
+        "Cǐwài, hái yǒu yīgè wèntí."
+      ],
+      "答": [
+        "请回答问题。",
+        "Xin trả lời câu hỏi.",
+        "Qǐng huídá wèntí."
+      ],
+      "大夫": [
+        "大夫很忙。",
+        "Bác sĩ rất bận.",
+        "Dàifu hěn máng."
+      ],
+      "当时": [
+        "当时我很年轻。",
+        "Lúc đó tôi còn trẻ.",
+        "Dāngshí wǒ hěn niánqīng."
+      ],
+      "登机": [
+        "请准备登机。",
+        "Xin chuẩn bị lên máy bay.",
+        "Qǐng zhǔnbèi dēngjī."
+      ],
+      "底下": [
+        "在桌子底下。",
+        "Dưới bàn.",
+        "Zài zhuōzi dǐxia."
+      ],
+      "订": [
+        "我订了机票。",
+        "Tôi đã đặt vé máy bay.",
+        "Wǒ dìng le jīpiào."
+      ],
+      "短信": [
+        "我收到了短信。",
+        "Tôi nhận được tin nhắn.",
+        "Wǒ shōudào le duǎnxìn."
+      ],
+      "对于": [
+        "对于这个问题。",
+        "Đối với vấn đề này.",
+        "Duìyú zhège wèntí."
+      ],
+      "法": [
+        "遵守法。",
+        "Tuân thủ pháp luật.",
+        "Zūnshǒu fǎ."
+      ],
+      "烦": [
+        "我很烦。",
+        "Tôi rất bực.",
+        "Wǒ hěn fán."
+      ],
+      "房东": [
+        "房东很友好。",
+        "Chủ nhà rất thân thiện.",
+        "Fángdōng hěn yǒuhǎo."
+      ],
+      "费用": [
+        "费用很高。",
+        "Chi phí rất cao.",
+        "Fèiyong hěn gāo."
+      ],
+      "复印": [
+        "请复印这份文件。",
+        "Xin photocopy tài liệu này.",
+        "Qǐng fùyìn zhè fèn wénjiàn."
+      ],
+      "复杂": [
+        "这个问题很复杂。",
+        "Vấn đề này rất phức tạp.",
+        "Zhège wèntí hěn fùzá."
+      ],
+      "感觉": [
+        "我感觉很累。",
+        "Tôi cảm thấy rất mệt.",
+        "Wǒ gǎnjué hěn lèi."
+      ],
+      "胳膊": [
+        "我的胳膊疼。",
+        "Cánh tay tôi đau.",
+        "Wǒ de gēbo téng."
+      ],
+      "各地": [
+        "各地都有代表。",
+        "Khắp nơi đều có đại diện.",
+        "Gèdì dōu yǒu dàibiǎo."
+      ],
+      "公共": [
+        "这是公共场所。",
+        "Đây là nơi công cộng.",
+        "Zhè shì gōnggòng chǎngsuǒ."
+      ],
+      "姑娘": [
+        "那个姑娘很漂亮。",
+        "Cô gái kia rất xinh đẹp.",
+        "Nàge gūniang hěn piàoliang."
+      ],
+      "关键": [
+        "这是关键时刻。",
+        "Đây là khoảnh khắc quan trọng.",
+        "Zhè shì guānjiàn shíkè."
+      ],
+      "广告": [
+        "这个广告很有趣。",
+        "Quảng cáo này rất thú vị.",
+        "Zhège guǎnggào hěn yǒuqù."
+      ],
+      "国籍": [
+        "她的国籍是中国。",
+        "Quốc tịch của cô ấy là Trung Quốc.",
+        "Tā de guójí shì Zhōngguó."
+      ],
+      "喊": [
+        "别喊了！",
+        "Đừng hét nữa!",
+        "Bié hǎn le!"
+      ],
+      "好笑": [
+        "这个笑话很好笑。",
+        "Câu chuyện cười này rất buồn cười.",
+        "Zhège xiàohua hěn hǎoxiào."
+      ],
+      "厚": [
+        "这本书很厚。",
+        "Cuốn sách này rất dày.",
+        "Zhè běn shū hěn hòu."
+      ],
+      "话剧": [
+        "我喜欢看话剧。",
+        "Tôi thích xem kịch nói.",
+        "Wǒ xǐhuān kàn huàjù."
+      ],
+      "回忆": [
+        "回忆过去很开心。",
+        "Hồi tưởng quá khứ rất vui.",
+        "Huíyì guòqù hěn kāixīn."
+      ],
+      "活泼": [
+        "她很活泼。",
+        "Cô ấy rất hoạt bát.",
+        "Tā hěn huópō."
+      ],
+      "激动": [
+        "我很激动。",
+        "Tôi rất phấn khích.",
+        "Wǒ hěn jīdòng."
+      ],
+      "加入": [
+        "我加入了俱乐部。",
+        "Tôi đã tham gia câu lạc bộ.",
+        "Wǒ jiārù le jùlèbù."
+      ],
+      "减少": [
+        "减少浪费。",
+        "Giảm bớt lãng phí.",
+        "Jiǎnshǎo làngfèi."
+      ],
+      "健身": [
+        "我每天健身。",
+        "Tôi tập gym mỗi ngày.",
+        "Wǒ měitiān jiànshēn."
+      ],
+      "交流": [
+        "我们经常交流。",
+        "Chúng ta thường xuyên giao lưu.",
+        "Wǒmen jīngcháng jiāoliú."
+      ],
+      "教学": [
+        "教学质量很好。",
+        "Chất lượng giảng dạy rất tốt.",
+        "Jiàoxué zhìliàng hěn hǎo."
+      ],
+      "解释": [
+        "请解释一下。",
+        "Xin giải thích một chút.",
+        "Qǐng jiěshì yīxià."
+      ],
+      "进行": [
+        "会议正在进行。",
+        "Cuộc họp đang tiến hành.",
+        "Huìyì zhèngzài jìnxíng."
+      ],
+      "精彩": [
+        "表演很精彩。",
+        "Buổi biểu diễn rất xuất sắc.",
+        "Biǎoyǎn hěn jīngcǎi."
+      ],
+      "京剧": [
+        "我喜欢看京剧。",
+        "Tôi thích xem Kinh kịch.",
+        "Wǒ xǐhuān kàn jīngjù."
+      ],
+      "就是": [
+        "这就是我要的。",
+        "Đây chính là cái tôi muốn.",
+        "Zhè jiùshì wǒ yào de."
+      ],
+      "举例": [
+        "老师举例说明。",
+        "Thầy cô đưa ví dụ giải thích.",
+        "Lǎoshī jǔlì shuōmíng."
+      ],
+      "烤": [
+        "我喜欢烤肉。",
+        "Tôi thích ăn thịt nướng.",
+        "Wǒ xǐhuān kǎo ròu."
+      ],
+      "考虑": [
+        "我正在考虑这个问题。",
+        "Tôi đang xem xét vấn đề này.",
+        "Wǒ zhèngzài kǎolǜ zhège wèntí."
+      ],
+      "空气": [
+        "这里的空气很新鲜。",
+        "Không khí ở đây rất trong lành.",
+        "Zhèlǐ de kōngqì hěn xīnxiān."
+      ],
+      "苦": [
+        "这药有点苦。",
+        "Thuốc này hơi đắng.",
+        "Zhè yào yǒudiǎn kǔ."
+      ],
+      "困": [
+        "我很困。",
+        "Tôi buồn ngủ lắm.",
+        "Wǒ hěn kùn."
+      ],
+      "冷静": [
+        "请保持冷静。",
+        "Xin giữ bình tĩnh.",
+        "Qǐng bǎochí lěngjìng."
+      ],
+      "联系": [
+        "请保持联系。",
+        "Xin giữ liên lạc.",
+        "Qǐng bǎochí liánxì."
+      ],
+      "列": [
+        "请列一张表。",
+        "Xin lập một bảng.",
+        "Qǐng liè yī zhāng biǎo."
+      ],
+      "零食": [
+        "我喜欢吃零食。",
+        "Tôi thích ăn đồ ăn vặt.",
+        "Wǒ xǐhuān chī língshí."
+      ],
+      "另外": [
+        "另外，我还有一个问题。",
+        "Ngoài ra, tôi còn một vấn đề nữa.",
+        "Lìngwài, wǒ hái yǒu yīgè wèntí."
+      ],
+      "旅行": [
+        "我喜欢旅行。",
+        "Tôi thích du lịch.",
+        "Wǒ xǐhuān lǚxíng."
+      ],
+      "美丽": [
+        "她很美丽。",
+        "Cô ấy rất xinh đẹp.",
+        "Tā hěn měilì."
+      ],
+      "免费": [
+        "这个活动免费。",
+        "Hoạt động này miễn phí.",
+        "Zhège huódòng miǎnfèi."
+      ],
+      "民族": [
+        "中国有56个民族。",
+        "Trung Quốc có 56 dân tộc.",
+        "Zhōngguó yǒu wǔshíliù gè mínzú."
+      ],
+      "南部": [
+        "中国南部很温暖。",
+        "Phía Nam Trung Quốc rất ấm áp.",
+        "Zhōngguó nánbù hěn wēnnuǎn."
+      ],
+      "难忘": [
+        "这是一次难忘的旅行。",
+        "Đây là chuyến du lịch khó quên.",
+        "Zhè shì yīcì nánwàng de lǚxíng."
+      ],
+      "男性": [
+        "男性健康很重要。",
+        "Sức khỏe nam giới rất quan trọng.",
+        "Nánxìng jiànkāng hěn zhòngyào."
+      ],
+      "女性": [
+        "女性权利。",
+        "Quyền lợi phụ nữ.",
+        "Nǚxìng quánlì."
+      ],
+      "牌": [
+        "这是名牌。",
+        "Đây là hàng hiệu.",
+        "Zhè shì míngpái."
+      ],
+      "排球": [
+        "我喜欢打排球。",
+        "Tôi thích chơi bóng chuyền.",
+        "Wǒ xǐhuān dǎ páiqiú."
+      ],
+      "葡萄": [
+        "我喜欢吃葡萄。",
+        "Tôi thích ăn nho.",
+        "Wǒ xǐhuān chī pútao."
+      ],
+      "普遍": [
+        "这是一个普遍问题。",
+        "Đây là vấn đề phổ biến.",
+        "Zhè shì yīgè pǔbiàn wèntí."
+      ],
+      "千万": [
+        "千万别迟到。",
+        "Nhất định đừng muộn.",
+        "Qiānwàn bié chídào."
+      ],
+      "强": [
+        "他身体很强。",
+        "Anh ấy khỏe mạnh.",
+        "Tā shēntǐ hěn qiáng."
+      ],
+      "情况": [
+        "情况怎么样？",
+        "Tình hình thế nào?",
+        "Qíngkuàng zěnmeyàng?"
+      ],
+      "区别": [
+        "两者有区别。",
+        "Hai cái có sự khác biệt.",
+        "Liǎng zhě yǒu qūbié."
+      ],
+      "全都": [
+        "他们全都同意。",
+        "Họ đều đồng ý hết.",
+        "Tāmen quándōu tóngyì."
+      ],
+      "热闹": [
+        "街上很热闹。",
+        "Phố xá rất nhộn nhịp.",
+        "Jiē shàng hěn rènao."
+      ],
+      "任何": [
+        "任何问题都可以问我。",
+        "Bất kỳ vấn đề nào cũng có thể hỏi tôi.",
+        "Rènhé wèntí dōu kěyǐ wèn wǒ."
+      ],
+      "散步": [
+        "晚上我喜欢散步。",
+        "Tối tôi thích đi dạo.",
+        "Wǎnshang wǒ xǐhuān sànbù."
+      ],
+      "伤心": [
+        "她听到消息很伤心。",
+        "Cô ấy nghe tin rất buồn.",
+        "Tā tīng dào xiāoxī hěn shāngxīn."
+      ],
+      "少见": [
+        "这种现象很少见。",
+        "Hiện tượng này hiếm thấy.",
+        "Zhè zhǒng xiànxiàng hěn shǎojiàn."
+      ],
+      "少年": [
+        "少年宫很受欢迎。",
+        "Cung thiếu nhi rất được yêu thích.",
+        "Shàoniángōng hěn shòu huānyíng."
+      ],
+      "师生": [
+        "师生关系很好。",
+        "Quan hệ thầy trò rất tốt.",
+        "Shīshēng guānxì hěn hǎo."
+      ],
+      "食品": [
+        "食品要新鲜。",
+        "Thực phẩm phải tươi.",
+        "Shípǐn yào xīnxiān."
+      ],
+      "使": [
+        "这使我很高兴。",
+        "Điều này khiến tôi rất vui.",
+        "Zhè shǐ wǒ hěn gāoxìng."
+      ],
+      "适应": [
+        "他很快适应了新环境。",
+        "Anh ấy nhanh chóng thích nghi với môi trường mới.",
+        "Tā hěn kuài shìyìng le xīn huánjìng."
+      ],
+      "输": [
+        "我们队输了。",
+        "Đội chúng ta thua rồi.",
+        "Wǒmen duì shū le."
+      ],
+      "顺利": [
+        "一切都很顺利。",
+        "Mọi thứ đều suôn sẻ.",
+        "Yīqiè dōu hěn shùnlì."
+      ],
+      "说明": [
+        "请说明原因。",
+        "Xin giải thích lý do.",
+        "Qǐng shuōmíng yuányīn."
+      ],
+      "抬头": [
+        "请抬头看黑板。",
+        "Xin ngẩng đầu nhìn bảng.",
+        "Qǐng táitóu kàn hēibǎn."
+      ],
+      "提前": [
+        "请提前预约。",
+        "Xin đặt trước.",
+        "Qǐng tíqián yùyuē."
+      ],
+      "体检": [
+        "我去体检。",
+        "Tôi đi khám sức khỏe.",
+        "Wǒ qù tǐjiǎn."
+      ],
+      "通过": [
+        "通过考试。",
+        "Qua kỳ thi.",
+        "Tōngguò kǎoshì."
+      ],
+      "童年": [
+        "我的童年很开心。",
+        "Thời thơ ấu của tôi rất vui vẻ.",
+        "Wǒ de tóngnián hěn kāixīn."
+      ],
+      "同样": [
+        "我们有同样的想法。",
+        "Chúng ta có ý nghĩ giống nhau.",
+        "Wǒmen yǒu tóngyàng de xiǎngfǎ."
+      ],
+      "袜子": [
+        "我的袜子破了。",
+        "Vớ của tôi rách rồi.",
+        "Wǒ de wàzi pò le."
+      ],
+      "网购": [
+        "我喜欢网购。",
+        "Tôi thích mua sắm online.",
+        "Wǒ xǐhuān wǎnggòu."
+      ],
+      "闻": [
+        "闻一下花。",
+        "Ngửi hoa một chút.",
+        "Wén yīxià huā."
+      ],
+      "无": [
+        "这里无信号。",
+        "Ở đây không có sóng.",
+        "Zhèlǐ wú xìnhào."
+      ],
+      "无聊": [
+        "这个电影很无聊。",
+        "Bộ phim này rất chán.",
+        "Zhège diànyǐng hěn wúliáo."
+      ],
+      "吸": [
+        "吸烟有害健康。",
+        "Hút thuốc hại sức khỏe.",
+        "Xīyān yǒuhài jiànkāng."
+      ],
+      "现有": [
+        "现有问题需要尽快解决。",
+        "Các vấn đề hiện có cần giải quyết nhanh chóng.",
+        "Xiànyǒu wèntí xūyào jǐnkuài jiějué."
+      ],
+      "想法": [
+        "你的想法很好。",
+        "Ý nghĩ của bạn rất hay.",
+        "Nǐ de xiǎngfǎ hěn hǎo."
+      ],
+      "小组": [
+        "我们分成三个小组。",
+        "Chúng ta chia thành ba nhóm nhỏ.",
+        "Wǒmen fēn chéng sān gè xiǎozǔ."
+      ],
+      "信号": [
+        "这里信号不好。",
+        "Ở đây tín hiệu kém.",
+        "Zhèlǐ xìnhào bù hǎo."
+      ],
+      "醒": [
+        "我醒了。",
+        "Tôi đã tỉnh rồi.",
+        "Wǒ xǐng le."
+      ],
+      "许多": [
+        "许多人喜欢旅行。",
+        "Nhiều người thích du lịch.",
+        "Xǔduō rén xǐhuān lǚxíng."
+      ],
+      "研究": [
+        "他在研究这个问题。",
+        "Anh ấy đang nghiên cứu vấn đề này.",
+        "Tā zài yánjiū zhège wèntí."
+      ],
+      "严重": [
+        "问题很严重。",
+        "Vấn đề rất nghiêm trọng.",
+        "Wèntí hěn yánzhòng."
+      ],
+      "养成": [
+        "养成好习惯。",
+        "Hình thành thói quen tốt.",
+        "Yǎngchéng hǎo xíguàn."
+      ],
+      "夜晚": [
+        "夜晚很安静。",
+        "Ban đêm rất yên tĩnh.",
+        "Yèwǎn hěn ānjìng."
+      ],
+      "已": [
+        "我已准备好了。",
+        "Tôi đã chuẩn bị xong.",
+        "Wǒ yǐ zhǔnbèi hǎo le."
+      ],
+      "因此": [
+        "他生病了，因此没来。",
+        "Anh ấy bị bệnh, vì vậy không đến.",
+        "Tā shēngbìng le, yīncǐ méi lái."
+      ],
+      "尤其": [
+        "我喜欢运动，尤其跑步。",
+        "Tôi thích thể thao, đặc biệt là chạy bộ.",
+        "Wǒ xǐhuān yùndòng, yóuqí pǎobù."
+      ],
+      "有效": [
+        "这个方法很有效。",
+        "Phương pháp này rất hiệu quả.",
+        "Zhège fāngfǎ hěn yǒuxiào."
+      ],
+      "原因": [
+        "这是什么原因？",
+        "Đây là nguyên nhân gì?",
+        "Zhè shì shénme yuányīn?"
+      ],
+      "约会": [
+        "我有约会。",
+        "Tôi có hẹn hò.",
+        "Wǒ yǒu yuēhuì."
+      ],
+      "阅读": [
+        "我喜欢阅读。",
+        "Tôi thích đọc sách.",
+        "Wǒ xǐhuān yuèdú."
+      ],
+      "着": [
+        "衣服着火了。",
+        "Quần áo cháy rồi.",
+        "Yīfu zháohuǒ le."
+      ],
+      "整理": [
+        "请整理房间。",
+        "Xin dọn dẹp phòng.",
+        "Qǐng zhěnglǐ fángjiān."
+      ],
+      "正式": [
+        "这是正式邀请。",
+        "Đây là lời mời chính thức.",
+        "Zhè shì zhèngshì yāoqǐng."
+      ],
+      "植物": [
+        "保护植物。",
+        "Bảo vệ thực vật.",
+        "Bǎohù zhíwù."
+      ],
+      "种": [
+        "我种了一棵树。",
+        "Tôi trồng một cây.",
+        "Wǒ zhòng le yī kē shù."
+      ],
+      "祝": [
+        "祝你生日快乐。",
+        "Chúc bạn sinh nhật vui vẻ.",
+        "Zhù nǐ shēngrì kuàilè."
+      ],
+      "装": [
+        "请装好行李。",
+        "Xin đóng gói hành lý.",
+        "Qǐng zhuāng hǎo xíngli."
+      ],
+      "资料": [
+        "准备好资料。",
+        "Chuẩn bị tài liệu xong.",
+        "Zhǔnbèi hǎo zīliào."
+      ],
+      "总结": [
+        "请总结一下。",
+        "Xin tóm tắt một chút.",
+        "Qǐng zǒngjié yīxià."
+      ],
+      "座": [
+        "请找个座。",
+        "Xin tìm chỗ ngồi.",
+        "Qǐng zhǎo gè zuò."
+      ],
+      "作者": [
+        "这本书的作者是谁？",
+        "Tác giả của cuốn sách này là ai?",
+        "Zhè běn shū de zuòzhě shì shéi?"
+      ]
+    }
+  }
+]
