@@ -1,560 +1,30 @@
 [
   {
     "id": "hsk3-topic-07-lesson-01",
-    "title": "Xã hội và môi trường · Bài 1",
+    "title": "Mở rộng và vận dụng · Bài 1",
     "titleCn": "HSK 3 · 7-1",
-    "context": "15 từ vựng cùng nhóm nghĩa",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "保存",
-      "报道",
-      "背",
-      "被子",
-      "变化",
-      "不论",
-      "不得不",
-      "长期",
-      "场所",
-      "朝",
-      "持续",
-      "初步",
-      "村",
-      "导演",
-      "底下"
-    ],
-    "examples": {
-      "保存": [
-        "请保存这个文件。",
-        "Hãy lưu giữ tài liệu này.",
-        "Qǐng bǎocún zhège wénjiàn"
-      ],
-      "报道": [
-        "新闻报道了这件事。",
-        "Tin tức đã đưa tin về việc này.",
-        "Xīnwén bàodào le zhè jiàn shì"
-      ],
-      "背": [
-        "我的背有点疼。",
-        "Lưng của tôi đang hơi đau.",
-        "Wǒ de bèi yǒudiǎn téng"
-      ],
-      "被子": [
-        "晚上天气冷，你们要盖被子。",
-        "Ban đêm trời lạnh, các bạn phải nhớ đắp chăn.",
-        "Wǎnshàng tiānqì lěng, nǐmen yào gài bèizi"
-      ],
-      "变化": [
-        "天气有点变化。",
-        "Thời tiết có chút thay đổi.",
-        "Tiānqì yǒudiǎn biànhuà"
-      ],
-      "不论": [
-        "不论天气怎样，我们都去。",
-        "Bất kể thời tiết ra sao, chúng ta đều đi.",
-        "Búlùn tiānqì zěnyàng, wǒmen dōu qù"
-      ],
-      "不得不": [
-        "因为下雨了，我不得不在家。",
-        "Bởi vì trời mưa rồi, tôi đành phải ở nhà.",
-        "Yīnwèi xià yǔ le, wǒ bùdé bù zàijiā"
-      ],
-      "长期": [
-        "她长期生活在法国。",
-        "Cô ấy đã sống ở Pháp một thời gian dài.",
-        "Tā chángqī shēnghuó zài fàguó"
-      ],
-      "场所": [
-        "图书馆是安静的场所。",
-        "Thư viện là nơi yên tĩnh.",
-        "Túshūguǎn shì ānjìng de chǎngsuǒ"
-      ],
-      "朝": [
-        "花朝着太阳开。",
-        "Hoa nở hướng về phía mặt trời.",
-        "Huā cháo zhe tàiyáng kāi"
-      ],
-      "持续": [
-        "下雨已经持续了三天了。",
-        "Mưa đã kéo dài suốt ba ngày rồi.",
-        "Xià yǔ yǐjīng chíxù le sān tiān le"
-      ],
-      "初步": [
-        "我们已经有了初步的计划。",
-        "Chúng tôi đã có kế hoạch sơ bộ rồi.",
-        "Wǒmen yǐjīng yǒu le chūbù de jìhuà"
-      ],
-      "村": [
-        "我奶奶住在一个安静的村里。",
-        "Bà tôi sống ở một ngôi làng yên tĩnh.",
-        "Wǒ nǎinai zhù zài yí gè ānjìng de cūn lǐ"
-      ],
-      "导演": [
-        "这部电影的导演很有名。",
-        "Đạo diễn của bộ phim này rất nổi tiếng.",
-        "Zhè bù diànyǐng de dǎoyǎn hěn yǒumíng"
-      ],
-      "底下": [
-        "桌子底下有一个笔。",
-        "Dưới bàn có một cây bút.",
-        "Zhuōzi dǐxia yǒu yīgè bǐ"
-      ]
-    }
-  },
-  {
-    "id": "hsk3-topic-07-lesson-02",
-    "title": "Xã hội và môi trường · Bài 2",
-    "titleCn": "HSK 3 · 7-2",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "读者",
-      "短裤",
-      "短期",
-      "防止",
-      "房屋",
-      "放到",
-      "飞行",
-      "丰富",
-      "服装",
-      "改造",
-      "歌手",
-      "各种",
-      "共同",
-      "姑娘",
-      "观察"
-    ],
-    "examples": {
-      "读者": [
-        "她是这本书的忠实读者。",
-        "Cô ấy là độc giả trung thành của cuốn sách này.",
-        "Tā shì zhè běn shū de zhōngshí dúzhě"
-      ],
-      "短裤": [
-        "夏天我常穿短裤。",
-        "Vào mùa hè tôi thường mặc quần short.",
-        "Xiàtiān wǒ cháng chuān duǎnkù"
-      ],
-      "短期": [
-        "这是一个短期目标。",
-        "Đây là mục tiêu ngắn hạn.",
-        "Zhè shì yīgè duǎnqī mùbiāo"
-      ],
-      "防止": [
-        "多洗手可以防止感冒。",
-        "Rửa tay nhiều có thể phòng tránh cảm cúm.",
-        "Duō xǐshǒu kěyǐ fángzhǐ gǎnmào"
-      ],
-      "房屋": [
-        "这座房屋很漂亮。",
-        "Ngôi nhà này rất đẹp.",
-        "Zhè zuò fángwū hěn piàoliang"
-      ],
-      "放到": [
-        "请把书放到桌子上。",
-        "Hãy đặt cuốn sách lên bàn.",
-        "Qǐng bǎ shū fàngdào zhuōzi shàng"
-      ],
-      "飞行": [
-        "鸟儿在空中自由地飞行。",
-        "Chim đang tự do bay lượn trên bầu trời.",
-        "Niǎor zài kōngzhōng zìyóu de fēixíng"
-      ],
-      "丰富": [
-        "她的生活非常丰富。",
-        "Cuộc sống của cô ấy rất phong phú.",
-        "Tā de shēnghuó fēicháng fēngfù"
-      ],
-      "服装": [
-        "她的服装很漂亮。",
-        "Bộ trang phục của cô ấy rất đẹp.",
-        "Tā de fúzhuāng hěn piàoliang"
-      ],
-      "改造": [
-        "他们在改造这座老房子。",
-        "Họ đang sửa sang ngôi nhà cũ này.",
-        "Tāmen zài gǎizào zhè zuò lǎo fángzi"
-      ],
-      "歌手": [
-        "这个歌手唱得很好。",
-        "Ca sĩ này hát rất hay.",
-        "Zhège gēshǒu chàng de hěn hǎo"
-      ],
-      "各种": [
-        "超市里有各种水果。",
-        "Siêu thị có nhiều loại trái cây.",
-        "Chāoshì lǐ yǒu gèzhǒng shuǐguǒ"
-      ],
-      "共同": [
-        "我们有一个共同的目标。",
-        "Chúng tôi có cùng một mục tiêu.",
-        "Wǒmen yǒu yí ge gòngtóng de mùbiāo"
-      ],
-      "姑娘": [
-        "那个姑娘很漂亮。",
-        "Cô gái kia rất xinh đẹp.",
-        "Nàge gūniang hěn piàoliang"
-      ],
-      "观察": [
-        "他正在观察天气的变化。",
-        "Anh ấy đang quan sát sự thay đổi của thời tiết.",
-        "Tā zhèngzài guānchá tiānqì de biànhuà"
-      ]
-    }
-  },
-  {
-    "id": "hsk3-topic-07-lesson-03",
-    "title": "Xã hội và môi trường · Bài 3",
-    "titleCn": "HSK 3 · 7-3",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "过程",
-      "行",
-      "互相",
-      "话题",
-      "机器",
-      "坚强",
-      "简直",
-      "建成",
-      "将来",
-      "教练",
-      "结合",
-      "金",
-      "经济",
-      "景色",
-      "静"
-    ],
-    "examples": {
-      "过程": [
-        "成功需要努力的过程。",
-        "Thành công cần quá trình nỗ lực.",
-        "Chénggōng xūyào nǔlì de guòchéng"
-      ],
-      "行": [
-        "我们都是医生，是同行。",
-        "Chúng tôi đều cùng nghề làm bác sĩ.",
-        "Wǒmen dōu shì yīshēng, shì tóngxíng"
-      ],
-      "互相": [
-        "他们互相帮助。",
-        "Họ giúp đỡ lẫn nhau.",
-        "Tāmen hùxiāng bāngzhù."
-      ],
-      "话题": [
-        "这个话题很有意思。",
-        "Chủ đề này rất thú vị.",
-        "Zhège huàtí hěn yǒuyìsi"
-      ],
-      "机器": [
-        "工厂里有很多新机器。",
-        "Trong nhà máy có rất nhiều máy móc mới.",
-        "Gōngchǎng lǐ yǒu hěn duō xīn jīqì"
-      ],
-      "坚强": [
-        "她是个坚强的女孩。",
-        "Cô ấy rất kiên quyết không đồng ý với ý kiến này.",
-        "Tā shì gè jiānqiáng de nǚhái"
-      ],
-      "简直": [
-        "这事简直太难了。",
-        "Việc này thật là quá khó.",
-        "Zhè shì jiǎnzhí tài nán le"
-      ],
-      "建成": [
-        "新大楼已经建成了。",
-        "Tòa nhà mới đã xây xong.",
-        "Xīn dàlóu yǐjīng jiànchéng le"
-      ],
-      "将来": [
-        "将来我要当医生。",
-        "Tương lai tôi muốn làm bác sĩ.",
-        "Jiānglái wǒ yào dāng yīshēng"
-      ],
-      "教练": [
-        "我的教练很严格。",
-        "Huấn luyện viên của tôi rất nghiêm khắc.",
-        "Wǒ de jiàoliàn hěn yángé"
-      ],
-      "结合": [
-        "请把理论和实践结合起来。",
-        "Hãy kết hợp lý thuyết và thực hành.",
-        "Qǐng bǎ lǐlùn hé shíjiàn jiéhé qǐlái"
-      ],
-      "金": [
-        "这个戒指是金的。",
-        "Chiếc nhẫn này làm bằng vàng.",
-        "Zhè ge jièzhǐ shì jīn de"
-      ],
-      "经济": [
-        "这个城市的经济发展得很好。",
-        "Kinh tế của thành phố này phát triển rất tốt.",
-        "Zhè ge chéngshì de jīngjì fāzhǎn de hěn hǎo"
-      ],
-      "景色": [
-        "山上的景色非常美。",
-        "Cảnh trên núi rất đẹp.",
-        "Shān shàng de jǐngsè fēicháng měi"
-      ],
-      "静": [
-        "图书馆里很静。",
-        "Trong thư viện rất yên tĩnh.",
-        "Túshūguǎn lǐ hěn jìng"
-      ]
-    }
-  },
-  {
-    "id": "hsk3-topic-07-lesson-04",
-    "title": "Xã hội và môi trường · Bài 4",
-    "titleCn": "HSK 3 · 7-4",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "旧",
-      "看上去",
-      "老板",
-      "老头儿",
-      "乐观",
-      "理论",
-      "力量",
-      "联合国",
-      "了",
-      "录音",
-      "毛",
-      "毛病",
-      "媒体",
-      "木头",
-      "目前"
-    ],
-    "examples": {
-      "旧": [
-        "我的电脑很旧了。",
-        "Máy tính của tôi cũ rồi.",
-        "Wǒ de diànnǎo hěn jiù le"
-      ],
-      "看上去": [
-        "她看上去比我大一岁。",
-        "Cô ấy trông có vẻ lớn hơn tôi một tuổi.",
-        "Tā kàn shàngqù bǐ wǒ dà yí suì"
-      ],
-      "老板": [
-        "我的老板很亲切。",
-        "Sếp của tôi rất thân thiện.",
-        "Wǒ de lǎobǎn hěn qīnqiè"
-      ],
-      "老头儿": [
-        "公园里有很多老头儿在下棋。",
-        "Trong công viên có nhiều ông lão đang chơi cờ.",
-        "Gōngyuán lǐ yǒu hěn duō lǎotóur zài xiàqí"
-      ],
-      "乐观": [
-        "她性格很乐观。",
-        "Cô ấy có tính cách rất lạc quan.",
-        "Tā xìnggé hěn lèguān"
-      ],
-      "理论": [
-        "这个理论很重要。",
-        "Lý luận này rất quan trọng.",
-        "Zhè gè lǐlùn hěn zhòng yào"
-      ],
-      "力量": [
-        "团结就是力量。",
-        "Đoàn kết chính là sức mạnh.",
-        "Tuánjié jiù shì lìliàng"
-      ],
-      "联合国": [
-        "联合国有很多成员国。",
-        "Liên Hợp Quốc có rất nhiều quốc gia thành viên.",
-        "Liánhéguó yǒu hěn duō chéngyuánguó"
-      ],
-      "了": [
-        "这件事我忘不了。",
-        "Tôi hiểu rồi.",
-        "Zhè jiàn shì wǒ wàng bù liǎo"
-      ],
-      "录音": [
-        "我录音了全部会议内容。",
-        "Tôi đã ghi âm toàn bộ nội dung cuộc họp.",
-        "Wǒ lùyīn le quánbù huìyì nèiróng"
-      ],
-      "毛": [
-        "猫的毛很软。",
-        "Lông của mèo rất mềm.",
-        "Māo de máo hěn ruǎn"
-      ],
-      "毛病": [
-        "这台电脑有毛病。",
-        "Cái máy tính này có vấn đề.",
-        "Zhè tái diànnǎo yǒu máobìng"
-      ],
-      "媒体": [
-        "媒体报道了这个新闻。",
-        "Truyền thông đã đưa tin về việc này.",
-        "Méitǐ bàodào le zhè gè xīnwén"
-      ],
-      "木头": [
-        "这张桌子是木头做的。",
-        "Cái bàn này được làm bằng gỗ.",
-        "Zhè zhāng zhuōzi shì mùtou zuò de"
-      ],
-      "目前": [
-        "目前我们还没有决定。",
-        "Hiện tại chúng tôi vẫn chưa quyết định.",
-        "Mùqián wǒmen hái méiyǒu juédìng"
-      ]
-    }
-  },
-  {
-    "id": "hsk3-topic-07-lesson-05",
-    "title": "Xã hội và môi trường · Bài 5",
-    "titleCn": "HSK 3 · 7-5",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "内容",
-      "年代",
-      "年纪",
-      "暖和",
-      "批准",
-      "苹果",
-      "普遍",
-      "其次",
-      "强烈",
-      "取消",
-      "热爱",
-      "认可",
-      "仍",
-      "商品",
-      "设计"
-    ],
-    "examples": {
-      "内容": [
-        "这本书的内容非常精彩。",
-        "Nội dung của cuốn sách này rất đặc sắc.",
-        "Zhè běn shū de nèiróng fēicháng jīngcǎi"
-      ],
-      "年代": [
-        "这是八十年代的老歌。",
-        "Đây là bài hát cũ từ thập niên 80.",
-        "Zhè shì bāshí niándài de lǎo gē"
-      ],
-      "年纪": [
-        "奶奶年纪大了，需要多休息。",
-        "Bà đã lớn tuổi rồi, cần nghỉ ngơi nhiều hơn.",
-        "Nǎinai niánjì dà le, xūyào duō xiūxi"
-      ],
-      "暖和": [
-        "今天天气很暖和。",
-        "Thời tiết hôm nay thật ấm áp.",
-        "Jīntiān tiānqì hěn nuǎnhuo"
-      ],
-      "批准": [
-        "这个计划已经被批准了。",
-        "Kế hoạch này đã được phê duyệt.",
-        "Zhège jìhuà yǐjīng bèi pīzhǔn le"
-      ],
-      "苹果": [
-        "这些个苹果很甜。",
-        "những quả táo này rất ngọt",
-        "Zhèxiē ge píngguǒ hěn tián"
-      ],
-      "普遍": [
-        "这种错误很普遍。",
-        "những lỗi này cũng rất thường gặp",
-        "Zhè zhǒng cuòwù hěn pǔbiàn"
-      ],
-      "其次": [
-        "首先，我想学习汉语，其次，我想了解中国文化。",
-        "đầu tiên, tôi muốn học tiếng Trung; thứ hai, tôi muốn tìm hiểu văn hóa Trung Quốc",
-        "Shǒuxiān, wǒ xiǎng xuéxí Hànyǔ, qícì, wǒ xiǎng liǎojiě Zhōngguó wénhuà"
-      ],
-      "强烈": [
-        "我对音乐有强烈的兴趣。",
-        "Tôi có hứng thú mạnh mẽ với âm nhạc",
-        "Wǒ duì yīnyuè yǒu qiángliè de xìngqù"
-      ],
-      "取消": [
-        "因为下雨，比赛被取消了",
-        "Vì trời mưa, trận đấu đã bị hủy",
-        "Yīnwèi xiàyǔ, bǐsài bèi qǔxiāo le"
-      ],
-      "热爱": [
-        "她从小就热爱音乐",
-        "Cô ấy từ nhỏ đã say mê âm nhạc",
-        "Tā cóng xiǎo jiù rè’ài yīnyuè"
-      ],
-      "认可": [
-        "她的发言得到了认可",
-        "Phát biểu của cô ấy đã được công nhận",
-        "Tā de fāyán dédào le rènkě"
-      ],
-      "仍": [
-        "虽然下雨，他仍去上班",
-        "Dù trời mưa, anh ấy vẫn đi làm",
-        "Suīrán xiàyǔ, tā réng qù shàngbān"
-      ],
-      "商品": [
-        "超市里有各种各样的商品",
-        "Trong siêu thị có đủ loại hàng hóa",
-        "Chāoshì lǐ yǒu gè zhǒng gè yàng de shāngpǐn"
-      ],
-      "设计": [
-        "这个产品的设计很漂亮",
-        "Thiết kế của sản phẩm này rất đẹp",
-        "Zhège chǎnpǐn de shèjì hěn piàoliang"
-      ]
-    }
-  },
-  {
-    "id": "hsk3-topic-07-lesson-06",
-    "title": "Xã hội và môi trường · Bài 6",
-    "titleCn": "HSK 3 · 7-6",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "社会",
-      "胜利",
-      "实力",
       "实行",
       "事故",
       "试验",
       "首都",
-      "输",
-      "束",
       "谈判",
-      "提前",
       "题目",
       "天空",
-      "停止",
-      "突然"
+      "推动",
+      "温暖",
+      "西部",
+      "显然",
+      "现象",
+      "消息",
+      "修改",
+      "阳光"
     ],
     "examples": {
-      "社会": [
-        "社会的发展很快",
-        "xã hội phát triển rất nhanh",
-        "Shèhuì de fāzhǎn hěn kuài"
-      ],
-      "胜利": [
-        "我们队取得了胜利。",
-        "Đội chúng tôi đã giành được chiến thắng.",
-        "Wǒmen duì qǔdé le shènglì"
-      ],
-      "实力": [
-        "这个队的实力很强。",
-        "Thực lực của đội này rất mạnh.",
-        "Zhè ge duì de shílì hěn qiáng"
-      ],
       "实行": [
         "这个计划很难实行。",
         "Kế hoạch này rất khó thực hiện.",
@@ -575,25 +45,10 @@
         "Hà Nội là thủ đô của Việt Nam.",
         "Hénèi shì Yuènán de shǒudū"
       ],
-      "输": [
-        "他们在比赛中输了。",
-        "Họ đã thua trong trận đấu.",
-        "Tāmen zài bǐsài zhōng shū le"
-      ],
-      "束": [
-        "她手里拿着一束玫瑰。",
-        "Cô ấy cầm một bó hoa hồng trong tay.",
-        "Tā shǒu lǐ názhe yī shù méiguī"
-      ],
       "谈判": [
         "双方正在进行谈判。",
         "Hai bên đang tiến hành đàm phán.",
         "Shuāngfāng zhèngzài jìnxíng tánpàn"
-      ],
-      "提前": [
-        "我们提前完成了任务。",
-        "Chúng tôi đã hoàn thành sớm nhiệm vụ.",
-        "Wǒmen tíqián wánchéng le rènwu"
       ],
       "题目": [
         "这道题目的答案不难。",
@@ -605,68 +60,15 @@
         "Trên bầu trời có rất nhiều ngôi sao.",
         "Tiānkōng zhōng yǒu hěn duō xīngxing"
       ],
-      "停止": [
-        "雨终于停止了。",
-        "Mưa cuối cùng đã ngừng rơi.",
-        "Yǔ zhōngyú tíngzhǐ le"
-      ],
-      "突然": [
-        "天气突然变冷了。",
-        "Thời tiết đột nhiên trở lạnh rồi.",
-        "Tiānqì tūrán biàn lěng le"
-      ]
-    }
-  },
-  {
-    "id": "hsk3-topic-07-lesson-07",
-    "title": "Xã hội và môi trường · Bài 7",
-    "titleCn": "HSK 3 · 7-7",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "推动",
-      "完善",
-      "卫生间",
-      "温暖",
-      "文化",
-      "西部",
-      "显然",
-      "现实",
-      "现象",
-      "消息",
-      "形式",
-      "修改",
-      "压",
-      "羊",
-      "阳光"
-    ],
-    "examples": {
       "推动": [
         "政府正在推动经济发展。",
         "Chính phủ đang thúc đẩy phát triển kinh tế.",
         "Zhèngfǔ zhèngzài tuīdòng jīngjì fāzhǎn"
       ],
-      "完善": [
-        "这个计划必须得完善。",
-        "Kế hoạch này nhất định phải được làm cho hoàn chỉnh.",
-        "Zhège jìhuà bìxū děi wánshàn"
-      ],
-      "卫生间": [
-        "卫生间在哪里？",
-        "Nhà vệ sinh ở đâu?",
-        "Wèishēngjiān zài nǎlǐ"
-      ],
       "温暖": [
         "春天来了，天气越来越温暖。",
         "Mùa xuân đến rồi, thời tiết ngày càng ấm áp.",
         "Chūntiān láile, tiānqì yuè lái yuè wēnnuǎn"
-      ],
-      "文化": [
-        "我们应该学习不同的文化。",
-        "Chúng ta nên học hỏi những nền văn hóa khác nhau.",
-        "Wǒmen yīnggāi xuéxí bùtóng de wénhuà"
       ],
       "西部": [
         "中国西部有很多山。",
@@ -678,11 +80,6 @@
         "Kết quả này là hiển nhiên.",
         "Zhège jiéguǒ shì xiǎnrán de"
       ],
-      "现实": [
-        "我们必须面对现实。",
-        "Chúng ta phải đối mặt với hiện thực.",
-        "Wǒmen bìxū miànduì xiànshí"
-      ],
       "现象": [
         "这是一种常见的自然现象。",
         "Đây là một hiện tượng tự nhiên thường thấy.",
@@ -693,25 +90,10 @@
         "Tôi đã nhận được một tin tức tốt.",
         "Wǒ shōudàole yīgè hǎo xiāoxī"
       ],
-      "形式": [
-        "这种比赛的形式很有趣。",
-        "Hình thức cuộc thi này rất thú vị.",
-        "Zhè zhǒng bǐsài de xíngshì hěn yǒuqù"
-      ],
       "修改": [
         "这份文件还需要修改。",
         "Tài liệu này vẫn cần phải chỉnh sửa.",
         "Zhè fèn wénjiàn hái xūyào xiūgǎi"
-      ],
-      "压": [
-        "不要在纸上压重物。",
-        "Đừng đè vật nặng lên giấy.",
-        "Bú yào zài zhǐ shang yā zhòngwù"
-      ],
-      "羊": [
-        "草原上有很多羊。",
-        "Trên thảo nguyên có rất nhiều dê.",
-        "Cǎoyuán shàng yǒu hěn duō yáng"
       ],
       "阳光": [
         "早晨的阳光照在窗户上。",
@@ -721,10 +103,10 @@
     }
   },
   {
-    "id": "hsk3-topic-07-lesson-08",
-    "title": "Xã hội và môi trường · Bài 8",
-    "titleCn": "HSK 3 · 7-8",
-    "context": "15 từ vựng cùng nhóm nghĩa",
+    "id": "hsk3-topic-07-lesson-02",
+    "title": "Mở rộng và vận dụng · Bài 2",
+    "titleCn": "HSK 3 · 7-2",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
@@ -732,18 +114,18 @@
       "银牌",
       "营养",
       "由于",
-      "预防",
       "早已",
       "造成",
-      "照",
-      "正(形)",
       "证据",
-      "只是",
       "制定",
-      "中华民族",
-      "重大",
       "专题",
-      "状态"
+      "状态",
+      "自然",
+      "作者",
+      "公务员",
+      "老太太",
+      "电视台",
+      "进一步"
     ],
     "examples": {
       "银牌": [
@@ -761,11 +143,6 @@
         "Do trời mưa, trận đấu đã bị hủy bỏ.",
         "Yóuyú xià yǔ, bǐsài bèi qǔxiāo le"
       ],
-      "预防": [
-        "我们要预防感冒。",
-        "Chúng ta cần phòng ngừa cảm cúm.",
-        "Wǒmen yào yùfáng gǎnmào"
-      ],
       "早已": [
         "我早已把这件事忘了。",
         "Tôi đã quên chuyện này từ lâu rồi.",
@@ -776,40 +153,15 @@
         "Vụ tai nạn đã gây ra tắc nghẽn giao thông.",
         "Shìgù zàochéngle jiāotōng dǔsè"
       ],
-      "照": [
-        "阳光照在草地上。",
-        "Ánh nắng chiếu trên bãi cỏ.",
-        "Yángguāng zhào zài cǎodì shang"
-      ],
-      "正(形)": [
-        "请站在照片正中间。",
-        "Xin hãy đứng chính giữa bức ảnh.",
-        "Qǐng zhàn zài zhàopiàn zhèng zhōngjiān"
-      ],
       "证据": [
         "警方正在寻找犯罪证据。",
         "Cảnh sát đang tìm kiếm bằng chứng phạm tội.",
         "Jǐngfāng zhèngzài xúnzhǎo fànzuì zhèngjù"
       ],
-      "只是": [
-        "我只是说说而已。",
-        "Tôi chỉ là nói chơi thôi.",
-        "Wǒ zhǐshì shuōshuō éryǐ"
-      ],
       "制定": [
         "我们需要制定一个新计划。",
         "Chúng ta cần xây dựng một kế hoạch mới.",
         "Wǒmen xūyào zhìdìng yīgè xīn jìhuà"
-      ],
-      "中华民族": [
-        "中华民族历史悠久。",
-        "Dân tộc Trung Hoa có lịch sử lâu đời.",
-        "Zhōnghuá mínzú lìshǐ yōujiǔ"
-      ],
-      "重大": [
-        "这是一个重大的决定。",
-        "Đây là một quyết định quan trọng/trọng đại.",
-        "Zhè shì yīgè zhòngdà de juédìng"
       ],
       "专题": [
         "这次会议讨论了一个重要的专题。",
@@ -820,37 +172,685 @@
         "她最近的精神状态不太好。",
         "Tình trạng tinh thần của cô ấy gần đây không được tốt lắm.",
         "Tā zuìjìn de jīngshén zhuàngtài bú tài hǎo"
-      ]
-    }
-  },
-  {
-    "id": "hsk3-topic-07-lesson-09",
-    "title": "Xã hội và môi trường · Bài 9",
-    "titleCn": "HSK 3 · 7-9",
-    "context": "3 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "自然",
-      "自主",
-      "作者"
-    ],
-    "examples": {
+      ],
       "自然": [
         "大自然的美丽。",
         "Vẻ đẹp của thiên nhiên.",
         "Dà zìrán de měilì"
+      ],
+      "作者": [
+        "这本书的作者是鲁迅。",
+        "Tác giả của cuốn sách này là Lỗ Tấn.",
+        "Zhè běn shū de zuòzhě shì Lǔ Xùn"
+      ],
+      "公务员": [
+        "我的姐姐是公务员。",
+        "Chị tôi là công chức.",
+        "Wǒ de jiějie shì gōngwùyuán"
+      ],
+      "老太太": [
+        "那位老太太住在我家附近。",
+        "Bà cụ đó sống gần nhà tôi.",
+        "Nà wèi lǎotàitai zhù zài wǒ jiā fùjìn."
+      ],
+      "电视台": [
+        "我爸爸在电视台工作。",
+        "Ba tôi làm việc ở đài truyền hình.",
+        "Wǒ bàba zài diànshìtái gōngzuò"
+      ],
+      "进一步": [
+        "我想进一步了解这个公司。",
+        "Tôi muốn tìm hiểu thêm về công ty này.",
+        "Wǒ xiǎng jìnyíbù liǎojiě zhè ge gōngsī"
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-07-lesson-03",
+    "title": "Mở rộng và vận dụng · Bài 3",
+    "titleCn": "HSK 3 · 7-3",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "旅行社",
+      "大使馆",
+      "工程师",
+      "互联网",
+      "…极了",
+      "演唱会",
+      "有的是",
+      "电视剧",
+      "连续剧",
+      "世界杯",
+      "志愿者",
+      "代表团",
+      "老百姓",
+      "不得不",
+      "老头儿"
+    ],
+    "examples": {
+      "旅行社": [
+        "她在旅行社工作。",
+        "Cô ấy làm việc ở công ty du lịch.",
+        "Tā zài lǚxíngshè gōngzuò"
+      ],
+      "大使馆": [
+        "我明天要去中国大使馆。",
+        "Ngày mai tôi phải đến đại sứ quán Trung Quốc.",
+        "Wǒ míngtiān yào qù Zhōngguó dàshǐguǎn"
+      ],
+      "工程师": [
+        "我的爸爸是工程师。",
+        "Bố tôi là kỹ sư.",
+        "Wǒ de bàba shì gōngchéngshī"
+      ],
+      "互联网": [
+        "现在我们离不开互联网。",
+        "Giờ đây chúng ta không thể thiếu Internet.",
+        "Xiànzài wǒmen lí bù kāi hùliánwǎng"
+      ],
+      "…极了": [
+        "今天热极了。",
+        "Hôm nay nóng cực kỳ.",
+        "Jīntiān rè jí le"
+      ],
+      "演唱会": [
+        "昨晚的演唱会很精彩。",
+        "Buổi hòa nhạc tối qua rất đặc sắc.",
+        "Zuówǎn de yǎnchànghuì hěn jīngcǎi"
+      ],
+      "有的是": [
+        "别担心，时间有的是。",
+        "Đừng lo, có rất nhiều thời gian.",
+        "Bié dānxīn, shíjiān yǒu de shì"
+      ],
+      "电视剧": [
+        "她喜欢看韩国电视剧。",
+        "Cô ấy thích xem phim truyền hình Hàn Quốc.",
+        "Tā xǐhuān kàn Hánguó diànshìjù"
+      ],
+      "连续剧": [
+        "她喜欢看韩国连续剧。",
+        "Cô ấy thích xem phim Hàn Quốc dài tập.",
+        "Tā xǐhuan kàn Hánguó liánxùjù"
+      ],
+      "世界杯": [
+        "我很喜欢看世界杯的比赛。",
+        "Tôi rất thích xem các trận đấu của World Cup.",
+        "Wǒ hěn xǐhuān kàn shìjièbēi de bǐsài"
+      ],
+      "志愿者": [
+        "志愿者们正在帮助灾民。",
+        "Tình nguyện viên đang giúp đỡ nạn nhân thiên tai.",
+        "Zhìyuànzhě men zhèngzài bāngzhù zāimín"
+      ],
+      "代表团": [
+        "外国代表团来了。",
+        "Đoàn đại biểu nước ngoài đã đến.",
+        "Wàiguó dàibiǎotuán lái le"
+      ],
+      "老百姓": [
+        "政府关心老百姓的生活。",
+        "Chính phủ quan tâm đến đời sống người dân.",
+        "Zhèngfǔ guānxīn lǎobǎixìng de shēnghuó"
+      ],
+      "不得不": [
+        "因为下雨了，我不得不在家。",
+        "Bởi vì trời mưa rồi, tôi đành phải ở nhà.",
+        "Yīnwèi xià yǔ le, wǒ bùdé bù zàijiā"
+      ],
+      "老头儿": [
+        "公园里有很多老头儿在下棋。",
+        "Trong công viên có nhiều ông lão đang chơi cờ.",
+        "Gōngyuán lǐ yǒu hěn duō lǎotóur zài xiàqí"
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-07-lesson-04",
+    "title": "Mở rộng và vận dụng · Bài 4",
+    "titleCn": "HSK 3 · 7-4",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "联合国",
+      "另一方面",
+      "支(量)",
+      "中华民族",
+      "性(积极性）",
+      "管",
+      "演",
+      "准",
+      "值",
+      "被",
+      "配",
+      "成果",
+      "程度",
+      "大概",
+      "动力"
+    ],
+    "examples": {
+      "联合国": [
+        "联合国有很多成员国。",
+        "Liên Hợp Quốc có rất nhiều quốc gia thành viên.",
+        "Liánhéguó yǒu hěn duō chéngyuánguó"
+      ],
+      "另一方面": [
+        "她很聪明，另一方面也很努力。",
+        "Anh ấy thông minh, mặt khác cũng rất chăm chỉ.",
+        "Tā hěn cōngmíng, lìng yì fāngmiàn yě hěn nǔlì"
+      ],
+      "支(量)": [
+        "我买了一支钢笔。",
+        "Tôi đã mua một cây bút máy.",
+        "Wǒ mǎile yī zhī gāngbǐ"
+      ],
+      "中华民族": [
+        "中华民族历史悠久。",
+        "Dân tộc Trung Hoa có lịch sử lâu đời.",
+        "Zhōnghuá mínzú lìshǐ yōujiǔ"
+      ],
+      "性(积极性）": [
+        "学生们学习很有积极性。",
+        "Việc này mang tính nguy hiểm nhất định.",
+        "Zhè jiàn shì jùyǒu yīdìng de wēixiǎn xìng"
+      ],
+      "管": [
+        "妈妈总是管我很紧。",
+        "Mẹ lúc nào cũng quản tôi rất chặt.",
+        "Māma zǒngshì guǎn wǒ hěn jǐn"
+      ],
+      "演": [
+        "他在电影里演老师。",
+        "Anh ấy đóng vai thầy giáo trong phim.",
+        "Tā zài diànyǐng lǐ yǎn lǎoshī"
+      ],
+      "准": [
+        "他的射击很准。",
+        "Cú bắn của anh ấy rất chuẩn.",
+        "Tā de shèjī hěn zhǔn"
+      ],
+      "值": [
+        "这本书很值。",
+        "Quyển sách này rất đáng giá.",
+        "Zhè běn shū hěn zhí"
+      ],
+      "被": [
+        "花被风吹走了。",
+        "Hoa bị gió thổi bay đi mất rồi.",
+        "Huā bèi fēng chuī zǒu le"
+      ],
+      "配": [
+        "这件衣服和那条裤子很配。",
+        "Bộ áo này rất hợp với chiếc quần kia.",
+        "Zhè jiàn yīfu hé nà tiáo kùzi hěn pèi"
+      ],
+      "成果": [
+        "这是他努力的成果。",
+        "Đây là thành quả của sự nỗ lực của anh ấy.",
+        "Zhè shì tā nǔlì de chéngguǒ"
+      ],
+      "程度": [
+        "他的中文程度不错。",
+        "Trình độ tiếng Trung của anh ấy khá tốt.",
+        "Tā de zhōngwén chéngdù bùcuò"
+      ],
+      "大概": [
+        "他大概三十岁左右。",
+        "Anh ấy khoảng ba mươi tuổi.",
+        "Tā dàgài sānshí suì zuǒyòu"
+      ],
+      "动力": [
+        "家人是我最大的动力。",
+        "Gia đình là động lực lớn nhất của tôi.",
+        "Jiārén shì wǒ zuì dà de dònglì"
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-07-lesson-05",
+    "title": "Mở rộng và vận dụng · Bài 5",
+    "titleCn": "HSK 3 · 7-5",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "动人",
+      "队员",
+      "对方",
+      "发动",
+      "个人",
+      "管理",
+      "后果",
+      "会员",
+      "尽量",
+      "人工",
+      "体会",
+      "完整",
+      "指导",
+      "制造",
+      "自身"
+    ],
+    "examples": {
+      "动人": [
+        "这部电影很动人。",
+        "Bộ phim này rất cảm động.",
+        "Zhè bù diànyǐng hěn dòngrén"
+      ],
+      "队员": [
+        "他是篮球队的队员。",
+        "Anh ấy là thành viên của đội bóng rổ.",
+        "Tā shì lánqiú duì de duìyuán"
+      ],
+      "对方": [
+        "他不想伤害对方。",
+        "Anh ấy không muốn làm tổn thương đối phương.",
+        "Tā bù xiǎng shānghài duìfāng"
+      ],
+      "发动": [
+        "老师发动大家参加比赛。",
+        "Giáo viên kêu gọi mọi người tham gia cuộc thi.",
+        "Lǎoshī fādòng dàjiā cānjiā bǐsài"
+      ],
+      "个人": [
+        "这是我的个人意见。",
+        "Đây là ý kiến cá nhân của tôi.",
+        "Zhè shì wǒ de gèrén yìjiàn"
+      ],
+      "管理": [
+        "他负责管理这个活动。",
+        "Anh ấy phụ trách quản lý hoạt động này.",
+        "Tā fùzé guǎnlǐ zhège huódòng"
+      ],
+      "后果": [
+        "如果你不努力，后果会很严重。",
+        "Nếu bạn không cố gắng, hậu quả sẽ rất nghiêm trọng.",
+        "Rúguǒ nǐ bù nǔlì, hòuguǒ huì hěn yánzhòng"
+      ],
+      "会员": [
+        "他是图书馆的会员。",
+        "Anh ấy là hội viên của phòng gym.",
+        "Tā shì túshū guǎn de huìyuán"
+      ],
+      "尽量": [
+        "我会尽量帮你。",
+        "Tôi sẽ cố gắng hết sức giúp bạn.",
+        "Wǒ huì jǐnliàng bāng nǐ"
+      ],
+      "人工": [
+        "工厂里需要很多人工",
+        "Trong nhà máy cần nhiều lao động nhân công",
+        "Gōngchǎng lǐ xūyào hěn duō réngōng"
+      ],
+      "体会": [
+        "请分享你的体会。",
+        "Xin hãy chia sẻ sự cảm nhận của bạn.",
+        "Qǐng fēnxiǎng nǐ de tǐhuì"
+      ],
+      "完整": [
+        "这幅古画保存得很完整。",
+        "Bức tranh cổ này được bảo quản rất nguyên vẹn.",
+        "Zhè fú gǔhuà bǎocún de hěn wánzhěng"
+      ],
+      "指导": [
+        "他给我们提供了很好的指导。",
+        "Anh ấy đã cung cấp sự chỉ đạo rất tốt cho chúng tôi.",
+        "Tā gěi wǒmen tígōng le hěn hǎo de zhǐdǎo"
+      ],
+      "制造": [
+        "这家工厂制造汽车零件。",
+        "Nhà máy này chế tạo/sản xuất phụ tùng ô tô.",
+        "Zhè jiā gōngchǎng zhìzào qìchē língjiàn"
+      ],
+      "自身": [
+        "每个人都要保护自身安全。",
+        "Mỗi người đều phải bảo vệ an toàn cho chính mình.",
+        "Měi gèrén dōu yào bǎohù zìshēn ānquán"
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-07-lesson-06",
+    "title": "Mở rộng và vận dụng · Bài 6",
+    "titleCn": "HSK 3 · 7-6",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "总结",
+      "概念",
+      "合法",
+      "难度",
+      "人类",
+      "人员",
+      "推广",
+      "宣传",
+      "员工",
+      "职工",
+      "制度",
+      "主动",
+      "果然",
+      "纪念",
+      "结婚"
+    ],
+    "examples": {
+      "总结": [
+        "请你总结一下会议内容。",
+        "Xin bạn tổng kết lại nội dung cuộc họp.",
+        "Qǐng nǐ zǒngjié yīxià huìyì nèiróng"
+      ],
+      "概念": [
+        "老师解释了这个概念。",
+        "Giáo viên đã giải thích khái niệm này.",
+        "Lǎoshī jiěshì le zhège gàiniàn"
+      ],
+      "合法": [
+        "这家公司是合法的。",
+        "Công ty này là hợp pháp.",
+        "Zhè jiā gōngsī shì héfǎ de"
+      ],
+      "难度": [
+        "这项工作的难度很高。",
+        "Công việc này có độ khó rất cao.",
+        "Zhè xiàng gōngzuò de nándù hěn gāo"
+      ],
+      "人类": [
+        "这项研究对人类有很大帮助",
+        "Nghiên cứu này có ích lớn đối với nhân loại",
+        "Zhè xiàng yánjiū duì rénlèi yǒu hěn dà bāngzhù"
+      ],
+      "人员": [
+        "学校有很多老师和工作人员",
+        "Trường học có nhiều giáo viên và nhân viên",
+        "Xuéxiào yǒu hěn duō lǎoshī hé gōngzuò rényuán"
+      ],
+      "推广": [
+        "公司正在大力推广这款新产品。",
+        "Công ty đang ra sức quảng bá sản phẩm mới này.",
+        "Gōngsī zhèngzài dàlì tuīguǎng zhè kuǎn xīn chǎnpǐn"
+      ],
+      "宣传": [
+        "他们正在宣传新的环保政策。",
+        "Họ đang tuyên truyền chính sách bảo vệ môi trường mới.",
+        "Tāmen zhèngzài xuānchuán xīn de huánbǎo zhèngcè"
+      ],
+      "员工": [
+        "公司的员工都很努力。",
+        "Nhân viên của công ty đều rất chăm chỉ.",
+        "Gōngsī de yuángōng dōu hěn nǔlì"
+      ],
+      "职工": [
+        "公司的职工福利很好。",
+        "Phúc lợi nhân viên của công ty rất tốt.",
+        "Gōngsī de zhígōng fúlì hěn hǎo"
+      ],
+      "制度": [
+        "公司有严格的制度。",
+        "Công ty có chế độ/quy định nghiêm ngặt.",
+        "Gōngsī yǒu yángé de zhìdù"
+      ],
+      "主动": [
+        "她主动帮同学做作业。",
+        "Cô ấy chủ động giúp bạn cùng lớp làm bài tập.",
+        "Tā zhǔdòng bāng tóngxué zuò zuòyè"
+      ],
+      "果然": [
+        "早上一直阴云，果然现在下雨了。",
+        "Sáng giờ mây đen, quả nhiên là bây giờ mưa rồi.",
+        "Zǎoshang yīzhí yīnyún, guǒrán xiànzài xià yǔ le"
+      ],
+      "纪念": [
+        "今天是我爸妈结婚的纪念日。",
+        "Hôm nay là kỷ niệm ngày cưới của ba mẹ tôi.",
+        "Jīntiān shì wǒ bà mā jiéhūn de jìniàn rì"
+      ],
+      "结婚": [
+        "他们打算明年结婚。",
+        "Họ dự định kết hôn vào năm sau.",
+        "Tāmen dǎsuàn míngnián jiéhūn"
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-07-lesson-07",
+    "title": "Mở rộng và vận dụng · Bài 7",
+    "titleCn": "HSK 3 · 7-7",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "决赛",
+      "确实",
+      "事件",
+      "团结",
+      "效果",
+      "组合",
+      "建议",
+      "结束",
+      "选手",
+      "当地",
+      "果汁",
+      "价值",
+      "有效",
+      "京剧",
+      "就是"
+    ],
+    "examples": {
+      "决赛": [
+        "明天是足球比赛的决赛。",
+        "Ngày mai là trận chung kết bóng đá.",
+        "Míngtiān shì zúqiú bǐsài de juésài"
+      ],
+      "确实": [
+        "他最近确实很忙，没有时间休息",
+        "Gần đây anh ấy quả thật rất bận, không có thời gian nghỉ ngơi",
+        "Tā zuìjìn quèshí hěn máng, méiyǒu shíjiān xiūxi"
+      ],
+      "事件": [
+        "这是一件很重要的事件。",
+        "Đây là một sự kiện rất quan trọng.",
+        "Zhè shì yí jiàn hěn zhòngyào de shìjiàn"
+      ],
+      "团结": [
+        "我们要团结合作。",
+        "Chúng ta phải đoàn kết hợp tác.",
+        "Wǒmen yào tuánjié hézuò"
+      ],
+      "效果": [
+        "这种方法取得了很好的效果。",
+        "Phương pháp này đã đạt được hiệu quả rất tốt.",
+        "Zhè zhǒng fāngfǎ qǔdéle hěn hǎo de xiàoguǒ"
+      ],
+      "组合": [
+        "我们的组合很强。",
+        "Tổ hợp của chúng tôi rất mạnh.",
+        "Wǒmen de zǔhé hěn qiáng"
+      ],
+      "建议": [
+        "我有一个好建议。",
+        "Tôi có một đề xuất hay.",
+        "Wǒ yǒu yí gè hǎo jiànyì"
+      ],
+      "结束": [
+        "比赛已经结束了。",
+        "Trận đấu đã kết thúc rồi.",
+        "Bǐsài yǐjīng jiéshù le"
+      ],
+      "选手": [
+        "这位选手打破了世界纪录。",
+        "Tuyển thủ này đã phá kỷ lục thế giới.",
+        "Zhè wèi xuǎnshǒu dǎpò le shìjiè jìlù"
+      ],
+      "当地": [
+        "我们尝了很多当地美食。",
+        "Chúng tôi đã thử nhiều món ăn địa phương.",
+        "Wǒmen cháng le hěn duō dāngdì měishí"
+      ],
+      "果汁": [
+        "我想喝果汁。",
+        "Tôi muốn uống nước ép.",
+        "Wǒ xiǎng hē guǒzhī."
+      ],
+      "价值": [
+        "这本书很有价值。",
+        "Cuốn sách này rất có giá trị.",
+        "Zhè běn shū hěn yǒu jiàzhí"
+      ],
+      "有效": [
+        "这张优惠券三天内有效。",
+        "Phiếu giảm giá này có hiệu lực trong vòng ba ngày.",
+        "Zhè zhāng yōuhuìquàn sān tiān nèi yǒuxiào"
+      ],
+      "京剧": [
+        "我看过一次京剧，觉得很有意思。",
+        "Tôi từng xem Kinh kịch một lần, thấy rất thú vị.",
+        "Wǒ kàn guò yí cì jīngjù, juéde hěn yǒuyìsi"
+      ],
+      "就是": [
+        "这就是我想要的。",
+        "Đây chính là điều tôi muốn.",
+        "Zhè jiùshì wǒ xiǎng yào de"
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-07-lesson-08",
+    "title": "Mở rộng và vận dụng · Bài 8",
+    "titleCn": "HSK 3 · 7-8",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "速度",
+      "读者",
+      "简直",
+      "结合",
+      "经济",
+      "媒体",
+      "商品",
+      "社会",
+      "突然",
+      "现实",
+      "自主",
+      "人民币",
+      "事实上",
+      "一方面",
+      "实际上"
+    ],
+    "examples": {
+      "速度": [
+        "火车的速度很快。",
+        "Tốc độ của tàu hỏa rất nhanh.",
+        "Huǒchē de sùdù hěn kuài"
+      ],
+      "读者": [
+        "她是这本书的忠实读者。",
+        "Cô ấy là độc giả trung thành của cuốn sách này.",
+        "Tā shì zhè běn shū de zhōngshí dúzhě"
+      ],
+      "简直": [
+        "这事简直太难了。",
+        "Việc này thật là quá khó.",
+        "Zhè shì jiǎnzhí tài nán le"
+      ],
+      "结合": [
+        "请把理论和实践结合起来。",
+        "Hãy kết hợp lý thuyết và thực hành.",
+        "Qǐng bǎ lǐlùn hé shíjiàn jiéhé qǐlái"
+      ],
+      "经济": [
+        "这个城市的经济发展得很好。",
+        "Kinh tế của thành phố này phát triển rất tốt.",
+        "Zhè ge chéngshì de jīngjì fāzhǎn de hěn hǎo"
+      ],
+      "媒体": [
+        "媒体报道了这个新闻。",
+        "Truyền thông đã đưa tin về việc này.",
+        "Méitǐ bàodào le zhè gè xīnwén"
+      ],
+      "商品": [
+        "超市里有各种各样的商品",
+        "Trong siêu thị có đủ loại hàng hóa",
+        "Chāoshì lǐ yǒu gè zhǒng gè yàng de shāngpǐn"
+      ],
+      "社会": [
+        "社会的发展很快",
+        "xã hội phát triển rất nhanh",
+        "Shèhuì de fāzhǎn hěn kuài"
+      ],
+      "突然": [
+        "天气突然变冷了。",
+        "Thời tiết đột nhiên trở lạnh rồi.",
+        "Tiānqì tūrán biàn lěng le"
+      ],
+      "现实": [
+        "我们必须面对现实。",
+        "Chúng ta phải đối mặt với hiện thực.",
+        "Wǒmen bìxū miànduì xiànshí"
       ],
       "自主": [
         "她在经济上很自主。",
         "Cô ấy rất tự chủ về mặt kinh tế.",
         "Tā zài jīngjì shàng hěn zìzhǔ"
       ],
-      "作者": [
-        "这本书的作者是鲁迅。",
-        "Tác giả của cuốn sách này là Lỗ Tấn.",
-        "Zhè běn shū de zuòzhě shì Lǔ Xùn"
+      "人民币": [
+        "这件衣服要花五百人民币",
+        "Cái áo này tốn 500 nhân dân tệ",
+        "Zhè jiàn yīfu yào huā wǔ bǎi Rénmínbì"
+      ],
+      "事实上": [
+        "这份工作听起来很简单，实际上很难。",
+        "Công việc này nghe có vẻ đơn giản, nhưng trên thực tế lại rất khó.",
+        "Zhè fèn gōngzuò tīng qǐlái hěn jiǎndān, shíjì shang hěn nán"
+      ],
+      "一方面": [
+        "一方面我很想去，另一方面我又没时间。",
+        "Một mặt tôi rất muốn đi, nhưng mặt khác lại không có thời gian.",
+        "Yī fāngmiàn wǒ hěn xiǎng qù, lìng yī fāngmiàn wǒ yòu méi shíjiān/ "
+      ],
+      "实际上": [
+        "实际上，这个问题不太难。",
+        "Thực ra, vấn đề này không quá khó.",
+        "Shíjì shang, zhè ge wèntí bú tài nán"
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-07-lesson-09",
+    "title": "Mở rộng và vận dụng · Bài 9",
+    "titleCn": "HSK 3 · 7-9",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "正(形)",
+      "员(服务员)",
+      "化 (现代化）"
+    ],
+    "examples": {
+      "正(形)": [
+        "请站在照片正中间。",
+        "Xin hãy đứng chính giữa bức ảnh.",
+        "Qǐng zhàn zài zhàopiàn zhèng zhōngjiān"
+      ],
+      "员(服务员)": [
+        "服务员很快给我们上了菜。",
+        "Người phục vụ nhanh chóng mang thức ăn ra cho chúng tôi.",
+        "Fúwùyuán hěn kuài gěi wǒmen shàngle cài"
+      ],
+      "化 (现代化）": [
+        "越南正在现代化。",
+        "Việt Nam đang hiện đại hóa.",
+        "Yuènán zhèngzài xiàndàihuà"
       ]
     }
   }

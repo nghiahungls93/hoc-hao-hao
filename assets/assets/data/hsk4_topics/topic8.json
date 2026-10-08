@@ -8,67 +8,27 @@
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "啊",
       "爱情",
-      "爱心",
-      "安检",
-      "安排",
-      "按",
-      "按时",
-      "按照",
-      "白酒",
       "办公",
       "办理",
-      "办事",
+      "爱心",
+      "按时",
+      "啊",
       "棒",
+      "按",
+      "办事",
       "保护",
+      "安排",
+      "白酒",
+      "安检",
+      "按照",
       "保证"
     ],
     "examples": {
-      "啊": [
-        "啊，这太棒了！",
-        "À, cái này quá tuyệt vời!",
-        "Ā, zhè tài bàng le!"
-      ],
       "爱情": [
         "他们的爱情故事很感人。",
         "Câu chuyện tình yêu của họ rất cảm động.",
         "Tāmen de àiqíng gùshì hěn gǎnrén."
-      ],
-      "爱心": [
-        "她总是帮助别人，很有爱心。",
-        "Cô ấy luôn giúp đỡ người khác, rất có lòng nhân ái.",
-        "Tā zǒngshì bāngzhù biérén, hěn yǒu àixīn."
-      ],
-      "安检": [
-        "请在机场进行安检。",
-        "Xin vui lòng kiểm tra an ninh tại sân bay.",
-        "Qǐng zài jīchǎng jìnxíng ānjiǎn."
-      ],
-      "安排": [
-        "我已经安排好了明天的会议。",
-        "Tôi đã sắp xếp xong cuộc họp ngày mai.",
-        "Wǒ yǐjīng ānpái hǎo le míngtiān de huìyì."
-      ],
-      "按": [
-        "按计划，我们明天出发。",
-        "Theo kế hoạch, chúng ta sẽ khởi hành ngày mai.",
-        "Àn jìhuà, wǒmen míngtiān chūfā."
-      ],
-      "按时": [
-        "请按时到达学校。",
-        "Xin hãy đến trường đúng giờ.",
-        "Qǐng ànshí dàodá xuéxiào."
-      ],
-      "按照": [
-        "按照规定，我们不能迟到。",
-        "Theo quy định, chúng ta không được đến muộn.",
-        "Ànzhào guīdìng, wǒmen bùnéng chídào."
-      ],
-      "白酒": [
-        "中国人常喝白酒庆祝节日。",
-        "Người Trung Quốc thường uống rượu trắng để ăn mừng lễ hội.",
-        "Zhōngguórén cháng hē báijiǔ qìngzhù jiérì."
       ],
       "办公": [
         "他在公司办公。",
@@ -80,20 +40,60 @@
         "Tôi phải đến ngân hàng làm thủ tục.",
         "Wǒ yào qù yínháng bànlǐ yèwù."
       ],
-      "办事": [
-        "他很会办事。",
-        "Anh ấy rất giỏi lo việc.",
-        "Tā hěn huì bànshì."
+      "爱心": [
+        "她总是帮助别人，很有爱心。",
+        "Cô ấy luôn giúp đỡ người khác, rất có lòng nhân ái.",
+        "Tā zǒngshì bāngzhù biérén, hěn yǒu àixīn."
+      ],
+      "按时": [
+        "请按时到达学校。",
+        "Xin hãy đến trường đúng giờ.",
+        "Qǐng ànshí dàodá xuéxiào."
+      ],
+      "啊": [
+        "啊，这太棒了！",
+        "À, cái này quá tuyệt vời!",
+        "Ā, zhè tài bàng le!"
       ],
       "棒": [
         "你做得真棒！",
         "Bạn làm rất tuyệt!",
         "Nǐ zuò de zhēn bàng!"
       ],
+      "按": [
+        "按计划，我们明天出发。",
+        "Theo kế hoạch, chúng ta sẽ khởi hành ngày mai.",
+        "Àn jìhuà, wǒmen míngtiān chūfā."
+      ],
+      "办事": [
+        "他很会办事。",
+        "Anh ấy rất giỏi lo việc.",
+        "Tā hěn huì bànshì."
+      ],
       "保护": [
         "我们要保护环境。",
         "Chúng ta phải bảo vệ môi trường.",
         "Wǒmen yào bǎohù huánjìng."
+      ],
+      "安排": [
+        "我已经安排好了明天的会议。",
+        "Tôi đã sắp xếp xong cuộc họp ngày mai.",
+        "Wǒ yǐjīng ānpái hǎo le míngtiān de huìyì."
+      ],
+      "白酒": [
+        "中国人常喝白酒庆祝节日。",
+        "Người Trung Quốc thường uống rượu trắng để ăn mừng lễ hội.",
+        "Zhōngguórén cháng hē báijiǔ qìngzhù jiérì."
+      ],
+      "安检": [
+        "请在机场进行安检。",
+        "Xin vui lòng kiểm tra an ninh tại sân bay.",
+        "Qǐng zài jīchǎng jìnxíng ānjiǎn."
+      ],
+      "按照": [
+        "按照规定，我们不能迟到。",
+        "Theo quy định, chúng ta không được đến muộn.",
+        "Ànzhào guīdìng, wǒmen bùnéng chídào."
       ],
       "保证": [
         "我保证按时完成。",

@@ -1,182 +1,147 @@
 [
   {
     "id": "hsk1-topic-07-lesson-01",
-    "title": "Thời tiết và xung quanh · Bài 1",
+    "title": "Mở rộng và vận dụng · Bài 1",
     "titleCn": "HSK 1 · 7-1",
-    "context": "15 từ vựng cùng nhóm nghĩa",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "杯子",
-      "北边",
-      "常",
-      "床",
-      "的",
-      "等 ",
-      "地",
-      "电脑",
-      "东边",
-      "干",
-      "歌",
-      "关 ",
-      "汉字",
-      "花",
-      "记"
+      "本子",
+      "出去",
+      "电视 | 电视机",
+      "放假",
+      "非常",
+      "机场",
+      "记住",
+      "马上",
+      "睡觉",
+      "爷爷",
+      "一起",
+      "这边",
+      "这儿",
+      "真的",
+      "杯子"
     ],
     "examples": {
+      "本子": [
+        "这个歌剧的本子挺有意思的。\n\n在越南，满18周岁就可以考本子了。",
+        "Bản nhạc kịch này thật thú vị.\n\nỞ Việt Nam, bạn đủ 18 tuổi đã có thể thi giấy phép lấy xe.",
+        "Zhège gējù de běnzi tǐng yǒuyìsi de/\n\n/Zài Yuènán, mǎn 18 zhōusuì jiù kěyǐ kǎo běnzǐ le"
+      ],
+      "出去": [
+        "我们一起出去玩儿吧。",
+        "Chúng ta cùng nhau đi chơi đi.",
+        "Wǒmen yīqǐ chūqù wánr ba"
+      ],
+      "电视 | 电视机": [
+        "爸爸在看电视。",
+        "Bố đang xem tivi.",
+        "Bàba zài kàn diànshì"
+      ],
+      "放假": [
+        "放假了，我们一起去玩吧。",
+        "Nghỉ lễ rồi, chúng ta cùng đi chơi nhé.",
+        "Fàngjià le, wǒmen yīqǐ qù wán ba"
+      ],
+      "非常": [
+        "这个地方非常漂亮。",
+        "Nơi này cực kỳ đẹp.",
+        "Zhège dìfāng fēicháng piàoliang"
+      ],
+      "机场": [
+        "他去机场接朋友。",
+        "Anh ấy đến sân bay đón bạn.",
+        "Tā qù jīchǎng jiē péngyǒu"
+      ],
+      "记住": [
+        "请记住这个电话号码。",
+        "Hãy nhớ số điện thoại này.",
+        "Qǐng jìzhù zhège diànhuà hàomǎ"
+      ],
+      "马上": [
+        "我马上回来。",
+        "Tôi sẽ quay lại ngay lập tức.",
+        "Wǒ mǎshàng huílái"
+      ],
+      "睡觉": [
+        "孩子们都去睡觉了。",
+        "Bọn trẻ đều đi ngủ rồi.",
+        "Háizǐmen dōu qù shuìjiào le"
+      ],
+      "爷爷": [
+        "我爷爷每天去公园散步。",
+        "Mỗi ngày ông nội tôi đi dạo trong công viên.",
+        "Wǒ yéye měitiān qù gōngyuán sànbù"
+      ],
+      "一起": [
+        "我们一起去看电影吧。",
+        "Chúng ta cùng đi xem phim nhé.",
+        "Wǒmen yìqǐ qù kàn diànyǐng ba"
+      ],
+      "这边": [
+        "你坐这边吧。",
+        "Bạn ngồi bên này đi.",
+        "Nǐ zuò zhèbiān ba"
+      ],
+      "这儿": [
+        "你来这儿看看吧。",
+        "Bạn đến chỗ này xem thử đi.",
+        "Nǐ lái zhèr kànkan ba"
+      ],
+      "真的": [
+        "你真的要去吗？",
+        "Bạn thật sự muốn đi à?",
+        "Nǐ zhēnde yào qù ma"
+      ],
       "杯子": [
         "这个杯子太小了。",
         "Cái ly này quá nhỏ.",
         "Zhège bēizǐ tài xiǎole"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-07-lesson-02",
+    "title": "Mở rộng và vận dụng · Bài 2",
+    "titleCn": "HSK 1 · 7-2",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "北边",
+      "电脑",
+      "汉字",
+      "旁边",
+      "漂亮",
+      "请坐",
+      "商店",
+      "上边",
+      "书包",
+      "西边",
+      "下雨",
+      "小姐",
+      "医生",
+      "一样",
+      "最好"
+    ],
+    "examples": {
       "北边": [
         "北边的天气很冷。",
         "Thời tiết của phương bắc rất lạnh.",
         "Běibian de tiānqì hěn lěng"
-      ],
-      "常": [
-        "我常去跑步。",
-        "Tôi thường xuyên chạy bộ.",
-        "Wǒ cháng qù pǎobù"
-      ],
-      "床": [
-        "我很累，想躺在床上。",
-        "Tôi rất mệt, muốn nằm trên giường.",
-        "Wǒ hěn lèi, xiǎng tǎng zài chuáng shàng"
-      ],
-      "的": [
-        "这是我的书。",
-        "Đây là sách của tôi.",
-        "Zhè shì wǒ de shū"
-      ],
-      "等 ": [
-        "我在等她的电话。",
-        "Tôi đang đợi cuộc gọi của cô ấy.",
-        "Wǒ zài děng tā de diànhuà"
-      ],
-      "地": [
-        "地球上有许多不同的生物。",
-        "Trên Trái Đất có rất nhiều sinh vật khác nhau.",
-        "Dìqiú shàng yǒu xǔduō bùtóng de shēngwù"
       ],
       "电脑": [
         "这个电脑非常贵。",
         "Máy tính này rất đắt.",
         "Zhège diànnǎo fēicháng guì"
       ],
-      "干": [
-        "他总干乱我的计划。\n\n咱们干了这杯酒吧。",
-        "Anh ấy luôn làm loạn kế hoạch của tôi.\n\nChúng ta uống cạn ly rượu này.",
-        "Tā zǒng gān luàn wǒ de jìhuà/\n\n/Zánmen gān le zhè bēi jiǔ ba"
-      ],
-      "歌": [
-        "这首歌很好听。",
-        "Bài hát này rất hay.",
-        "Zhè shǒu gē hěn hǎotīng"
-      ],
-      "关 ": [
-        "睡觉前别忘了关灯。",
-        "Trước khi ngủ đừng quên tắt đèn.",
-        "Shuìjiào qián bié wàngle guān dēng"
-      ],
       "汉字": [
         "我会写汉字。",
         "Tôi biết viết chữ Hán.",
         "Wǒ huì xiě Hànzì"
-      ],
-      "花": [
-        "花园里有很多花。",
-        "Trong vườn có rất nhiều hoa.",
-        "Huāyuán lǐ yǒu hěn duō huā"
-      ],
-      "记": [
-        "我记不住这个汉字。",
-        "Tôi không nhớ được chữ Hán này.",
-        "Wǒ jì bù zhù zhège hànzì"
-      ]
-    }
-  },
-  {
-    "id": "hsk1-topic-07-lesson-02",
-    "title": "Thời tiết và xung quanh · Bài 2",
-    "titleCn": "HSK 1 · 7-2",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "间",
-      "今天",
-      "开玩笑",
-      "冷",
-      "里",
-      "零",
-      "没关系",
-      "拿",
-      "那",
-      "男孩儿",
-      "能",
-      "旁边",
-      "漂亮",
-      "七",
-      "请坐"
-    ],
-    "examples": {
-      "间": [
-        "他们之间的感情很好。",
-        "Tình cảm giữa họ rất tốt.",
-        "Tāmen zhījiān de gǎnqíng hěn hǎo"
-      ],
-      "今天": [
-        "今天的天气很好。",
-        "Thời tiết hôm nay rất đẹp.",
-        "Jīntiān de tiānqì hěn hǎo"
-      ],
-      "开玩笑": [
-        "别生气，我只是开玩笑。",
-        "Đừng giận mà, tôi chỉ đùa thôi.",
-        "Bié shēngqì, wǒ zhǐshì kāi wánxiào"
-      ],
-      "冷": [
-        "外面很冷，多穿点衣服。",
-        "Bên ngoài rất lạnh, mặc thêm áo vào.",
-        "Wàimiàn hěn lěng, duō chuān diǎn yīfu"
-      ],
-      "里": [
-        "房间里有很多书。",
-        "Trong phòng có rất nhiều sách.",
-        "Fángjiān lǐ yǒu hěn duō shū"
-      ],
-      "零": [
-        "这个数字是零。",
-        "Số này là số không.",
-        "Zhège shùzì shì líng"
-      ],
-      "没关系": [
-        "没关系，我没生气。",
-        "Không sao, tôi không giận đâu.",
-        "Méiguānxi, wǒ méi shēngqì"
-      ],
-      "拿": [
-        "请帮我拿一下。",
-        "Làm ơn giúp tôi cầm cái này một chút.",
-        "Qǐng bāng wǒ ná yíxià"
-      ],
-      "那": [
-        "那是我的书。",
-        "Đó là sách của tôi.",
-        "Nà shì wǒ de shū"
-      ],
-      "男孩儿": [
-        "男孩儿在公园里踢足球。",
-        "Cậu bé đang đá bóng trong công viên.",
-        "Nánháir zài gōngyuán lǐ tī zúqiú"
-      ],
-      "能": [
-        "咱们一定能完成任务。",
-        "Chúng ta nhất định có thể hoàn thành nhiệm vụ.",
-        "Zánmen yídìng néng wánchéng rènwù"
       ],
       "旁边": [
         "厨房在客厅的旁边。",
@@ -188,53 +153,10 @@
         "Bộ quần áo này rất đẹp.",
         "Zhè jiàn yīfu hěn piàoliang"
       ],
-      "七": [
-        "我有七本书。",
-        "Tôi có bảy quyển sách.",
-        "Wǒ yǒu qī běn shū"
-      ],
       "请坐": [
         "欢迎光临，请坐。",
         "Chào mừng quý khách, mời ngồi.",
         "Huānyíng guānglín, qǐng zuò"
-      ]
-    }
-  },
-  {
-    "id": "hsk1-topic-07-lesson-03",
-    "title": "Thời tiết và xung quanh · Bài 3",
-    "titleCn": "HSK 1 · 7-3",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "热",
-      "日",
-      "商店",
-      "上边",
-      "谁",
-      "事",
-      "是不是",
-      "书包",
-      "说",
-      "她们",
-      "天气",
-      "西边",
-      "洗手间",
-      "下雨",
-      "小姐"
-    ],
-    "examples": {
-      "热": [
-        "今天的天气很热。",
-        "Thời tiết của hôm nay rất nóng.",
-        "Jīntiān de tiānqì hěn rè"
-      ],
-      "日": [
-        "他的生日在六月。\n\n日出的时候很美。",
-        "Ngày sinh nhật của anh ấy vào tháng sáu.\n\nLúc mặt trời mọc rất đẹp.",
-        "Tā de shēngrì zài liù yuè/\n\n/Rì chū de shíhòu hěn měi"
       ],
       "商店": [
         "这个商店很大。",
@@ -246,45 +168,15 @@
         "Cây bút ở phía trên quyển sách.",
         "Bǐ zài shū de shàngbiān"
       ],
-      "谁": [
-        "这是谁的书？",
-        "Đây là sách của ai?",
-        "Zhè shì shéi de shū"
-      ],
-      "事": [
-        "这是一件重要的事。",
-        "Đây là một việc quan trọng.",
-        "Zhè shì yī jiàn zhòngyào de shì"
-      ],
-      "是不是": [
-        "这件事是不是你做的？",
-        "Việc này có phải cậu làm không?",
-        "Zhè jiàn shì shì bùshì nǐ zuò de"
-      ],
       "书包": [
         "我的书包里有苹果。",
         "Trong cặp sách của tôi có một quả táo.",
         "Wǒ de shūbāo lǐ yǒu píngguǒ"
       ],
-      "说": [
-        "我会说汉语。",
-        "Tôi biết nói tiếng Trung.",
-        "Wǒ huì shuō Hànyǔ"
-      ],
-      "她们": [
-        "她们正在看书。",
-        "Họ đang đọc sách.",
-        "Tāmen zhèngzài kàn shū"
-      ],
-      "天气": [
-        "今天天气很好。",
-        "Hôm nay thời tiết rất đẹp.",
-        "Jīntiān tiānqì hěn hǎo"
-      ],
-      "洗手间": [
-        "请问，洗手间在哪里？",
-        "Xin hỏi, nhà vệ sinh ở đâu?",
-        "Qǐngwèn, xǐshǒujiān zài nǎlǐ"
+      "西边": [
+        "我们学习“西边”这个词。",
+        "Chúng ta học cách dùng từ “西边”.",
+        "xībiān"
       ],
       "下雨": [
         "今天会下雨，你带伞了吗？",
@@ -295,104 +187,16 @@
         "王小姐是我的同事。",
         "Cô Vương là đồng nghiệp của tôi.",
         "Wáng xiǎojiě shì wǒ de tóngshì"
-      ]
-    }
-  },
-  {
-    "id": "hsk1-topic-07-lesson-04",
-    "title": "Thời tiết và xung quanh · Bài 4",
-    "titleCn": "HSK 1 · 7-4",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "笑",
-      "行",
-      "要（动）",
-      "衣服",
-      "医生",
-      "一下儿",
-      "一样",
-      "一些",
-      "有（一）些",
-      "右",
-      "雨",
-      "这",
-      "正在",
-      "重",
-      "最好"
-    ],
-    "examples": {
-      "笑": [
-        "她的笑容很美。",
-        "Nụ cười của cô ấy rất đẹp.",
-        "Tā de xiàoróng hěn měi"
-      ],
-      "行": [
-        "这样做行不行？",
-        "Làm như thế này được không?",
-        "Zhèyàng zuò xíng bù xíng"
-      ],
-      "要（动）": [
-        "我想要一杯咖啡。",
-        "Tôi muốn một ly cà phê.",
-        "Wǒ xiǎng yào yī bēi kāfēi"
-      ],
-      "衣服": [
-        "这件衣服很漂亮。",
-        "Bộ quần áo này rất đẹp.",
-        "Zhè jiàn yīfu hěn piàoliang"
       ],
       "医生": [
         "我爸爸是一名医生。",
         "Bố tôi là một bác sĩ.",
         "Wǒ bàba shì yī míng yīshēng"
       ],
-      "一下儿": [
-        "你等我一下儿。",
-        "Đợi tôi một chút.",
-        "Nǐ děng wǒ yíxiàr"
-      ],
       "一样": [
         "这两件衣服一样。",
         "Hai bộ quần áo này giống nhau.",
         "Zhè liǎng jiàn yīfu yíyàng"
-      ],
-      "一些": [
-        "这里有一些苹果。",
-        "Ở đây có một vài quả táo.",
-        "Zhèlǐ yǒu yìxiē píngguǒ"
-      ],
-      "有（一）些": [
-        "这里有一些书。",
-        "Ở đây có một vài cuốn sách.",
-        "Zhèlǐ yǒu yìxiē shū"
-      ],
-      "右": [
-        "商店在银行的右边。",
-        "Cửa hàng ở bên phải ngân hàng.",
-        "Shāngdiàn zài yínháng de yòubian"
-      ],
-      "雨": [
-        "今天下雨了。",
-        "Hôm nay trời mưa rồi.",
-        "Jīntiān xià yǔ le"
-      ],
-      "这": [
-        "这是我的书。",
-        "Đây là sách của tôi.",
-        "Zhè shì wǒ de shū"
-      ],
-      "正在": [
-        "我正在写作业。",
-        "Tôi đang làm bài tập.",
-        "Wǒ zhèngzài xiě zuòyè"
-      ],
-      "重": [
-        "这个箱子很重。\n\n这是个重大决定。",
-        "Chiếc hộp này rất nặng.\n\nĐây là một quyết định quan trọng.",
-        "Zhège xiāngzi hěn zhòng/\n\n/Zhè shìgè zhòngdà juédìng"
       ],
       "最好": [
         "下雨了，你最好带伞。",
@@ -402,21 +206,227 @@
     }
   },
   {
-    "id": "hsk1-topic-07-lesson-05",
-    "title": "Thời tiết và xung quanh · Bài 5",
-    "titleCn": "HSK 1 · 7-5",
-    "context": "1 từ vựng cùng nhóm nghĩa",
+    "id": "hsk1-topic-07-lesson-03",
+    "title": "Mở rộng và vận dụng · Bài 3",
+    "titleCn": "HSK 1 · 7-3",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "昨天"
+      "没事儿",
+      "女孩儿",
+      "没什么",
+      "图书馆",
+      "有时候 | 有时",
+      "小孩儿",
+      "星期天",
+      "一会儿",
+      "面条儿",
+      "一点儿",
+      "电影院",
+      "星期日",
+      "一块儿",
+      "男孩儿",
+      "是不是"
     ],
     "examples": {
-      "昨天": [
-        "昨天天气很好，我们去公园了。",
-        "Hôm qua thời tiết rất đẹp, chúng tôi đã đi công viên.",
-        "Zuótiān tiānqì hěn hǎo, wǒmen qù gōngyuán le"
+      "没事儿": [
+        "没事儿，我帮你。",
+        "Không sao đâu, tôi giúp bạn.",
+        "Méi shìr, wǒ bāng nǐ"
+      ],
+      "女孩儿": [
+        "你家女孩儿几岁了？",
+        "Con gái nhà bạn mấy tuổi rồi?",
+        "Nǐ jiā nǚháir jǐ suì le"
+      ],
+      "没什么": [
+        "没什么好担心的。",
+        "Không có gì đáng lo lắng cả.",
+        "Méi shénme hǎo dānxīn de"
+      ],
+      "图书馆": [
+        "学校里有三个图书馆。",
+        "Trường có ba thư viện.",
+        "Xuéxiào li yǒu sān gè túshū guǎn"
+      ],
+      "有时候 | 有时": [
+        "我有时候去图书馆学习。",
+        "Đôi khi tôi đến thư viện học.",
+        "Wǒ yǒu shíhòu qù túshūguǎn xuéxí"
+      ],
+      "小孩儿": [
+        "小孩儿喜欢玩游戏。",
+        "Trẻ con thích chơi trò chơi.",
+        "Xiǎoháir xǐhuan wán yóuxì"
+      ],
+      "星期天": [
+        "星期天我喜欢睡懒觉。",
+        "Chủ nhật tôi thích ngủ nướng.",
+        "Xīngqītiān wǒ xǐhuan shuì lǎnjiào"
+      ],
+      "一会儿": [
+        "请等我一会儿。",
+        "Vui lòng đợi tôi một lát.",
+        "Qǐng děng wǒ yíhuìr"
+      ],
+      "面条儿": [
+        "这碗面条儿很好吃。",
+        "Tô mì này rất ngon.",
+        "Zhè wǎn miàntiáor hěn hǎochī"
+      ],
+      "一点儿": [
+        "我想喝一点儿水。",
+        "Tôi muốn uống một chút nước.",
+        "Wǒ xiǎng hē yìdiǎnr shuǐ"
+      ],
+      "电影院": [
+        "我们去电影院看电影。",
+        "Chúng tôi đi rạp chiếu phim để xem phim.",
+        "Wǒmen qù diànyǐngyuàn kàn diànyǐng"
+      ],
+      "星期日": [
+        "星期日我们去公园吧。",
+        "Chủ nhật chúng ta đi công viên nhé.",
+        "Xīngqīrì wǒmen qù gōngyuán ba"
+      ],
+      "一块儿": [
+        "我们一块儿去公园吧。",
+        "Chúng ta cùng đi công viên nhé.",
+        "Wǒmen yíkuàir qù gōngyuán ba"
+      ],
+      "男孩儿": [
+        "男孩儿在公园里踢足球。",
+        "Cậu bé đang đá bóng trong công viên.",
+        "Nánháir zài gōngyuán lǐ tī zúqiú"
+      ],
+      "是不是": [
+        "这件事是不是你做的？",
+        "Việc này có phải cậu làm không?",
+        "Zhè jiàn shì shì bùshì nǐ zuò de"
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-07-lesson-04",
+    "title": "Mở rộng và vận dụng · Bài 4",
+    "titleCn": "HSK 1 · 7-4",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "一下儿",
+      "第 （第二）",
+      "对 ",
+      "东",
+      "动",
+      "球",
+      "最",
+      "常",
+      "课文",
+      "工人",
+      "哪儿",
+      "北京",
+      "动作",
+      "那儿",
+      "东边"
+    ],
+    "examples": {
+      "一下儿": [
+        "你等我一下儿。",
+        "Đợi tôi một chút.",
+        "Nǐ děng wǒ yíxiàr"
+      ],
+      "第 （第二）": [
+        "这是第一个问题。",
+        "Đây là câu hỏi đầu tiên.",
+        "Zhè shì dì yī gè wèntí"
+      ],
+      "对 ": [
+        "你的答案是对的。",
+        "Câu trả lời của bạn là đúng.",
+        "Nǐ de dá'àn shì duì de"
+      ],
+      "东": [
+        "学校在东边。",
+        "Trường học ở phía Đông.",
+        "Xuéxiào zài dōngbian/ "
+      ],
+      "动": [
+        "她的眼睛动了一下。",
+        "Mắt của cô ấy nhúc nhích một cái.",
+        "Tā de yǎnjīng dòng le yīxià"
+      ],
+      "球": [
+        "他喜欢踢足球。",
+        "Anh ấy thích đá bóng.",
+        "Tā xǐhuan tī zúqiú"
+      ],
+      "最": [
+        "你最喜欢吃什么水果？",
+        "Bạn thích ăn loại trái cây nào nhất?",
+        "Nǐ zuì xǐhuan chī shénme shuǐguǒ"
+      ],
+      "常": [
+        "我常去跑步。",
+        "Tôi thường xuyên chạy bộ.",
+        "Wǒ cháng qù pǎobù"
+      ],
+      "课文": [
+        "请大家朗读课文。",
+        "Mọi người vui lòng đọc to bài khóa.",
+        "Qǐng dàjiā lǎngdú kèwén"
+      ],
+      "工人": [
+        "工人们每天都努力工作。",
+        "Những công nhân làm việc chăm chỉ mỗi ngày.",
+        "Gōngrénmen měitiān dōu nǔlì gōngzuò"
+      ],
+      "哪儿": [
+        "那部电影是在哪儿拍的？",
+        "Bộ phim đó được quay ở đâu vậy?",
+        "Nà bù diànyǐng shì zài nǎr pāi de"
+      ],
+      "北京": [
+        "北京是中国的首都。",
+        "Bắc Kinh là thủ đô của Trung Quốc.",
+        "Běijīng shì zhōngguó de shǒudū"
+      ],
+      "动作": [
+        "舞蹈的动作很优美。",
+        "Động tác của điệu nhảy rất đẹp.",
+        "Wǔdǎo de dòngzuò hěn yōuměi"
+      ],
+      "那儿": [
+        "你要去那儿做什么？",
+        "Bạn muốn đến đó làm gì?",
+        "Nǐ yào qù nàr zuò shénme"
+      ],
+      "东边": [
+        "我们学习“东边”这个词。",
+        "Chúng ta học cách dùng từ “东边”.",
+        "dōngbian"
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-07-lesson-05",
+    "title": "Mở rộng và vận dụng · Bài 5",
+    "titleCn": "HSK 1 · 7-5",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "正在"
+    ],
+    "examples": {
+      "正在": [
+        "我正在写作业。",
+        "Tôi đang làm bài tập.",
+        "Wǒ zhèngzài xiě zuòyè"
       ]
     }
   }

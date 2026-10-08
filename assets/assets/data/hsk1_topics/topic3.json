@@ -1,275 +1,172 @@
 [
   {
     "id": "hsk1-topic-03-lesson-01",
-    "title": "Ngày tháng và lịch · Bài 1",
+    "title": "Hành động, thời gian và số lượng · Bài 1",
     "titleCn": "HSK 1 · 3-1",
-    "context": "15 từ vựng cùng nhóm nghĩa",
+    "context": "Động từ thông dụng, thời gian, số đếm và trình tự",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "白天",
+      "后 | 后边",
       "半",
-      "半天",
-      "差",
-      "唱歌",
-      "穿",
       "次",
-      "地图",
-      "电影",
-      "都",
-      "多",
-      "饿",
-      "分 ",
-      "风",
-      "高兴"
+      "前",
+      "岁",
+      "天",
+      "再",
+      "百",
+      "先",
+      "住",
+      "零",
+      "日",
+      "重",
+      "半年",
+      "前边"
     ],
     "examples": {
-      "白天": [
-        "早睡吧，你白天还要去上课。",
-        "Ngủ sớm đi, bạn ban ngày còn phải đi học.",
-        "Zǎo shuì ba, nǐ báitiān hái yào qù shàngkè"
+      "后 | 后边": [
+        "书店在学校的后边。",
+        "Hiệu sách ở phía sau trường học.",
+        "Shūdiàn zài xuéxiào de hòubian"
       ],
       "半": [
         "现在六点半。\n\n我们在半路上遇到了他。",
         "Bây giờ là 6 giờ rưỡi.\n\nChúng tôi đã gặp anh ấy giữa đường.",
         "Xiànzài liù diǎn bàn/\n\n/Wǒmen zài bàn lùshàng yù dàole tā"
       ],
-      "半天": [
-        "我今天要工作半天。\n\n我在门口等了你半天。",
-        "Tôi hôm nay phải đi làm nửa ngày.\n\nAnh đã đứng trước cửa đợi em rất lâu.",
-        "Wǒ jīntiān yào gōngzuò bàntiān/\n\n/Wǒ zài ménkǒu děng le nǐ bàntiān"
-      ],
-      "差": [
-        "他今天状态很差。",
-        "Trạng thái của anh hôm nay rất tệ.",
-        "Tā jīntiān zhuàngtài hěn chà"
-      ],
-      "唱歌": [
-        "我家邻居昨天一直不停地唱歌。",
-        "Ngày hôm qua hàng xóm của tôi ca hát không ngừng.",
-        "Wǒjiā línjū zuótiān yīzhí bù tíng de chànggē"
-      ],
-      "穿": [
-        "今天我穿了件新衣服。",
-        "Hôm nay tôi mặc quần áo mới.",
-        "Jīntiān wǒ chuān le jiàn xīn yīfu"
-      ],
       "次": [
         "这是我第一次来这里。",
         "Đây là lần đầu tiên tôi đến đây.",
         "Zhè shì wǒ dì yī cì lái zhè lǐ"
-      ],
-      "地图": [
-        "这是世界地图。",
-        "Đây là bản đồ thế giới.",
-        "Zhè shì shìjiè dìtú"
-      ],
-      "电影": [
-        "昨天我们看了一部电影。",
-        "Hôm qua chúng tôi đã xem một bộ phim.",
-        "Zuótiān wǒmen kàn le yī bù diànyǐng"
-      ],
-      "都": [
-        "我们都很忙。",
-        "Chúng tôi đều rất bận.",
-        "Wǒmen dōu hěn máng"
-      ],
-      "多": [
-        "今天的作业不太多。",
-        "Bài tập hôm nay không nhiều lắm.",
-        "Jīntiān de zuòyè bù tài duō"
-      ],
-      "饿": [
-        "我现在很饿。",
-        "Bây giờ tôi rất đói.",
-        "Wǒ xiànzài hěn è"
-      ],
-      "分 ": [
-        "这次考试我考了100分。",
-        "Kỳ thi lần này tôi thi được 100 điểm.",
-        "Zhè cì kǎoshì wǒ kǎole 100 fēn"
-      ],
-      "风": [
-        "今天的风很大，不要出去。",
-        "Hôm nay gió lớn, đừng ra ngoài.",
-        "Jīntiān de fēng hěn dà, bù yào chūqù"
-      ],
-      "高兴": [
-        "今天我很高兴。",
-        "Hôm nay tôi rất vui.",
-        "Jīntiān wǒ hěn gāoxìng"
-      ]
-    }
-  },
-  {
-    "id": "hsk1-topic-03-lesson-02",
-    "title": "Ngày tháng và lịch · Bài 2",
-    "titleCn": "HSK 1 · 3-2",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "哥哥  | 哥",
-      "很",
-      "后天",
-      "还",
-      "回",
-      "回来",
-      "今年",
-      "开会",
-      "看病",
-      "考",
-      "课",
-      "楼",
-      "没",
-      "明年",
-      "明天"
-    ],
-    "examples": {
-      "哥哥  | 哥": [
-        "我的哥哥比我大五岁。",
-        "Anh trai tôi lớn hơn tôi năm tuổi.",
-        "Wǒ de gēge bǐ wǒ dà wǔ suì"
-      ],
-      "很": [
-        "今天的课文很长， 生词很多。",
-        "Hôm nay bài khoá rất dài, nên từ mới rất nhiều.",
-        "Jīntiān de kèwén hěn cháng, shēngcí hěnduō"
-      ],
-      "后天": [
-        "我们后天去北京。",
-        "Chúng tôi sẽ đi Bắc Kinh vào ngày kia.",
-        "Wǒmen hòutiān qù Běijīng"
-      ],
-      "还": [
-        "她明天把书还给图书馆。",
-        "Ngày mai cô ấy sẽ đem sách trả lại cho thư viện",
-        "Tā míngtiān bǎ shū huán gěi túshū guǎn"
-      ],
-      "回": [
-        "我每天六点回家。",
-        "Tôi về nhà lúc 6 giờ mỗi ngày.",
-        "Wǒ měitiān liù diǎn huí jiā"
-      ],
-      "回来": [
-        "他晚上七点回来。",
-        "Anh ấy sẽ quay lại lúc 7 giờ tối.",
-        "Tā wǎnshàng qī diǎn huí lái"
-      ],
-      "今年": [
-        "今年是2025年。",
-        "Năm nay là năm 2025.",
-        "Jīnnián shì 2025 nián"
-      ],
-      "开会": [
-        "我下午三点要开会。",
-        "Tôi có cuộc họp lúc 3 giờ chiều.",
-        "Wǒ xiàwǔ sān diǎn yào kāi huì"
-      ],
-      "看病": [
-        "我今天去医院看病。",
-        "Hôm nay tôi đi bệnh viện khám bệnh.",
-        "Wǒ jīntiān qù yīyuàn kàn bìng"
-      ],
-      "考": [
-        "这次考试很难。",
-        "Kỳ thi lần này rất khó.",
-        "Zhè cì kǎoshì hěn nán"
-      ],
-      "课": [
-        "今天的汉语课很有意思。",
-        "Bài học tiếng Trung hôm nay rất thú vị.",
-        "Jīntiān de Hànyǔ kè hěn yǒuyìsi"
-      ],
-      "楼": [
-        "他们住在五楼。",
-        "Họ sống ở tầng năm.",
-        "Tāmen zhù zài wǔ lóu"
-      ],
-      "没": [
-        "我今天没时间。",
-        "Hôm nay tôi không có thời gian (không rảnh).",
-        "Wǒ jīntiān méi shíjiān"
-      ],
-      "明年": [
-        "明年我想去中国。",
-        "Năm sau tôi muốn đi Trung Quốc.",
-        "Míngnián wǒ xiǎng qù Zhōngguó"
-      ],
-      "明天": [
-        "明天是星期几？",
-        "Ngày mai là thứ mấy?",
-        "Míngtiān shì xīngqī jǐ"
-      ]
-    }
-  },
-  {
-    "id": "hsk1-topic-03-lesson-03",
-    "title": "Ngày tháng và lịch · Bài 3",
-    "titleCn": "HSK 1 · 3-3",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "奶奶 | 奶",
-      "跑",
-      "起",
-      "起床",
-      "前",
-      "请假",
-      "日期",
-      "上班",
-      "上次",
-      "上午",
-      "生日",
-      "时间",
-      "睡",
-      "岁",
-      "天"
-    ],
-    "examples": {
-      "奶奶 | 奶": [
-        "我奶奶今年八十岁。",
-        "Bà nội tôi năm nay 80 tuổi.",
-        "Wǒ nǎinai jīnnián bāshí suì"
-      ],
-      "跑": [
-        "他每天早上都跑步。",
-        "Anh ấy chạy bộ mỗi sáng.",
-        "Tā měitiān zǎoshang dōu pǎobù"
-      ],
-      "起": [
-        "今天睡到上午10点才起。",
-        "Nay ngủ đến 10 giờ mới dậy.",
-        "Jīntiān shuì dào shàngwǔ 10 diǎn cái qǐ"
-      ],
-      "起床": [
-        "我每天六点起床。",
-        "Mỗi ngày tôi thức dậy lúc 6 giờ.",
-        "Wǒ měitiān liù diǎn qǐchuáng"
       ],
       "前": [
         "他12号前会回来。",
         "Anh ấy sẽ trở lại trước ngày 12.",
         "Tā 12 hào qián huì huílái"
       ],
-      "请假": [
-        "老师，今天我想请假。",
-        "Thầy ơi, hôm nay em muốn xin nghỉ.",
-        "Lǎoshī, jīntiān wǒ xiǎng qǐngjià"
+      "岁": [
+        "她今年二十岁了。",
+        "Cô ấy năm nay 20 tuổi rồi.",
+        "Tā jīnnián èrshí suì le"
+      ],
+      "天": [
+        "今天是星期天。\n\n我喜欢看天上的星星。",
+        "Hôm nay là Chủ nhật.\n\nTôi thích ngắm sao trên trời.",
+        "Jīntiān shì xīngqītiān/\n\n/Wǒ xǐhuān kàn tiānshàng de xīngxīng"
+      ],
+      "再": [
+        "请再说一遍。",
+        "Xin hãy nói lại một lần nữa.",
+        "Qǐng zài shuō yí biàn"
+      ],
+      "百": [
+        "我有一百块钱。",
+        "Tôi có một trăm tệ.",
+        "Wǒ yǒu yībǎi kuài qián"
+      ],
+      "先": [
+        "你先去，我等一下再去。",
+        "Bạn đi trước đi, tôi sẽ đi sau.",
+        "Nǐ xiān qù, wǒ děng yīxià zài qù"
+      ],
+      "住": [
+        "你住在哪个城市？",
+        "Bạn sống ở thành phố nào?",
+        "Nǐ zhù zài nǎge chéngshì"
+      ],
+      "零": [
+        "这个数字是零。",
+        "Số này là số không.",
+        "Zhège shùzì shì líng"
+      ],
+      "日": [
+        "他的生日在六月。\n\n日出的时候很美。",
+        "Ngày sinh nhật của anh ấy vào tháng sáu.\n\nLúc mặt trời mọc rất đẹp.",
+        "Tā de shēngrì zài liù yuè/\n\n/Rì chū de shíhòu hěn měi"
+      ],
+      "重": [
+        "这个箱子很重。\n\n这是个重大决定。",
+        "Chiếc hộp này rất nặng.\n\nĐây là một quyết định quan trọng.",
+        "Zhège xiāngzi hěn zhòng/\n\n/Zhè shìgè zhòngdà juédìng"
+      ],
+      "半年": [
+        "我来上海学习已经有半年了。",
+        "Tôi đến Thượng Hải học đã được nửa năm.",
+        "Wǒ lái shànghǎi xuéxí yǐjīng yǒu bànnián le"
+      ],
+      "前边": [
+        "学校就在前边。",
+        "Trường học ở ngay phía trước.",
+        "Xuéxiào jiù zài qiánbiān"
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-03-lesson-02",
+    "title": "Hành động, thời gian và số lượng · Bài 2",
+    "titleCn": "HSK 1 · 3-2",
+    "context": "Động từ thông dụng, thời gian, số đếm và trình tự",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "中间",
+      "重要",
+      "白天",
+      "半天",
+      "后天",
+      "今年",
+      "明年",
+      "日期",
+      "上次",
+      "上午",
+      "时间",
+      "下午",
+      "小时",
+      "星期",
+      "早饭"
+    ],
+    "examples": {
+      "中间": [
+        "我家在学校和公司中间。",
+        "Nhà tôi nằm giữa trường học và công ty.",
+        "Wǒ jiā zài xuéxiào hé gōngsī zhōngjiān"
+      ],
+      "重要": [
+        "学习汉语对我来说很重要。",
+        "Học tiếng Trung rất quan trọng đối với tôi.",
+        "Xuéxí Hànyǔ duì wǒ lái shuō hěn zhòngyào"
+      ],
+      "白天": [
+        "早睡吧，你白天还要去上课。",
+        "Ngủ sớm đi, bạn ban ngày còn phải đi học.",
+        "Zǎo shuì ba, nǐ báitiān hái yào qù shàngkè"
+      ],
+      "半天": [
+        "我今天要工作半天。\n\n我在门口等了你半天。",
+        "Tôi hôm nay phải đi làm nửa ngày.\n\nAnh đã đứng trước cửa đợi em rất lâu.",
+        "Wǒ jīntiān yào gōngzuò bàntiān/\n\n/Wǒ zài ménkǒu děng le nǐ bàntiān"
+      ],
+      "后天": [
+        "我们后天去北京。",
+        "Chúng tôi sẽ đi Bắc Kinh vào ngày kia.",
+        "Wǒmen hòutiān qù Běijīng"
+      ],
+      "今年": [
+        "今年是2025年。",
+        "Năm nay là năm 2025.",
+        "Jīnnián shì 2025 nián"
+      ],
+      "明年": [
+        "明年我想去中国。",
+        "Năm sau tôi muốn đi Trung Quốc.",
+        "Míngnián wǒ xiǎng qù Zhōngguó"
       ],
       "日期": [
         "文件的日期写错了。",
         "Ngày tháng trên tài liệu bị sai rồi.",
         "Wénjiàn de rìqí xiě cuò le"
-      ],
-      "上班": [
-        "他每天八点上班。",
-        "Mỗi ngày anh ấy đi làm lúc 8 giờ.",
-        "Tā měitiān bā diǎn shàngbān"
       ],
       "上次": [
         "上次我们去上海了。",
@@ -281,98 +178,15 @@
         "Tôi có một cuộc họp vào buổi sáng.",
         "Wǒ shàngwǔ yǒu yī gè huìyì"
       ],
-      "生日": [
-        "你的生日是几月几号？",
-        "Sinh nhật của bạn là ngày mấy tháng mấy?",
-        "Nǐ de shēngrì shì jǐ yuè jǐ hào"
-      ],
       "时间": [
         "时间过得真快。",
         "Thời gian trôi qua thật nhanh.",
         "Shíjiān guò dé zhēn kuài"
       ],
-      "睡": [
-        "他昨天晚上睡得很早。",
-        "Tối qua anh ấy ngủ rất sớm.",
-        "Tā zuótiān wǎnshàng shuì de hěn zǎo"
-      ],
-      "岁": [
-        "她今年二十岁了。",
-        "Cô ấy năm nay 20 tuổi rồi.",
-        "Tā jīnnián èrshí suì le"
-      ],
-      "天": [
-        "今天是星期天。\n\n我喜欢看天上的星星。",
-        "Hôm nay là Chủ nhật.\n\nTôi thích ngắm sao trên trời.",
-        "Jīntiān shì xīngqītiān/\n\n/Wǒ xǐhuān kàn tiānshàng de xīngxīng"
-      ]
-    }
-  },
-  {
-    "id": "hsk1-topic-03-lesson-04",
-    "title": "Ngày tháng và lịch · Bài 4",
-    "titleCn": "HSK 1 · 3-4",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "听写",
-      "晚",
-      "忘记",
-      "五",
-      "洗",
-      "下班",
-      "下午",
-      "现在",
-      "小时",
-      "星期",
-      "休息",
-      "月",
-      "再",
-      "再见",
-      "在家"
-    ],
-    "examples": {
-      "听写": [
-        "我们今天有听写考试。",
-        "Hôm nay chúng tôi có bài kiểm tra chính tả.",
-        "Wǒmen jīntiān yǒu tīngxiě kǎoshì"
-      ],
-      "晚": [
-        "现在太晚了，快睡吧。",
-        "Bây giờ quá muộn rồi, mau ngủ đi.",
-        "Xiànzài tài wǎn le, kuài shuì ba"
-      ],
-      "忘记": [
-        "请不要忘记明天的会议。",
-        "Xin đừng quên cuộc họp ngày mai.",
-        "Qǐng bú yào wàngjì míngtiān de huìyì"
-      ],
-      "五": [
-        "她今天买了五个苹果。",
-        "Hôm nay cô ấy đã mua năm quả táo.",
-        "Tā jīntiān mǎi le wǔ gè píngguǒ"
-      ],
-      "洗": [
-        "现在我要洗衣服。",
-        "Bây giờ tôi phải giặt quần áo.",
-        "Xiànzài wǒ yào xǐ yīfu"
-      ],
-      "下班": [
-        "我今晚八点下班。",
-        "Tối nay tôi tan làm lúc 8 giờ.",
-        "Wǒ jīn wǎn bā diǎn xiàbān"
-      ],
       "下午": [
         "我下午三点有个会议。",
         "Tôi có một cuộc họp vào lúc 3 giờ chiều.",
         "Wǒ xiàwǔ sān diǎn yǒu gè huìyì"
-      ],
-      "现在": [
-        "我现在就去做。",
-        "Tôi đi làm bây giờ đây.",
-        "Wǒ xiànzài jiù qù zuò"
       ],
       "小时": [
         "我等了一个小时。",
@@ -384,61 +198,247 @@
         "Tuần này rất bận.",
         "Zhège xīngqī hěn máng"
       ],
-      "休息": [
-        "我每天都要休息一小时。",
-        "Tôi phải nghỉ ngơi một giờ mỗi ngày.",
-        "Wǒ měitiān dōu yào xiūxi yī xiǎoshí"
+      "早饭": [
+        "你今天吃早饭了吗？",
+        "Hôm nay bạn đã ăn sáng chưa?",
+        "Nǐ jīntiān chī zǎofàn le ma"
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-03-lesson-03",
+    "title": "Hành động, thời gian và số lượng · Bài 3",
+    "titleCn": "HSK 1 · 3-3",
+    "context": "Động từ thông dụng, thời gian, số đếm và trình tự",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "早上",
+      "新年",
+      "有的",
+      "去年",
+      "晚饭",
+      "午饭",
+      "中午",
+      "前天",
+      "时候",
+      "晚上",
+      "下次",
+      "天气",
+      "一些",
+      "有（一）些",
+      "们（朋友们）"
+    ],
+    "examples": {
+      "早上": [
+        "早上空气很好。",
+        "Không khí buổi sáng rất tốt.",
+        "Zǎoshang kōngqì hěn hǎo"
       ],
-      "月": [
-        "今年的二月有二十九天。\n\n今天的月亮很漂亮。",
-        "Tháng Hai năm nay có 29 ngày.\n\nMặt trăng hôm nay rất đẹp.",
-        "Jīnnián de èryuè yǒu èrshíjiǔ tiān/\n\n/Jīntiān de yuèliàng hěn piàoliang"
+      "新年": [
+        "新年快乐！",
+        "Năm mới vui vẻ!",
+        "Xīnnián kuài lè"
       ],
-      "再": [
-        "请再说一遍。",
-        "Xin hãy nói lại một lần nữa.",
-        "Qǐng zài shuō yí biàn"
+      "有的": [
+        "有的人喜欢喝咖啡,有的人喜欢喝茶。",
+        "Có người thích uống cà phê, có người thích uống trà.",
+        "Yǒude rén xǐhuan hē kāfēi，yǒude rén xǐhuan hē chá"
       ],
-      "再见": [
-        "A: 明天见！\nB: 再见！",
-        "A: Hẹn gặp lại ngày mai! \nB: Tạm biệt!",
-        "A:/Míngtiān jiàn!/ \nB: /Zàijiàn!"
+      "去年": [
+        "去年我买了一辆新车。",
+        "Năm ngoái tôi đã mua một chiếc xe mới.",
+        "Qùnián wǒ mǎi le yī liàng xīnchē"
       ],
-      "在家": [
-        "周末我一般在家休息。",
-        "Cuối tuần tôi thường ở nhà nghỉ ngơi.",
-        "Zhōumò wǒ yībān zàijiā xiūxi"
+      "晚饭": [
+        "我们一起吃晚饭吧。",
+        "Chúng ta cùng đi ăn tối nhé.",
+        "Wǒmen yìqǐ chī wǎnfàn ba"
+      ],
+      "午饭": [
+        "我们一起去吃午饭吧。",
+        "Chúng ta cùng đi ăn trưa nhé.",
+        "Wǒmen yīqǐ qù chī wǔfàn ba"
+      ],
+      "中午": [
+        "我们中午去吃饭吧。",
+        "Chúng ta đi ăn trưa nhé.",
+        "Wǒmen zhōngwǔ qù chīfàn ba"
+      ],
+      "前天": [
+        "我前天去了上海。",
+        "Hôm kia tôi đã đi Thượng Hải.",
+        "Wǒ qiántiān qù le Shànghǎi"
+      ],
+      "时候": [
+        "你什么时候去北京？",
+        "Khi nào bạn đi Bắc Kinh?",
+        "Nǐ shénme shíhòu qù Běijīng"
+      ],
+      "晚上": [
+        "晚上我们一起去看电影吧。",
+        "Buổi tối chúng ta cùng đi xem phim nhé.",
+        "Wǎnshàng wǒmen yìqǐ qù kàn diànyǐng ba"
+      ],
+      "下次": [
+        "下次我们一起去看电影吧。",
+        "Lần sau chúng ta cùng đi xem phim nhé.",
+        "Xià cì wǒmen yīqǐ qù kàn diànyǐng ba"
+      ],
+      "天气": [
+        "今天天气很好。",
+        "Hôm nay thời tiết rất đẹp.",
+        "Jīntiān tiānqì hěn hǎo"
+      ],
+      "一些": [
+        "这里有一些苹果。",
+        "Ở đây có một vài quả táo.",
+        "Zhèlǐ yǒu yìxiē píngguǒ"
+      ],
+      "有（一）些": [
+        "这里有一些书。",
+        "Ở đây có một vài cuốn sách.",
+        "Zhèlǐ yǒu yìxiē shū"
+      ],
+      "们（朋友们）": [
+        "我们是好朋友。",
+        "Chúng tôi là bạn tốt.",
+        "Wǒmen shì hǎo péngyǒu"
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-03-lesson-04",
+    "title": "Hành động, thời gian và số lượng · Bài 4",
+    "titleCn": "HSK 1 · 3-4",
+    "context": "Động từ thông dụng, thời gian, số đếm và trình tự",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "楼",
+      "起",
+      "国",
+      "元",
+      "车",
+      "快",
+      "路",
+      "别人",
+      "病人",
+      "孩子",
+      "家里",
+      "哪些",
+      "起来",
+      "网友",
+      "车上"
+    ],
+    "examples": {
+      "楼": [
+        "他们住在五楼。",
+        "Họ sống ở tầng năm.",
+        "Tāmen zhù zài wǔ lóu"
+      ],
+      "起": [
+        "今天睡到上午10点才起。",
+        "Nay ngủ đến 10 giờ mới dậy.",
+        "Jīntiān shuì dào shàngwǔ 10 diǎn cái qǐ"
+      ],
+      "国": [
+        "中国的美食非常有名。",
+        "Ẩm thực của Trung Quốc rất nổi tiếng.",
+        "Zhōngguó de měishí fēicháng yǒumíng"
+      ],
+      "元": [
+        "这本书五十元。",
+        "Cuốn sách này giá 50 tệ.",
+        "Zhè běn shū wǔshí yuán"
+      ],
+      "车": [
+        "我们开车去旅行。",
+        "Chúng tôi lái xe đi du lịch.",
+        "Wǒmen kāichē qù lǚxíng"
+      ],
+      "快": [
+        "火车快要来了。",
+        "Tàu hỏa sắp đến rồi.",
+        "Huǒchē kuài yào lái le"
+      ],
+      "路": [
+        "这条路很长。",
+        "Con đường này rất dài.",
+        "Zhè tiáo lù hěn cháng"
+      ],
+      "别人": [
+        "这本书可能是别人的。",
+        "Ngoại trừ Tiểu Lệ ra, những người khác đều không muốn đi.",
+        "Chúle Xiǎo Lì yǐwài, biérén dōu bù yuànyì qù"
+      ],
+      "病人": [
+        "王医生每天都要看十到二十位病人。",
+        "Bác sĩ Vương mỗi ngày đều phải khám từ 10 đến 20 bệnh nhân.",
+        "Wáng yīshēng měitiān dōu yào kàn shí dào èrshí wèi bìngrén"
+      ],
+      "孩子": [
+        "孩子们在公园玩儿。",
+        "Mấy đứa trẻ đang chơi trong công viên.",
+        "Háizimen zài gōngyuán wánr"
+      ],
+      "家里": [
+        "我家里有很多书。",
+        "Trong nhà tôi có rất nhiều sách.",
+        "Wǒ jiālǐ yǒu hěn duō shū"
+      ],
+      "哪些": [
+        "你见过哪些名人？",
+        "Bạn đã gặp những người nổi tiếng nào?",
+        "Nǐ jiànguò nǎxiē míngrén"
+      ],
+      "起来": [
+        "他站起来了。",
+        "Anh ấy đứng dậy rồi.",
+        "Tā zhàn qǐlái le"
+      ],
+      "网友": [
+        "我有很多网友。",
+        "Tôi có nhiều bạn trên mạng.",
+        "Wǒ yǒu hěnduō wǎngyǒu"
+      ],
+      "车上": [
+        "她在车上学英语。",
+        "Cô ấy học tiếng Anh trên xe.",
+        "Tā zài chē shàng xué yīngyǔ"
       ]
     }
   },
   {
     "id": "hsk1-topic-03-lesson-05",
-    "title": "Ngày tháng và lịch · Bài 5",
+    "title": "Hành động, thời gian và số lượng · Bài 5",
     "titleCn": "HSK 1 · 3-5",
-    "context": "3 từ vựng cùng nhóm nghĩa",
+    "context": "Động từ thông dụng, thời gian, số đếm và trình tự",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "早",
-      "早饭",
-      "早上"
+      "那里",
+      "年级",
+      "知识"
     ],
     "examples": {
-      "早": [
-        "今天你起得很早。",
-        "Hôm nay bạn dậy rất sớm.",
-        "Jīntiān nǐ qǐ de hěn zǎo"
+      "那里": [
+        "我刚从那里回来。",
+        "Tôi vừa từ chỗ đó trở về.",
+        "Wǒ gāng cóng nàlǐ húilái"
       ],
-      "早饭": [
-        "你今天吃早饭了吗？",
-        "Hôm nay bạn đã ăn sáng chưa?",
-        "Nǐ jīntiān chī zǎofàn le ma"
+      "年级": [
+        "你是几年级的学生？",
+        "Bạn là học sinh lớp mấy?",
+        "Nǐ shì jǐ niánjí de xuéshēng"
       ],
-      "早上": [
-        "早上空气很好。",
-        "Không khí buổi sáng rất tốt.",
-        "Zǎoshang kōngqì hěn hǎo"
+      "知识": [
+        "学习知识很重要。",
+        "Việc học rất quan trọng.",
+        "Xuéxí zhīshi hěn zhòngyào"
       ]
     }
   }

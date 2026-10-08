@@ -1,84 +1,383 @@
 [
   {
     "id": "hsk6-topic-06-lesson-01",
-    "title": "Không gian và vận động · Bài 1",
+    "title": "Không gian, di chuyển và đời sống · Bài 1",
     "titleCn": "HSK 6 · 6-1",
-    "context": "15 từ vựng cùng nhóm nghĩa",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "岸",
-      "摆",
-      "拜年",
-      "伴随",
+      "流通",
+      "论坛",
+      "贸易",
+      "免疫",
+      "命名",
+      "模样",
+      "木材",
+      "奶粉",
+      "排放",
+      "配套",
+      "品尝",
+      "评估",
+      "权力",
+      "融化",
+      "柔软"
+    ],
+    "examples": {
+      "流通": [
+        "货币需要流通。",
+        "Tiền tệ cần phải lưu thông.",
+        "Huòbì xūyào liútōng."
+      ],
+      "论坛": [
+        "我在论坛上发帖了。",
+        "Tôi đã đăng bài trên diễn đàn.",
+        "Wǒ zài lùntán shàng fā tiě le."
+      ],
+      "贸易": [
+        "中越贸易增长很快。",
+        "Thương mại Trung-Việt tăng trưởng rất nhanh.",
+        "Zhōng-Yuè màoyì zēngzhǎng hěn kuài."
+      ],
+      "免疫": [
+        "接种疫苗可以增强免疫力。",
+        "Tiêm vắc-xin có thể tăng cường sức miễn dịch.",
+        "Jiēzhòng yìmiáo kěyǐ zēngqiáng miǎnyì lì."
+      ],
+      "命名": [
+        "我们给新产品命名了。",
+        "Chúng tôi đã đặt tên cho sản phẩm mới.",
+        "Wǒmen gěi xīn chǎnpǐn mìngmíng le."
+      ],
+      "模样": [
+        "她的模样很可爱。",
+        "Vẻ ngoài của cô ấy rất dễ thương.",
+        "Tā de múyàng hěn kě’ài."
+      ],
+      "木材": [
+        "这些家具是用优质木材做的。",
+        "Những món đồ nội thất này làm bằng gỗ chất lượng cao.",
+        "Zhèxiē jiājù shì yòng yōuzhì mùcái zuò de."
+      ],
+      "奶粉": [
+        "婴儿喝奶粉。",
+        "Bé uống sữa bột.",
+        "Yīng’ér hē nǎifěn."
+      ],
+      "排放": [
+        "工厂不能随意排放废水。",
+        "Nhà máy không được xả nước thải tùy tiện.",
+        "Gōngchǎng bù néng suíyì páifàng fèishuǐ."
+      ],
+      "配套": [
+        "这些家具是配套的。",
+        "Những món đồ nội thất này là bộ phối hợp hoàn chỉnh.",
+        "Zhèxiē jiājù shì pèitào de."
+      ],
+      "品尝": [
+        "请品尝这个菜。",
+        "Xin nếm thử món này.",
+        "Qǐng pǐncháng zhège cài."
+      ],
+      "评估": [
+        "专家正在评估这个项目的风险。",
+        "Chuyên gia đang đánh giá rủi ro của dự án này.",
+        "Zhuānjiā zhèngzài pínggū zhège xiàngmù de fēngxiǎn."
+      ],
+      "权力": [
+        "权力需要监督。",
+        "Quyền lực cần được giám sát.",
+        "Quánlì xūyào jiāndū."
+      ],
+      "融化": [
+        "冰块在阳光下融化了。",
+        "Khối băng tan chảy dưới ánh nắng.",
+        "Bīngkuài zài yángguāng xià rónghuà le."
+      ],
+      "柔软": [
+        "这条毯子很柔软。",
+        "Chiếc chăn này rất mềm mại.",
+        "Zhè tiáo tǎnzi hěn róuruǎn."
+      ]
+    }
+  },
+  {
+    "id": "hsk6-topic-06-lesson-02",
+    "title": "Không gian, di chuyển và đời sống · Bài 2",
+    "titleCn": "HSK 6 · 6-2",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "山坡",
+      "上当",
+      "上台",
+      "设想",
+      "审美",
+      "剩余",
+      "石油",
+      "视觉",
+      "薯片",
+      "水稻",
+      "水库",
+      "水流",
+      "水面",
+      "塑造",
+      "谈判"
+    ],
+    "examples": {
+      "山坡": [
+        "羊在山坡上吃草。",
+        "Cừu đang gặm cỏ trên sườn núi.",
+        "Yáng zài shānpō shàng chī cǎo."
+      ],
+      "上当": [
+        "我差点上当。",
+        "Tôi suýt bị lừa.",
+        "Wǒ chàdiǎn shàngdàng."
+      ],
+      "上台": [
+        "歌手上台表演。",
+        "Ca sĩ lên sân khấu biểu diễn.",
+        "Gēshǒu shàngtái biǎoyǎn."
+      ],
+      "设想": [
+        "我设想了一个新方案。",
+        "Tôi đã phác thảo một kế hoạch mới.",
+        "Wǒ shèxiǎng le yīgè xīn fāng’àn."
+      ],
+      "审美": [
+        "她很有审美能力。",
+        "Cô ấy có khả năng thẩm mỹ rất tốt.",
+        "Tā hěn yǒu shěnměi nénglì."
+      ],
+      "剩余": [
+        "剩余的钱捐给慈善机构。",
+        "Số tiền còn dư được quyên góp cho tổ chức từ thiện.",
+        "Shèngyú de qián juān gěi císhàn jīgòu."
+      ],
+      "石油": [
+        "石油是重要能源。",
+        "Dầu mỏ là nguồn năng lượng quan trọng.",
+        "Shíyóu shì zhòngyào néngyuán."
+      ],
+      "视觉": [
+        "这幅画的视觉效果很强。",
+        "Hiệu ứng thị giác của bức tranh này rất mạnh.",
+        "Zhè fú huà de shìjué xiàoguǒ hěn qiáng."
+      ],
+      "薯片": [
+        "我爱吃薯片。",
+        "Tôi thích ăn khoai tây chiên.",
+        "Wǒ ài chī shǔpiàn."
+      ],
+      "水稻": [
+        "中国南方种植水稻。",
+        "Miền Nam Trung Quốc trồng lúa nước.",
+        "Zhōngguó nánfāng zhòngzhí shuǐdào."
+      ],
+      "水库": [
+        "这个水库很大。",
+        "Hồ chứa nước này rất lớn.",
+        "Zhège shuǐkù hěn dà."
+      ],
+      "水流": [
+        "水流很急。",
+        "Dòng nước chảy xiết.",
+        "Shuǐliú hěn jí."
+      ],
+      "水面": [
+        "船在水面上行驶。",
+        "Thuyền chạy trên mặt nước.",
+        "Chuán zài shuǐmiàn shàng xíngshǐ."
+      ],
+      "塑造": [
+        "教育可以塑造人格。",
+        "Giáo dục có thể đúc nên nhân cách.",
+        "Jiàoyù kěyǐ sùzào réngé."
+      ],
+      "谈判": [
+        "两国正在谈判贸易协议。",
+        "Hai nước đang đàm phán hiệp định thương mại.",
+        "Liǎng guó zhèngzài tánpàn màoyì xiéyì."
+      ]
+    }
+  },
+  {
+    "id": "hsk6-topic-06-lesson-03",
+    "title": "Không gian, di chuyển và đời sống · Bài 3",
+    "titleCn": "HSK 6 · 6-3",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "糖果",
+      "特意",
+      "听觉",
+      "通风",
+      "投资",
+      "团圆",
+      "外来",
+      "味觉",
+      "污水",
+      "香水",
+      "新兴",
+      "兴起",
+      "严寒",
+      "炎症",
+      "野生"
+    ],
+    "examples": {
+      "糖果": [
+        "小孩爱吃糖果。",
+        "Trẻ con thích ăn kẹo.",
+        "Xiǎohái ài chī tángguǒ."
+      ],
+      "特意": [
+        "他特意买了礼物。",
+        "Anh ấy cố ý mua quà.",
+        "Tā tèyì mǎi le lǐwù."
+      ],
+      "听觉": [
+        "他的听觉非常灵敏。",
+        "Thính giác của anh ấy rất nhạy bén.",
+        "Tā de tīngjué fēicháng língmǐn."
+      ],
+      "通风": [
+        "房间需要通风。",
+        "Căn phòng cần thông gió.",
+        "Fángjiān xūyào tōngfēng."
+      ],
+      "投资": [
+        "他在股市投资了很多钱。",
+        "Anh ấy đầu tư rất nhiều tiền vào chứng khoán.",
+        "Tā zài gǔshì tóuzī le hěn duō qián."
+      ],
+      "团圆": [
+        "全家团圆过春节。",
+        "Cả nhà đoàn tụ ăn Tết.",
+        "Quán jiā tuányuán guò chūnjié."
+      ],
+      "外来": [
+        "外来人口增加了。",
+        "Dân số ngoại lai tăng lên.",
+        "Wàilái rénkǒu zēngjiā le."
+      ],
+      "味觉": [
+        "他的味觉很敏感。",
+        "Vị giác của anh ấy rất nhạy.",
+        "Tā de wèijué hěn mǐngǎn."
+      ],
+      "污水": [
+        "工厂不能排放污水。",
+        "Nhà máy không được xả nước thải.",
+        "Gōngchǎng bù néng páifàng wūshuǐ."
+      ],
+      "香水": [
+        "这瓶香水很贵。",
+        "Chai nước hoa này rất đắt.",
+        "Zhè píng xiāngshuǐ hěn guì."
+      ],
+      "新兴": [
+        "新兴产业增长很快。",
+        "Ngành công nghiệp mới nổi tăng trưởng nhanh.",
+        "Xīnxīng chǎnyè zēngzhǎng hěn kuài."
+      ],
+      "兴起": [
+        "网购正在兴起。",
+        "Mua sắm trực tuyến đang phát triển mạnh.",
+        "Wǎnggòu zhèngzài xīngqǐ."
+      ],
+      "严寒": [
+        "北方冬天非常严寒。",
+        "Miền Bắc mùa đông rét buốt vô cùng.",
+        "Běifāng dōngtiān fēicháng yánhán"
+      ],
+      "炎症": [
+        "伤口有炎症，需要吃药。",
+        "Vết thương bị viêm, cần uống thuốc.",
+        "Shāngkǒu yǒu yánzhèng, xūyào chī yào"
+      ],
+      "野生": [
+        "不要吃野生蘑菇。",
+        "Đừng ăn nấm hoang dã.",
+        "Bú yào chī yěshēng mógu"
+      ]
+    }
+  },
+  {
+    "id": "hsk6-topic-06-lesson-04",
+    "title": "Không gian, di chuyển và đời sống · Bài 4",
+    "titleCn": "HSK 6 · 6-4",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "液体",
+      "用餐",
+      "脂肪",
+      "职务",
+      "中奖",
+      "助理",
+      "自豪",
+      "总裁",
       "暴露",
-      "本土",
-      "闭",
-      "遍地",
-      "便捷",
-      "博览会",
-      "不至于",
       "不许",
       "猜测",
       "财物",
-      "侧"
+      "畅通",
+      "朝代",
+      "出名"
     ],
     "examples": {
-      "岸": [
-        "我们在河岸上散步。",
-        "Chúng tôi đi dạo trên bờ sông.",
-        "Wǒmen zài hé àn shàng sànbù"
+      "液体": [
+        "水是常见的液体。",
+        "Nước là chất lỏng phổ biến.",
+        "Shuǐ shì chángjiàn de yètǐ"
       ],
-      "摆": [
-        "请把椅子摆整齐。",
-        "Hãy sắp xếp ghế cho ngay ngắn.",
-        "Qǐng bǎ yǐzi bǎi zhěngqí"
+      "用餐": [
+        "请到餐厅用餐。",
+        "Mời vào nhà ăn dùng bữa.",
+        "Qǐng dào cāntīng yòngcān"
       ],
-      "拜年": [
-        "春节的时候，我们去给长辈拜年。",
-        "Dịp Tết, chúng tôi đi chúc Tết các bậc cao niên.",
-        "Chūnjié de shíhou, wǒmen qù gěi zhǎngbèi bàinián"
+      "脂肪": [
+        "少吃高脂肪食物。",
+        "Ăn ít đồ ăn có nhiều chất béo.",
+        "Shǎo chī gāo zhī fáng shí wù."
       ],
-      "伴随": [
-        "成功总是伴随着努力。",
-        "Thành công luôn đi kèm với nỗ lực.",
-        "Chénggōng zǒng shì bànsuí zhe nǔlì"
+      "职务": [
+        "他的职务是销售主管。",
+        "Nhiệm vụ của anh ấy là trưởng bộ phận bán hàng.",
+        "Tā de zhí wù shì xiāo shòu zhǔ guǎn."
+      ],
+      "中奖": [
+        "我买彩票中奖了！",
+        "Tôi mua vé số trúng thưởng rồi!",
+        "Wǒ mǎi cǎi piào zhòng jiǎng le!"
+      ],
+      "助理": [
+        "她是总经理助理。",
+        "Cô ấy là trợ lý tổng giám đốc.",
+        "Tā shì zǒng jīng lǐ zhù lǐ."
+      ],
+      "自豪": [
+        "我为祖国感到自豪。",
+        "Tôi tự hào về đất nước mình.",
+        "Wǒ wèi zǔ guó gǎn dào zì háo."
+      ],
+      "总裁": [
+        "公司总裁亲自出席会议。",
+        "Tổng giám đốc công ty tự mình dự họp.",
+        "Gōng sī zǒng cái qīn zì chū xí huì yì."
       ],
       "暴露": [
         "他的缺点被暴露了。",
         "Khuyết điểm của anh ấy đã bị phơi bày.",
         "Tā de quēdiǎn bèi bàolù le"
-      ],
-      "本土": [
-        "这是本土品牌。",
-        "Đây là thương hiệu bản địa.",
-        "Zhè shì běntǔ pǐnpái"
-      ],
-      "闭": [
-        "请把门闭上。",
-        "Hãy đóng cửa lại.",
-        "Qǐng bǎ mén bì shàng"
-      ],
-      "遍地": [
-        "春天的时候，遍地都是鲜花。",
-        "Mùa xuân, khắp nơi đều có hoa tươi.",
-        "Chūntiān de shíhou, biàndì dōu shì xiānhuā"
-      ],
-      "便捷": [
-        "地铁交通很便捷。",
-        "Giao thông tàu điện ngầm rất tiện lợi.",
-        "Dìtiě jiāotōng hěn biànjié"
-      ],
-      "博览会": [
-        "我们去参观了博览会。",
-        "Chúng tôi đã đi tham quan hội chợ.",
-        "Wǒmen qù cānguān le bólǎnhuì"
-      ],
-      "不至于": [
-        "这点小事不至于生气。",
-        "Chuyện nhỏ này không đến nỗi phải giận.",
-        "Zhè diǎn xiǎoshì búzhìyú shēngqì"
       ],
       "不许": [
         "这里不许大声说话。",
@@ -95,59 +394,6 @@
         "Tên trộm đã lấy đi rất nhiều tài vật.",
         "Xiǎotōu tōu zǒu le hěn duō cáiwù"
       ],
-      "侧": [
-        "汽车侧翻在路边。",
-        "Xe hơi lật nghiêng bên đường.",
-        "Qìchē cè fān zài lù biān"
-      ]
-    }
-  },
-  {
-    "id": "hsk6-topic-06-lesson-02",
-    "title": "Không gian và vận động · Bài 2",
-    "titleCn": "HSK 6 · 6-2",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "插座",
-      "产地",
-      "场地",
-      "厂商",
-      "畅通",
-      "朝代",
-      "撑",
-      "称作",
-      "乘",
-      "出境",
-      "出名",
-      "出游",
-      "处罚",
-      "处处",
-      "穿过"
-    ],
-    "examples": {
-      "插座": [
-        "我的手机充电器插座坏了。",
-        "Ổ cắm sạc điện thoại của tôi bị hỏng.",
-        "Wǒ de shǒujī chōngdiànqì chāzuò huài le"
-      ],
-      "产地": [
-        "这个苹果的产地是山东。",
-        "Quả táo này có nguồn gốc từ Sơn Đông.",
-        "Zhège píngguǒ de chǎndì shì Shāndōng"
-      ],
-      "场地": [
-        "比赛场地已经准备好了。",
-        "Địa điểm thi đấu đã sẵn sàng.",
-        "Bǐsài chǎngdì yǐjīng zhǔnbèi hǎo le"
-      ],
-      "厂商": [
-        "厂商提供了技术支持。",
-        "Nhà sản xuất đã cung cấp hỗ trợ kỹ thuật.",
-        "Chǎngshāng tígōng le jìshù zhīchí"
-      ],
       "畅通": [
         "高速公路现在畅通无阻。",
         "Đường cao tốc hiện đang thông thoáng không tắc.",
@@ -158,108 +404,53 @@
         "Nhà Đường là một triều đại nổi tiếng.",
         "Tángcháo shì zhīmíng de cháodài"
       ],
-      "撑": [
-        "她撑着伞在雨中行走。",
-        "Cô ấy chống ô đi trong mưa.",
-        "Tā chēng zhe sǎn zài yǔ zhōng xíngzǒu"
-      ],
-      "称作": [
-        "这个地方称作“东方威尼斯”。",
-        "Nơi này được gọi là “Venice phương Đông”.",
-        "Zhège dìfāng chēngzuò “Dōngfāng Wēinísī”"
-      ],
-      "乘": [
-        "我每天乘地铁上班。",
-        "Tôi đi tàu điện ngầm đi làm mỗi ngày.",
-        "Wǒ měitiān chéng dìtiě shàngbān"
-      ],
-      "出境": [
-        "游客顺利出境。",
-        "Du khách xuất cảnh suôn sẻ.",
-        "Yóukè shùnlì chūjìng"
-      ],
       "出名": [
         "这个城市以美食出名。",
         "Thành phố này nổi tiếng với ẩm thực.",
         "Zhège chéngshì yǐ měishí chūmíng"
-      ],
-      "出游": [
-        "假期我们计划出游。",
-        "Kỳ nghỉ chúng tôi dự định đi du lịch.",
-        "Jiàqī wǒmen jìhuà chūyóu"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk6-topic-06-lesson-05",
+    "title": "Không gian, di chuyển và đời sống · Bài 5",
+    "titleCn": "HSK 6 · 6-5",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "处罚",
+      "垂直",
+      "打卡",
+      "当场",
+      "当下",
+      "定位",
+      "都市",
+      "对立",
+      "儿科",
+      "繁忙",
+      "分级",
+      "封闭",
+      "符号",
+      "赋予",
+      "干脆"
+    ],
+    "examples": {
       "处罚": [
         "违规停车会被处罚。",
         "Đỗ xe sai quy định sẽ bị phạt.",
         "Wéiguī tíngchē huì bèi chǔfá"
       ],
-      "处处": [
-        "城市处处都是高楼。",
-        "Thành phố đâu đâu cũng là nhà cao tầng.",
-        "Chéngshì chùchù dōu shì gāolóu"
-      ],
-      "穿过": [
-        "我们穿过森林到达目的地。",
-        "Chúng tôi đi qua rừng để đến đích.",
-        "Wǒmen chuānguò sēnlín dàodá mùdìdì"
-      ]
-    }
-  },
-  {
-    "id": "hsk6-topic-06-lesson-03",
-    "title": "Không gian và vận động · Bài 3",
-    "titleCn": "HSK 6 · 6-3",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "垂直",
-      "刺",
-      "从未",
-      "打卡",
-      "大伙儿",
-      "单调",
-      "当场",
-      "当下",
-      "抵达",
-      "地方",
-      "典礼",
-      "电力",
-      "定位",
-      "都市",
-      "渡"
-    ],
-    "examples": {
       "垂直": [
         "这条线与那条线垂直。",
         "Đường này vuông góc với đường kia.",
         "Zhè tiáo xiàn yǔ nà tiáo xiàn chuízhí"
       ],
-      "刺": [
-        "小心别被玫瑰刺到。",
-        "Cẩn thận đừng bị gai hồng đâm.",
-        "Xiǎoxīn bié bèi méiguī cì dào"
-      ],
-      "从未": [
-        "我从未去过那个城市。",
-        "Tôi chưa từng đến thành phố đó.",
-        "Wǒ cóngwèi qù guo nàge chéngshì"
-      ],
       "打卡": [
         "每天早上我要打卡上班。",
         "Mỗi sáng tôi phải chấm công đi làm.",
         "Měitiān zǎoshang wǒ yào dǎkǎ shàngbān"
-      ],
-      "大伙儿": [
-        "大伙儿一起庆祝吧！",
-        "Mọi người cùng ăn mừng đi!",
-        "Dàhuǒr yīqǐ qìngzhù ba"
-      ],
-      "单调": [
-        "生活不能太单调。",
-        "Cuộc sống không thể quá đơn điệu.",
-        "Shēnghuó bùnéng tài dāndiào"
       ],
       "当场": [
         "他当场承认了错误。",
@@ -271,26 +462,6 @@
         "Lúc này quan trọng nhất là hành động.",
         "Dāngxià zuì zhòngyào de shì xíngdòng"
       ],
-      "抵达": [
-        "飞机准时抵达机场。",
-        "Máy bay đến sân bay đúng giờ.",
-        "Fēijī zhǔnshí dǐdá jīchǎng"
-      ],
-      "地方": [
-        "这个地方很漂亮。",
-        "Nơi này rất đẹp.",
-        "Zhège dìfāng hěn piàoliang"
-      ],
-      "典礼": [
-        "毕业典礼很隆重。",
-        "Lễ tốt nghiệp rất long trọng.",
-        "Bìyè diǎnlǐ hěn lóngzhòng"
-      ],
-      "电力": [
-        "这个城市电力供应充足。",
-        "Thành phố này có nguồn điện lực cung cấp dồi dào.",
-        "Zhège chéngshì diànlì gōngyìng chōngzú"
-      ],
       "定位": [
         "手机可以精确定位。",
         "Điện thoại có thể định vị chính xác.",
@@ -301,39 +472,6 @@
         "Thượng Hải là đô thị quốc tế.",
         "Shànghǎi shì guójìhuà dūshì"
       ],
-      "渡": [
-        "我们乘船渡过长江。",
-        "Chúng tôi đi thuyền vượt sông Trường Giang.",
-        "Wǒmen chéng chuán dù guò Cháng Jiāng"
-      ]
-    }
-  },
-  {
-    "id": "hsk6-topic-06-lesson-04",
-    "title": "Không gian và vận động · Bài 4",
-    "titleCn": "HSK 6 · 6-4",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "对立",
-      "儿科",
-      "发电",
-      "发动",
-      "繁忙",
-      "方方面面",
-      "分级",
-      "封闭",
-      "符号",
-      "附件",
-      "赋予",
-      "干脆",
-      "干燥",
-      "高端",
-      "稿件"
-    ],
-    "examples": {
       "对立": [
         "两种观点完全对立。",
         "Hai quan điểm hoàn toàn đối lập.",
@@ -344,25 +482,10 @@
         "Bé phải đi khoa nhi khám bệnh.",
         "Háizi yào qù érkē kànbìng"
       ],
-      "发电": [
-        "风车用来发电。",
-        "Cối xay gió dùng để phát điện.",
-        "Fēngchē yòng lái fādiàn"
-      ],
-      "发动": [
-        "司机发动了汽车。",
-        "Tài xế khởi động xe.",
-        "Sījī fādòng le qìchē"
-      ],
       "繁忙": [
         "机场总是很繁忙。",
         "Sân bay luôn rất bận rộn.",
         "Jīchǎng zǒng shì hěn fánmáng"
-      ],
-      "方方面面": [
-        "我们要考虑方方面面。",
-        "Chúng ta phải xem xét mọi khía cạnh.",
-        "Wǒmen yào kǎolǜ fāngfāngmiànmiàn"
       ],
       "分级": [
         "产品按质量分级。",
@@ -379,11 +502,6 @@
         "Ký hiệu này đại diện cho nguy hiểm.",
         "Zhège fúhào dàibiǎo wēixiǎn"
       ],
-      "附件": [
-        "请查看邮件附件。",
-        "Vui lòng xem file đính kèm trong email.",
-        "Qǐng chá kàn yóujiàn fùjiàn"
-      ],
       "赋予": [
         "法律赋予公民权利。",
         "Pháp luật ban cho công dân quyền lợi.",
@@ -393,59 +511,39 @@
         "干脆我们现在就走吧。",
         "Đơn giản là chúng ta đi ngay bây giờ thôi.",
         "Gāncuì wǒmen xiànzài jiù zǒu ba"
-      ],
-      "干燥": [
-        "冬天空气很干燥。",
-        "Không khí mùa đông rất khô.",
-        "Dōngtiān kōngqì hěn gānzào"
-      ],
-      "高端": [
-        "这是一款高端手机。",
-        "Đây là mẫu điện thoại cao cấp.",
-        "Zhè shì yī kuǎn gāoduān shǒujī"
-      ],
-      "稿件": [
-        "编辑正在审阅稿件。",
-        "Biên tập viên đang xem xét bản thảo.",
-        "Biānjí zhèngzài shěnyuè gǎojiàn"
       ]
     }
   },
   {
-    "id": "hsk6-topic-06-lesson-05",
-    "title": "Không gian và vận động · Bài 5",
-    "titleCn": "HSK 6 · 6-5",
-    "context": "15 từ vựng cùng nhóm nghĩa",
+    "id": "hsk6-topic-06-lesson-06",
+    "title": "Không gian, di chuyển và đời sống · Bài 6",
+    "titleCn": "HSK 6 · 6-6",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "跟随",
-      "宫",
+      "高端",
       "公安",
       "公众",
-      "顾",
       "拐弯",
-      "观光",
-      "关怀",
-      "管道",
       "规划",
-      "轨道",
       "海岸",
-      "核心",
-      "横",
-      "花朵"
+      "花朵",
+      "汇款",
+      "混合",
+      "坚定",
+      "间隔",
+      "奖牌",
+      "郊外",
+      "金子",
+      "进展"
     ],
     "examples": {
-      "跟随": [
-        "粉丝跟随偶像巡演。",
-        "Fan theo sau thần tượng đi lưu diễn.",
-        "Fěnsī gēnsuí ǒuxiàng xúnyǎn"
-      ],
-      "宫": [
-        "故宫是著名的旅游景点。",
-        "Cố Cung là điểm du lịch nổi tiếng.",
-        "Gùgōng shì zhīmíng de lǚyóu jǐngdiǎn"
+      "高端": [
+        "这是一款高端手机。",
+        "Đây là mẫu điện thoại cao cấp.",
+        "Zhè shì yī kuǎn gāoduān shǒujī"
       ],
       "公安": [
         "公安人员正在调查。",
@@ -457,103 +555,25 @@
         "Công chúng rất quan tâm đến việc này.",
         "Gōngzhòng duì zhè jiàn shì hěn guānzhù"
       ],
-      "顾": [
-        "不要只顾自己。",
-        "Đừng chỉ lo cho bản thân.",
-        "Búyào zhǐ gù zìjǐ"
-      ],
       "拐弯": [
         "汽车在拐弯。",
         "Xe hơi đang quẹo.",
         "Qìchē zài guǎiwān"
-      ],
-      "观光": [
-        "很多游客来这里观光。",
-        "Nhiều du khách đến đây tham quan.",
-        "Hěn duō yóukè lái zhèlǐ guānguāng"
-      ],
-      "关怀": [
-        "领导关怀员工。",
-        "Lãnh đạo quan tâm đến nhân viên.",
-        "Lǐngdǎo guānhuái yuángōng"
-      ],
-      "管道": [
-        "天然气通过管道输送。",
-        "Khí tự nhiên được vận chuyển qua đường ống.",
-        "Tiānránqì tōngguò guǎndào shūsòng"
       ],
       "规划": [
         "城市正在进行长远规划。",
         "Thành phố đang lập kế hoạch dài hạn.",
         "Chéngshì zhèngzài jìnxíng chángyuǎn guīhuà"
       ],
-      "轨道": [
-        "火车在轨道上行驶。",
-        "Tàu hỏa chạy trên đường ray.",
-        "Huǒchē zài guǐdào shàng xíngshǐ"
-      ],
       "海岸": [
         "我们在海岸散步。",
         "Chúng tôi đi dạo trên bờ biển.",
         "Wǒmen zài hǎi’àn sànbù"
       ],
-      "核心": [
-        "这是项目的核心内容。",
-        "Đây là nội dung cốt lõi của dự án.",
-        "Zhè shì xiàngmù de héxīn nèiróng"
-      ],
-      "横": [
-        "横穿马路很危险。",
-        "Đi ngang qua đường rất nguy hiểm.",
-        "Héngchuān mǎlù hěn wēixiǎn"
-      ],
       "花朵": [
         "花园里开满了花朵。",
         "Trong vườn hoa nở đầy.",
         "Huāyuán lǐ kāi mǎn le huāduǒ"
-      ]
-    }
-  },
-  {
-    "id": "hsk6-topic-06-lesson-06",
-    "title": "Không gian và vận động · Bài 6",
-    "titleCn": "HSK 6 · 6-6",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "滑冰",
-      "化妆",
-      "患者",
-      "汇款",
-      "混合",
-      "货车",
-      "机动车",
-      "加剧",
-      "坚定",
-      "艰难",
-      "减弱",
-      "间隔",
-      "奖牌",
-      "郊外",
-      "结"
-    ],
-    "examples": {
-      "滑冰": [
-        "冬天我们去滑冰。",
-        "Mùa đông chúng tôi đi trượt băng.",
-        "Dōngtiān wǒmen qù huábīng"
-      ],
-      "化妆": [
-        "她正在化妆。",
-        "Cô ấy đang trang điểm.",
-        "Tā zhèngzài huàzhuāng"
-      ],
-      "患者": [
-        "患者正在接受治疗。",
-        "Bệnh nhân đang được điều trị.",
-        "Huànzhě zhèngzài jiēshòu zhìliáo"
       ],
       "汇款": [
         "我去银行汇款。",
@@ -565,35 +585,10 @@
         "Trộn hai màu lại với nhau.",
         "Bǎ liǎng zhǒng yánsè hùnhé"
       ],
-      "货车": [
-        "公路上有很多货车在行驶。",
-        "Trên đường cao tốc có rất nhiều xe tải đang chạy.",
-        "Gōnglù shàng yǒu hěn duō huòchē zài xíngshǐ"
-      ],
-      "机动车": [
-        "机动车必须遵守交通规则。",
-        "Xe cơ giới phải tuân thủ quy tắc giao thông.",
-        "Jīdòngchē bìxū zūnshǒu jiāotōng guīzé"
-      ],
-      "加剧": [
-        "气候变化加剧了干旱。",
-        "Biến đổi khí hậu làm hạn hán trầm trọng hơn.",
-        "Qìhòu biànhuà jiājù le gānhàn"
-      ],
       "坚定": [
         "我们要有坚定的信念。",
         "Chúng ta phải có niềm tin kiên định.",
         "Wǒmen yào yǒu jiāndìng de xìnniàn"
-      ],
-      "艰难": [
-        "创业之路非常艰难。",
-        "Con đường khởi nghiệp rất gian nan.",
-        "Chuàngyè zhī lù fēicháng jiānnán"
-      ],
-      "减弱": [
-        "暴风雨逐渐减弱。",
-        "Cơn bão dần yếu đi.",
-        "Bàofēngyǔ zhújiàn jiǎnruò"
       ],
       "间隔": [
         "两地间隔很远。",
@@ -610,44 +605,6 @@
         "Cuối tuần chúng tôi đi picnic ngoại ô.",
         "Zhōumò wǒmen qù jiāowài yěcān"
       ],
-      "结": [
-        "树上结满了果实。",
-        "Cây kết đầy quả.",
-        "Shù shàng jiē mǎn le guǒshí"
-      ]
-    }
-  },
-  {
-    "id": "hsk6-topic-06-lesson-07",
-    "title": "Không gian và vận động · Bài 7",
-    "titleCn": "HSK 6 · 6-7",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "节奏",
-      "金子",
-      "进展",
-      "精准",
-      "净",
-      "竞赛",
-      "救命",
-      "救援",
-      "局",
-      "绝望",
-      "砍",
-      "看待",
-      "考察",
-      "口腔",
-      "款式"
-    ],
-    "examples": {
-      "节奏": [
-        "音乐节奏很快。",
-        "Nhịp điệu nhạc rất nhanh.",
-        "Yīnyuè jiézòu hěn kuài"
-      ],
       "金子": [
         "这条项链是纯金子做的。",
         "Dây chuyền này làm bằng vàng nguyên chất.",
@@ -657,17 +614,35 @@
         "谈判取得新进展。",
         "Đàm phán có tiến triển mới.",
         "Tánpàn qǔdé xīn jìnzhǎn"
-      ],
-      "精准": [
-        "导弹打击非常精准。",
-        "Tên lửa đánh trúng rất chính xác.",
-        "Dǎodàn dǎjī fēicháng jīngzhǔn"
-      ],
-      "净": [
-        "房间打扫得很干净。",
-        "Phòng được dọn rất sạch sẽ.",
-        "Fángjiān dǎsǎo de hěn gānjìng"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk6-topic-06-lesson-07",
+    "title": "Không gian, di chuyển và đời sống · Bài 7",
+    "titleCn": "HSK 6 · 6-7",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "竞赛",
+      "救命",
+      "救援",
+      "绝望",
+      "口腔",
+      "款式",
+      "理性",
+      "联想",
+      "轮船",
+      "冒险",
+      "迷人",
+      "密集",
+      "免税",
+      "排名",
+      "盼望"
+    ],
+    "examples": {
       "竞赛": [
         "他们正在进行知识竞赛。",
         "Họ đang thi kiến thức.",
@@ -683,30 +658,10 @@
         "Đội cứu hộ đã đến hiện trường.",
         "Jiùyuán duì gǎndào xiànchǎng"
       ],
-      "局": [
-        "公安局正在调查。",
-        "Cục Công an đang điều tra.",
-        "Gōng’ān jú zhèngzài diàochá"
-      ],
       "绝望": [
         "不要轻易绝望。",
         "Đừng dễ dàng tuyệt vọng.",
         "Búyào qīngyì juéwàng"
-      ],
-      "砍": [
-        "农民在砍柴。",
-        "Nông dân đang chặt củi.",
-        "Nóngmín zài kǎn chái"
-      ],
-      "看待": [
-        "我们要正确看待失败。",
-        "Chúng ta phải xem thất bại một cách đúng đắn.",
-        "Wǒmen yào zhèngquè kàndài shībài"
-      ],
-      "考察": [
-        "领导去基层考察。",
-        "Lãnh đạo đi khảo sát cơ sở.",
-        "Lǐngdǎo qù jīcéng kǎochá"
       ],
       "口腔": [
         "要保持口腔清洁。",
@@ -717,99 +672,21 @@
         "这件衣服的款式很时尚。",
         "Kiểu dáng của chiếc áo này rất thời trang.",
         "Zhè jiàn yīfu de kuǎnshì hěn shíshàng."
-      ]
-    }
-  },
-  {
-    "id": "hsk6-topic-06-lesson-08",
-    "title": "Không gian và vận động · Bài 8",
-    "titleCn": "HSK 6 · 6-8",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "来临",
-      "来往",
-      "拦",
-      "理性",
-      "联网",
-      "联想",
-      "凌晨",
-      "楼道",
-      "路程",
-      "路面",
-      "绿化",
-      "轮船",
-      "迈",
-      "冒险",
-      "迷人"
-    ],
-    "examples": {
-      "来临": [
-        "春天来临了。",
-        "Mùa xuân đã đến.",
-        "Chūntiān láilín le."
-      ],
-      "来往": [
-        "他们两家来往很密切。",
-        "Hai nhà họ qua lại rất thân mật.",
-        "Tāmen liǎng jiā láiwǎng hěn mìqiè."
-      ],
-      "拦": [
-        "警察拦住了那辆车。",
-        "Cảnh sát đã chặn lại chiếc xe đó.",
-        "Jǐngchá lán zhù le nà liàng chē."
       ],
       "理性": [
         "我们要理性消费。",
         "Chúng ta phải tiêu dùng một cách lý tính.",
         "Wǒmen yào lǐxìng xiāofèi."
       ],
-      "联网": [
-        "手机已经联网了。",
-        "Điện thoại đã kết nối mạng rồi.",
-        "Shǒujī yǐjīng liánwǎng le."
-      ],
       "联想": [
         "看到蓝色我就联想大海。",
         "Nhìn màu xanh tôi lại liên tưởng đến biển cả.",
         "Kàn dào lánsè wǒ jiù liánxiǎng dàhǎi."
       ],
-      "凌晨": [
-        "他凌晨三点才睡觉。",
-        "Anh ấy đến 3 giờ sáng mới đi ngủ.",
-        "Tā língchén sān diǎn cái shuìjiào."
-      ],
-      "楼道": [
-        "不要在楼道里堆杂物。",
-        "Không được để đồ lung tung trong hành lang.",
-        "Bùyào zài lóudào lǐ duī záwù."
-      ],
-      "路程": [
-        "这次旅行的路程很远。",
-        "Quãng đường chuyến đi lần này rất xa.",
-        "Zhè cì lǚxíng de lùchéng hěn yuǎn."
-      ],
-      "路面": [
-        "路面很平整。",
-        "Mặt đường rất bằng phẳng.",
-        "Lùmiàn hěn píngzhěng."
-      ],
-      "绿化": [
-        "城市正在绿化。",
-        "Thành phố đang được xanh hóa.",
-        "Chéngshì zhèngzài lǜhuà."
-      ],
       "轮船": [
         "我们坐轮船去岛上。",
         "Chúng tôi đi tàu thủy ra đảo.",
         "Wǒmen zuò lúnchuán qù dǎo shàng."
-      ],
-      "迈": [
-        "他迈开大步往前走。",
-        "Anh ấy sải bước lớn đi về phía trước.",
-        "Tā mài kāi dà bù wǎng qián zǒu."
       ],
       "冒险": [
         "不要冒险开车。",
@@ -820,39 +697,6 @@
         "这座城市夜景非常迷人。",
         "Phong cảnh đêm của thành phố này rất quyến rũ.",
         "Zhè zuò chéngshì yèjǐng fēicháng mírén."
-      ]
-    }
-  },
-  {
-    "id": "hsk6-topic-06-lesson-09",
-    "title": "Không gian và vận động · Bài 9",
-    "titleCn": "HSK 6 · 6-9",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "密度",
-      "密集",
-      "免税",
-      "灭",
-      "摩托车",
-      "南极洲",
-      "念书",
-      "排名",
-      "盼望",
-      "陪同",
-      "碰撞",
-      "频道",
-      "铺",
-      "其间",
-      "起点"
-    ],
-    "examples": {
-      "密度": [
-        "这个城市的建筑密度很高。",
-        "Mật độ xây dựng của thành phố này rất cao.",
-        "Zhège chéngshì de jiànzhù mìdù hěn gāo."
       ],
       "密集": [
         "人群密集的地方要注意安全。",
@@ -864,26 +708,6 @@
         "Sân bay có cửa hàng miễn thuế.",
         "Jīchǎng yǒu miǎnshuì shāngdiàn."
       ],
-      "灭": [
-        "请把火灭掉。",
-        "Xin dập tắt lửa đi.",
-        "Qǐng bǎ huǒ miè diào."
-      ],
-      "摩托车": [
-        "他骑摩托车上班。",
-        "Anh ấy đi xe máy đi làm.",
-        "Tā qí mótuōchē shàngbān."
-      ],
-      "南极洲": [
-        "南极洲是地球上最冷的地方。",
-        "Châu Nam Cực là nơi lạnh nhất trên Trái Đất.",
-        "Nánjízhōu shì dìqiú shàng zuì lěng de dìfang."
-      ],
-      "念书": [
-        "他在国外念书。",
-        "Anh ấy đang học ở nước ngoài.",
-        "Tā zài guówài niànshū."
-      ],
       "排名": [
         "她在考试中排名第一。",
         "Cô ấy xếp hạng nhất trong kỳ thi.",
@@ -893,12 +717,35 @@
         "我盼望假期快点到来。",
         "Tôi mong chờ kỳ nghỉ mau đến.",
         "Wǒ pànwàng jiàqī kuài diǎn dàolái."
-      ],
-      "陪同": [
-        "领导陪同客人参观。",
-        "Lãnh đạo tháp tùng khách tham quan.",
-        "Lǐngdǎo péitóng kèrén cānguān."
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk6-topic-06-lesson-08",
+    "title": "Không gian, di chuyển và đời sống · Bài 8",
+    "titleCn": "HSK 6 · 6-8",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "碰撞",
+      "频道",
+      "气味",
+      "桥梁",
+      "求救",
+      "取代",
+      "少儿",
+      "神奇",
+      "狮子",
+      "识别",
+      "收益",
+      "损坏",
+      "台球",
+      "淘汰",
+      "特地"
+    ],
+    "examples": {
       "碰撞": [
         "两车发生碰撞。",
         "Hai xe va chạm nhau.",
@@ -909,156 +756,25 @@
         "Đổi sang kênh khác đi.",
         "Huàn yīgè píndào ba."
       ],
-      "铺": [
-        "工人在铺路。",
-        "Công nhân đang lát đường.",
-        "Gōngrén zài pū lù."
-      ],
-      "其间": [
-        "其间发生了很多事。",
-        "Trong khoảng thời gian đó đã xảy ra rất nhiều việc.",
-        "Qíjiān fāshēng le hěn duō shì."
-      ],
-      "起点": [
-        "这是新生活的起点。",
-        "Đây là điểm xuất phát của cuộc sống mới.",
-        "Zhè shì xīn shēnghuó de qǐdiǎn."
-      ]
-    }
-  },
-  {
-    "id": "hsk6-topic-06-lesson-10",
-    "title": "Không gian và vận động · Bài 10",
-    "titleCn": "HSK 6 · 6-10",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "气味",
-      "恰恰",
-      "桥梁",
-      "亲属",
-      "清醒",
-      "求救",
-      "曲",
-      "取代",
-      "全程",
-      "热点",
-      "热线",
-      "人行道",
-      "认同",
-      "日益",
-      "丧失"
-    ],
-    "examples": {
       "气味": [
         "花的香气味很浓。",
         "Mùi hương của hoa rất nồng.",
         "Huā de xiāng qìwèi hěn nóng."
-      ],
-      "恰恰": [
-        "这恰恰证明了他的观点。",
-        "Điều này chính là chứng minh cho quan điểm của anh ấy.",
-        "Zhè qiàqià zhèngmíng le tā de guāndiǎn."
       ],
       "桥梁": [
         "这座桥梁很长。",
         "Cây cầu này rất dài.",
         "Zhè zuò qiáoliáng hěn cháng."
       ],
-      "亲属": [
-        "我的亲属都来了。",
-        "Họ hàng của tôi đều đến.",
-        "Wǒ de qīnshǔ dōu lái le."
-      ],
-      "清醒": [
-        "保持清醒的头脑。",
-        "Giữ đầu óc tỉnh táo.",
-        "Bǎochí qīngxǐng de tóunǎo."
-      ],
       "求救": [
         "船员发出求救信号。",
         "Thủy thủ phát tín hiệu cầu cứu.",
         "Chuányuán fāchū qiújiù xìnhào."
       ],
-      "曲": [
-        "这首曲很好听。",
-        "Bản nhạc này rất hay.",
-        "Zhè shǒu qǔ hěn hǎotīng."
-      ],
       "取代": [
         "手机逐渐取代了相机。",
         "Điện thoại dần thay thế máy ảnh.",
         "Shǒujī zhújiàn qǔdài le xiàngjī."
-      ],
-      "全程": [
-        "我们全程陪同。",
-        "Chúng tôi tháp tùng suốt chặng đường.",
-        "Wǒmen quánchéng péitóng."
-      ],
-      "热点": [
-        "这是当前的热点话题。",
-        "Đây là chủ đề nóng hiện nay.",
-        "Zhè shì dāngqián de rèdiǎn huàtí."
-      ],
-      "热线": [
-        "拨打心理热线。",
-        "Gọi đường dây nóng tâm lý.",
-        "Bōdǎ xīnlǐ rèxiàn."
-      ],
-      "人行道": [
-        "请走人行道，不要走在马路上。",
-        "Xin đi trên vỉa hè, đừng đi trên đường xe.",
-        "Qǐng zǒu rénxíngdào, bùyào zǒu zài mǎlù shàng."
-      ],
-      "认同": [
-        "我完全认同你的观点。",
-        "Tôi hoàn toàn đồng tình với quan điểm của bạn.",
-        "Wǒ wánquán rèntóng nǐ de guāndiǎn."
-      ],
-      "日益": [
-        "城市交通日益拥堵。",
-        "Giao thông thành phố ngày càng kẹt xe.",
-        "Chéngshì jiāotōng rìyì yōngdǔ."
-      ],
-      "丧失": [
-        "他丧失了信心。",
-        "Anh ấy mất đi sự tự tin.",
-        "Tā sàngshī le xìnxīn."
-      ]
-    }
-  },
-  {
-    "id": "hsk6-topic-06-lesson-11",
-    "title": "Không gian và vận động · Bài 11",
-    "titleCn": "HSK 6 · 6-11",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "刹车",
-      "少儿",
-      "神奇",
-      "声调",
-      "狮子",
-      "识别",
-      "时速",
-      "收益",
-      "首要",
-      "书写",
-      "竖",
-      "率先",
-      "算了",
-      "损坏",
-      "台球"
-    ],
-    "examples": {
-      "刹车": [
-        "司机紧急刹车。",
-        "Tài xế phanh gấp.",
-        "Sījī jǐnjí shāchē."
       ],
       "少儿": [
         "这个节目适合少儿观看。",
@@ -1070,11 +786,6 @@
         "Câu chuyện này nghe rất kỳ diệu.",
         "Zhège gùshì tīng qǐlái hěn shénqí."
       ],
-      "声调": [
-        "汉语有四个声调。",
-        "Tiếng Trung có bốn thanh điệu.",
-        "Hànyǔ yǒu sì gè shēngdiào."
-      ],
       "狮子": [
         "狮子是百兽之王。",
         "Sư tử là chúa tể muôn thú.",
@@ -1085,40 +796,10 @@
         "Điện thoại có thể nhận diện khuôn mặt.",
         "Shǒujī kěyǐ rénliǎn shíbié."
       ],
-      "时速": [
-        "火车时速200公里。",
-        "Tàu hỏa chạy với tốc độ 200 km/giờ.",
-        "Huǒchē shísù èrbǎi gōnglǐ."
-      ],
       "收益": [
         "这笔投资收益很高。",
         "Khoản đầu tư này có lợi nhuận rất cao.",
         "Zhè bǐ tóuzī shōuyì hěn gāo."
-      ],
-      "首要": [
-        "安全是首要任务。",
-        "An toàn là nhiệm vụ hàng đầu.",
-        "Ānquán shì shǒuyào rènwù."
-      ],
-      "书写": [
-        "请用中文书写。",
-        "Xin viết bằng tiếng Trung.",
-        "Qǐng yòng Zhōngwén shūxiě."
-      ],
-      "竖": [
-        "请把杆子竖起来。",
-        "Xin dựng cây cột thẳng lên.",
-        "Qǐng bǎ gānzi shù qǐlái."
-      ],
-      "率先": [
-        "他率先提出建议。",
-        "Anh ấy đi đầu đề xuất ý kiến.",
-        "Tā shuàixiān tíchū jiànyì."
-      ],
-      "算了": [
-        "算了，别生气了。",
-        "Thôi đi, đừng giận nữa.",
-        "Suànle, bié shēngqì le."
       ],
       "损坏": [
         "暴雨损坏了道路。",
@@ -1129,35 +810,7 @@
         "我们去打台球吧。",
         "Chúng ta đi chơi bi-a đi.",
         "Wǒmen qù dǎ táiqiú ba."
-      ]
-    }
-  },
-  {
-    "id": "hsk6-topic-06-lesson-12",
-    "title": "Không gian và vận động · Bài 12",
-    "titleCn": "HSK 6 · 6-12",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "淘汰",
-      "特地",
-      "特定",
-      "田径",
-      "调节",
-      "通道",
-      "通话",
-      "通信",
-      "拖",
-      "外界",
-      "弯曲",
-      "违规",
-      "为止",
-      "未必",
-      "闻名"
-    ],
-    "examples": {
+      ],
       "淘汰": [
         "旧手机被淘汰了。",
         "Điện thoại cũ đã bị loại bỏ.",
@@ -1167,42 +820,35 @@
         "我特地来看你。",
         "Tôi đặc biệt đến thăm bạn.",
         "Wǒ tèdì lái kàn nǐ."
-      ],
-      "特定": [
-        "在特定条件下有效。",
-        "Có hiệu lực trong điều kiện cụ thể.",
-        "Zài tèdìng tiáojiàn xià yǒuxiào."
-      ],
-      "田径": [
-        "他是田径运动员。",
-        "Anh ấy là vận động viên điền kinh.",
-        "Tā shì tiánjìng yùndòngyuán."
-      ],
-      "调节": [
-        "请调节空调温度。",
-        "Xin điều chỉnh nhiệt độ máy lạnh.",
-        "Qǐng tiáojié kōngtiáo wēndù."
-      ],
-      "通道": [
-        "请走紧急通道。",
-        "Xin đi lối đi khẩn cấp.",
-        "Qǐng zǒu jǐnjí tōngdào."
-      ],
-      "通话": [
-        "我正在和他通话。",
-        "Tôi đang nói chuyện điện thoại với anh ấy.",
-        "Wǒ zhèngzài hé tā tōnghuà."
-      ],
-      "通信": [
-        "他们通过网络通信。",
-        "Họ giao tiếp qua mạng.",
-        "Tāmen tōngguò wǎngluò tōngxìn."
-      ],
-      "拖": [
-        "别拖着行李箱走。",
-        "Đừng kéo vali lê trên đất.",
-        "Bié tuō zhe xínglǐ xiāng zǒu."
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk6-topic-06-lesson-09",
+    "title": "Không gian, di chuyển và đời sống · Bài 9",
+    "titleCn": "HSK 6 · 6-9",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "外界",
+      "弯曲",
+      "违规",
+      "未必",
+      "闻名",
+      "无疑",
+      "相等",
+      "象棋",
+      "携带",
+      "新款",
+      "型号",
+      "严厉",
+      "延伸",
+      "眼看",
+      "也好"
+    ],
+    "examples": {
       "外界": [
         "外界对这件事很关注。",
         "Thế giới bên ngoài rất quan tâm đến việc này.",
@@ -1218,11 +864,6 @@
         "Anh ấy đỗ xe vi phạm.",
         "Tā wéiguī tíngchē."
       ],
-      "为止": [
-        "到目前为止一切正常。",
-        "Cho đến hiện tại mọi thứ đều bình thường.",
-        "Dào mùqián wéizhǐ yīqiè zhèngcháng."
-      ],
       "未必": [
         "他未必会来。",
         "Anh ấy chưa chắc sẽ đến.",
@@ -1232,59 +873,11 @@
         "这座城市闻名世界。",
         "Thành phố này nổi tiếng thế giới.",
         "Zhè zuò chéngshì wénmíng shìjiè."
-      ]
-    }
-  },
-  {
-    "id": "hsk6-topic-06-lesson-13",
-    "title": "Không gian và vận động · Bài 13",
-    "titleCn": "HSK 6 · 6-13",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "无所谓",
-      "无疑",
-      "夏令营",
-      "显",
-      "线",
-      "相等",
-      "象棋",
-      "消防",
-      "携带",
-      "新款",
-      "型号",
-      "淹",
-      "严厉",
-      "延伸",
-      "眼看"
-    ],
-    "examples": {
-      "无所谓": [
-        "去不去都无所谓。",
-        "Đi hay không cũng chẳng sao.",
-        "Qù bù qù dōu wúsuǒwèi."
       ],
       "无疑": [
         "这无疑是正确的。",
         "Điều này không nghi ngờ là đúng.",
         "Zhè wúyí shì zhèngquè de."
-      ],
-      "夏令营": [
-        "孩子们去参加夏令营。",
-        "Bọn trẻ đi tham gia trại hè.",
-        "Háizimen qù cānjiā xiàlìngyíng."
-      ],
-      "显": [
-        "效果很明显。",
-        "Hiệu quả rất rõ ràng.",
-        "Xiàoguǒ hěn míngxiǎn."
-      ],
-      "线": [
-        "画一条直线。",
-        "Vẽ một đường thẳng.",
-        "Huà yī tiáo zhíxiàn."
       ],
       "相等": [
         "两边长度相等。",
@@ -1295,11 +888,6 @@
         "我们下象棋吧。",
         "Chúng ta chơi cờ tướng đi.",
         "Wǒmen xià xiàngqí ba."
-      ],
-      "消防": [
-        "消防队员及时赶到。",
-        "Đội cứu hỏa đến kịp thời.",
-        "Xiāofáng duìyuán jíshí gǎndào."
       ],
       "携带": [
         "请勿携带危险物品。",
@@ -1316,11 +904,6 @@
         "Model điện thoại này là mới nhất.",
         "Zhège shǒujī xínghào shì zuìxīn kuǎn."
       ],
-      "淹": [
-        "大雨把街道淹了。",
-        "Mưa lớn làm đường phố ngập nước.",
-        "Dà yǔ bǎ jiēdào yān le"
-      ],
       "严厉": [
         "法官对罪犯的态度很严厉。",
         "Thẩm phán có thái độ rất nghiêm khắc với tội phạm.",
@@ -1335,64 +918,44 @@
         "眼看就要下雨了，我们快回家吧。",
         "Sắp mưa rồi, chúng ta mau về nhà đi.",
         "Yǎnkàn jiù yào xiàyǔ le, wǒmen kuài huíjiā ba"
-      ]
-    }
-  },
-  {
-    "id": "hsk6-topic-06-lesson-14",
-    "title": "Không gian và vận động · Bài 14",
-    "titleCn": "HSK 6 · 6-14",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "痒",
-      "要点",
-      "也好",
-      "一道",
-      "一阵",
-      "一模一样",
-      "易于",
-      "银牌",
-      "引",
-      "拥挤",
-      "于",
-      "与其",
-      "原本",
-      "原先",
-      "晕"
-    ],
-    "examples": {
-      "痒": [
-        "蚊子咬的地方很痒。",
-        "Chỗ bị muỗi đốt rất ngứa.",
-        "Wénzi yǎo de dìfang hěn yǎng"
-      ],
-      "要点": [
-        "请抓住演讲的要点。",
-        "Hãy nắm bắt các điểm chính của bài phát biểu.",
-        "Qǐng zhuāzhù yǎnjiǎng de yàodiǎn"
       ],
       "也好": [
         "你不去也好，省得麻烦。",
         "Bạn không đi cũng được, khỏi phải phiền phức.",
         "Nǐ bú qù yěhǎo, shěngde máfan"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk6-topic-06-lesson-10",
+    "title": "Không gian, di chuyển và đời sống · Bài 10",
+    "titleCn": "HSK 6 · 6-10",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "一道",
+      "易于",
+      "银牌",
+      "拥挤",
+      "与其",
+      "原本",
+      "运送",
+      "灾难",
+      "噪声",
+      "证实",
+      "中断",
+      "棕色",
+      "走廊",
+      "版本",
+      "保障"
+    ],
+    "examples": {
       "一道": [
         "我们一道去旅行吧。",
         "Chúng ta cùng nhau đi du lịch nhé.",
         "Wǒmen yídào qù lǚxíng ba"
-      ],
-      "一阵": [
-        "一阵大风吹过。",
-        "Một trận gió lớn thổi qua.",
-        "Yízhèn dàfēng chuī guò"
-      ],
-      "一模一样": [
-        "这两张照片一模一样。",
-        "Hai tấm ảnh này giống hệt nhau.",
-        "Zhè liǎng zhāng zhàopiàn yìmú-yíyàng"
       ],
       "易于": [
         "这个方法易于操作。",
@@ -1404,20 +967,10 @@
         "Cô ấy giành huy chương bạc Olympic.",
         "Tā huòdé le Àoyùnhuì yínpái"
       ],
-      "引": [
-        "这条路引向山顶。",
-        "Con đường này dẫn lên đỉnh núi.",
-        "Zhè tiáo lù yǐn xiàng shāndǐng"
-      ],
       "拥挤": [
         "地铁里很拥挤。",
         "Trong tàu điện ngầm rất đông đúc.",
         "Dìtiě lǐ hěn yōngjǐ"
-      ],
-      "于": [
-        "这件事于我来说很重要。",
-        "Việc này đối với tôi rất quan trọng.",
-        "Zhè jiàn shì yú wǒ lái shuō hěn zhòng yào."
       ],
       "与其": [
         "与其在家无聊，不如出去走走。",
@@ -1429,49 +982,6 @@
         "Ban đầu tôi không muốn đi, sau đó đổi ý.",
         "Wǒ yuán běn bù xiǎng qù, hòu lái gǎi biàn le zhǔ yì."
       ],
-      "原先": [
-        "原先的计划已经改变了。",
-        "Kế hoạch ban đầu đã thay đổi.",
-        "Yuán xiān de jì huà yǐ jīng gǎi biàn le."
-      ],
-      "晕": [
-        "我有点晕车。",
-        "Tôi hơi bị chóng mặt (say xe).",
-        "Wǒ yǒu diǎn yūn chē."
-      ]
-    }
-  },
-  {
-    "id": "hsk6-topic-06-lesson-15",
-    "title": "Không gian và vận động · Bài 15",
-    "titleCn": "HSK 6 · 6-15",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "晕车",
-      "运送",
-      "灾难",
-      "遭遇",
-      "噪声",
-      "则",
-      "账单",
-      "正面",
-      "证实",
-      "只得",
-      "只顾",
-      "终点",
-      "中断",
-      "主角",
-      "主流"
-    ],
-    "examples": {
-      "晕车": [
-        "她坐长途车经常晕车。",
-        "Cô ấy hay bị say xe khi đi xe đường dài.",
-        "Tā zuò cháng tú chē jīng cháng yùn chē."
-      ],
       "运送": [
         "货物已经运送到目的地。",
         "Hàng hóa đã được vận chuyển đến nơi.",
@@ -1482,99 +992,20 @@
         "Thảm họa này đã cướp đi nhiều sinh mạng.",
         "Zhè chǎng zāi nàn duó zǒu le hěn duō shēng mìng."
       ],
-      "遭遇": [
-        "他遭遇了车祸。",
-        "Anh ấy gặp tai nạn xe.",
-        "Tā zāo yù le chē huò."
-      ],
       "噪声": [
         "城市里的噪声很大。",
         "Tiếng ồn trong thành phố rất lớn.",
         "Chéng shì lǐ de zào shēng hěn dà."
-      ],
-      "则": [
-        "你不去，我则去。",
-        "Bạn không đi thì tôi đi.",
-        "Nǐ bú qù, wǒ zé qù."
-      ],
-      "账单": [
-        "服务员把账单拿来了。",
-        "Nhân viên phục vụ mang hóa đơn đến.",
-        "Fú wù yuán bǎ zhàng dān ná lái le."
-      ],
-      "正面": [
-        "请看正面的照片。",
-        "Hãy xem ảnh mặt trước.",
-        "Qǐng kàn zhèng miàn de zhào piàn."
       ],
       "证实": [
         "调查证实了这个消息。",
         "Cuộc điều tra đã xác nhận tin này.",
         "Diào chá zhèng shí le zhè ge xiāo xi."
       ],
-      "只得": [
-        "没车了，我只得走路回家。",
-        "Không có xe, tôi đành phải đi bộ về nhà.",
-        "Méi chē le, wǒ zhǐ dé zǒu lù huí jiā."
-      ],
-      "只顾": [
-        "他只顾玩手机，不看路。",
-        "Anh ấy chỉ lo chơi điện thoại, không nhìn đường.",
-        "Tā zhǐ gù wán shǒu jī, bù kàn lù."
-      ],
-      "终点": [
-        "马拉松的终点就在前面。",
-        "Đích đến của cuộc chạy marathon ở ngay phía trước.",
-        "Mǎ lā sōng de zhōng diǎn jiù zài qián miàn."
-      ],
       "中断": [
         "会议因停电而中断。",
         "Cuộc họp bị gián đoạn vì mất điện.",
         "Huì yì yīn tíng diàn ér zhōng duàn."
-      ],
-      "主角": [
-        "电影的主角很帅。",
-        "Nhân vật chính trong phim rất đẹp trai.",
-        "Diàn yǐng de zhǔ jué hěn shuài."
-      ],
-      "主流": [
-        "这是当前的主流观点。",
-        "Đây là quan điểm chủ đạo hiện nay.",
-        "Zhè shì dāng qián de zhǔ liú guān diǎn."
-      ]
-    }
-  },
-  {
-    "id": "hsk6-topic-06-lesson-16",
-    "title": "Không gian và vận động · Bài 16",
-    "titleCn": "HSK 6 · 6-16",
-    "context": "6 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "主张",
-      "转身",
-      "追究",
-      "棕色",
-      "走廊",
-      "足以"
-    ],
-    "examples": {
-      "主张": [
-        "我主张早点出发。",
-        "Tôi chủ trương xuất phát sớm.",
-        "Wǒ zhǔ zhāng zǎo diǎn chū fā."
-      ],
-      "转身": [
-        "他转身就走了。",
-        "Anh ấy quay người rồi đi luôn.",
-        "Tā zhuǎn shēn jiù zǒu le."
-      ],
-      "追究": [
-        "这件事必须追究责任。",
-        "Việc này phải truy cứu trách nhiệm.",
-        "Zhè jiàn shì bì xū zhuī jiū zé rèn."
       ],
       "棕色": [
         "她穿了一件棕色外套。",
@@ -1586,10 +1017,579 @@
         "Họ đang trò chuyện ở hành lang.",
         "Tā men zài zǒu láng liáo tiān."
       ],
-      "足以": [
-        "这足以证明他的能力。",
-        "Điều này đủ để chứng minh khả năng của anh ấy.",
-        "Zhè zú yǐ zhèng míng tā de néng lì."
+      "版本": [
+        "这个软件有很多版本。",
+        "Phần mềm này có nhiều phiên bản.",
+        "Zhège ruǎnjiàn yǒu hěn duō bǎnběn"
+      ],
+      "保障": [
+        "法律保障公民的权利。",
+        "Pháp luật bảo đảm quyền lợi của công dân.",
+        "Fǎlǜ bǎozhàng gōngmín de quánlì"
+      ]
+    }
+  },
+  {
+    "id": "hsk6-topic-06-lesson-11",
+    "title": "Không gian, di chuyển và đời sống · Bài 11",
+    "titleCn": "HSK 6 · 6-11",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "爆炸",
+      "北极",
+      "变质",
+      "不料",
+      "步骤",
+      "彩虹",
+      "仓库",
+      "策划",
+      "差异",
+      "场合",
+      "吵架",
+      "呈现",
+      "出入",
+      "除非",
+      "传承"
+    ],
+    "examples": {
+      "爆炸": [
+        "那座大楼发生了爆炸。",
+        "Tòa nhà đó đã xảy ra vụ nổ.",
+        "Nà zuò dàlóu fāshēng le bàozhà"
+      ],
+      "北极": [
+        "北极熊生活在北极。",
+        "Gấu Bắc Cực sống ở Bắc Cực.",
+        "Běijíxióng shēnghuó zài běijí"
+      ],
+      "变质": [
+        "食物放久了会变质。",
+        "Thực phẩm để lâu sẽ bị biến chất.",
+        "Shíwù fàng jiǔ le huì biànzhì"
+      ],
+      "不料": [
+        "不料天气突然变了。",
+        "Không ngờ thời tiết đột nhiên thay đổi.",
+        "Búliào tiānqì túrán biàn le"
+      ],
+      "步骤": [
+        "请按照步骤操作。",
+        "Hãy thực hiện theo các bước.",
+        "Qǐng ànzhào bùzhòu cāozuò"
+      ],
+      "彩虹": [
+        "雨后天边出现了一道彩虹。",
+        "Sau mưa, chân trời xuất hiện một cầu vồng.",
+        "Yǔ hòu tiān biān chūxiàn le yī dào cǎihóng"
+      ],
+      "仓库": [
+        "货物已经存放在仓库里了。",
+        "Hàng hóa đã được lưu trữ trong kho.",
+        "Huòwù yǐjīng cúnfàng zài cāngkù lǐ le"
+      ],
+      "策划": [
+        "团队正在策划一场大型活动。",
+        "Đội nhóm đang lập kế hoạch cho một sự kiện lớn.",
+        "Tuánduì zhèngzài cèhuà yī chǎng dàxíng huódòng"
+      ],
+      "差异": [
+        "两地文化差异很大。",
+        "Sự khác biệt văn hóa giữa hai nơi rất lớn.",
+        "Liǎng dì wénhuà chāyì hěn dà"
+      ],
+      "场合": [
+        "在正式场合要穿正装。",
+        "Trong dịp trang trọng phải mặc trang phục chính thức.",
+        "Zài zhèngshì chǎnghé yào chuān zhèngzhuāng"
+      ],
+      "吵架": [
+        "夫妻俩又吵架了。",
+        "Hai vợ chồng lại cãi nhau rồi.",
+        "Fūqī liǎ yòu chǎojià le"
+      ],
+      "呈现": [
+        "画面呈现出美丽的景色。",
+        "Hình ảnh hiện ra cảnh đẹp.",
+        "Huàmiàn chéngxiàn chū měilì de jǐngsè"
+      ],
+      "出入": [
+        "账目有出入。",
+        "Sổ sách có sai lệch.",
+        "Zhàngmù yǒu chūrù"
+      ],
+      "除非": [
+        "除非下雨，否则我们去公园。",
+        "Trừ khi trời mưa, còn không chúng ta đi công viên.",
+        "Chúfēi xiàyǔ, fǒuzé wǒmen qù gōngyuán"
+      ],
+      "传承": [
+        "我们要传承中华优秀传统文化。",
+        "Chúng ta phải kế thừa và phát huy văn hóa truyền thống xuất sắc của Trung Hoa.",
+        "Wǒmen yào chuánchéng Zhōnghuá yōuxiù chuántǒng wénhuà"
+      ]
+    }
+  },
+  {
+    "id": "hsk6-topic-06-lesson-12",
+    "title": "Không gian, di chuyển và đời sống · Bài 12",
+    "titleCn": "HSK 6 · 6-12",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "村庄",
+      "打击",
+      "大使",
+      "贷款",
+      "道德",
+      "地域",
+      "短缺",
+      "恶劣",
+      "覆盖",
+      "负面",
+      "尴尬",
+      "钢笔",
+      "古迹",
+      "故障",
+      "广阔"
+    ],
+    "examples": {
+      "村庄": [
+        "这个村庄很宁静。",
+        "Ngôi làng này rất yên bình.",
+        "Zhège cūnzhuāng hěn níngjìng"
+      ],
+      "打击": [
+        "经济危机打击了中小企业。",
+        "Khủng hoảng kinh tế đã đánh vào các doanh nghiệp vừa và nhỏ.",
+        "Jīngjì wēijī dǎjī le zhōngxiǎo qǐyè"
+      ],
+      "大使": [
+        "中国大使出席了会议。",
+        "Đại sứ Trung Quốc đã tham dự hội nghị.",
+        "Zhōngguó dàshǐ chūxí le huìyì"
+      ],
+      "贷款": [
+        "银行批准了我的贷款。",
+        "Ngân hàng đã phê duyệt khoản vay của tôi.",
+        "Yínháng pīzhǔn le wǒ de dàikuǎn"
+      ],
+      "道德": [
+        "我们要遵守社会道德。",
+        "Chúng ta phải tuân thủ đạo đức xã hội.",
+        "Wǒmen yào zūnshǒu shèhuì dàodé"
+      ],
+      "地域": [
+        "不同地域有不同文化。",
+        "Các vùng miền có văn hóa khác nhau.",
+        "Bùtóng dìyù yǒu bùtóng wénhuà"
+      ],
+      "短缺": [
+        "目前劳动力短缺。",
+        "Hiện tại đang thiếu hụt lao động.",
+        "Mùqián láodònglì duǎnquē"
+      ],
+      "恶劣": [
+        "天气非常恶劣。",
+        "Thời tiết rất xấu.",
+        "Tiānqì fēicháng èliè"
+      ],
+      "覆盖": [
+        "森林覆盖了整个山坡。",
+        "Rừng cây phủ kín toàn bộ sườn núi.",
+        "Sēnlín fùgài le zhěnggè shānpō"
+      ],
+      "负面": [
+        "这个消息带来负面影响。",
+        "Tin này mang lại ảnh hưởng tiêu cực.",
+        "Zhège xiāoxī dàilái fùmiàn yǐngxiǎng"
+      ],
+      "尴尬": [
+        "场面非常尴尬。",
+        "Không khí rất ngượng ngùng.",
+        "Chǎngmiàn fēicháng gāngà"
+      ],
+      "钢笔": [
+        "我用钢笔写字。",
+        "Tôi viết bằng bút mực.",
+        "Wǒ yòng gāngbǐ xiězì"
+      ],
+      "古迹": [
+        "这里有很多历史古迹。",
+        "Ở đây có rất nhiều di tích lịch sử.",
+        "Zhèlǐ yǒu hěn duō lìshǐ gǔjì"
+      ],
+      "故障": [
+        "机器出现故障。",
+        "Máy móc bị hỏng hóc.",
+        "Jīqì chūxiàn gùzhàng"
+      ],
+      "广阔": [
+        "草原非常广阔。",
+        "Thảo nguyên rất rộng lớn.",
+        "Cǎoyuán fēicháng guǎngkuò"
+      ]
+    }
+  },
+  {
+    "id": "hsk6-topic-06-lesson-13",
+    "title": "Không gian, di chuyển và đời sống · Bài 13",
+    "titleCn": "HSK 6 · 6-13",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "国歌",
+      "海面",
+      "旱灾",
+      "和平",
+      "痕迹",
+      "灰心",
+      "击败",
+      "机械",
+      "即便",
+      "极端",
+      "坚固",
+      "坚硬",
+      "减压",
+      "健全",
+      "奖品"
+    ],
+    "examples": {
+      "国歌": [
+        "升旗时奏国歌。",
+        "Khi kéo cờ vang lên quốc ca.",
+        "Shēngqí shí zòu guógē"
+      ],
+      "海面": [
+        "海面风平浪静。",
+        "Mặt biển yên bình lặng sóng.",
+        "Hǎimiàn fēngpíng-làngjìng"
+      ],
+      "旱灾": [
+        "当地遭遇严重旱灾。",
+        "Địa phương gặp hạn hán nghiêm trọng.",
+        "Dāngdì zāoyù yánzhòng hànzāi"
+      ],
+      "和平": [
+        "世界需要和平。",
+        "Thế giới cần hòa bình.",
+        "Shìjiè xūyào hépíng"
+      ],
+      "痕迹": [
+        "地上留下了脚印痕迹。",
+        "Trên sàn để lại dấu chân.",
+        "Dìshàng liúxià le jiǎoyìn hénjì"
+      ],
+      "灰心": [
+        "失败了也不要灰心。",
+        "Thất bại rồi cũng đừng nản lòng.",
+        "Shībài le yě búyào huīxīn"
+      ],
+      "击败": [
+        "中国队击败了对手获得冠军。",
+        "Đội Trung Quốc đã đánh bại đối thủ để giành chức vô địch.",
+        "Zhōngguó duì jībài le duìshǒu huòdé guànjūn"
+      ],
+      "机械": [
+        "工厂引进了新机械设备。",
+        "Nhà máy đã nhập thiết bị máy móc mới.",
+        "Gōngchǎng yǐnjìn le xīn jīxiè shèbèi"
+      ],
+      "即便": [
+        "即便下雨，我们也要去。",
+        "Dù trời mưa, chúng ta vẫn phải đi.",
+        "Jíbiàn xiàyǔ, wǒmen yě yào qù"
+      ],
+      "极端": [
+        "天气极端恶劣。",
+        "Thời tiết cực kỳ xấu.",
+        "Tiānqì jíduān èliè"
+      ],
+      "坚固": [
+        "这座桥非常坚固。",
+        "Cây cầu này rất chắc chắn.",
+        "Zhè zuò qiáo fēicháng jiāngù"
+      ],
+      "坚硬": [
+        "钻石非常坚硬。",
+        "Kim cương rất cứng.",
+        "Zuànshí fēicháng jiānyìng"
+      ],
+      "减压": [
+        "运动可以帮助减压。",
+        "Tập thể dục có thể giúp giảm áp lực.",
+        "Yùndòng kěyǐ bāngzhù jiǎnyā"
+      ],
+      "健全": [
+        "我们要健全法律法规。",
+        "Chúng ta phải hoàn thiện pháp luật.",
+        "Wǒmen yào jiànquán fǎlǜ fǎguī"
+      ],
+      "奖品": [
+        "比赛设有丰富奖品。",
+        "Cuộc thi có phần thưởng phong phú.",
+        "Bǐsài shè yǒu fēngfù jiǎngpǐn"
+      ]
+    }
+  },
+  {
+    "id": "hsk6-topic-06-lesson-14",
+    "title": "Không gian, di chuyển và đời sống · Bài 14",
+    "titleCn": "HSK 6 · 6-14",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "角落",
+      "接连",
+      "金属",
+      "近来",
+      "酒精",
+      "救灾",
+      "局面",
+      "看似",
+      "可行",
+      "空地",
+      "口头",
+      "漏洞",
+      "落地",
+      "码头",
+      "蜜蜂"
+    ],
+    "examples": {
+      "角落": [
+        "钥匙掉在角落里了。",
+        "Chìa khóa rơi vào góc rồi.",
+        "Yàoshi diào zài jiǎoluò lǐ le"
+      ],
+      "接连": [
+        "接连下了三天雨。",
+        "Mưa liên tiếp ba ngày.",
+        "Jiēlián xià le sān tiān yǔ"
+      ],
+      "金属": [
+        "铁是一种常见金属。",
+        "Sắt là một loại kim loại phổ biến.",
+        "Tiě shì yī zhǒng chángjiàn jīnshǔ"
+      ],
+      "近来": [
+        "近来天气很热。",
+        "Gần đây thời tiết rất nóng.",
+        "Jìnlái tiānqì hěn rè"
+      ],
+      "酒精": [
+        "用酒精消毒伤口。",
+        "Dùng cồn khử trùng vết thương.",
+        "Yòng jiǔjīng xiāodú shāngkǒu"
+      ],
+      "救灾": [
+        "政府组织力量救灾。",
+        "Chính phủ tổ chức lực lượng cứu trợ thiên tai.",
+        "Zhèngfǔ zǔzhī lìliang jiùzāi"
+      ],
+      "局面": [
+        "当前局面很稳定。",
+        "Tình hình hiện tại rất ổn định.",
+        "Dāngqián júmiàn hěn wěndìng"
+      ],
+      "看似": [
+        "事情看似简单。",
+        "Việc có vẻ đơn giản.",
+        "Shìqing kànsì jiǎndān"
+      ],
+      "可行": [
+        "这个方案完全可行。",
+        "Phương án này hoàn toàn khả thi.",
+        "Zhège fāng’àn wánquán kěxíng"
+      ],
+      "空地": [
+        "孩子们在空地玩耍。",
+        "Bọn trẻ đang chơi ở khoảng đất trống.",
+        "Háizimen zài kòngdì wánshuǎ"
+      ],
+      "口头": [
+        "这是口头协议。",
+        "Đây là thỏa thuận miệng.",
+        "Zhè shì kǒutóu xiéyì"
+      ],
+      "漏洞": [
+        "程序有漏洞。",
+        "Chương trình có lỗ hổng.",
+        "Chéngxù yǒu lòudòng."
+      ],
+      "落地": [
+        "飞机安全落地。",
+        "Máy bay đã hạ cánh an toàn.",
+        "Fēijī ānquán luòdì."
+      ],
+      "码头": [
+        "船停在码头。",
+        "Tàu dừng ở bến cảng.",
+        "Chuán tíng zài mǎtóu."
+      ],
+      "蜜蜂": [
+        "蜜蜂在花丛中飞舞。",
+        "Ong mật đang bay lượn trong đám hoa.",
+        "Mìfēng zài huācóng zhōng fēiwǔ."
+      ]
+    }
+  },
+  {
+    "id": "hsk6-topic-06-lesson-15",
+    "title": "Không gian, di chuyển và đời sống · Bài 15",
+    "titleCn": "HSK 6 · 6-15",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "模拟",
+      "骗子",
+      "朴素",
+      "齐全",
+      "启示",
+      "气质",
+      "清理",
+      "区分",
+      "缺陷",
+      "融合",
+      "散发",
+      "鲨鱼",
+      "上级",
+      "舌头",
+      "师父"
+    ],
+    "examples": {
+      "模拟": [
+        "飞行员在模拟器上训练。",
+        "Phi công đang huấn luyện trên máy mô phỏng.",
+        "Fēixíngyuán zài mónǐqì shàng xùnliàn."
+      ],
+      "骗子": [
+        "网上有很多骗子。",
+        "Trên mạng có rất nhiều kẻ lừa đảo.",
+        "Wǎng shàng yǒu hěn duō piànzi."
+      ],
+      "朴素": [
+        "她的穿着很朴素。",
+        "Trang phục của cô ấy rất giản dị.",
+        "Tā de chuānzhuó hěn pǔsù."
+      ],
+      "齐全": [
+        "这里的设施很齐全。",
+        "Cơ sở vật chất ở đây rất đầy đủ.",
+        "Zhèlǐ de shèshī hěn qíquán."
+      ],
+      "启示": [
+        "这个故事给了我们很大启示。",
+        "Câu chuyện này đã cho chúng ta rất nhiều sự khải thị.",
+        "Zhège gùshì gěi le wǒmen hěn dà qǐshì."
+      ],
+      "气质": [
+        "她很有气质。",
+        "Cô ấy có khí chất rất tốt.",
+        "Tā hěn yǒu qìzhì."
+      ],
+      "清理": [
+        "请清理一下桌子。",
+        "Xin dọn dẹp bàn một chút.",
+        "Qǐng qīnglǐ yīxià zhuōzi."
+      ],
+      "区分": [
+        "要区分真假。",
+        "Phải phân biệt thật giả.",
+        "Yào qūfēn zhēn jiǎ."
+      ],
+      "缺陷": [
+        "产品有缺陷。",
+        "Sản phẩm có khiếm khuyết.",
+        "Chǎnpǐn yǒu quēxiàn."
+      ],
+      "融合": [
+        "不同文化正在融合。",
+        "Các nền văn hóa khác nhau đang hòa quyện.",
+        "Bùtóng wénhuà zhèngzài rónghé."
+      ],
+      "散发": [
+        "花儿散发着香味。",
+        "Hoa tỏa ra mùi hương.",
+        "Huār sànfā zhe xiāngwèi."
+      ],
+      "鲨鱼": [
+        "海里有鲨鱼。",
+        "Trong biển có cá mập.",
+        "Hǎi lǐ yǒu shāyú."
+      ],
+      "上级": [
+        "上级批准了计划。",
+        "Cấp trên đã phê duyệt kế hoạch.",
+        "Shàngjí pīzhǔn le jìhuà."
+      ],
+      "舌头": [
+        "医生让我伸出舌头。",
+        "Bác sĩ bảo tôi thè lưỡi ra.",
+        "Yīshēng ràng wǒ shēn chū shétou."
+      ],
+      "师父": [
+        "师父教了我很多功夫。",
+        "Thầy đã dạy tôi rất nhiều võ công.",
+        "Shīfu jiāo le wǒ hěn duō gōngfu."
+      ]
+    }
+  },
+  {
+    "id": "hsk6-topic-06-lesson-16",
+    "title": "Không gian, di chuyển và đời sống · Bài 16",
+    "titleCn": "HSK 6 · 6-16",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "士兵",
+      "手臂",
+      "树立",
+      "瞬间",
+      "台风",
+      "套餐"
+    ],
+    "examples": {
+      "士兵": [
+        "士兵们正在训练。",
+        "Các binh sĩ đang huấn luyện.",
+        "Shìbīngmen zhèngzài xùnliàn."
+      ],
+      "手臂": [
+        "她手臂受伤了。",
+        "Cô ấy bị thương ở cánh tay.",
+        "Tā shǒubì shòushāng le."
+      ],
+      "树立": [
+        "我们要树立正确观念。",
+        "Chúng ta phải xây dựng quan niệm đúng đắn.",
+        "Wǒmen yào shùlì zhèngquè guānniàn."
+      ],
+      "瞬间": [
+        "瞬间就过去了。",
+        "Chỉ trong khoảnh khắc đã trôi qua.",
+        "Shùnjiān jiù guòqù le."
+      ],
+      "台风": [
+        "台风即将登陆。",
+        "Bão sắp đổ bộ.",
+        "Táifēng jíjiāng dēnglù."
+      ],
+      "套餐": [
+        "我要一份套餐。",
+        "Tôi muốn một suất combo.",
+        "Wǒ yào yī fèn tàocān."
       ]
     }
   }

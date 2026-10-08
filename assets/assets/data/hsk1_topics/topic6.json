@@ -1,475 +1,480 @@
 [
   {
     "id": "hsk1-topic-06-lesson-01",
-    "title": "Đi lại quen thuộc · Bài 1",
+    "title": "Không gian, di chuyển và đời sống · Bài 1",
     "titleCn": "HSK 1 · 6-1",
-    "context": "15 từ vựng cùng nhóm nghĩa",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "吧",
-      "北",
-      "本子",
-      "车",
-      "车票",
-      "车站",
-      "出去",
-      "从",
-      "打车",
-      "打电话",
-      "到",
-      "地点",
-      "点",
-      "电话",
-      "电视 | 电视机"
+      "里边",
+      "楼上",
+      "楼下",
+      "门口",
+      "哪里",
+      "那边",
+      "男人",
+      "女儿",
+      "请进",
+      "生气",
+      "外国",
+      "下边",
+      "有名",
+      "中文",
+      "准备"
     ],
     "examples": {
-      "吧": [
-        "我们去公园玩儿吧。",
-        "Chúng mình đi công viên chơi nhé.",
-        "Wǒmen qù gōngyuán wán er ba"
+      "里边": [
+        "你在里边等我。",
+        "Bạn đợi tôi ở bên trong nhé.",
+        "Nǐ zài lǐbiān děng wǒ"
       ],
-      "北": [
-        "我们一直往北走吧。",
-        "Chúng ta cứ đi về phía bắc đi.",
-        "Wǒmen yīzhí wǎng běi zǒu ba"
+      "楼上": [
+        "我哥哥在楼上睡觉。",
+        "Anh trai tôi đang ngủ trên tầng.",
+        "Wǒ gēge zài lóu shàng shuìjiào"
       ],
-      "本子": [
-        "这个歌剧的本子挺有意思的。\n\n在越南，满18周岁就可以考本子了。",
-        "Bản nhạc kịch này thật thú vị.\n\nỞ Việt Nam, bạn đủ 18 tuổi đã có thể thi giấy phép lấy xe.",
-        "Zhège gējù de běnzi tǐng yǒuyìsi de/\n\n/Zài Yuènán, mǎn 18 zhōusuì jiù kěyǐ kǎo běnzǐ le"
+      "楼下": [
+        "我在楼下等你。",
+        "Tôi đang đợi bạn ở tầng dưới.",
+        "Wǒ zài lóu xià děng nǐ"
       ],
-      "车": [
-        "我们开车去旅行。",
-        "Chúng tôi lái xe đi du lịch.",
-        "Wǒmen kāichē qù lǚxíng"
+      "门口": [
+        "我在门口等你。",
+        "Tôi đang đợi bạn ở cửa ra vào.",
+        "Wǒ zài ménkǒu děng nǐ"
       ],
-      "车票": [
-        "快过年了，你买火车票了吗？",
-        "Tết sắp đến rồi, bạn đã mua vé tàu về nhà chưa?",
-        "Kuài guò nián le, nǐ mǎi huǒchē piào huí jiā le ma?"
+      "哪里": [
+        "你住在哪里？",
+        "Bạn sống ở đâu?",
+        "Nǐ zhù zài nǎlǐ"
       ],
-      "车站": [
-        "车站离这里不远。",
-        "Trạm xe cách đây không xa.",
-        "Chēzhàn lí zhè lǐ bù yuǎn"
+      "那边": [
+        "你看到那边的猫了吗？",
+        "Bạn có thấy con mèo bên đó không?",
+        "Nǐ kàn dào nà bian de māo le ma"
       ],
-      "出去": [
-        "我们一起出去玩儿吧。",
-        "Chúng ta cùng nhau đi chơi đi.",
-        "Wǒmen yīqǐ chūqù wánr ba"
+      "男人": [
+        "那个男人在看手机。",
+        "Người đàn ông đó đang xem điện thoại.",
+        "Nàgè nánrén zài kàn shǒujī"
       ],
-      "从": [
-        "我从家里走到学校。",
-        "Tôi đi bộ từ nhà đến trường.",
-        "Wǒ cóng jiālǐ zǒu dào xuéxiào"
+      "女儿": [
+        "我们学习“女儿”这个词。",
+        "Chúng ta học cách dùng từ “女儿”.",
+        "nǚ’ér"
       ],
-      "打车": [
-        "我们打车去机场。",
-        "Chúng ta bắt xe đến sân bay.",
-        "Wǒmen dǎ chē qù jīchǎng"
+      "请进": [
+        "请进，大家都在等你。",
+        "Mời vào, mọi người đang chờ bạn.",
+        "Qǐng jìn, dàjiā dōu zài děng nǐ"
       ],
-      "打电话": [
-        "等一下，我要打电话问问。",
-        "Đợi chút nha, tôi cần gọi điện thoại hỏi thăm.",
-        "Děng yīxià, wǒ yào dǎ diànhuà wèn wèn"
+      "生气": [
+        "妈妈生气了。",
+        "Mẹ giận rồi.",
+        "Māmā shēngqì le"
       ],
-      "到": [
-        "我们到达了目的地。",
-        "Chúng ta đã đến nơi.",
-        "Wǒmen dàodá le mùdìdì"
+      "外国": [
+        "他是外国人。",
+        "Anh ấy là người nước ngoài.",
+        "Tā shì wàiguó rén"
       ],
-      "地点": [
-        "会议的地点已经确定了。",
-        "Địa điểm cuộc họp đã được xác định.",
-        "Huìyì de dìdiǎn yǐjīng quèdìng le"
+      "下边": [
+        "桌子下边有一只猫。",
+        "Dưới bàn có một con mèo.",
+        "Zhuōzi xiàbian yǒu yī zhī māo"
       ],
-      "点": [
-        "我们去那个点看看。",
-        "Chúng ta đi đến chỗ đó xem thử.",
-        "Wǒmen qù nàgè diǎn kàn kàn"
+      "有名": [
+        "这家餐厅很有名。",
+        "Nhà hàng này rất nổi tiếng.",
+        "Zhè jiā cāntīng hěn yǒumíng"
       ],
-      "电话": [
-        "他正在打电话。",
-        "Anh ấy đang gọi điện thoại.",
-        "Tā zhèngzài dǎ diànhuà"
+      "中文": [
+        "你的中文很好。",
+        "Tiếng Trung của bạn rất tốt",
+        "Nǐ de Zhōngwén hěn hǎo"
       ],
-      "电视 | 电视机": [
-        "爸爸在看电视。",
-        "Bố đang xem tivi.",
-        "Bàba zài kàn diànshì"
+      "准备": [
+        "A: 你准备好了吗？\nB: 我们要出发了。",
+        "A: Bạn chuẩn bị xong chưa? \nB: Chúng ta sắp xuất phát rồi.",
+        "A: /Nǐ zhǔnbèi hǎo le ma/\nB: /Wǒmen yào chūfā le"
       ]
     }
   },
   {
     "id": "hsk1-topic-06-lesson-02",
-    "title": "Đi lại quen thuộc · Bài 2",
+    "title": "Không gian, di chuyển và đời sống · Bài 2",
     "titleCn": "HSK 1 · 6-2",
-    "context": "15 từ vựng cùng nhóm nghĩa",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "电影院",
-      "动作",
-      "读",
-      "对不起",
-      "放假",
-      "非常",
-      "过",
-      "坏",
-      "回去",
-      "火车",
-      "机场",
-      "记住",
-      "教学楼",
-      "进",
-      "进去"
+      "桌子",
+      "得到",
+      "地上",
+      "工作",
+      "国外",
+      "考试",
+      "南边",
+      "认真",
+      "一半",
+      "有用",
+      "右边",
+      "左边",
+      "唱歌",
+      "电影",
+      "回来"
     ],
     "examples": {
-      "电影院": [
-        "我们去电影院看电影。",
-        "Chúng tôi đi rạp chiếu phim để xem phim.",
-        "Wǒmen qù diànyǐngyuàn kàn diànyǐng"
+      "桌子": [
+        "书在桌子上，你看见了吗？",
+        "Quyển sách ở trên bàn, bạn thấy chưa?",
+        "Shū zài zhuōzi shàng, nǐ kànjiàn le ma"
       ],
-      "动作": [
-        "舞蹈的动作很优美。",
-        "Động tác của điệu nhảy rất đẹp.",
-        "Wǔdǎo de dòngzuò hěn yōuměi"
+      "得到": [
+        "他得到了奖学金。",
+        "Anh ấy đã nhận được học bổng.",
+        "Tā dédào le jiǎngxuéjīn"
       ],
-      "读": [
-        "我正在读书。",
-        "Tôi đang đọc sách.",
-        "Wǒ zhèngzài dú shū"
+      "地上": [
+        "地上有很多树叶。",
+        "Dưới đất có rất nhiều lá cây.",
+        "Dìshàng yǒu hěnduō shùyè"
       ],
-      "对不起": [
-        "对不起，我迟到了。",
-        "Xin lỗi, tôi đã đến muộn.",
-        "Duìbuqǐ, wǒ chídào le"
+      "工作": [
+        "他的工作非常忙。",
+        "Công việc của anh ấy rất bận.",
+        "Tā de gōngzuò fēicháng máng"
       ],
-      "放假": [
-        "放假了，我们一起去玩吧。",
-        "Nghỉ lễ rồi, chúng ta cùng đi chơi nhé.",
-        "Fàngjià le, wǒmen yīqǐ qù wán ba"
+      "国外": [
+        "他在国外上大学。",
+        "Anh ấy học đại học ở nước ngoài.",
+        "Tā zài guówài shàng dàxué"
       ],
-      "非常": [
-        "这个地方非常漂亮。",
-        "Nơi này cực kỳ đẹp.",
-        "Zhège dìfāng fēicháng piàoliang"
+      "考试": [
+        "我们学习“考试”这个词。",
+        "Chúng ta học cách dùng từ “考试”.",
+        "kǎoshì"
       ],
-      "过": [
-        "我去过中国三次。",
-        "Tôi đã đến Trung Quốc ba lần.",
-        "Wǒ qù guò Zhōngguó sān cì"
+      "南边": [
+        "我家在学校南边。",
+        "Nhà tôi ở phía nam của trường.",
+        "Wǒ jiā zài xuéxiào nánbiān"
       ],
-      "坏": [
-        "我的手机坏了，不能用。",
-        "Điện thoại của tôi bị hỏng, không thể dùng.",
-        "Wǒ de shǒujī huài le, bù néng yòng"
+      "认真": [
+        "他学习很认真。",
+        "Anh ấy học rất chăm chỉ.",
+        "Tā xuéxí hěn rènzhēn"
       ],
-      "回去": [
-        "我们早点回去吧。",
-        "Chúng ta về sớm một chút đi.",
-        "Wǒmen zǎodiǎn huí qù ba"
+      "一半": [
+        "我们班一半是男生。",
+        "Một nửa lớp chúng tôi là nam sinh.",
+        "Wǒmen bān yíbàn shì nánshēng"
       ],
-      "火车": [
-        "我坐火车去北京。",
-        "Tôi đi Bắc Kinh bằng tàu hỏa.",
-        "Wǒ zuò huǒchē qù Běijīng"
+      "有用": [
+        "这本书很有用。",
+        "Cuốn sách này rất hữu ích.",
+        "Zhè běn shū hěn yǒuyòng"
       ],
-      "机场": [
-        "他去机场接朋友。",
-        "Anh ấy đến sân bay đón bạn.",
-        "Tā qù jīchǎng jiē péngyǒu"
+      "右边": [
+        "我们学习“右边”这个词。",
+        "Chúng ta học cách dùng từ “右边”.",
+        "yòubian"
       ],
-      "记住": [
-        "请记住这个电话号码。",
-        "Hãy nhớ số điện thoại này.",
-        "Qǐng jìzhù zhège diànhuà hàomǎ"
+      "左边": [
+        "我家在学校左边。",
+        "Nhà tôi ở bên trái trường học.",
+        "Wǒ jiā zài xuéxiào zuǒbian"
       ],
-      "教学楼": [
-        "教学楼在图书馆东边。",
-        "Tòa nhà giảng dạy nằm ở phía đông của thư viện.",
-        "Jiàoxué lóu zài túshū guǎn dōngbian"
+      "唱歌": [
+        "我家邻居昨天一直不停地唱歌。",
+        "Ngày hôm qua hàng xóm của tôi ca hát không ngừng.",
+        "Wǒjiā línjū zuótiān yīzhí bù tíng de chànggē"
       ],
-      "进": [
-        "请进！",
-        "Xin mời vào!",
-        "Qǐng jìn"
+      "电影": [
+        "昨天我们看了一部电影。",
+        "Hôm qua chúng tôi đã xem một bộ phim.",
+        "Zuótiān wǒmen kàn le yī bù diànyǐng"
       ],
-      "进去": [
-        "你先进去，我马上来。",
-        "Bạn vào trước đi, tôi đến ngay.",
-        "Nǐ xiān jìn qù, wǒ mǎshàng lái"
+      "回来": [
+        "他晚上七点回来。",
+        "Anh ấy sẽ quay lại lúc 7 giờ tối.",
+        "Tā wǎnshàng qī diǎn huí lái"
       ]
     }
   },
   {
     "id": "hsk1-topic-06-lesson-03",
-    "title": "Đi lại quen thuộc · Bài 3",
+    "title": "Không gian, di chuyển và đời sống · Bài 3",
     "titleCn": "HSK 1 · 6-3",
-    "context": "15 từ vựng cùng nhóm nghĩa",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "开车",
-      "看",
-      "看到",
-      "口",
-      "快",
-      "来到",
-      "老",
-      "路",
-      "路口",
-      "路上",
-      "马路",
-      "马上",
-      "那儿",
-      "汽车",
-      "前天"
+      "开会",
+      "看病",
+      "奶奶 | 奶",
+      "请假",
+      "生日",
+      "忘记",
+      "休息",
+      "别的",
+      "打球",
+      "飞机",
+      "好看",
+      "觉得",
+      "那些",
+      "牛奶",
+      "女人"
     ],
     "examples": {
-      "看": [
-        "这本书我看完了。",
-        "Tôi đã đọc xong cuốn sách này.",
-        "Zhè běn shū wǒ kànwán le"
+      "开会": [
+        "我下午三点要开会。",
+        "Tôi có cuộc họp lúc 3 giờ chiều.",
+        "Wǒ xiàwǔ sān diǎn yào kāi huì"
       ],
-      "看到": [
-        "我在街上看到一只小猫。",
-        "Tôi nhìn thấy một con mèo nhỏ trên đường.",
-        "Wǒ zài jiē shàng kàndào yī zhī xiǎo māo"
+      "看病": [
+        "我今天去医院看病。",
+        "Hôm nay tôi đi bệnh viện khám bệnh.",
+        "Wǒ jīntiān qù yīyuàn kàn bìng"
       ],
-      "口": [
-        "我用盐水漱口。\n\n出口在左边，不要走错了。",
-        "Tôi dùng nước muối để súc miệng.\n\nCửa ra ở bên trái, đừng đi sai nhé.",
-        "Wǒ yòng yánshuǐ shù kǒu/\n\n/Chūkǒu zài zuǒbiān, bùyào zǒu cuò le"
+      "奶奶 | 奶": [
+        "我奶奶今年八十岁。",
+        "Bà nội tôi năm nay 80 tuổi.",
+        "Wǒ nǎinai jīnnián bāshí suì"
       ],
-      "快": [
-        "火车快要来了。",
-        "Tàu hỏa sắp đến rồi.",
-        "Huǒchē kuài yào lái le"
+      "请假": [
+        "老师，今天我想请假。",
+        "Thầy ơi, hôm nay em muốn xin nghỉ.",
+        "Lǎoshī, jīntiān wǒ xiǎng qǐngjià"
       ],
-      "来到": [
-        "他来到公司了。",
-        "Anh ấy đến công ty rồi.",
-        "Tā láidào gōngsī le"
+      "生日": [
+        "你的生日是几月几号？",
+        "Sinh nhật của bạn là ngày mấy tháng mấy?",
+        "Nǐ de shēngrì shì jǐ yuè jǐ hào"
       ],
-      "老": [
-        "这辆车太老了。",
-        "Chiếc xe này quá cũ rồi.",
-        "Zhè liàng chē tài lǎo le"
+      "忘记": [
+        "请不要忘记明天的会议。",
+        "Xin đừng quên cuộc họp ngày mai.",
+        "Qǐng bú yào wàngjì míngtiān de huìyì"
       ],
-      "路": [
-        "这条路很长。",
-        "Con đường này rất dài.",
-        "Zhè tiáo lù hěn cháng"
+      "休息": [
+        "我每天都要休息一小时。",
+        "Tôi phải nghỉ ngơi một giờ mỗi ngày.",
+        "Wǒ měitiān dōu yào xiūxi yī xiǎoshí"
       ],
-      "路口": [
-        "这个路口有很多车。",
-        "Ngã tư này có rất nhiều xe.",
-        "Zhège lùkǒu yǒu hěn duō chē"
+      "别的": [
+        "我不要别的，只要那支钢笔。",
+        "Tôi không cần cái nào khác, chỉ cần cây bút đó.",
+        "Wǒ bùyào bié de, zhǐyào nà zhī gāngbǐ"
       ],
-      "路上": [
-        "我在路上，看见了你。",
-        "Tôi trên đường, nhìn thấy bạn.",
-        "Wǒ zài lùshàng, kànjiàn le nǐ"
+      "打球": [
+        "他们很喜欢打球。",
+        "Cậu ấy thích chơi bóng rổ.",
+        "Tā xǐhuān dǎ lánqiú"
       ],
-      "马路": [
-        "这个马路很长。",
-        "Con đường này rất dài.",
-        "Zhège mǎlù hěn cháng"
+      "飞机": [
+        "我第一次坐飞机时特别开心。",
+        "Lần đầu tiên tôi đi máy bay, tôi rất vui mừng.",
+        "Wǒ dì yī cì zuò fēijī shí tèbié kāixīn"
       ],
-      "马上": [
-        "我马上回来。",
-        "Tôi sẽ quay lại ngay lập tức.",
-        "Wǒ mǎshàng huílái"
+      "好看": [
+        "这本书很好看，我喜欢。",
+        "Cuốn sách này rất hay, tôi thích.",
+        "Zhè běn shū hěn hǎokàn, wǒ xǐhuān"
       ],
-      "那儿": [
-        "你要去那儿做什么？",
-        "Bạn muốn đến đó làm gì?",
-        "Nǐ yào qù nàr zuò shénme"
+      "觉得": [
+        "我觉得这本书很好看。",
+        "Tôi cảm thấy cuốn sách này rất hay.",
+        "Wǒ juéde zhè běn shū hěn hǎokàn"
       ],
-      "汽车": [
-        "这辆汽车是我爸爸的。",
-        "Hai chiếc ô tô này là của bố tôi.",
-        "Zhè liàng qìchē shì wǒ bàba de"
+      "那些": [
+        "那些书都送给你吧。",
+        "Những cuốn sách này đều cho cậu.",
+        "Nàxiē shū dōu sòng gěi nǐ ba"
       ],
-      "前天": [
-        "我前天去了上海。",
-        "Hôm kia tôi đã đi Thượng Hải.",
-        "Wǒ qiántiān qù le Shànghǎi"
+      "牛奶": [
+        "我喜欢喝牛奶。",
+        "Tôi thích uống sữa.",
+        "Wǒ xǐhuan hē niúnǎi"
+      ],
+      "女人": [
+        "女人都喜欢买漂亮的衣服。",
+        "Phụ nữ đều thích mua quần áo đẹp.",
+        "Nǚrén dōu xǐhuān mǎi piàoliang de yīfu"
       ]
     }
   },
   {
     "id": "hsk1-topic-06-lesson-04",
-    "title": "Đi lại quen thuộc · Bài 4",
+    "title": "Không gian, di chuyển và đời sống · Bài 4",
     "titleCn": "HSK 1 · 6-4",
-    "context": "15 từ vựng cùng nhóm nghĩa",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "上车",
-      "时候",
-      "手机",
-      "睡觉",
-      "晚上",
-      "下车",
-      "下次",
-      "先",
-      "星期日",
-      "爷爷",
-      "一块儿",
-      "一起",
-      "用",
-      "找",
-      "这边"
+      "女生",
+      "上网",
+      "生病",
+      "书店",
+      "外边",
+      "玩儿",
+      "网上",
+      "先生",
+      "医院",
+      "找到",
+      "这里",
+      "最后",
+      "不大",
+      "还是",
+      "好吃"
     ],
     "examples": {
-      "上车": [
-        "我们快上车吧。",
-        "Chúng ta mau lên xe đi.",
-        "Wǒmen kuài shàng chē ba"
+      "女生": [
+        "这些女生喜欢画画。",
+        "Những nữ sinh này thích vẽ.",
+        "Zhèxiē nǚshēng xǐhuān huà huà"
       ],
-      "时候": [
-        "你什么时候去北京？",
-        "Khi nào bạn đi Bắc Kinh?",
-        "Nǐ shénme shíhòu qù Běijīng"
+      "上网": [
+        "他喜欢上网买东西。",
+        "Anh ấy thích mua hàng online.",
+        "Tā xǐhuan shàng wǎng mǎi dōngxi"
       ],
-      "手机": [
-        "我的手机在那里。",
-        "Điện thoại của tôi ở đằng kia.",
-        "Wǒ de shǒujī zài nàlǐ"
+      "生病": [
+        "他昨天生病了。",
+        "Hôm qua anh ấy bị bệnh.",
+        "Tā zuótiān shēng bìng le"
       ],
-      "睡觉": [
-        "孩子们都去睡觉了。",
-        "Bọn trẻ đều đi ngủ rồi.",
-        "Háizǐmen dōu qù shuìjiào le"
+      "书店": [
+        "我喜欢去书店。",
+        "Tôi thích đi nhà sách.",
+        "Wǒ xǐhuan qù shūdiàn"
       ],
-      "晚上": [
-        "晚上我们一起去看电影吧。",
-        "Buổi tối chúng ta cùng đi xem phim nhé.",
-        "Wǎnshàng wǒmen yìqǐ qù kàn diànyǐng ba"
+      "外边": [
+        "外边有很多漂亮的花。",
+        "Bên ngoài có rất nhiều hoa đẹp.",
+        "Wàibian yǒu hěnduō piàoliang de huā"
       ],
-      "下车": [
-        "我要在这一站下车。",
-        "Tôi muốn xuống xe ở trạm này.",
-        "Wǒ yào zài zhè yí zhàn xià chē"
+      "玩儿": [
+        "孩子们喜欢玩儿游戏。",
+        "Bọn trẻ thích chơi trò chơi.",
+        "Háizimen xǐhuān wánr yóuxì"
       ],
-      "下次": [
-        "下次我们一起去看电影吧。",
-        "Lần sau chúng ta cùng đi xem phim nhé.",
-        "Xià cì wǒmen yīqǐ qù kàn diànyǐng ba"
+      "网上": [
+        "现在很多人喜欢在网上买东西。",
+        "Hiện nay nhiều người thích mua đồ trên mạng.",
+        "Xiànzài hěnduō rén xǐhuān zài wǎngshàng mǎi dōngxī"
       ],
-      "先": [
-        "你先去，我等一下再去。",
-        "Bạn đi trước đi, tôi sẽ đi sau.",
-        "Nǐ xiān qù, wǒ děng yīxià zài qù"
+      "先生": [
+        "这位是李先生。",
+        "Đây là ông Lý.",
+        "Zhè wèi shì Lǐ xiānsheng"
       ],
-      "星期日": [
-        "星期日我们去公园吧。",
-        "Chủ nhật chúng ta đi công viên nhé.",
-        "Xīngqīrì wǒmen qù gōngyuán ba"
+      "医院": [
+        "他生病了，要去医院。",
+        "Anh ấy bị ốm, cần đến bệnh viện.",
+        "Tā shēngbìng le, yào qù yīyuàn"
       ],
-      "爷爷": [
-        "我爷爷每天去公园散步。",
-        "Mỗi ngày ông nội tôi đi dạo trong công viên.",
-        "Wǒ yéye měitiān qù gōngyuán sànbù"
+      "找到": [
+        "我找到钥匙了。",
+        "Tôi tìm thấy chìa khóa rồi.",
+        "Wǒ zhǎodào yàoshi le"
       ],
-      "一块儿": [
-        "我们一块儿去公园吧。",
-        "Chúng ta cùng đi công viên nhé.",
-        "Wǒmen yíkuàir qù gōngyuán ba"
+      "这里": [
+        "这里的风景很美。",
+        "Phong cảnh ở đây rất đẹp.",
+        "Zhè lǐ de fēngjǐng hěn měi"
       ],
-      "一起": [
-        "我们一起去看电影吧。",
-        "Chúng ta cùng đi xem phim nhé.",
-        "Wǒmen yìqǐ qù kàn diànyǐng ba"
+      "最后": [
+        "最后一个问题，你听好了。",
+        "Câu hỏi cuối cùng, bạn nghe kỹ nhé.",
+        "Zuìhòu yī gè wèntí, nǐ tīng hǎo le"
       ],
-      "用": [
-        "你可以用我的手机。",
-        "Bạn có thể dùng điện thoại của tôi.",
-        "Nǐ kěyǐ yòng wǒ de shǒujī"
+      "不大": [
+        "这个房间不大。",
+        "Căn phòng này không lớn.",
+        "Zhège fángjiān bù dà"
       ],
-      "找": [
-        "我在找我的手机。",
-        "Tôi đang tìm điện thoại của tôi.",
-        "Wǒ zài zhǎo wǒ de shǒujī"
+      "还是": [
+        "你想喝茶还是咖啡？",
+        "Bạn muốn uống trà hay cà phê?",
+        "Nǐ xiǎng hē chá háishì kāfēi?"
       ],
-      "这边": [
-        "你坐这边吧。",
-        "Bạn ngồi bên này đi.",
-        "Nǐ zuò zhèbiān ba"
+      "好吃": [
+        "这家餐厅的菜非常好吃。",
+        "Món ăn của nhà hàng này rất ngon.",
+        "Zhè jiā cāntīng de cài fēicháng hǎochī"
       ]
     }
   },
   {
     "id": "hsk1-topic-06-lesson-05",
-    "title": "Đi lại quen thuộc · Bài 5",
+    "title": "Không gian, di chuyển và đời sống · Bài 5",
     "titleCn": "HSK 1 · 6-5",
-    "context": "9 từ vựng cùng nhóm nghĩa",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "这儿",
-      "真",
-      "真的",
-      "正",
-      "住",
-      "走",
-      "走路",
-      "左",
-      "坐"
+      "机票",
+      "鸡蛋",
+      "门票",
+      "钱包",
+      "商场",
+      "水果",
+      "外语",
+      "一边",
+      "这些"
     ],
     "examples": {
-      "这儿": [
-        "你来这儿看看吧。",
-        "Bạn đến chỗ này xem thử đi.",
-        "Nǐ lái zhèr kànkan ba"
+      "机票": [
+        "你买机票了吗？",
+        "Bạn đã mua vé máy bay chưa?",
+        "Nǐ mǎi jīpiào le ma"
       ],
-      "真": [
-        "这个地方真美。",
-        "Nơi này thật đẹp!",
-        "Zhège dìfāng zhēn měi"
+      "鸡蛋": [
+        "我买了一些鸡蛋。",
+        "Tôi đã mua một vài quả trứng.",
+        "Wǒ mǎi le yīxiē jīdàn"
       ],
-      "真的": [
-        "你真的要去吗？",
-        "Bạn thật sự muốn đi à?",
-        "Nǐ zhēnde yào qù ma"
+      "门票": [
+        "这张门票多少钱？",
+        "Chúng ta học cách dùng từ “门票”.",
+        "Zhè zhāng ménpiào duōshǎo qián"
       ],
-      "正": [
-        "我正好要去找你。",
-        "Tôi vừa hay định đi tìm bạn.",
-        "\n\n/Wǒ zhènghǎo yào qù zhǎo nǐ"
+      "钱包": [
+        "我的钱包不见了。",
+        "Ví tiền của tôi bị mất rồi.",
+        "Wǒ de qiánbāo bú jiàn le"
       ],
-      "住": [
-        "你住在哪个城市？",
-        "Bạn sống ở thành phố nào?",
-        "Nǐ zhù zài nǎge chéngshì"
+      "商场": [
+        "我们去商场买衣服吧。",
+        "Chúng ta đi trung tâm thương mại mua quần áo đi.",
+        "Wǒmen qù shāngchǎng mǎi yīfú ba"
       ],
-      "走": [
-        "我们一起走吧，太晚了。",
-        "Chúng ta cùng đi thôi, trễ quá rồi.",
-        "Wǒmen yīqǐ zǒu ba, tài wǎn le"
+      "水果": [
+        "我每天都吃水果。",
+        "Tôi ăn trái cây mỗi ngày.",
+        "Wǒ měitiān dōu chī shuǐguǒ"
       ],
-      "走路": [
-        "他每天早上都走路去学校。",
-        "Mỗi sáng anh ấy đều đi bộ đến trường.",
-        "Tā měitiān zǎoshang dōu zǒulù qù xuéxiào"
+      "外语": [
+        "你会说几种外语？",
+        "Bạn biết nói mấy thứ tiếng nước ngoài?",
+        "Nǐ huì shuō jǐ zhǒng wàiyǔ"
       ],
-      "左": [
-        "请往左走，那边有商店。",
-        "Hãy đi về bên trái, bên đó có cửa hàng.",
-        "Qǐng wǎng zuǒ zǒu, nàbiān yǒu shāngdiàn"
+      "一边": [
+        "她一边吃饭，一边看书。",
+        "Cô ấy vừa ăn vừa đọc sách.",
+        "Tā yìbiān chīfàn, yìbiān kànshū"
       ],
-      "坐": [
-        "请坐这里，老师马上来。",
-        "Mời ngồi đây, thầy giáo sẽ đến ngay.",
-        "Qǐng zuò zhèlǐ, lǎoshī mǎshàng lái"
+      "这些": [
+        "这些水果很好吃。",
+        "Những loại trái cây này rất ngon.",
+        "Zhèxiē shuǐguǒ hěn hǎochī"
       ]
     }
   }

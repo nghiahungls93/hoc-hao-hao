@@ -1,84 +1,255 @@
 [
   {
     "id": "hsk3-topic-06-lesson-01",
-    "title": "Di chuyển và trải nghiệm · Bài 1",
+    "title": "Không gian, di chuyển và đời sống · Bài 1",
     "titleCn": "HSK 3 · 6-1",
-    "context": "15 từ vựng cùng nhóm nghĩa",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "白",
-      "办理",
-      "保证",
-      "被",
-      "本来",
-      "必要",
-      "步",
-      "曾经",
-      "长城",
-      "成功",
-      "城",
-      "城市",
-      "传播",
-      "传来",
-      "传说"
+      "价钱",
+      "节约",
+      "具有",
+      "咖啡",
+      "可乐",
+      "浪费",
+      "里面",
+      "凉水",
+      "美食",
+      "美元",
+      "面积",
+      "奶茶",
+      "票价",
+      "评价",
+      "强调"
     ],
     "examples": {
-      "白": [
-        "我白跑了一趟。",
-        "Tôi chạy đi một chuyến uổng công.",
-        "Wǒ bái pǎo le yí tàng"
+      "价钱": [
+        "你知道这件衣服的价钱吗？",
+        "Bạn có biết giá tiền của bộ quần áo này không?",
+        "Nǐ zhīdào zhè jiàn yīfú de jiàqián ma?"
       ],
-      "办理": [
-        "我去银行办理银行卡。",
-        "Tôi đến ngân hàng để làm thẻ ngân hàng.",
-        "Wǒ qù yínháng bànlǐ yínhángkǎ"
+      "节约": [
+        "我们要节约用水。",
+        "Chúng ta phải tiết kiệm nước.",
+        "Wǒmen yào jiéyuē yòng shuǐ"
       ],
+      "具有": [
+        "这道菜具有越南特色。",
+        "Anh ấy có khả năng học rất tốt.",
+        "Tā jùyǒu hěn qiáng de xuéxí nénglì"
+      ],
+      "咖啡": [
+        "我每天早上都喝一杯咖啡。",
+        "Mỗi sáng tôi đều uống một cốc cà phê.",
+        "Wǒ měitiān zǎoshang dōu hē yì bēi kāfēi"
+      ],
+      "可乐": [
+        "我喜欢喝可乐。",
+        "Tôi thích uống Coca-Cola.",
+        "Wǒ xǐhuan hē kělè"
+      ],
+      "浪费": [
+        "不要浪费食物。",
+        "Đừng lãng phí thức ăn.",
+        "Bú yào làngfèi shíwù"
+      ],
+      "里面": [
+        "钱包在包里面。",
+        "Ví tiền ở trong túi.",
+        "Qiánbāo zài bāo lǐmiàn"
+      ],
+      "凉水": [
+        "请给我一杯凉水。",
+        "Xin cho tôi một cốc nước lạnh.",
+        "Qǐng gěi wǒ yì bēi liángshuǐ"
+      ],
+      "美食": [
+        "胡志明市有很多美食。",
+        "Thành phố Hồ Chí Minh có rất nhiều đồ ăn ngon.",
+        "Húzhìmíng shì yǒu hěnduō měishí"
+      ],
+      "美元": [
+        "他换了一百美元的现金。。",
+        "Anh ấy đã đổi 100 đô la Mỹ ra tiền mặt.",
+        "Tā huàn le yì bǎi měiyuán de xiànjīn"
+      ],
+      "面积": [
+        "这个房间的面积很大。",
+        "Diện tích của căn phòng này rất lớn.",
+        "Zhè gè fángjiān de miànjī hěn dà"
+      ],
+      "奶茶": [
+        "她每天都喝一杯奶茶。",
+        "Cô ấy uống một ly trà sữa mỗi ngày.",
+        "Tā měitiān dōu hē yì bēi nǎichá"
+      ],
+      "票价": [
+        "音乐会的票价有点贵。",
+        "Giá vé buổi hòa nhạc hơi đắt.",
+        "Yīnyuè huì de piàojià yǒudiǎn guì"
+      ],
+      "评价": [
+        "这本书的评价很高。",
+        "Cuốn sách này được đánh giá rất cao",
+        "Zhè běn shū de píngjià hěn gāo"
+      ],
+      "强调": [
+        "医生强调要按时吃药。",
+        "Bác sĩ nhấn mạnh rằng phải uống thuốc đúng giờ",
+        "Yīshēng qiángdiào yào ànshí chī yào"
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-06-lesson-02",
+    "title": "Không gian, di chuyển và đời sống · Bài 2",
+    "titleCn": "HSK 3 · 6-2",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "亲自",
+      "庆祝",
+      "特色",
+      "外文",
+      "现金",
+      "信任",
+      "需求",
+      "演唱",
+      "有利",
+      "证件",
+      "种子",
+      "资金",
+      "自动",
+      "自觉",
+      "足够"
+    ],
+    "examples": {
+      "亲自": [
+        "妈妈亲自为我做了生日蛋糕",
+        "Mẹ đích thân làm bánh sinh nhật cho tôi",
+        "Māma qīnzì wèi wǒ zuò le shēngrì dàngāo"
+      ],
+      "庆祝": [
+        "他们庆祝比赛的胜利",
+        "Họ ăn mừng chiến thắng của trận đấu",
+        "Tāmen qìngzhù bǐsài de shènglì"
+      ],
+      "特色": [
+        "这个菜有地方特色。",
+        "Món ăn này có đặc trưng địa phương.",
+        "Zhège cài yǒu dìfāng tèsè"
+      ],
+      "外文": [
+        "他会说多种外文。",
+        "Anh ấy biết nói nhiều thứ tiếng nước ngoài.",
+        "Tā huì shuō duōzhǒng wàiwén"
+      ],
+      "现金": [
+        "请问您付现金还是刷卡？",
+        "Xin hỏi quý khách thanh toán bằng tiền mặt hay quẹt thẻ?",
+        "Qǐngwèn nín fù xiànjīn háishì shuākǎ?"
+      ],
+      "信任": [
+        "我完全信任你的能力。",
+        "Tôi hoàn toàn tin tưởng vào năng lực của bạn.",
+        "Wǒ wánquán xìnrèn nǐ de nénglì"
+      ],
+      "需求": [
+        "市场需求正在增加。",
+        "Nhu cầu thị trường đang tăng lên.",
+        "Shìchǎng xūqiú zhèngzài zēngjiā"
+      ],
+      "演唱": [
+        "她在演唱一首流行歌曲。",
+        "Cô ấy đang hát một bài hát phổ thông.",
+        "Tā zài yǎnchàng yī shǒu liúxíng gēqǔ"
+      ],
+      "有利": [
+        "这项政策对农民很有利。",
+        "Chính sách này rất có lợi cho nông dân.",
+        "Zhè xiàng zhèngcè duì nóngmín hěn yǒulì"
+      ],
+      "证件": [
+        "出国旅游需要带齐所有证件。",
+        "Đi du lịch nước ngoài cần mang đầy đủ tất cả giấy tờ tùy thân.",
+        "Chūguó lǚyóu xūyào dài qí suǒyǒu zhèngjiàn"
+      ],
+      "种子": [
+        "把种子种到土里。",
+        "Gieo hạt giống xuống đất.",
+        "Bǎ zhǒngzi zhòng dào tǔ lǐ"
+      ],
+      "资金": [
+        "创业需要一定的资金。",
+        "Khởi nghiệp cần có một khoản vốn nhất định.",
+        "Chuàngyè xūyào yídìng de zījīn"
+      ],
+      "自动": [
+        "他自动帮我整理房间。",
+        "Anh ấy tự giác giúp tôi dọn phòng.",
+        "Tā zìdòng bāng wǒ zhěnglǐ fángjiān"
+      ],
+      "自觉": [
+        "我们应该自觉遵守规定。",
+        "Chúng ta nên tự giác tuân thủ quy định.",
+        "Wǒmen yīnggāi zìjué zūnshǒu guīdìng"
+      ],
+      "足够": [
+        "他有足够的能力和经验，很快就找到了工作。",
+        "Anh ấy có đủ năng lực và kinh nghiệm, nên rất nhanh đã tìm được việc làm.",
+        "Tā yǒu zúgòu de nénglì hé jīngyàn, hěn kuài jiù zhǎodào le gōngzuò"
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-06-lesson-03",
+    "title": "Không gian, di chuyển và đời sống · Bài 3",
+    "titleCn": "HSK 3 · 6-3",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "保证",
+      "本来",
+      "曾经",
+      "成功",
+      "城市",
+      "传播",
+      "传说",
+      "大约",
+      "带动",
+      "发生",
+      "分别",
+      "告别",
+      "工具",
+      "工业",
+      "合格"
+    ],
+    "examples": {
       "保证": [
         "我保证不迟到。",
         "Tôi đảm bảo sẽ không đến muộn.",
         "Wǒ bǎozhèng bù chídào"
-      ],
-      "被": [
-        "花被风吹走了。",
-        "Hoa bị gió thổi bay đi mất rồi.",
-        "Huā bèi fēng chuī zǒu le"
       ],
       "本来": [
         "我本来不想去。",
         "Ban đầu tôi không muốn đi.",
         "Wǒ běnlái bù xiǎng qù"
       ],
-      "必要": [
-        "我觉得没有必要去。",
-        "Tôi thấy không cần thiết phải đi.",
-        "Wǒ juéde méiyǒu bìyào qù"
-      ],
-      "步": [
-        "我们一步一步地走。",
-        "Chúng tôi đi từng bước một.",
-        "Wǒmen yíbù yíbù de zǒu"
-      ],
       "曾经": [
         "我曾经去过北京。",
         "Tôi đã từng đến Bắc Kinh.",
         "Wǒ céngjīng qù guò Běijīng"
       ],
-      "长城": [
-        "我们打算去长城旅游。",
-        "Chúng tôi dự định đi du lịch Vạn Lý Trường Thành.",
-        "Wǒmen dǎsuàn qù Chángchéng lǚyóu"
-      ],
       "成功": [
         "为了得到成功，我们必须努力。",
         "Để đạt được thành công, chúng ta cần phải nỗ lực.",
         "Wèi le dédào chénggōng, wǒmen bìxū nǔlì"
-      ],
-      "城": [
-        "我们住在这个城里。",
-        "Chúng tôi sống trong thành phố này.",
-        "Wǒmen zhù zài zhège chéng lǐ"
       ],
       "城市": [
         "上海是中国的一个大城市。",
@@ -90,53 +261,10 @@
         "Tốc độ truyền bá tin tức rất quan trọng.",
         "Xīnwén chuán bō de sùdù fēicháng zhòngyào"
       ],
-      "传来": [
-        "外面传来很大的声音。",
-        "Bên ngoài truyền đến âm thanh rất to.",
-        "Wàimiàn chuánlái hěn dà de shēngyīn"
-      ],
       "传说": [
         "我听过这个地方的一个传说。",
         "Tôi đã nghe một truyền thuyết về nơi này.",
         "Wǒ tīngguò zhège dìfāng de yí gè chuánshuō."
-      ]
-    }
-  },
-  {
-    "id": "hsk3-topic-06-lesson-02",
-    "title": "Di chuyển và trải nghiệm · Bài 2",
-    "titleCn": "HSK 3 · 6-2",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "达到",
-      "打听",
-      "大约",
-      "带动",
-      "到达",
-      "得分",
-      "调",
-      "短处",
-      "发出",
-      "发生",
-      "防",
-      "分别",
-      "赶",
-      "赶紧",
-      "赶快"
-    ],
-    "examples": {
-      "达到": [
-        "你达到了目标了吗？",
-        "Bạn đã đạt được mục tiêu chưa?",
-        "Nǐ dádào le mùbiāo le ma?"
-      ],
-      "打听": [
-        "我去打听一下他的地址。",
-        "Tôi đi hỏi thăm địa chỉ của anh ấy.",
-        "Wǒ qù dǎtīng yíxià tā de dìzhǐ"
       ],
       "大约": [
         "她大约在公园散步。",
@@ -148,108 +276,20 @@
         "Anh ấy dẫn dắt đội của chúng ta đến thành công.",
         "Tā dàidòng le wǒmen duì zǒuxiàng chénggōng"
       ],
-      "到达": [
-        "火车已经到达北京。",
-        "Tàu hỏa đã đến Bắc Kinh.",
-        "Huǒchē yǐjīng dàodá Běijīng"
-      ],
-      "得分": [
-        "她在考试中得分很高。",
-        "Cô ấy đạt được điểm rất cao trong kỳ thi.",
-        "Tā zài kǎoshì zhōng défēn hěn gāo"
-      ],
-      "调": [
-        "他在调电视的声音。",
-        "Anh ấy đang chỉnh âm lượng của TV.",
-        "Tā zài tiáo diànshì de shēngyīn"
-      ],
-      "短处": [
-        "她的短处是太着急。",
-        "Khuyết điểm của cô ấy chính là quá nóng vội.",
-        "Tā de duǎnchù shì tài zháojí"
-      ],
-      "发出": [
-        "他发出了很大的声音。\n\n你来晚了，飞机去北京已经发出了。",
-        "Anh ấy phát ra âm thanh rất lớn.\n\nBạn đến muộn rồi, máy bay đi Bắc Kinh đã khởi hành cất cánh rồi.",
-        "Tā fāchū le hěn dà de shēngyīn/\n\n/Nǐ lái wǎn le, fēijī qù běijīng yǐjīng fāchū le"
-      ],
       "发生": [
         "这条路上经常发生车祸。",
         "Đoạn đường này thường xảy ra tai nạn xe.",
         "Zhè tiáo lùshàng jīngcháng fāshēng chēhuò"
-      ],
-      "防": [
-        "下雨了，走路要注意防滑。",
-        "Trời mưa, đi đường nhớ cẩn thận tránh bị trơn trượt.",
-        "Xià yǔ le, zǒulù yào zhùyì fánghuá"
       ],
       "分别": [
         "毕业后，我们分别去了不同的城市。\n\n我不能分别这两个词的用法。",
         "Sau khi tốt nghiệp, chúng tôi chia tay nhau đến các thành phố khác nhau.\n\nTôi không thể phân biệt cách dùng của hai từ này.",
         "Bìyè hòu, wǒmen fēnbié qù le bùtóng de chéngshì/\n\n/Wǒ bùnéng fēnbié zhè liǎng gè cí de yòngfǎ"
       ],
-      "赶": [
-        "我赶不上公交车了。",
-        "Tôi không bắt kịp xe buýt rồi.",
-        "Wǒ gǎn bù shàng gōngjiāochē le"
-      ],
-      "赶紧": [
-        "时间不早了，我们赶紧走吧。",
-        "Trời không còn sớm nữa, chúng ta mau đi thôi.",
-        "Shíjiān bùzǎo le, wǒmen gǎnjǐn zǒu ba"
-      ],
-      "赶快": [
-        "月食太美了，你赶快去看看吧。",
-        "Nguyệt thực đẹp quá nè, bạn mau đến đây xem đi.",
-        "Yuè shí tàiměi le, nǐ gǎnkuài qù kàn kàn ba"
-      ]
-    }
-  },
-  {
-    "id": "hsk3-topic-06-lesson-03",
-    "title": "Di chuyển và trải nghiệm · Bài 3",
-    "titleCn": "HSK 3 · 6-3",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "高速",
-      "高速公路",
-      "告别",
-      "各地",
-      "工具",
-      "工业",
-      "观看",
-      "合格",
-      "环保",
-      "环境",
-      "计算",
-      "坚决",
-      "建设",
-      "紧",
-      "紧急"
-    ],
-    "examples": {
-      "高速": [
-        "火车以高速运行。",
-        "Tàu chạy với tốc độ cao.",
-        "Huǒchē yǐ gāosù yùnxíng"
-      ],
-      "高速公路": [
-        "我们走高速公路去上海。",
-        "Chúng tôi đi đường cao tốc đến Thượng Hải.",
-        "Wǒmen zǒu gāosù gōnglù qù Shànghǎi."
-      ],
       "告别": [
         "她来机场跟我告别。",
         "Cô ấy đến sân bay để tạm biệt tôi.",
         "Tā lái jīchǎng gēn wǒ gàobié"
-      ],
-      "各地": [
-        "他们从各地来参加会议。",
-        "Mọi người từ khắp nơi đến tham gia hội nghị.",
-        "Tāmen cóng gèdì lái cānjiā huìyì"
       ],
       "工具": [
         "这些是我修车用的工具。",
@@ -261,26 +301,39 @@
         "Ngành công nghiệp của thành phố này rất phát triển.",
         "Zhège chéngshì de gōngyè hěn fādá"
       ],
-      "观看": [
-        "我们一起观看了比赛。",
-        "Chúng tôi cùng xem trận đấu.",
-        "Wǒmen yìqǐ guānkànle bǐsài"
-      ],
       "合格": [
         "他是一个合格的爸爸。",
         "Anh ấy thi đậu, điểm số đạt chuẩn.",
         "Tā shì yīgè hégé de bàba/ "
-      ],
-      "环保": [
-        "我们应该注意环保。",
-        "Chúng ta nên chú ý đến việc bảo vệ môi trường.",
-        "Wǒmen yīnggāi zhùyì huánbǎo"
-      ],
-      "环境": [
-        "这个城市的环境很好。",
-        "Môi trường ở thành phố này rất tốt.",
-        "Zhège chéngshì de huánjìng hěn hǎo"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-06-lesson-04",
+    "title": "Không gian, di chuyển và đời sống · Bài 4",
+    "titleCn": "HSK 3 · 6-4",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "计算",
+      "坚决",
+      "建设",
+      "紧急",
+      "开发",
+      "恐怕",
+      "理发",
+      "理由",
+      "立刻",
+      "领先",
+      "另外",
+      "慢慢",
+      "南部",
+      "皮包",
+      "普及"
+    ],
+    "examples": {
       "计算": [
         "我计算下个月去北京旅游。",
         "Tôi dự định đi Bắc Kinh du lịch vào tháng sau.",
@@ -296,68 +349,10 @@
         "Thành phố đang được xây dựng nhanh chóng.",
         "Chéngshì zhèngzài kuàisù jiànshè"
       ],
-      "紧": [
-        "时间很紧，我们快走吧。",
-        "Thời gian cấp bách, chúng ta đi nhanh thôi.",
-        "Shíjiān hěn jǐn, wǒmen kuài zǒu ba"
-      ],
       "紧急": [
         "有紧急情况请马上告诉我。",
         "Có việc khẩn thì báo cho tôi ngay nhé.",
         "Yǒu jǐnjí qíngkuàng qǐng mǎshàng gàosu wǒ"
-      ]
-    }
-  },
-  {
-    "id": "hsk3-topic-06-lesson-04",
-    "title": "Di chuyển và trải nghiệm · Bài 4",
-    "titleCn": "HSK 3 · 6-4",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "京剧",
-      "就是",
-      "具体",
-      "剧场",
-      "决定",
-      "开发",
-      "恐怕",
-      "老百姓",
-      "理发",
-      "理由",
-      "立刻",
-      "领",
-      "领先",
-      "另外",
-      "留学"
-    ],
-    "examples": {
-      "京剧": [
-        "我看过一次京剧，觉得很有意思。",
-        "Tôi từng xem Kinh kịch một lần, thấy rất thú vị.",
-        "Wǒ kàn guò yí cì jīngjù, juéde hěn yǒuyìsi"
-      ],
-      "就是": [
-        "这就是我想要的。",
-        "Đây chính là điều tôi muốn.",
-        "Zhè jiùshì wǒ xiǎng yào de"
-      ],
-      "具体": [
-        "请告诉我具体的时间和地点。",
-        "Hãy nói cho tôi thời gian và địa điểm cụ thể.",
-        "Qǐng gàosu wǒ jùtǐ de shíjiān hé dìdiǎn"
-      ],
-      "剧场": [
-        "我们晚上去剧场看话剧吧。",
-        "Tối nay tụi mình đi nhà hát xem kịch nhé.",
-        "Wǒmen wǎnshàng qù jùchǎng kàn huàjù ba"
-      ],
-      "决定": [
-        "我决定去中国旅游。",
-        "Tôi quyết định đi du lịch Trung Quốc.",
-        "Wǒ juédìng qù zhōngguó lǚyóu"
       ],
       "开发": [
         "这家公司开发了一款新手机。",
@@ -368,11 +363,6 @@
         "现在路上很堵，我恐怕来不及了。",
         "Bây giờ trên đường đang kẹt xe, tôi sợ không đến kịp.",
         "Xiànzài lùshàng hěn dǔ, wǒ kǒngpà láibují le"
-      ],
-      "老百姓": [
-        "政府关心老百姓的生活。",
-        "Chính phủ quan tâm đến đời sống người dân.",
-        "Zhèngfǔ guānxīn lǎobǎixìng de shēnghuó"
       ],
       "理发": [
         "他去理发了。",
@@ -389,11 +379,6 @@
         "Đã muộn rồi, chúng ta nên ngay lập tức xuất phát.",
         "Shíjiān bù zǎo le, suǒyǐ wǒmen yīnggāi lìkè chūfā"
       ],
-      "领": [
-        "他去公司领工资。",
-        "Anh ấy đến công ty nhận lương.",
-        "Tā qù gōngsī lǐng gōngzī"
-      ],
       "领先": [
         "我们的队领先了两分。",
         "Đội chúng tôi dẫn trước hai điểm.",
@@ -404,171 +389,58 @@
         "Tôi biết nói tiếng Trung, ngoài ra tôi còn biết tiếng Nhật.\n\nTôi muốn đến một quốc gia khác để khám phá thử.",
         "Wǒ huì shuō hànyǔ, lìngwài hái huì rìyǔ/\n\n/Wǒ xiǎng qù lìngwài yí gè guójiā kànkan"
       ],
-      "留学": [
-        "她打算去美国留学。",
-        "Cô ấy dự định đi Mỹ du học.",
-        "tā dǎsuàn qù Měiguó liúxué"
-      ]
-    }
-  },
-  {
-    "id": "hsk3-topic-06-lesson-05",
-    "title": "Di chuyển và trải nghiệm · Bài 5",
-    "titleCn": "HSK 3 · 6-5",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "路线",
-      "慢慢",
-      "美",
-      "南部",
-      "配",
-      "皮包",
-      "破",
-      "普及",
-      "前面",
-      "前往",
-      "区",
-      "认出",
-      "认得",
-      "散步",
-      "上来"
-    ],
-    "examples": {
-      "路线": [
-        "出租司机看错了路线。",
-        "Tài xế taxi nhìn nhầm đường.",
-        "Chūzū sījī kàn cuò le lùxiàn"
-      ],
       "慢慢": [
         "他慢慢地走进来。",
         "Anh ấy đi vào một cách từ từ.",
         "Tā mànmàn de zǒu jìnlái"
-      ],
-      "美": [
-        "这个地方真美。",
-        "Nơi này thật đẹp.",
-        "Zhè gè dìfāng zhēn měi"
       ],
       "南部": [
         "我打算去中国南部旅游。",
         "Tôi định đi du lịch miền Nam Trung Quốc.",
         "Wǒ dǎsuàn qù Zhōngguó nánbù lǚyóu"
       ],
-      "配": [
-        "这件衣服和那条裤子很配。",
-        "Bộ áo này rất hợp với chiếc quần kia.",
-        "Zhè jiàn yīfu hé nà tiáo kùzi hěn pèi"
-      ],
       "皮包": [
         "她背着一个红色的皮包。",
         "Cô ấy đeo một chiếc túi da màu đỏ.",
         "Tā bēizhe yí ge hóngsè de píbāo"
       ],
-      "破": [
-        "碗不小心摔破了。",
-        "không cẩn thận nên cái chén đã bị vỡ rồi",
-        "Wǎn bù xiǎoxīn shuāi pòle"
-      ],
       "普及": [
         "手机在农村已经普及了。",
         "ở nông thôn thì điện thoại di động cũng rất được phổ biến",
         "Shǒujī zài nóngcūn yǐjīng pǔjí le"
-      ],
-      "前面": [
-        "银行就在超市的前面。",
-        "Ngân hàng ngay phía trước siêu thị",
-        "Yínháng jiù zài chāoshì de qiánmiàn"
-      ],
-      "前往": [
-        "我们下午前往火车站。",
-        "Buổi chiều chúng tôi sẽ đi tới ga tàu",
-        "Wǒmen xiàwǔ qiánwǎng huǒchēzhàn"
-      ],
-      "区": [
-        "这个区离市中心很近",
-        "Khu này cách trung tâm thành phố rất gần",
-        "Zhège qū lí shì zhōngxīn hěn jìn"
-      ],
-      "认出": [
-        "我马上认出了她",
-        "Tôi ngay lập tức nhận ra cô ấy",
-        "Wǒ mǎshàng rènchū le tā"
-      ],
-      "认得": [
-        "我不认得这条路",
-        "Tôi không nhận ra con đường này",
-        "Wǒ bù rèndé zhè tiáo lù"
-      ],
-      "散步": [
-        "我们下午去公园散步",
-        "Chiều nay chúng tôi đi công viên đi dạo",
-        "Wǒmen xiàwǔ qù gōngyuán sànbù"
-      ],
-      "上来": [
-        "他从楼下上来",
-        "Anh ấy đi từ tầng dưới lên",
-        "Tā cóng lóuxià shànglái"
       ]
     }
   },
   {
-    "id": "hsk3-topic-06-lesson-06",
-    "title": "Di chuyển và trải nghiệm · Bài 6",
-    "titleCn": "HSK 3 · 6-6",
-    "context": "15 từ vựng cùng nhóm nghĩa",
+    "id": "hsk3-topic-06-lesson-05",
+    "title": "Không gian, di chuyển và đời sống · Bài 5",
+    "titleCn": "HSK 3 · 6-5",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "上去",
-      "上升",
-      "深入",
-      "失去",
-      "时刻",
-      "始终",
+      "认出",
       "事实",
       "适用",
-      "属于",
       "双方",
-      "思想",
-      "速度",
-      "谈",
-      "体验",
-      "调"
+      "推开",
+      "退休",
+      "危险",
+      "香蕉",
+      "行李",
+      "性别",
+      "演员",
+      "迎接",
+      "运输",
+      "整理",
+      "值得"
     ],
     "examples": {
-      "上去": [
-        "请把书放上去",
-        "Hãy đặt cuốn sách lên phía trên",
-        "Qǐng bǎ shū fàng shàngqù"
-      ],
-      "上升": [
-        "温度在不断上升",
-        "Nhiệt độ đang không ngừng tăng",
-        "Wēndù zài bùduàn shàngshēng"
-      ],
-      "深入": [
-        "我们需要深入了解情况。",
-        "Chúng ta cần đi sâu tìm hiểu tình hình.",
-        "Wǒmen xūyào shēnrù liǎojiě qíngkuàng"
-      ],
-      "失去": [
-        "如果不努力，你会失去机会。",
-        "Nếu không cố gắng, bạn sẽ mất cơ hội.",
-        "Rúguǒ bù nǔlì, nǐ huì shīqù jīhuì"
-      ],
-      "时刻": [
-        "这是最重要的时刻。",
-        "Đây là thời khắc quan trọng nhất.",
-        "Zhè shì zuì zhòngyào de shíkè"
-      ],
-      "始终": [
-        "他始终相信自己的能力。",
-        "Anh ấy luôn luôn tin tưởng vào năng lực của bản thân.",
-        "Tā shǐzhōng xiāngxìn zìjǐ de nénglì"
+      "认出": [
+        "我马上认出了她",
+        "Tôi ngay lập tức nhận ra cô ấy",
+        "Wǒ mǎshàng rènchū le tā"
       ],
       "事实": [
         "他说的不是事实。",
@@ -580,88 +452,10 @@
         "Cuốn từ điển này vô cùng hữu dụng.",
         "Zhè běn cídiǎn fēicháng shìyòng"
       ],
-      "属于": [
-        "这辆车属于他哥哥。",
-        "Chiếc xe này là của anh trai anh ấy.",
-        "Zhè liàng chē shǔ yú tā gēge"
-      ],
       "双方": [
         "双方都同意这个决定。",
         "Cả hai bên đều đồng ý với quyết định này.",
         "Shuāngfāng dōu tóngyì zhège juédìng"
-      ],
-      "思想": [
-        "请表达你的思想。",
-        "Xin hãy bày tỏ quan điểm của bạn.",
-        "Qǐng biǎodá nǐ de sīxiǎng"
-      ],
-      "速度": [
-        "火车的速度很快。",
-        "Tốc độ của tàu hỏa rất nhanh.",
-        "Huǒchē de sùdù hěn kuài"
-      ],
-      "谈": [
-        "这件事我们以后再谈。",
-        "Chuyện này chúng ta bàn sau đi.",
-        "Zhè jiàn shì wǒmen yǐhòu zài tán"
-      ],
-      "体验": [
-        "我想去中国体验一下当地的生活。",
-        "Tôi muốn đến Trung Quốc để trải nghiệm cuộc sống địa phương.",
-        "Wǒ xiǎng qù Zhōngguó tǐyàn yíxià dāngdì de shēnghuó"
-      ],
-      "调": [
-        "他在调电视的声音。",
-        "Anh ấy đang chỉnh âm lượng của TV.",
-        "Tā zài tiáo diànshì de shēngyīn"
-      ]
-    }
-  },
-  {
-    "id": "hsk3-topic-06-lesson-07",
-    "title": "Di chuyển và trải nghiệm · Bài 7",
-    "titleCn": "HSK 3 · 6-7",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "调整",
-      "铁路",
-      "同意",
-      "突出",
-      "推开",
-      "退休",
-      "危险",
-      "下来",
-      "线",
-      "香蕉",
-      "行李",
-      "性别",
-      "修",
-      "眼前",
-      "演员"
-    ],
-    "examples": {
-      "调整": [
-        "我们需要调整计划。",
-        "Chúng ta cần điều chỉnh kế hoạch.",
-        "Wǒmen xūyào tiáozhěng jìhuà"
-      ],
-      "铁路": [
-        "中国的铁路很发达。",
-        "Đường sắt của Trung Quốc rất phát triển.",
-        "Zhōngguó de tiělù hěn fādá"
-      ],
-      "同意": [
-        "我同意你的看法。",
-        "Tôi đồng ý với quan điểm của bạn.",
-        "wǒ tóngyì nǐ de kànfǎ"
-      ],
-      "突出": [
-        "我们应该突出产品的优点。",
-        "Chúng ta nên làm nổi bật ưu điểm của sản phẩm.",
-        "Wǒmen yīnggāi tūchū chǎnpǐn de yōudiǎn"
       ],
       "推开": [
         "他推开门走了进去。",
@@ -678,16 +472,6 @@
         "Đi một mình vào ban đêm rất nguy hiểm.",
         "Wǎnshang yīgè rén zǒu hěn wēixiǎn"
       ],
-      "下来": [
-        "他从楼上走下来。",
-        "Anh ấy đi xuống lầu.",
-        "Tā cóng lóu shàng zǒu xiàlái"
-      ],
-      "线": [
-        "请沿着这条线走。",
-        "Xin hãy đi dọc theo tuyến (đường) này.",
-        "Qǐng yánzhe zhè tiáo xiàn zǒu"
-      ],
       "香蕉": [
         "香蕉是一种热带水果。",
         "Chuối là một loại trái cây nhiệt đới.",
@@ -703,114 +487,59 @@
         "Xin điền giới tính của bạn vào biểu mẫu.",
         "Qǐng zài biǎogé shang tiánxiě nín de xìngbié"
       ],
-      "修": [
-        "我的手机坏了，需要修。",
-        "Điện thoại của tôi hỏng rồi, cần phải sửa.",
-        "Wǒ de shǒujī huàile, xūyào xiū"
-      ],
-      "眼前": [
-        "他突然出现在我的眼前。",
-        "Anh ấy đột nhiên xuất hiện ngay trước mắt tôi.",
-        "Tā tūrán chūxiàn zài wǒ de yǎnqián"
-      ],
       "演员": [
         "他是一位著名的电影演员。",
         "Anh ấy là một diễn viên điện ảnh nổi tiếng.",
         "Tā shì yī wèi zhùmíng de diànyǐng yǎnyuán"
-      ]
-    }
-  },
-  {
-    "id": "hsk3-topic-06-lesson-08",
-    "title": "Di chuyển và trải nghiệm · Bài 8",
-    "titleCn": "HSK 3 · 6-8",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "以来",
-      "应当",
-      "迎接",
-      "影视",
-      "游",
-      "运输",
-      "张",
-      "整理",
-      "正式",
-      "只",
-      "直",
-      "直到",
-      "值得",
-      "主意",
-      "专门"
-    ],
-    "examples": {
-      "以来": [
-        "去年以来，他一直住在北京。",
-        "Kể từ năm ngoái đến nay, anh ấy vẫn sống ở Bắc Kinh.",
-        "Qùnián yǐlái, tā yīzhí zhù zài Běijīng"
-      ],
-      "应当": [
-        "我们应当互相帮助。",
-        "Chúng ta nên giúp đỡ lẫn nhau.",
-        "Wǒmen yīngdāng hùxiāng bāngzhù"
       ],
       "迎接": [
         "我们去机场迎接客人。",
         "Chúng tôi đến sân bay để đón khách.",
         "Wǒmen qù jīchǎng yíngjiē kèren"
       ],
-      "影视": [
-        "他致力于影视行业。",
-        "Anh ấy cống hiến cho ngành công nghiệp điện ảnh và truyền hình.",
-        "Tā zhìlì yú yǐngshì hángyè"
-      ],
-      "游": [
-        "我们去公园游玩。",
-        "Chúng tôi đi chơi ở công viên.",
-        "Wǒmen qù gōngyuán yóuwán"
-      ],
       "运输": [
         "货物正在通过卡车运输。",
         "Hàng hóa đang được vận chuyển bằng xe tải.",
         "Huòwù zhèngzài tōngguò kǎchē yùnshū"
-      ],
-      "张": [
-        "桌子上有一张纸。",
-        "Trên bàn có một tờ giấy.",
-        "Zhuōzi shang yǒu yī zhāng zhǐ"
       ],
       "整理": [
         "她正在整理房间。",
         "Cô ấy đang dọn dẹp phòng.",
         "Tā zhèngzài zhěnglǐ fángjiān"
       ],
-      "正式": [
-        "这是一份正式合同。",
-        "Đây là một hợp đồng chính thức.",
-        "Zhè shì yī fèn zhèngshì hétong"
-      ],
-      "只": [
-        "我只去过一次北京。",
-        "Tôi chỉ mới đến Bắc Kinh một lần.",
-        "Wǒ zhǐ qùguo yī cì Běijīng"
-      ],
-      "直": [
-        "请一直往前走。",
-        "Vui lòng đi thẳng về phía trước.",
-        "Qǐng yīzhí wǎng qián zǒu"
-      ],
-      "直到": [
-        "直到他离开，我才发现。",
-        "Mãi cho đến khi anh ấy rời đi, tôi mới phát hiện ra.",
-        "Zhídào tā líkāi, wǒ cái fāxiàn"
-      ],
       "值得": [
         "这部电影很值得一看。",
         "Bộ phim này rất đáng xem.",
         "Zhè bù diànyǐng hěn zhídé yī kàn"
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-06-lesson-06",
+    "title": "Không gian, di chuyển và đời sống · Bài 6",
+    "titleCn": "HSK 3 · 6-6",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "主意",
+      "专门",
+      "自从",
+      "作品",
+      "保存",
+      "报道",
+      "变化",
+      "不论",
+      "持续",
+      "初步",
+      "导演",
+      "底下",
+      "短期",
+      "放到",
+      "飞行"
+    ],
+    "examples": {
       "主意": [
         "这个主意不错。",
         "Ý này không tệ đâu.",
@@ -820,27 +549,6 @@
         "我是专门来感谢你的。",
         "Tôi đặc biệt đến để cảm ơn bạn.",
         "Wǒ shì zhuānmén lái gǎnxiè nǐ de"
-      ]
-    }
-  },
-  {
-    "id": "hsk3-topic-06-lesson-09",
-    "title": "Di chuyển và trải nghiệm · Bài 9",
-    "titleCn": "HSK 3 · 6-9",
-    "context": "3 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "资格",
-      "自从",
-      "作品"
-    ],
-    "examples": {
-      "资格": [
-        "他有参加比赛的资格。",
-        "Anh ấy có đủ tư cách tham gia cuộc thi.",
-        "Tā yǒu cānjiā bǐsài de zīgé"
       ],
       "自从": [
         "自从他走后，我就没见过他。",
@@ -851,6 +559,298 @@
         "这是一部优秀的作品。",
         "Đây là một tác phẩm xuất sắc.",
         "Zhè shì yī bù yōuxiù de zuòpǐn"
+      ],
+      "保存": [
+        "请保存这个文件。",
+        "Hãy lưu giữ tài liệu này.",
+        "Qǐng bǎocún zhège wénjiàn"
+      ],
+      "报道": [
+        "新闻报道了这件事。",
+        "Tin tức đã đưa tin về việc này.",
+        "Xīnwén bàodào le zhè jiàn shì"
+      ],
+      "变化": [
+        "天气有点变化。",
+        "Thời tiết có chút thay đổi.",
+        "Tiānqì yǒudiǎn biànhuà"
+      ],
+      "不论": [
+        "不论天气怎样，我们都去。",
+        "Bất kể thời tiết ra sao, chúng ta đều đi.",
+        "Búlùn tiānqì zěnyàng, wǒmen dōu qù"
+      ],
+      "持续": [
+        "下雨已经持续了三天了。",
+        "Mưa đã kéo dài suốt ba ngày rồi.",
+        "Xià yǔ yǐjīng chíxù le sān tiān le"
+      ],
+      "初步": [
+        "我们已经有了初步的计划。",
+        "Chúng tôi đã có kế hoạch sơ bộ rồi.",
+        "Wǒmen yǐjīng yǒu le chūbù de jìhuà"
+      ],
+      "导演": [
+        "这部电影的导演很有名。",
+        "Đạo diễn của bộ phim này rất nổi tiếng.",
+        "Zhè bù diànyǐng de dǎoyǎn hěn yǒumíng"
+      ],
+      "底下": [
+        "桌子底下有一个笔。",
+        "Dưới bàn có một cây bút.",
+        "Zhuōzi dǐxia yǒu yīgè bǐ"
+      ],
+      "短期": [
+        "这是一个短期目标。",
+        "Đây là mục tiêu ngắn hạn.",
+        "Zhè shì yīgè duǎnqī mùbiāo"
+      ],
+      "放到": [
+        "请把书放到桌子上。",
+        "Hãy đặt cuốn sách lên bàn.",
+        "Qǐng bǎ shū fàngdào zhuōzi shàng"
+      ],
+      "飞行": [
+        "鸟儿在空中自由地飞行。",
+        "Chim đang tự do bay lượn trên bầu trời.",
+        "Niǎor zài kōngzhōng zìyóu de fēixíng"
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-06-lesson-07",
+    "title": "Không gian, di chuyển và đời sống · Bài 7",
+    "titleCn": "HSK 3 · 6-7",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "丰富",
+      "改造",
+      "歌手",
+      "各种",
+      "共同",
+      "姑娘",
+      "过程",
+      "话题",
+      "机器",
+      "坚强",
+      "建成",
+      "将来",
+      "教练",
+      "景色",
+      "老板"
+    ],
+    "examples": {
+      "丰富": [
+        "她的生活非常丰富。",
+        "Cuộc sống của cô ấy rất phong phú.",
+        "Tā de shēnghuó fēicháng fēngfù"
+      ],
+      "改造": [
+        "他们在改造这座老房子。",
+        "Họ đang sửa sang ngôi nhà cũ này.",
+        "Tāmen zài gǎizào zhè zuò lǎo fángzi"
+      ],
+      "歌手": [
+        "这个歌手唱得很好。",
+        "Ca sĩ này hát rất hay.",
+        "Zhège gēshǒu chàng de hěn hǎo"
+      ],
+      "各种": [
+        "超市里有各种水果。",
+        "Siêu thị có nhiều loại trái cây.",
+        "Chāoshì lǐ yǒu gèzhǒng shuǐguǒ"
+      ],
+      "共同": [
+        "我们有一个共同的目标。",
+        "Chúng tôi có cùng một mục tiêu.",
+        "Wǒmen yǒu yí ge gòngtóng de mùbiāo"
+      ],
+      "姑娘": [
+        "那个姑娘很漂亮。",
+        "Cô gái kia rất xinh đẹp.",
+        "Nàge gūniang hěn piàoliang"
+      ],
+      "过程": [
+        "成功需要努力的过程。",
+        "Thành công cần quá trình nỗ lực.",
+        "Chénggōng xūyào nǔlì de guòchéng"
+      ],
+      "话题": [
+        "这个话题很有意思。",
+        "Chủ đề này rất thú vị.",
+        "Zhège huàtí hěn yǒuyìsi"
+      ],
+      "机器": [
+        "工厂里有很多新机器。",
+        "Trong nhà máy có rất nhiều máy móc mới.",
+        "Gōngchǎng lǐ yǒu hěn duō xīn jīqì"
+      ],
+      "坚强": [
+        "她是个坚强的女孩。",
+        "Cô ấy rất kiên quyết không đồng ý với ý kiến này.",
+        "Tā shì gè jiānqiáng de nǚhái"
+      ],
+      "建成": [
+        "新大楼已经建成了。",
+        "Tòa nhà mới đã xây xong.",
+        "Xīn dàlóu yǐjīng jiànchéng le"
+      ],
+      "将来": [
+        "将来我要当医生。",
+        "Tương lai tôi muốn làm bác sĩ.",
+        "Jiānglái wǒ yào dāng yīshēng"
+      ],
+      "教练": [
+        "我的教练很严格。",
+        "Huấn luyện viên của tôi rất nghiêm khắc.",
+        "Wǒ de jiàoliàn hěn yángé"
+      ],
+      "景色": [
+        "山上的景色非常美。",
+        "Cảnh trên núi rất đẹp.",
+        "Shān shàng de jǐngsè fēicháng měi"
+      ],
+      "老板": [
+        "我的老板很亲切。",
+        "Sếp của tôi rất thân thiện.",
+        "Wǒ de lǎobǎn hěn qīnqiè"
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-06-lesson-08",
+    "title": "Không gian, di chuyển và đời sống · Bài 8",
+    "titleCn": "HSK 3 · 6-8",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "理论",
+      "力量",
+      "录音",
+      "毛病",
+      "木头",
+      "内容",
+      "年代",
+      "暖和",
+      "批准",
+      "普遍",
+      "其次",
+      "强烈",
+      "取消",
+      "热爱",
+      "认可"
+    ],
+    "examples": {
+      "理论": [
+        "这个理论很重要。",
+        "Lý luận này rất quan trọng.",
+        "Zhè gè lǐlùn hěn zhòng yào"
+      ],
+      "力量": [
+        "团结就是力量。",
+        "Đoàn kết chính là sức mạnh.",
+        "Tuánjié jiù shì lìliàng"
+      ],
+      "录音": [
+        "我录音了全部会议内容。",
+        "Tôi đã ghi âm toàn bộ nội dung cuộc họp.",
+        "Wǒ lùyīn le quánbù huìyì nèiróng"
+      ],
+      "毛病": [
+        "这台电脑有毛病。",
+        "Cái máy tính này có vấn đề.",
+        "Zhè tái diànnǎo yǒu máobìng"
+      ],
+      "木头": [
+        "这张桌子是木头做的。",
+        "Cái bàn này được làm bằng gỗ.",
+        "Zhè zhāng zhuōzi shì mùtou zuò de"
+      ],
+      "内容": [
+        "这本书的内容非常精彩。",
+        "Nội dung của cuốn sách này rất đặc sắc.",
+        "Zhè běn shū de nèiróng fēicháng jīngcǎi"
+      ],
+      "年代": [
+        "这是八十年代的老歌。",
+        "Đây là bài hát cũ từ thập niên 80.",
+        "Zhè shì bāshí niándài de lǎo gē"
+      ],
+      "暖和": [
+        "今天天气很暖和。",
+        "Thời tiết hôm nay thật ấm áp.",
+        "Jīntiān tiānqì hěn nuǎnhuo"
+      ],
+      "批准": [
+        "这个计划已经被批准了。",
+        "Kế hoạch này đã được phê duyệt.",
+        "Zhège jìhuà yǐjīng bèi pīzhǔn le"
+      ],
+      "普遍": [
+        "这种错误很普遍。",
+        "những lỗi này cũng rất thường gặp",
+        "Zhè zhǒng cuòwù hěn pǔbiàn"
+      ],
+      "其次": [
+        "首先，我想学习汉语，其次，我想了解中国文化。",
+        "đầu tiên, tôi muốn học tiếng Trung; thứ hai, tôi muốn tìm hiểu văn hóa Trung Quốc",
+        "Shǒuxiān, wǒ xiǎng xuéxí Hànyǔ, qícì, wǒ xiǎng liǎojiě Zhōngguó wénhuà"
+      ],
+      "强烈": [
+        "我对音乐有强烈的兴趣。",
+        "Tôi có hứng thú mạnh mẽ với âm nhạc",
+        "Wǒ duì yīnyuè yǒu qiángliè de xìngqù"
+      ],
+      "取消": [
+        "因为下雨，比赛被取消了",
+        "Vì trời mưa, trận đấu đã bị hủy",
+        "Yīnwèi xiàyǔ, bǐsài bèi qǔxiāo le"
+      ],
+      "热爱": [
+        "她从小就热爱音乐",
+        "Cô ấy từ nhỏ đã say mê âm nhạc",
+        "Tā cóng xiǎo jiù rè’ài yīnyuè"
+      ],
+      "认可": [
+        "她的发言得到了认可",
+        "Phát biểu của cô ấy đã được công nhận",
+        "Tā de fāyán dédào le rènkě"
+      ]
+    }
+  },
+  {
+    "id": "hsk3-topic-06-lesson-09",
+    "title": "Không gian, di chuyển và đời sống · Bài 9",
+    "titleCn": "HSK 3 · 6-9",
+    "context": "Địa điểm, phương hướng, đi lại và môi trường sống",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "设计",
+      "胜利",
+      "实力"
+    ],
+    "examples": {
+      "设计": [
+        "这个产品的设计很漂亮",
+        "Thiết kế của sản phẩm này rất đẹp",
+        "Zhège chǎnpǐn de shèjì hěn piàoliang"
+      ],
+      "胜利": [
+        "我们队取得了胜利。",
+        "Đội chúng tôi đã giành được chiến thắng.",
+        "Wǒmen duì qǔdé le shènglì"
+      ],
+      "实力": [
+        "这个队的实力很强。",
+        "Thực lực của đội này rất mạnh.",
+        "Zhè ge duì de shílì hěn qiáng"
       ]
     }
   }

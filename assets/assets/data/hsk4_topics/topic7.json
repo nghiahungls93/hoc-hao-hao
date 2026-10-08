@@ -1,215 +1,9 @@
 [
   {
     "id": "hsk4-topic-07-lesson-01",
-    "title": "Văn hóa và tự nhiên · Bài 1",
+    "title": "Mở rộng và vận dụng · Bài 1",
     "titleCn": "HSK 4 · 7-1",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "背包",
-      "便于",
-      "播放",
-      "部",
-      "不仅",
-      "材料",
-      "查找",
-      "出口",
-      "窗",
-      "粗",
-      "错过",
-      "答案",
-      "打印机",
-      "大赛",
-      "大自然"
-    ],
-    "examples": {
-      "背包": [
-        "我的背包很重。",
-        "Balo của tôi rất nặng.",
-        "Wǒ de bēibāo hěn zhòng."
-      ],
-      "便于": [
-        "这个设计便于使用。",
-        "Thiết kế này tiện sử dụng.",
-        "Zhège shèjì biànyú shǐyòng."
-      ],
-      "播放": [
-        "电视正在播放新闻。",
-        "Ti vi đang phát tin tức.",
-        "Diànshì zhèngzài bōfàng xīnwén."
-      ],
-      "部": [
-        "这是一部电影。",
-        "Đây là một bộ phim.",
-        "Zhè shì yī bù diànyǐng."
-      ],
-      "不仅": [
-        "不仅漂亮，而且聪明。",
-        "Không chỉ xinh đẹp mà còn thông minh.",
-        "Bùjǐn piàoliang, érqiě cōngmíng."
-      ],
-      "材料": [
-        "这些是建筑材料。",
-        "Đây là vật liệu xây dựng.",
-        "Zhèxiē shì jiànzhù cáiliào."
-      ],
-      "查找": [
-        "我在查找资料。",
-        "Tôi đang tìm kiếm tài liệu.",
-        "Wǒ zài cházhǎo zīliào."
-      ],
-      "出口": [
-        "出口在哪里？",
-        "Lối ra ở đâu?",
-        "Chūkǒu zài nǎlǐ?"
-      ],
-      "窗": [
-        "打开窗。",
-        "Mở cửa sổ.",
-        "Dǎkāi chuāng."
-      ],
-      "粗": [
-        "这根绳子很粗。",
-        "Dây này rất to.",
-        "Zhè gēn shéngzi hěn cū."
-      ],
-      "错过": [
-        "不要错过机会。",
-        "Đừng bỏ lỡ cơ hội.",
-        "Bùyào cuòguò jīhuì."
-      ],
-      "答案": [
-        "这是正确答案。",
-        "Đây là đáp án đúng.",
-        "Zhè shì zhèngquè dá’àn."
-      ],
-      "打印机": [
-        "打印机坏了。",
-        "Máy in hỏng rồi.",
-        "Dǎyìnjī huài le."
-      ],
-      "大赛": [
-        "这是国际大赛。",
-        "Đây là cuộc thi quốc tế lớn.",
-        "Zhè shì guójì dàsài."
-      ],
-      "大自然": [
-        "我们爱大自然。",
-        "Chúng ta yêu thiên nhiên.",
-        "Wǒmen ài dàzìrán."
-      ]
-    }
-  },
-  {
-    "id": "hsk4-topic-07-lesson-02",
-    "title": "Văn hóa và tự nhiên · Bài 2",
-    "titleCn": "HSK 4 · 7-2",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "等",
-      "地球",
-      "东部",
-      "队",
-      "多么",
-      "多样",
-      "反对",
-      "放弃",
-      "份",
-      "改",
-      "干杯",
-      "钢琴",
-      "歌声",
-      "更加",
-      "共同"
-    ],
-    "examples": {
-      "等": [
-        "苹果、香蕉等",
-        "Táo, chuối và v.v.",
-        "Píngguǒ, xiāngjiāo děng"
-      ],
-      "地球": [
-        "保护地球。",
-        "Bảo vệ trái đất.",
-        "Bǎohù dìqiú."
-      ],
-      "东部": [
-        "中国东部发达。",
-        "Phía Đông Trung Quốc phát triển.",
-        "Zhōngguó dōngbù fādá."
-      ],
-      "队": [
-        "这是足球队。",
-        "Đây là đội bóng đá.",
-        "Zhè shì zúqiú duì."
-      ],
-      "多么": [
-        "多么美丽啊！",
-        "Thật là đẹp biết bao!",
-        "Duōme měilì a!"
-      ],
-      "多样": [
-        "文化多样。",
-        "Văn hóa đa dạng.",
-        "Wénhuà duōyàng."
-      ],
-      "反对": [
-        "我反对这个计划。",
-        "Tôi phản đối kế hoạch này.",
-        "Wǒ fǎnduì zhège jìhuà."
-      ],
-      "放弃": [
-        "不要放弃。",
-        "Đừng bỏ cuộc.",
-        "Bùyào fàngqì."
-      ],
-      "份": [
-        "我要一份报纸。",
-        "Tôi muốn một tờ báo.",
-        "Wǒ yào yī fèn bàozhǐ."
-      ],
-      "改": [
-        "请改一下这个句子。",
-        "Xin sửa câu này một chút.",
-        "Qǐng gǎi yīxià zhège jùzi."
-      ],
-      "干杯": [
-        "来，我们干杯！",
-        "Nào, chúng ta cạn ly!",
-        "Lái, wǒmen gānbēi!"
-      ],
-      "钢琴": [
-        "她会弹钢琴。",
-        "Cô ấy biết chơi piano.",
-        "Tā huì tán gāngqín."
-      ],
-      "歌声": [
-        "她的歌声很美。",
-        "Tiếng hát của cô ấy rất hay.",
-        "Tā de gēshēng hěn měi."
-      ],
-      "更加": [
-        "天气更加冷了。",
-        "Thời tiết càng lạnh hơn.",
-        "Tiānqì gèngjiā lěng le."
-      ],
-      "共同": [
-        "这是我们的共同目标。",
-        "Đây là mục tiêu chung của chúng ta.",
-        "Zhè shì wǒmen de gòngtóng mùbiāo."
-      ]
-    }
-  },
-  {
-    "id": "hsk4-topic-07-lesson-03",
-    "title": "Văn hóa và tự nhiên · Bài 3",
-    "titleCn": "HSK 4 · 7-3",
-    "context": "15 từ vựng cùng nhóm nghĩa",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
@@ -220,15 +14,15 @@
       "海洋",
       "寒冷",
       "盒子",
-      "忽然",
-      "会员",
-      "货",
-      "基本",
-      "寄",
-      "假",
       "将来",
       "降落",
-      "教练"
+      "教练",
+      "禁止",
+      "景区",
+      "恐怕",
+      "理想",
+      "旅馆",
+      "帽子"
     ],
     "examples": {
       "顾客": [
@@ -261,36 +55,6 @@
         "Đặt đồ vào hộp.",
         "Bǎ dōngxi fàng jìn hézi."
       ],
-      "忽然": [
-        "忽然下雨了。",
-        "Bỗng nhiên trời mưa.",
-        "Hūrán xiàyǔ le."
-      ],
-      "会员": [
-        "我是俱乐部会员。",
-        "Tôi là thành viên câu lạc bộ.",
-        "Wǒ shì jùlèbù huìyuán."
-      ],
-      "货": [
-        "商店里的货很多。",
-        "Hàng hóa trong cửa hàng rất nhiều.",
-        "Shāngdiàn lǐ de huò hěn duō."
-      ],
-      "基本": [
-        "这是基本要求。",
-        "Đây là yêu cầu cơ bản.",
-        "Zhè shì jīběn yāoqiú."
-      ],
-      "寄": [
-        "我寄了一封信。",
-        "Tôi đã gửi một bức thư.",
-        "Wǒ jì le yī fēng xìn."
-      ],
-      "假": [
-        "这是假的。",
-        "Đây là đồ giả.",
-        "Zhè shì jiǎ de."
-      ],
       "将来": [
         "将来我会成功。",
         "Tương lai tôi sẽ thành công.",
@@ -305,158 +69,65 @@
         "教练很专业。",
         "Huấn luyện viên rất chuyên nghiệp.",
         "Jiàoliàn hěn zhuānyè."
-      ]
-    }
-  },
-  {
-    "id": "hsk4-topic-07-lesson-04",
-    "title": "Văn hóa và tự nhiên · Bài 4",
-    "titleCn": "HSK 4 · 7-4",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "结果",
-      "今后",
-      "禁止",
-      "经济",
-      "景区",
-      "举",
-      "开玩笑",
-      "棵",
-      "客厅",
-      "恐怕",
-      "拉",
-      "来得及",
-      "理想",
-      "凉",
-      "留"
-    ],
-    "examples": {
-      "结果": [
-        "结果很好。",
-        "Kết quả rất tốt.",
-        "Jiéguǒ hěn hǎo."
-      ],
-      "今后": [
-        "今后我会努力。",
-        "Từ nay về sau tôi sẽ cố gắng.",
-        "Jīnhòu wǒ huì nǔlì."
       ],
       "禁止": [
         "这里禁止吸烟。",
         "Ở đây cấm hút thuốc.",
         "Zhèlǐ jìnzhǐ xīyān."
       ],
-      "经济": [
-        "经济发展很快。",
-        "Kinh tế phát triển rất nhanh.",
-        "Jīngjì fāzhǎn hěn kuài."
-      ],
       "景区": [
         "景区内禁止吸烟。",
         "Trong khu du lịch cấm hút thuốc.",
         "Jǐngqū nèi jìnzhǐ xīyān."
-      ],
-      "举": [
-        "请举手回答。",
-        "Xin giơ tay trả lời.",
-        "Qǐng jǔ shǒu huídá."
-      ],
-      "开玩笑": [
-        "别开玩笑了。",
-        "Đừng đùa nữa.",
-        "Bié kāi wánxiào le."
-      ],
-      "棵": [
-        "门前有两棵树。",
-        "Trước cửa có hai cây.",
-        "Mén qián yǒu liǎng kē shù."
-      ],
-      "客厅": [
-        "客厅很大。",
-        "Phòng khách rất rộng.",
-        "Kètīng hěn dà."
       ],
       "恐怕": [
         "恐怕要下雨了。",
         "E rằng trời sắp mưa rồi.",
         "Kǒngpà yào xiàyǔ le."
       ],
-      "拉": [
-        "请帮我拉一下门。",
-        "Xin kéo cửa giúp tôi.",
-        "Qǐng bāng wǒ lā yīxià mén."
-      ],
-      "来得及": [
-        "我们还来得及。",
-        "Chúng ta còn kịp.",
-        "Wǒmen hái láidejí."
-      ],
       "理想": [
         "我的理想是当医生。",
         "Lý tưởng của tôi là làm bác sĩ.",
         "Wǒ de lǐxiǎng shì dāng yīshēng."
       ],
-      "凉": [
-        "今天天气很凉。",
-        "Hôm nay trời mát.",
-        "Jīntiān tiānqì hěn liáng."
-      ],
-      "留": [
-        "请留在这里。",
-        "Xin ở lại đây.",
-        "Qǐng liú zài zhèlǐ."
-      ]
-    }
-  },
-  {
-    "id": "hsk4-topic-07-lesson-05",
-    "title": "Văn hóa và tự nhiên · Bài 5",
-    "titleCn": "HSK 4 · 7-5",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "旅馆",
-      "乱",
-      "帽子",
-      "梦",
-      "面对",
-      "目前",
-      "男士",
-      "能否",
-      "农村",
-      "暖和",
-      "牌子",
-      "乒乓球",
-      "普通话",
-      "气候",
-      "签证"
-    ],
-    "examples": {
       "旅馆": [
         "我们住在旅馆。",
         "Chúng ta ở khách sạn.",
         "Wǒmen zhù zài lǚguǎn."
       ],
-      "乱": [
-        "房间很乱。",
-        "Phòng lộn xộn lắm.",
-        "Fángjiān hěn luàn."
-      ],
       "帽子": [
         "戴帽子。",
         "Đội mũ.",
         "Dài màozi."
-      ],
-      "梦": [
-        "我做了一个梦。",
-        "Tôi mơ một giấc mơ.",
-        "Wǒ zuò le yīgè mèng."
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-07-lesson-02",
+    "title": "Mở rộng và vận dụng · Bài 2",
+    "titleCn": "HSK 4 · 7-2",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "面对",
+      "目前",
+      "男士",
+      "农村",
+      "暖和",
+      "牌子",
+      "气候",
+      "签证",
+      "缺少",
+      "仍然",
+      "稍微",
+      "失望",
+      "世纪",
+      "顺序",
+      "听众"
+    ],
+    "examples": {
       "面对": [
         "我们要面对现实。",
         "Chúng ta phải đối mặt với thực tế.",
@@ -471,11 +142,6 @@
         "男士优先。",
         "Nam giới ưu tiên.",
         "Nánshì yōuxiān."
-      ],
-      "能否": [
-        "能否帮我一个忙？",
-        "Có thể giúp tôi một việc không?",
-        "Néngfǒu bāng wǒ yīgè máng?"
       ],
       "农村": [
         "我在农村长大。",
@@ -492,16 +158,6 @@
         "Nhãn hiệu này rất đắt.",
         "Zhège páizi hěn guì."
       ],
-      "乒乓球": [
-        "我们打乒乓球。",
-        "Chúng ta chơi bóng bàn.",
-        "Wǒmen dǎ pīngpāngqiú."
-      ],
-      "普通话": [
-        "我说普通话。",
-        "Tôi nói tiếng phổ thông.",
-        "Wǒ shuō pǔtōnghuà."
-      ],
       "气候": [
         "这里的气候很好。",
         "Khí hậu ở đây rất tốt.",
@@ -511,168 +167,70 @@
         "我申请签证。",
         "Tôi nộp đơn xin visa.",
         "Wǒ shēnqǐng qiānzhèng."
-      ]
-    }
-  },
-  {
-    "id": "hsk4-topic-07-lesson-06",
-    "title": "Văn hóa và tự nhiên · Bài 6",
-    "titleCn": "HSK 4 · 7-6",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "桥",
-      "球队",
-      "取",
-      "缺少",
-      "扔",
-      "仍然",
-      "商品",
-      "稍微",
-      "社会",
-      "生命",
-      "失望",
-      "十字路口",
-      "世纪",
-      "首",
-      "数量"
-    ],
-    "examples": {
-      "桥": [
-        "桥很长。",
-        "Cầu rất dài.",
-        "Qiáo hěn cháng."
-      ],
-      "球队": [
-        "我们的球队赢了。",
-        "Đội bóng của chúng ta thắng.",
-        "Wǒmen de qiúduì yíng le."
-      ],
-      "取": [
-        "请取票。",
-        "Xin lấy vé.",
-        "Qǐng qǔ piào."
       ],
       "缺少": [
         "这个项目缺少资金。",
         "Dự án này thiếu kinh phí.",
         "Zhège xiàngmù quēshǎo zījīn."
       ],
-      "扔": [
-        "不要乱扔垃圾。",
-        "Đừng vứt rác bừa bãi.",
-        "Bùyào luàn rēng lājī."
-      ],
       "仍然": [
         "天气仍然很冷。",
         "Thời tiết vẫn còn rất lạnh.",
         "Tiānqì réngrán hěn lěng."
-      ],
-      "商品": [
-        "商店里的商品很多。",
-        "Hàng hóa trong cửa hàng rất nhiều.",
-        "Shāngdiàn lǐ de shāngpǐn hěn duō."
       ],
       "稍微": [
         "天气稍微有点冷。",
         "Thời tiết hơi lạnh một chút.",
         "Tiānqì shāowēi yǒudiǎn lěng."
       ],
-      "社会": [
-        "社会在快速发展。",
-        "Xã hội đang phát triển nhanh chóng.",
-        "Shèhuì zài kuài sù fāzhǎn."
-      ],
-      "生命": [
-        "保护生命很重要。",
-        "Bảo vệ sinh mệnh rất quan trọng.",
-        "Bǎohù shēngmìng hěn zhòngyào."
-      ],
       "失望": [
         "我对结果很失望。",
         "Tôi rất thất vọng với kết quả.",
         "Wǒ duì jiéguǒ hěn shīwàng."
-      ],
-      "十字路口": [
-        "我们在十字路口见面。",
-        "Chúng ta gặp nhau ở ngã tư.",
-        "Wǒmen zài shízì lùkǒu jiànmiàn."
       ],
       "世纪": [
         "这是二十一世纪。",
         "Đây là thế kỷ hai mươi mốt.",
         "Zhè shì èrshíyī shìjì."
       ],
-      "首": [
-        "这是一首歌。",
-        "Đây là một bài hát.",
-        "Zhè shì yī shǒu gē."
-      ],
-      "数量": [
-        "数量不够。",
-        "Số lượng không đủ.",
-        "Shùliàng bú gòu."
-      ]
-    }
-  },
-  {
-    "id": "hsk4-topic-07-lesson-07",
-    "title": "Văn hóa và tự nhiên · Bài 7",
-    "titleCn": "HSK 4 · 7-7",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "顺序",
-      "算",
-      "弹",
-      "讨厌",
-      "听众",
-      "痛",
-      "图片",
-      "推迟",
-      "完全",
-      "危险",
-      "文件",
-      "无法",
-      "细心",
-      "线上",
-      "相互"
-    ],
-    "examples": {
       "顺序": [
         "请按顺序排队。",
         "Xin xếp hàng theo thứ tự.",
         "Qǐng àn shùnxù páiduì."
       ],
-      "算": [
-        "我算错了。",
-        "Tôi tính sai rồi.",
-        "Wǒ suàn cuò le."
-      ],
-      "弹": [
-        "她弹钢琴。",
-        "Cô ấy chơi piano.",
-        "Tā tán gāngqín."
-      ],
-      "讨厌": [
-        "我讨厌下雨。",
-        "Tôi ghét trời mưa.",
-        "Wǒ tǎoyàn xiàyǔ."
-      ],
       "听众": [
         "听众很多。",
         "Thính giả rất đông.",
         "Tīngzhòng hěn duō."
-      ],
-      "痛": [
-        "我的头很痛。",
-        "Đầu tôi đau lắm.",
-        "Wǒ de tóu hěn tòng."
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-07-lesson-03",
+    "title": "Mở rộng và vận dụng · Bài 3",
+    "titleCn": "HSK 4 · 7-3",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "图片",
+      "推迟",
+      "完全",
+      "危险",
+      "文件",
+      "线上",
+      "相互",
+      "信息",
+      "亚洲",
+      "眼镜",
+      "阳光",
+      "要是",
+      "由于",
+      "友好",
+      "原谅"
+    ],
+    "examples": {
       "图片": [
         "发一张图片。",
         "Gửi một hình ảnh.",
@@ -698,16 +256,6 @@
         "Xin lưu file.",
         "Qǐng bǎocún wénjiàn."
       ],
-      "无法": [
-        "我无法忘记。",
-        "Tôi không thể quên.",
-        "Wǒ wúfǎ wàngjì."
-      ],
-      "细心": [
-        "她很细心。",
-        "Cô ấy rất chu đáo.",
-        "Tā hěn xìxīn."
-      ],
       "线上": [
         "线上会议。",
         "Cuộc họp trực tuyến.",
@@ -717,64 +265,16 @@
         "我们要相互帮助。",
         "Chúng ta phải giúp đỡ lẫn nhau.",
         "Wǒmen yào xiānghù bāngzhù."
-      ]
-    }
-  },
-  {
-    "id": "hsk4-topic-07-lesson-08",
-    "title": "Văn hóa và tự nhiên · Bài 8",
-    "titleCn": "HSK 4 · 7-8",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "项",
-      "效果",
-      "信息",
-      "性",
-      "亚洲",
-      "演",
-      "眼镜",
-      "阳光",
-      "要是",
-      "赢",
-      "由于",
-      "友好",
-      "原谅",
-      "院长",
-      "云"
-    ],
-    "examples": {
-      "项": [
-        "这是一项重要任务。",
-        "Đây là một nhiệm vụ quan trọng.",
-        "Zhè shì yī xiàng zhòngyào rènwu."
-      ],
-      "效果": [
-        "这个药效果很好。",
-        "Thuốc này hiệu quả rất tốt.",
-        "Zhège yào xiàoguǒ hěn hǎo."
       ],
       "信息": [
         "请提供更多信息。",
         "Xin cung cấp thêm thông tin.",
         "Qǐng tígōng gèng duō xìnxī."
       ],
-      "性": [
-        "安全性",
-        "Tính an toàn",
-        "Ānquán xìng"
-      ],
       "亚洲": [
         "亚洲很大。",
         "Châu Á rất lớn.",
         "Yàzhōu hěn dà."
-      ],
-      "演": [
-        "她演得很好。",
-        "Cô ấy diễn rất hay.",
-        "Tā yǎn de hěn hǎo."
       ],
       "眼镜": [
         "我戴眼镜。",
@@ -791,11 +291,6 @@
         "Nếu trời mưa, chúng ta sẽ không đi.",
         "Yàoshi xiàyǔ, wǒmen jiù bú qù le."
       ],
-      "赢": [
-        "我们队赢了比赛。",
-        "Đội chúng ta thắng trận.",
-        "Wǒmen duì yíng le bǐsài."
-      ],
       "由于": [
         "由于天气不好，我们取消了。",
         "Do thời tiết xấu, chúng ta hủy.",
@@ -810,80 +305,49 @@
         "请原谅我。",
         "Xin tha thứ cho tôi.",
         "Qǐng yuánliàng wǒ."
-      ],
-      "院长": [
-        "院长在开会。",
-        "Viện trưởng đang họp.",
-        "Yuànzhǎng zài kāihuì."
-      ],
-      "云": [
-        "天上有白云。",
-        "Trên trời có mây trắng.",
-        "Tiān shàng yǒu bái yún."
       ]
     }
   },
   {
-    "id": "hsk4-topic-07-lesson-09",
-    "title": "Văn hóa và tự nhiên · Bài 9",
-    "titleCn": "HSK 4 · 7-9",
-    "context": "11 từ vựng cùng nhóm nghĩa",
+    "id": "hsk4-topic-07-lesson-04",
+    "title": "Mở rộng và vận dụng · Bài 4",
+    "titleCn": "HSK 4 · 7-4",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "责任",
-      "增长",
+      "院长",
       "正常",
-      "知识",
-      "指",
-      "重",
       "专业",
-      "准确",
       "自然",
       "尊重",
-      "座位"
+      "座位",
+      "差点儿",
+      "电视剧",
+      "身份证",
+      "小伙子",
+      "毕业生",
+      "互联网",
+      "来不及",
+      "零花钱",
+      "葡萄酒"
     ],
     "examples": {
-      "责任": [
-        "这是我的责任。",
-        "Đây là trách nhiệm của tôi.",
-        "Zhè shì wǒ de zérèn."
-      ],
-      "增长": [
-        "经济在增长。",
-        "Kinh tế đang tăng trưởng.",
-        "Jīngjì zài zēngzhǎng."
+      "院长": [
+        "院长在开会。",
+        "Viện trưởng đang họp.",
+        "Yuànzhǎng zài kāihuì."
       ],
       "正常": [
         "一切正常。",
         "Mọi thứ bình thường.",
         "Yīqiè zhèngcháng."
       ],
-      "知识": [
-        "知识就是力量。",
-        "Kiến thức là sức mạnh.",
-        "Zhīshi jiùshì lìliàng."
-      ],
-      "指": [
-        "请指一下方向。",
-        "Xin chỉ hướng.",
-        "Qǐng zhǐ yīxià fāngxiàng."
-      ],
-      "重": [
-        "这个箱子很重。",
-        "Chiếc vali này rất nặng.",
-        "Zhège xiāngzi hěn zhòng."
-      ],
       "专业": [
         "我的专业是计算机。",
         "Chuyên ngành của tôi là máy tính.",
         "Wǒ de zhuānyè shì jìsuànjī."
-      ],
-      "准确": [
-        "答案很准确。",
-        "Đáp án rất chính xác.",
-        "Dá’àn hěn zhǔnquè."
       ],
       "自然": [
         "保护自然环境。",
@@ -899,6 +363,542 @@
         "请找座位。",
         "Xin tìm chỗ ngồi.",
         "Qǐng zhǎo zuòwèi."
+      ],
+      "差点儿": [
+        "我差点儿迟到。",
+        "Tôi suýt nữa muộn.",
+        "Wǒ chàdiǎnr chídào."
+      ],
+      "电视剧": [
+        "这部电视剧很好看。",
+        "Bộ phim truyền hình này hay lắm.",
+        "Zhè bù diànshìjù hěn hǎokàn."
+      ],
+      "身份证": [
+        "请出示身份证。",
+        "Xin xuất trình chứng minh thư.",
+        "Qǐng chūshì shēnfènzhèng."
+      ],
+      "小伙子": [
+        "那个小伙子很热情。",
+        "Chàng trai kia rất nhiệt tình.",
+        "Nàge xiǎohuǒzi hěn rèqíng."
+      ],
+      "毕业生": [
+        "他是去年毕业生。",
+        "Anh ấy là sinh viên tốt nghiệp năm ngoái.",
+        "Tā shì qùnián bìyèshēng."
+      ],
+      "互联网": [
+        "互联网改变了世界。",
+        "Internet đã thay đổi thế giới.",
+        "Hùliánwǎng gǎibiàn le shìjiè."
+      ],
+      "来不及": [
+        "我来不及吃饭了。",
+        "Tôi không kịp ăn cơm rồi.",
+        "Wǒ láibují chīfàn le."
+      ],
+      "零花钱": [
+        "妈妈给我零花钱。",
+        "Mẹ đưa tôi tiền tiêu vặt.",
+        "Māma gěi wǒ línghuāqián."
+      ],
+      "葡萄酒": [
+        "喝一点葡萄酒。",
+        "Uống một chút rượu vang.",
+        "Hē yīdiǎn pútaojiǔ."
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-07-lesson-05",
+    "title": "Mở rộng và vận dụng · Bài 5",
+    "titleCn": "HSK 4 · 7-5",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "巧克力",
+      "西红柿",
+      "打印机",
+      "大自然",
+      "开玩笑",
+      "来得及",
+      "乒乓球",
+      "十字路口",
+      "并",
+      "戴",
+      "整",
+      "场",
+      "准",
+      "法",
+      "够"
+    ],
+    "examples": {
+      "巧克力": [
+        "我爱吃巧克力。",
+        "Tôi thích ăn sô cô la.",
+        "Wǒ ài chī qiǎokèlì."
+      ],
+      "西红柿": [
+        "我买了西红柿。",
+        "Tôi mua cà chua.",
+        "Wǒ mǎi le xīhóngshì."
+      ],
+      "打印机": [
+        "打印机坏了。",
+        "Máy in hỏng rồi.",
+        "Dǎyìnjī huài le."
+      ],
+      "大自然": [
+        "我们爱大自然。",
+        "Chúng ta yêu thiên nhiên.",
+        "Wǒmen ài dàzìrán."
+      ],
+      "开玩笑": [
+        "别开玩笑了。",
+        "Đừng đùa nữa.",
+        "Bié kāi wánxiào le."
+      ],
+      "来得及": [
+        "我们还来得及。",
+        "Chúng ta còn kịp.",
+        "Wǒmen hái láidejí."
+      ],
+      "乒乓球": [
+        "我们打乒乓球。",
+        "Chúng ta chơi bóng bàn.",
+        "Wǒmen dǎ pīngpāngqiú."
+      ],
+      "十字路口": [
+        "我们在十字路口见面。",
+        "Chúng ta gặp nhau ở ngã tư.",
+        "Wǒmen zài shízì lùkǒu jiànmiàn."
+      ],
+      "并": [
+        "他聪明并且努力。",
+        "Anh ấy thông minh và chăm chỉ.",
+        "Tā cōngmíng bìngqiě nǔlì."
+      ],
+      "戴": [
+        "他戴眼镜。",
+        "Anh ấy đeo kính.",
+        "Tā dài yǎnjìng."
+      ],
+      "整": [
+        "整天都在学习。",
+        "Cả ngày đều học.",
+        "Zhěng tiān dōu zài xuéxí."
+      ],
+      "场": [
+        "一场比赛",
+        "Một trận đấu",
+        "Yī chǎng bǐsài"
+      ],
+      "准": [
+        "时间很准。",
+        "Thời gian rất chính xác.",
+        "Shíjiān hěn zhǔn."
+      ],
+      "法": [
+        "遵守法。",
+        "Tuân thủ pháp luật.",
+        "Zūnshǒu fǎ."
+      ],
+      "够": [
+        "钱够吗？",
+        "Tiền đủ không?",
+        "Qián gòu ma?"
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-07-lesson-06",
+    "title": "Mở rộng và vận dụng · Bài 6",
+    "titleCn": "HSK 4 · 7-6",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "值",
+      "队",
+      "货",
+      "动作",
+      "队员",
+      "队长",
+      "感人",
+      "工人",
+      "竟然",
+      "人生",
+      "实在",
+      "速度",
+      "态度",
+      "提出",
+      "原来"
+    ],
+    "examples": {
+      "值": [
+        "这部手机值一千块。",
+        "Chiếc điện thoại này đáng giá một nghìn đồng.",
+        "Zhè bù shǒujī zhí yīqiān kuài."
+      ],
+      "队": [
+        "这是足球队。",
+        "Đây là đội bóng đá.",
+        "Zhè shì zúqiú duì."
+      ],
+      "货": [
+        "商店里的货很多。",
+        "Hàng hóa trong cửa hàng rất nhiều.",
+        "Shāngdiàn lǐ de huò hěn duō."
+      ],
+      "动作": [
+        "他的动作很快。",
+        "Động tác của anh ấy rất nhanh.",
+        "Tā de dòngzuò hěn kuài."
+      ],
+      "队员": [
+        "他是队员。",
+        "Anh ấy là thành viên đội.",
+        "Tā shì duìyuán."
+      ],
+      "队长": [
+        "他是队长。",
+        "Anh ấy là đội trưởng.",
+        "Tā shì duìzhǎng."
+      ],
+      "感人": [
+        "这个电影很感人。",
+        "Bộ phim này rất cảm động.",
+        "Zhège diànyǐng hěn gǎnrén."
+      ],
+      "工人": [
+        "工人们很辛苦。",
+        "Các công nhân rất vất vả.",
+        "Gōngrénmen hěn xīnkǔ."
+      ],
+      "竟然": [
+        "他竟然赢了比赛。",
+        "Anh ấy không ngờ lại thắng cuộc thi.",
+        "Tā jìngrán yíng le bǐsài."
+      ],
+      "人生": [
+        "人生很短暂。",
+        "Cuộc đời rất ngắn ngủi.",
+        "Rénshēng hěn duǎnzàn."
+      ],
+      "实在": [
+        "他是个实在人。",
+        "Anh ấy là người thật thà.",
+        "Tā shì gè shízài rén."
+      ],
+      "速度": [
+        "他的速度很快。",
+        "Tốc độ của anh ấy rất nhanh.",
+        "Tā de sùdù hěn kuài."
+      ],
+      "态度": [
+        "他的态度很好。",
+        "Thái độ của anh ấy rất tốt.",
+        "Tā de tàidù hěn hǎo."
+      ],
+      "提出": [
+        "他提出一个好建议。",
+        "Anh ấy đề xuất một ý kiến hay.",
+        "Tā tíchū yīgè hǎo jiànyì."
+      ],
+      "原来": [
+        "原来是你啊！",
+        "Hóa ra là bạn!",
+        "Yuánlái shì nǐ a!"
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-07-lesson-07",
+    "title": "Mở rộng và vận dụng · Bài 7",
+    "titleCn": "HSK 4 · 7-7",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "真正",
+      "正确",
+      "对方",
+      "法律",
+      "方面",
+      "管理",
+      "人员",
+      "优秀",
+      "语法",
+      "导游",
+      "低温",
+      "高速",
+      "高温",
+      "活动",
+      "降温"
+    ],
+    "examples": {
+      "真正": [
+        "这是真正的朋友。",
+        "Đây là bạn thật sự.",
+        "Zhè shì zhēnzhèng de péngyou."
+      ],
+      "正确": [
+        "你的答案正确。",
+        "Đáp án của bạn đúng.",
+        "Nǐ de dá’àn zhèngquè."
+      ],
+      "对方": [
+        "对方同意了。",
+        "Bên kia đã đồng ý.",
+        "Duìfāng tóngyì le."
+      ],
+      "法律": [
+        "学习法律。",
+        "Học luật pháp.",
+        "Xuéxí fǎlǜ."
+      ],
+      "方面": [
+        "在学习方面。",
+        "Về mặt học tập.",
+        "Zài xuéxí fāngmiàn."
+      ],
+      "管理": [
+        "他管理公司。",
+        "Anh ấy quản lý công ty.",
+        "Tā guǎnlǐ gōngsī."
+      ],
+      "人员": [
+        "公司招聘新人员。",
+        "Công ty tuyển dụng nhân viên mới.",
+        "Gōngsī zhāopìn xīn rényuán."
+      ],
+      "优秀": [
+        "她是优秀学生。",
+        "Cô ấy là học sinh xuất sắc.",
+        "Tā shì yōuxiù xuéshēng."
+      ],
+      "语法": [
+        "学习汉语语法。",
+        "Học ngữ pháp tiếng Hán.",
+        "Xuéxí hànyǔ yǔfǎ."
+      ],
+      "导游": [
+        "导游很专业。",
+        "Hướng dẫn viên rất chuyên nghiệp.",
+        "Dǎoyóu hěn zhuānyè."
+      ],
+      "低温": [
+        "今天低温。",
+        "Hôm nay nhiệt độ thấp.",
+        "Jīntiān dīwēn."
+      ],
+      "高速": [
+        "这是高速列车。",
+        "Đây là tàu cao tốc.",
+        "Zhè shì gāosù lièchē."
+      ],
+      "高温": [
+        "今天高温。",
+        "Hôm nay nhiệt độ cao.",
+        "Jīntiān gāowēn."
+      ],
+      "活动": [
+        "我们参加活动。",
+        "Chúng ta tham gia hoạt động.",
+        "Wǒmen cānjiā huódòng."
+      ],
+      "降温": [
+        "今天降温了。",
+        "Hôm nay trời giảm nhiệt.",
+        "Jīntiān jiàngwēn le."
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-07-lesson-08",
+    "title": "Mở rộng và vận dụng · Bài 8",
+    "titleCn": "HSK 4 · 7-8",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "零下",
+      "气温",
+      "确实",
+      "实际",
+      "保证",
+      "出现",
+      "精彩",
+      "京剧",
+      "就是",
+      "有效",
+      "不够",
+      "国际",
+      "温度",
+      "钥匙",
+      "本来"
+    ],
+    "examples": {
+      "零下": [
+        "今天零下五度。",
+        "Hôm nay âm năm độ.",
+        "Jīntiān líng xià wǔ dù."
+      ],
+      "气温": [
+        "今天气温很高。",
+        "Hôm nay nhiệt độ cao.",
+        "Jīntiān qìwēn hěn gāo."
+      ],
+      "确实": [
+        "这个消息确实是真的。",
+        "Tin này quả thật là thật.",
+        "Zhège xiāoxī quèshí shì zhēn de."
+      ],
+      "实际": [
+        "理论要联系实际。",
+        "Lý thuyết phải gắn với thực tế.",
+        "Lǐlùn yào liánxì shíjì."
+      ],
+      "保证": [
+        "我保证按时完成。",
+        "Tôi cam kết hoàn thành đúng hạn.",
+        "Wǒ bǎozhèng ànshí wánchéng."
+      ],
+      "出现": [
+        "问题出现了。",
+        "Vấn đề đã xuất hiện.",
+        "Wèntí chūxiàn le."
+      ],
+      "精彩": [
+        "表演很精彩。",
+        "Buổi biểu diễn rất xuất sắc.",
+        "Biǎoyǎn hěn jīngcǎi."
+      ],
+      "京剧": [
+        "我喜欢看京剧。",
+        "Tôi thích xem Kinh kịch.",
+        "Wǒ xǐhuān kàn jīngjù."
+      ],
+      "就是": [
+        "这就是我要的。",
+        "Đây chính là cái tôi muốn.",
+        "Zhè jiùshì wǒ yào de."
+      ],
+      "有效": [
+        "这个方法很有效。",
+        "Phương pháp này rất hiệu quả.",
+        "Zhège fāngfǎ hěn yǒuxiào."
+      ],
+      "不够": [
+        "钱不够了。",
+        "Tiền không đủ rồi.",
+        "Qián búgòu le."
+      ],
+      "国际": [
+        "这是国际会议。",
+        "Đây là hội nghị quốc tế.",
+        "Zhè shì guójì huìyì."
+      ],
+      "温度": [
+        "温度升高了。",
+        "Nhiệt độ tăng rồi.",
+        "Wēndù shēnggāo le."
+      ],
+      "钥匙": [
+        "我的钥匙丢了。",
+        "Chìa khóa của tôi bị mất rồi.",
+        "Wǒ de yàoshi diū le."
+      ],
+      "本来": [
+        "他本来不想去。",
+        "Anh ấy vốn dĩ không muốn đi.",
+        "Tā běnlái bù xiǎng qù."
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-07-lesson-09",
+    "title": "Mở rộng và vận dụng · Bài 9",
+    "titleCn": "HSK 4 · 7-9",
+    "context": "Từ trừu tượng hoặc chuyên sâu để hoàn thiện cấp độ",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "出口",
+      "忽然",
+      "会员",
+      "经济",
+      "球队",
+      "商品",
+      "效果",
+      "准确",
+      "实际上",
+      "摄氏度",
+      "说明书"
+    ],
+    "examples": {
+      "出口": [
+        "出口在哪里？",
+        "Lối ra ở đâu?",
+        "Chūkǒu zài nǎlǐ?"
+      ],
+      "忽然": [
+        "忽然下雨了。",
+        "Bỗng nhiên trời mưa.",
+        "Hūrán xiàyǔ le."
+      ],
+      "会员": [
+        "我是俱乐部会员。",
+        "Tôi là thành viên câu lạc bộ.",
+        "Wǒ shì jùlèbù huìyuán."
+      ],
+      "经济": [
+        "经济发展很快。",
+        "Kinh tế phát triển rất nhanh.",
+        "Jīngjì fāzhǎn hěn kuài."
+      ],
+      "球队": [
+        "我们的球队赢了。",
+        "Đội bóng của chúng ta thắng.",
+        "Wǒmen de qiúduì yíng le."
+      ],
+      "商品": [
+        "商店里的商品很多。",
+        "Hàng hóa trong cửa hàng rất nhiều.",
+        "Shāngdiàn lǐ de shāngpǐn hěn duō."
+      ],
+      "效果": [
+        "这个药效果很好。",
+        "Thuốc này hiệu quả rất tốt.",
+        "Zhège yào xiàoguǒ hěn hǎo."
+      ],
+      "准确": [
+        "答案很准确。",
+        "Đáp án rất chính xác.",
+        "Dá’àn hěn zhǔnquè."
+      ],
+      "实际上": [
+        "实际上他已经知道了。",
+        "Thực ra anh ấy đã biết rồi.",
+        "Shíjìshàng tā yǐjīng zhīdào le."
+      ],
+      "摄氏度": [
+        "今天三十摄氏度。",
+        "Hôm nay ba mươi độ C.",
+        "Jīntiān sānshí shèshìdù."
+      ],
+      "说明书": [
+        "请看说明书。",
+        "Xin xem hướng dẫn sử dụng.",
+        "Qǐng kàn shuōmíngshū."
       ]
     }
   }

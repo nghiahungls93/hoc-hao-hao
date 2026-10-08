@@ -8,97 +8,97 @@
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "啊",
-      "爱情",
-      "爱人",
-      "安静",
-      "安全",
-      "白色",
-      "班长",
-      "办",
-      "办法",
-      "办公室",
-      "半夜",
       "帮助",
-      "饱",
+      "办",
+      "爱人",
+      "办法",
+      "爱情",
       "报名",
-      "报纸"
+      "办公室",
+      "班长",
+      "报纸",
+      "啊",
+      "饱",
+      "半夜",
+      "安静",
+      "白色",
+      "安全"
     ],
     "examples": {
-      "啊": [
-        "你来了啊！",
-        "Bạn đến rồi à!",
-        "Nǐ lái le ā"
-      ],
-      "爱情": [
-        "他们的爱情很美好。",
-        "Tình yêu của họ rất đẹp.",
-        "Tāmen de àiqíng hěn měihǎo"
-      ],
-      "爱人": [
-        "他的爱人是医生。",
-        "Người yêu của anh ấy là bác sĩ.",
-        "Tā de àirén shì yīshēng"
-      ],
-      "安静": [
-        "请安静一点儿！",
-        "Xin hãy yên lặng một chút!",
-        "Qǐng ānjìng yìdiǎnr"
-      ],
-      "安全": [
-        "晚上一个人走路不太安全。",
-        "Đi bộ một mình vào buổi tối sẽ không an toàn lắm.",
-        "Wǎnshàng yígè rén zǒulù bú tài ānquán"
-      ],
-      "白色": [
-        "我喜欢白色的衣服。",
-        "Tôi thích quần áo màu trắng.",
-        "Wǒ xǐhuan báisè de yīfu"
-      ],
-      "班长": [
-        "我们班的班长很聪明。",
-        "Lớp trưởng của lớp chúng tôi rất thông minh.",
-        "Wǒmen bān de bānzhǎng hěn cōngmíng"
+      "帮助": [
+        "我需要你的(tô đỏ帮助)。",
+        "Tôi cần sự giúp đỡ của bạn",
+        "Wǒ xūyào nǐ de bāngzhù/ "
       ],
       "办": [
         "我去办签证。",
         "Tôi đi làm visa.",
         "Wǒ qù bàn qiānzhèng"
       ],
+      "爱人": [
+        "他的爱人是医生。",
+        "Người yêu của anh ấy là bác sĩ.",
+        "Tā de àirén shì yīshēng"
+      ],
       "办法": [
         "你有办法吗？",
         "Bạn có cách nào không?",
         "Nǐ yǒu bànfǎ ma"
       ],
-      "办公室": [
-        "老师在办公室工作。",
-        "Giáo viên đang làm việc ở văn phòng.",
-        "Lǎoshī zài bàngōngshì gōngzuò"
-      ],
-      "半夜": [
-        "他半夜还在看书。",
-        "Nửa đêm rồi mà anh ấy vẫn đang đọc sách.",
-        "Tā bànyè hái zài kàn shū"
-      ],
-      "帮助": [
-        "我需要你的(tô đỏ帮助)。",
-        "Tôi cần sự giúp đỡ của bạn",
-        "Wǒ xūyào nǐ de bāngzhù/ "
-      ],
-      "饱": [
-        "我吃饱了。",
-        "Tôi ăn no rồi.",
-        "Wǒ chī bǎo le"
+      "爱情": [
+        "他们的爱情很美好。",
+        "Tình yêu của họ rất đẹp.",
+        "Tāmen de àiqíng hěn měihǎo"
       ],
       "报名": [
         "你报名参加比赛了吗？",
         "Bạn đã đăng ký tham gia cuộc thi chưa?",
         "Nǐ bàomíng cānjiā bǐsài le ma"
       ],
+      "办公室": [
+        "老师在办公室工作。",
+        "Giáo viên đang làm việc ở văn phòng.",
+        "Lǎoshī zài bàngōngshì gōngzuò"
+      ],
+      "班长": [
+        "我们班的班长很聪明。",
+        "Lớp trưởng của lớp chúng tôi rất thông minh.",
+        "Wǒmen bān de bānzhǎng hěn cōngmíng"
+      ],
       "报纸": [
         "我爸爸每天早上都看报纸。",
         "Mỗi buổi sáng ba tôi đều đọc báo.",
         "Wǒ bàba měitiān zǎoshang dōu kàn bàozhǐ"
+      ],
+      "啊": [
+        "你来了啊！",
+        "Bạn đến rồi à!",
+        "Nǐ lái le ā"
+      ],
+      "饱": [
+        "我吃饱了。",
+        "Tôi ăn no rồi.",
+        "Wǒ chī bǎo le"
+      ],
+      "半夜": [
+        "他半夜还在看书。",
+        "Nửa đêm rồi mà anh ấy vẫn đang đọc sách.",
+        "Tā bànyè hái zài kàn shū"
+      ],
+      "安静": [
+        "请安静一点儿！",
+        "Xin hãy yên lặng một chút!",
+        "Qǐng ānjìng yìdiǎnr"
+      ],
+      "白色": [
+        "我喜欢白色的衣服。",
+        "Tôi thích quần áo màu trắng.",
+        "Wǒ xǐhuan báisè de yīfu"
+      ],
+      "安全": [
+        "晚上一个人走路不太安全。",
+        "Đi bộ một mình vào buổi tối sẽ không an toàn lắm.",
+        "Wǎnshàng yígè rén zǒulù bú tài ānquán"
       ]
     }
   }

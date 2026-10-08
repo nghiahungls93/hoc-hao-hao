@@ -1,363 +1,177 @@
 [
   {
     "id": "hsk1-topic-05-lesson-01",
-    "title": "Ăn uống hằng ngày · Bài 1",
+    "title": "Học tập, công việc và dịch vụ · Bài 1",
     "titleCn": "HSK 1 · 5-1",
-    "context": "15 từ vựng cùng nhóm nghĩa",
+    "context": "Từ vựng dùng trong học tập, công việc và giao dịch",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "八",
-      "百",
-      "包子",
-      "杯",
-      "不大",
-      "菜",
-      "尝尝",
-      "吃饭",
-      "出",
-      "大",
-      "电",
-      "东西",
-      "多少",
-      "饭",
-      "饭店"
+      "考",
+      "跑",
+      "睡",
+      "晚",
+      "洗",
+      "早",
+      "病",
+      "地",
+      "放",
+      "贵",
+      "门",
+      "南",
+      "难",
+      "肉",
+      "书"
     ],
     "examples": {
-      "八": [
-        "他买了八个苹果。",
-        "Anh ấy đã mua tám quả táo.",
-        "Tā mǎi le bā gè píngguǒ"
+      "考": [
+        "这次考试很难。",
+        "Kỳ thi lần này rất khó.",
+        "Zhè cì kǎoshì hěn nán"
       ],
-      "百": [
-        "我有一百块钱。",
-        "Tôi có một trăm tệ.",
-        "Wǒ yǒu yībǎi kuài qián"
+      "跑": [
+        "他每天早上都跑步。",
+        "Anh ấy chạy bộ mỗi sáng.",
+        "Tā měitiān zǎoshang dōu pǎobù"
       ],
-      "包子": [
-        "我今天早上吃了两个包子。",
-        "Sáng nay tôi đã ăn 2 cái bánh bao.",
-        "Wǒ jīntiān zǎoshang chī le liǎng gè bāozǐ"
+      "睡": [
+        "他昨天晚上睡得很早。",
+        "Tối qua anh ấy ngủ rất sớm.",
+        "Tā zuótiān wǎnshàng shuì de hěn zǎo"
+      ],
+      "晚": [
+        "现在太晚了，快睡吧。",
+        "Bây giờ quá muộn rồi, mau ngủ đi.",
+        "Xiànzài tài wǎn le, kuài shuì ba"
+      ],
+      "洗": [
+        "现在我要洗衣服。",
+        "Bây giờ tôi phải giặt quần áo.",
+        "Xiànzài wǒ yào xǐ yīfu"
+      ],
+      "早": [
+        "今天你起得很早。",
+        "Hôm nay bạn dậy rất sớm.",
+        "Jīntiān nǐ qǐ de hěn zǎo"
+      ],
+      "病": [
+        "我生病了。",
+        "Tôi bị bệnh rồi.",
+        "Wǒ shēng bìng le"
+      ],
+      "地": [
+        "地球上有许多不同的生物。",
+        "Trên Trái Đất có rất nhiều sinh vật khác nhau.",
+        "Dìqiú shàng yǒu xǔduō bùtóng de shēngwù"
+      ],
+      "放": [
+        "请把书放在桌子上。",
+        "Vui lòng đặt quyển sách lên bàn.",
+        "Qǐng bǎ shū fàng zài zhuōzi shàng"
+      ],
+      "贵": [
+        "这件衣服太贵了。",
+        "Bộ quần áo này quá đắt!",
+        "Zhè jiàn yīfu tài guì le"
+      ],
+      "门": [
+        "我把门关上了。",
+        "Tôi đã đóng cửa lại.",
+        "Wǒ bǎ mén guānshàng le"
+      ],
+      "南": [
+        "我喜欢南方的美食。",
+        "Tôi thích ẩm thực miền Nam.",
+        "Wǒ xǐhuan nánfāng de měishí"
+      ],
+      "难": [
+        "这个问题很难回答。",
+        "Câu hỏi này rất khó trả lời.",
+        "Zhège wèntí hěn nán huídá"
+      ],
+      "肉": [
+        "我喜欢吃鸡肉。",
+        "Tôi thích ăn thịt gà.",
+        "Wǒ xǐhuan chī jīròu"
+      ],
+      "书": [
+        "我喜欢看书。",
+        "Tôi thích đọc sách.",
+        "Wǒ xǐhuan kàn shū"
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-05-lesson-02",
+    "title": "Học tập, công việc và dịch vụ · Bài 2",
+    "titleCn": "HSK 1 · 5-2",
+    "context": "Từ vựng dùng trong học tập, công việc và giao dịch",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "页",
+      "站",
+      "中",
+      "字",
+      "杯",
+      "大",
+      "个",
+      "渴",
+      "钱",
+      "太",
+      "外",
+      "忘",
+      "新",
+      "北",
+      "从"
+    ],
+    "examples": {
+      "页": [
+        "请翻到第五页。",
+        "Vui lòng lật đến trang 5.",
+        "Qǐng fān dào dì wǔ yè"
+      ],
+      "站": [
+        "请站在这儿。",
+        "Xin hãy đứng ở đây.",
+        "Qǐng zhàn zài zhèr"
+      ],
+      "中": [
+        "她站在房间中间。",
+        "Cô ấy đứng ở giữa phòng.",
+        "Tā zhàn zài fángjiān de zhōngjiān"
+      ],
+      "字": [
+        "我不认识这个字。",
+        "Tôi không biết chữ này.",
+        "Wǒ bù rènshi zhège zì"
       ],
       "杯": [
         "我喝了一杯奶茶。\n\n我们队赢得了冠军杯。",
         "Tôi đã uống 1 ly trà sữa.\n\nĐội chúng tôi đã giành được cúp vô địch.",
         "Wǒ hēle yībēi nǎichá/\n\n/Wǒmen duì yíngdéle guànjūn bēi"
       ],
-      "不大": [
-        "这个房间不大。",
-        "Căn phòng này không lớn.",
-        "Zhège fángjiān bù dà"
-      ],
-      "菜": [
-        "今天的菜很好吃。",
-        "Món ăn của hôm nay rất ngon.",
-        "Jīntiān de cài hěn hǎo chī"
-      ],
-      "尝尝": [
-        "你尝尝这个菜。",
-        "Bạn hãy nếm thử món ăn này.",
-        "Nǐ cháng cháng zhège cài"
-      ],
-      "吃饭": [
-        "我们一起去吃饭吧。",
-        "Chúng ta cùng nhau đi ăn cơm nhé.",
-        "Wǒmen yīqǐ qù chīfàn ba"
-      ],
-      "出": [
-        "他出去买东西了。",
-        "Anh ấy ra ngoài mua đồ ăn rồi.",
-        "Tā chū qù mǎi dōngxi le"
-      ],
       "大": [
         "这个房子很大。",
         "Căn nhà này rất lớn.",
         "Zhège fángzi hěn dà"
-      ],
-      "电": [
-        "我的手机没电了。",
-        "Điện thoại tôi hết pin rồi.",
-        "Wǒ de shǒujī méi diàn le"
-      ],
-      "东西": [
-        "吃东西的时候不要说话。",
-        "Không nên nói chuyện khi đang ăn.",
-        "Chī dōngxi de shíhòu bùyào shuōhuà"
-      ],
-      "多少": [
-        "这个多少钱？",
-        "Cái này bao nhiêu tiền?",
-        "Zhège duōshǎo qián?"
-      ],
-      "饭": [
-        "我还没吃晚饭呢。\n\n他每天都吃三顿饭。",
-        "Tôi vẫn chưa ăn cơm tối. \n\nMỗi ngày anh ấy đều ăn ba bữa.",
-        "Wǒ hái méi chī wǎnfàn ne/\n\n/Tā měitiān dōu chī sān dùn fàn"
-      ],
-      "饭店": [
-        "这家饭店的菜很好吃。",
-        "Đồ ăn của nhà hàng này rất ngon.",
-        "Zhè jiā fàndiàn de cài hěn hǎochī"
-      ]
-    }
-  },
-  {
-    "id": "hsk1-topic-05-lesson-02",
-    "title": "Ăn uống hằng ngày · Bài 2",
-    "titleCn": "HSK 1 · 5-2",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "房间",
-      "房子",
-      "干",
-      "个",
-      "给",
-      "国",
-      "国家",
-      "还是",
-      "好吃",
-      "喝",
-      "和",
-      "会",
-      "机票",
-      "鸡蛋",
-      "家人"
-    ],
-    "examples": {
-      "房间": [
-        "这是我的房间。",
-        "Đây là phòng của tôi.",
-        "Zhè shì wǒ de fángjiān"
-      ],
-      "房子": [
-        "他们买了一套新房子。",
-        "Họ đã mua một căn nhà mới.",
-        "Tāmen mǎi le yī tào xīn fángzi"
-      ],
-      "干": [
-        "他总干乱我的计划。\n\n咱们干了这杯酒吧。",
-        "Anh ấy luôn làm loạn kế hoạch của tôi.\n\nChúng ta uống cạn ly rượu này.",
-        "Tā zǒng gān luàn wǒ de jìhuà/\n\n/Zánmen gān le zhè bēi jiǔ ba"
       ],
       "个": [
         "我买了一个新手机。",
         "Tôi đã mua một chiếc điện thoại mới.",
         "Wǒ mǎi le yī gè xīn shǒujī"
       ],
-      "给": [
-        "妈妈给我买了一本书。",
-        "Mẹ đã mua cho tôi một quyển sách.",
-        "Māma gěi wǒ mǎi le yī běn shū"
-      ],
-      "国": [
-        "中国的美食非常有名。",
-        "Ẩm thực của Trung Quốc rất nổi tiếng.",
-        "Zhōngguó de měishí fēicháng yǒumíng"
-      ],
-      "国家": [
-        "我爱我的国家。",
-        "Tôi yêu đất nước của tôi.",
-        "Wǒ ài wǒ de guójiā"
-      ],
-      "还是": [
-        "你想喝茶还是咖啡？",
-        "Bạn muốn uống trà hay cà phê?",
-        "Nǐ xiǎng hē chá háishì kāfēi?"
-      ],
-      "好吃": [
-        "这家餐厅的菜非常好吃。",
-        "Món ăn của nhà hàng này rất ngon.",
-        "Zhè jiā cāntīng de cài fēicháng hǎochī"
-      ],
-      "喝": [
-        "我每天早上都喝咖啡。",
-        "Mỗi sáng tôi đều uống cà phê.",
-        "Wǒ měitiān zǎoshang dōu hē kāfēi"
-      ],
-      "和": [
-        "我买了一本书和一件衣服。",
-        "Tôi đã mua 1 cuốn sách và 1 bộ quần áo.",
-        "Wǒ mǎile yī běn shū hé yī jiàn yīfú"
-      ],
-      "会": [
-        "你会做中国菜吗？",
-        "Bạn biết nấu món Trung Quốc không?",
-        "Nǐ huì zuò zhōngguó cài ma"
-      ],
-      "机票": [
-        "你买机票了吗？",
-        "Bạn đã mua vé máy bay chưa?",
-        "Nǐ mǎi jīpiào le ma"
-      ],
-      "鸡蛋": [
-        "我买了一些鸡蛋。",
-        "Tôi đã mua một vài quả trứng.",
-        "Wǒ mǎi le yīxiē jīdàn"
-      ],
-      "家人": [
-        "我家人都喜欢吃中国菜。",
-        "Cả nhà tôi đều thích ăn đồ ăn Trung Quốc.",
-        "Wǒ jiārén dōu xǐhuan chī Zhōngguó cài"
-      ]
-    }
-  },
-  {
-    "id": "hsk1-topic-05-lesson-03",
-    "title": "Ăn uống hằng ngày · Bài 3",
-    "titleCn": "HSK 1 · 5-3",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "渴",
-      "课本",
-      "了",
-      "妈妈 | 妈",
-      "吗",
-      "买",
-      "没有",
-      "门票",
-      "米饭",
-      "面包",
-      "面条儿",
-      "钱",
-      "钱包",
-      "去",
-      "去年"
-    ],
-    "examples": {
       "渴": [
         "我口渴了，想喝水。",
         "Tôi khát nước rồi, muốn uống nước.",
         "Wǒ kǒu kě le, xiǎng hē shuǐ"
       ],
-      "课本": [
-        "你带课本了吗？",
-        "Bạn có mang sách giáo khoa không?",
-        "Nǐ dài kèběn le ma"
-      ],
-      "了": [
-        "我吃了一个苹果。",
-        "Tôi đã ăn một quả táo.",
-        "Wǒ chī le yīgè píngguǒ"
-      ],
-      "妈妈 | 妈": [
-        "我妈妈做饭很好吃。",
-        "Mẹ tôi nấu ăn rất ngon.",
-        "Wǒ māma zuò fàn hěn hǎo chī"
-      ],
-      "吗": [
-        "你喜欢中国菜吗？",
-        "Bạn có thích món ăn Trung Quốc không?",
-        "Nǐ xǐhuan Zhōngguó cài ma"
-      ],
-      "买": [
-        "我想买一件衣服。",
-        "Tôi muốn mua một cái áo.",
-        "Wǒ xiǎng mǎi yí jiàn yīfu"
-      ],
-      "没有": [
-        "我没有钱。",
-        "Tôi không có tiền.",
-        "Wǒ méiyǒu qián"
-      ],
-      "门票": [
-        "这张门票多少钱？",
-        "",
-        "Zhè zhāng ménpiào duōshǎo qián"
-      ],
-      "米饭": [
-        "我每天都吃米饭。",
-        "Ngày nào tôi cũng ăn cơm.",
-        "Wǒ měitiān dōu chī mǐfàn"
-      ],
-      "面包": [
-        "你想吃面包吗？",
-        "Bạn có muốn ăn bánh mì không?",
-        "Nǐ xiǎng chī miànbāo ma"
-      ],
-      "面条儿": [
-        "这碗面条儿很好吃。",
-        "Tô mì này rất ngon.",
-        "Zhè wǎn miàntiáor hěn hǎochī"
-      ],
       "钱": [
         "我没钱。",
         "Tôi không có tiền.",
         "Wǒ méi qián"
-      ],
-      "钱包": [
-        "我的钱包不见了。",
-        "Ví tiền của tôi bị mất rồi.",
-        "Wǒ de qiánbāo bú jiàn le"
-      ],
-      "去": [
-        "他吃完饭就去了。",
-        "Anh ấy ăn xong rồi đi ngay.",
-        "Tā chī wán fàn jiù qù le"
-      ],
-      "去年": [
-        "去年我买了一辆新车。",
-        "Năm ngoái tôi đã mua một chiếc xe mới.",
-        "Qùnián wǒ mǎi le yī liàng xīnchē"
-      ]
-    }
-  },
-  {
-    "id": "hsk1-topic-05-lesson-04",
-    "title": "Ăn uống hằng ngày · Bài 4",
-    "titleCn": "HSK 1 · 5-4",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "商场",
-      "身上",
-      "什么",
-      "水",
-      "水果",
-      "太",
-      "外",
-      "外语",
-      "晚饭",
-      "忘",
-      "午饭",
-      "喜欢",
-      "下课",
-      "新",
-      "一边"
-    ],
-    "examples": {
-      "商场": [
-        "我们去商场买衣服吧。",
-        "Chúng ta đi trung tâm thương mại mua quần áo đi.",
-        "Wǒmen qù shāngchǎng mǎi yīfú ba"
-      ],
-      "身上": [
-        "你身上有钱吗？",
-        "Bạn có tiền trong người không?",
-        "Nǐ shēnshang yǒu qián ma"
-      ],
-      "什么": [
-        "你想吃什么？",
-        "Bạn muốn ăn gì?",
-        "Nǐ xiǎng chī shénme"
-      ],
-      "水": [
-        "我想喝水。",
-        "Tôi muốn uống nước.",
-        "Wǒ xiǎng hē shuǐ"
-      ],
-      "水果": [
-        "我每天都吃水果。",
-        "Tôi ăn trái cây mỗi ngày.",
-        "Wǒ měitiān dōu chī shuǐguǒ"
       ],
       "太": [
         "这个菜太好吃了。",
@@ -369,100 +183,286 @@
         "Chúng ta ra ngoài ăn đi.",
         "Wǒmen qù wàimiàn chīfàn ba"
       ],
-      "外语": [
-        "你会说几种外语？",
-        "Bạn biết nói mấy thứ tiếng nước ngoài?",
-        "Nǐ huì shuō jǐ zhǒng wàiyǔ"
-      ],
-      "晚饭": [
-        "我们一起吃晚饭吧。",
-        "Chúng ta cùng đi ăn tối nhé.",
-        "Wǒmen yìqǐ chī wǎnfàn ba"
-      ],
       "忘": [
         "我忘了带钱包。",
         "Tôi quên mang ví tiền rồi.",
         "Wǒ wàng le dài qiánbāo"
-      ],
-      "午饭": [
-        "我们一起去吃午饭吧。",
-        "Chúng ta cùng đi ăn trưa nhé.",
-        "Wǒmen yīqǐ qù chī wǔfàn ba"
-      ],
-      "喜欢": [
-        "我很喜欢吃中国菜。",
-        "Tôi rất thích ăn món Trung Quốc.",
-        "Wǒ hěn xǐhuan chī Zhōngguó cài"
-      ],
-      "下课": [
-        "下课后，我们去喝奶茶吧。",
-        "Tan học xong, chúng ta đi uống trà sữa nhé.",
-        "Xiàkè hòu, wǒmen qù hē nǎichá ba"
       ],
       "新": [
         "我买了一件新衣服。",
         "Tôi đã mua một bộ quần áo mới.",
         "Wǒ mǎi le yí jiàn xīn yīfú"
       ],
-      "一边": [
-        "她一边吃饭，一边看书。",
-        "Cô ấy vừa ăn vừa đọc sách.",
-        "Tā yìbiān chīfàn, yìbiān kànshū"
+      "北": [
+        "我们一直往北走吧。",
+        "Chúng ta cứ đi về phía bắc đi.",
+        "Wǒmen yīzhí wǎng běi zǒu ba"
+      ],
+      "从": [
+        "我从家里走到学校。",
+        "Tôi đi bộ từ nhà đến trường.",
+        "Wǒ cóng jiālǐ zǒu dào xuéxiào"
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-05-lesson-03",
+    "title": "Học tập, công việc và dịch vụ · Bài 3",
+    "titleCn": "HSK 1 · 5-3",
+    "context": "Từ vựng dùng trong học tập, công việc và giao dịch",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "坏",
+      "口",
+      "老",
+      "用",
+      "找",
+      "真",
+      "正",
+      "左",
+      "坐",
+      "床",
+      "等 ",
+      "地",
+      "歌",
+      "关 ",
+      "花"
+    ],
+    "examples": {
+      "坏": [
+        "我的手机坏了，不能用。",
+        "Điện thoại của tôi bị hỏng, không thể dùng.",
+        "Wǒ de shǒujī huài le, bù néng yòng"
+      ],
+      "口": [
+        "我用盐水漱口。\n\n出口在左边，不要走错了。",
+        "Tôi dùng nước muối để súc miệng.\n\nCửa ra ở bên trái, đừng đi sai nhé.",
+        "Wǒ yòng yánshuǐ shù kǒu/\n\n/Chūkǒu zài zuǒbiān, bùyào zǒu cuò le"
+      ],
+      "老": [
+        "这辆车太老了。",
+        "Chiếc xe này quá cũ rồi.",
+        "Zhè liàng chē tài lǎo le"
+      ],
+      "用": [
+        "你可以用我的手机。",
+        "Bạn có thể dùng điện thoại của tôi.",
+        "Nǐ kěyǐ yòng wǒ de shǒujī"
+      ],
+      "找": [
+        "我在找我的手机。",
+        "Tôi đang tìm điện thoại của tôi.",
+        "Wǒ zài zhǎo wǒ de shǒujī"
+      ],
+      "真": [
+        "这个地方真美。",
+        "Nơi này thật đẹp!",
+        "Zhège dìfāng zhēn měi"
+      ],
+      "正": [
+        "我正好要去找你。",
+        "Tôi vừa hay định đi tìm bạn.",
+        "\n\n/Wǒ zhènghǎo yào qù zhǎo nǐ"
+      ],
+      "左": [
+        "请往左走，那边有商店。",
+        "Hãy đi về bên trái, bên đó có cửa hàng.",
+        "Qǐng wǎng zuǒ zǒu, nàbiān yǒu shāngdiàn"
+      ],
+      "坐": [
+        "请坐这里，老师马上来。",
+        "Mời ngồi đây, thầy giáo sẽ đến ngay.",
+        "Qǐng zuò zhèlǐ, lǎoshī mǎshàng lái"
+      ],
+      "床": [
+        "我很累，想躺在床上。",
+        "Tôi rất mệt, muốn nằm trên giường.",
+        "Wǒ hěn lèi, xiǎng tǎng zài chuáng shàng"
+      ],
+      "等 ": [
+        "我在等她的电话。",
+        "Tôi đang đợi cuộc gọi của cô ấy.",
+        "Wǒ zài děng tā de diànhuà"
+      ],
+      "地": [
+        "地球上有许多不同的生物。",
+        "Trên Trái Đất có rất nhiều sinh vật khác nhau.",
+        "Dìqiú shàng yǒu xǔduō bùtóng de shēngwù"
+      ],
+      "歌": [
+        "这首歌很好听。",
+        "Bài hát này rất hay.",
+        "Zhè shǒu gē hěn hǎotīng"
+      ],
+      "关 ": [
+        "睡觉前别忘了关灯。",
+        "Trước khi ngủ đừng quên tắt đèn.",
+        "Shuìjiào qián bié wàngle guān dēng"
+      ],
+      "花": [
+        "花园里有很多花。",
+        "Trong vườn có rất nhiều hoa.",
+        "Huāyuán lǐ yǒu hěn duō huā"
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-05-lesson-04",
+    "title": "Học tập, công việc và dịch vụ · Bài 4",
+    "titleCn": "HSK 1 · 5-4",
+    "context": "Từ vựng dùng trong học tập, công việc và giao dịch",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "记",
+      "间",
+      "冷",
+      "里",
+      "拿",
+      "热",
+      "事",
+      "笑",
+      "行",
+      "右",
+      "雨",
+      "不对",
+      "出来",
+      "打开",
+      "地方"
+    ],
+    "examples": {
+      "记": [
+        "我记不住这个汉字。",
+        "Tôi không nhớ được chữ Hán này.",
+        "Wǒ jì bù zhù zhège hànzì"
+      ],
+      "间": [
+        "他们之间的感情很好。",
+        "Tình cảm giữa họ rất tốt.",
+        "Tāmen zhījiān de gǎnqíng hěn hǎo"
+      ],
+      "冷": [
+        "外面很冷，多穿点衣服。",
+        "Bên ngoài rất lạnh, mặc thêm áo vào.",
+        "Wàimiàn hěn lěng, duō chuān diǎn yīfu"
+      ],
+      "里": [
+        "房间里有很多书。",
+        "Trong phòng có rất nhiều sách.",
+        "Fángjiān lǐ yǒu hěn duō shū"
+      ],
+      "拿": [
+        "请帮我拿一下。",
+        "Làm ơn giúp tôi cầm cái này một chút.",
+        "Qǐng bāng wǒ ná yíxià"
+      ],
+      "热": [
+        "今天的天气很热。",
+        "Thời tiết của hôm nay rất nóng.",
+        "Jīntiān de tiānqì hěn rè"
+      ],
+      "事": [
+        "这是一件重要的事。",
+        "Đây là một việc quan trọng.",
+        "Zhè shì yī jiàn zhòngyào de shì"
+      ],
+      "笑": [
+        "她的笑容很美。",
+        "Nụ cười của cô ấy rất đẹp.",
+        "Tā de xiàoróng hěn měi"
+      ],
+      "行": [
+        "这样做行不行？",
+        "Làm như thế này được không?",
+        "Zhèyàng zuò xíng bù xíng"
+      ],
+      "右": [
+        "商店在银行的右边。",
+        "Cửa hàng ở bên phải ngân hàng.",
+        "Shāngdiàn zài yínháng de yòubian"
+      ],
+      "雨": [
+        "今天下雨了。",
+        "Hôm nay trời mưa rồi.",
+        "Jīntiān xià yǔ le"
+      ],
+      "不对": [
+        "你的答案不对。",
+        "Đáp án của bạn không đúng.",
+        "Nǐ de dá'àn bù duì"
+      ],
+      "出来": [
+        "你出来，我跟你说句话。",
+        "Anh ra đây tôi nói chuyện với anh.",
+        "Nǐ chūlái，wǒ gēn nǐ shuō jù huà"
+      ],
+      "打开": [
+        "请你把门打开。",
+        "Xin bạn hãy mở cửa ra.",
+        "Qǐng nǐ bǎ mén dǎkāi"
+      ],
+      "地方": [
+        "他是这个地方的人。",
+        "Anh ấy là người bản địa.",
+        "Tā shì zhège dìfāng de rén"
       ]
     }
   },
   {
     "id": "hsk1-topic-05-lesson-05",
-    "title": "Ăn uống hằng ngày · Bài 5",
+    "title": "Học tập, công việc và dịch vụ · Bài 5",
     "titleCn": "HSK 1 · 5-5",
-    "context": "7 từ vựng cùng nhóm nghĩa",
+    "context": "Từ vựng dùng trong học tập, công việc và giao dịch",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "一点儿",
-      "元",
-      "这些",
-      "中国",
-      "中午",
-      "坐下",
-      "做"
+      "儿子",
+      "干净",
+      "关上",
+      "还有",
+      "记得",
+      "介绍",
+      "看见"
     ],
     "examples": {
-      "一点儿": [
-        "我想喝一点儿水。",
-        "Tôi muốn uống một chút nước.",
-        "Wǒ xiǎng hē yìdiǎnr shuǐ"
+      "儿子": [
+        "我有一个儿子。",
+        "Tôi có một cậu con trai.",
+        "Wǒ yǒu yí gè érzi"
       ],
-      "元": [
-        "这本书五十元。",
-        "Cuốn sách này giá 50 tệ.",
-        "Zhè běn shū wǔshí yuán"
+      "干净": [
+        "你的房间很干净。",
+        "Phòng của bạn rất sạch sẽ.",
+        "Nǐ de fángjiān hěn gānjìng"
       ],
-      "这些": [
-        "这些水果很好吃。",
-        "Những loại trái cây này rất ngon.",
-        "Zhèxiē shuǐguǒ hěn hǎochī"
+      "关上": [
+        "请关上门，谢谢你！",
+        "Hãy đóng cửa lại, cảm ơn bạn.",
+        "Qǐng guānshàng mén, xièxiè nǐ"
       ],
-      "中国": [
-        "中国是一个美丽的国家。",
-        "Trung Quốc là một đất nước xinh đẹp.",
-        "Zhōngguó shì yī gè měilì de guójiā"
+      "还有": [
+        "我家里还有两只猫。",
+        "Nhà tôi còn có hai con mèo.",
+        "Wǒ jiālǐ hái yǒu liǎng zhī māo"
       ],
-      "中午": [
-        "我们中午去吃饭吧。",
-        "Chúng ta đi ăn trưa nhé.",
-        "Wǒmen zhōngwǔ qù chīfàn ba"
+      "记得": [
+        "你还记得他的生日吗？",
+        "Bạn còn nhớ sinh nhật của anh ấy không?",
+        "Nǐ hái jìdé tā de shēngrì ma"
       ],
-      "坐下": [
-        "咱们坐下谈吧。",
-        "Chúng ta ngồi xuống nói chuyện.",
-        "Zánmen zuòxia tán ba"
+      "介绍": [
+        "我来介绍一下我的朋友。",
+        "Tôi giới thiệu chút về bạn của tôi.",
+        "Wǒ lái jièshào yīxià wǒ de péngyou"
       ],
-      "做": [
-        "我妈做中国菜非常好吃。",
-        "Mẹ tôi làm đồ ăn Trung Quốc rất ngon.",
-        "Wǒ mā zuò Zhōngguó cài fēicháng hǎochī"
+      "看见": [
+        "我看见一只小鸟在树上唱歌。",
+        "Tôi nhìn thấy một con chim đang hót trên cây.",
+        "Wǒ kànjiàn yī zhī xiǎo niǎo zài shù shàng chànggē"
       ]
     }
   }

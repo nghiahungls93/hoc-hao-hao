@@ -8,92 +8,92 @@
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "爱",
-      "爱好",
-      "八",
       "爸爸 | 爸",
+      "爱",
+      "八",
       "吧",
-      "白 ",
-      "白天",
-      "百",
-      "班",
-      "半",
-      "半年",
-      "半天",
       "帮",
+      "班",
       "帮忙",
+      "爱好",
+      "半",
+      "百",
+      "半年",
+      "白天",
+      "半天",
+      "白 ",
       "包"
     ],
     "examples": {
+      "爸爸 | 爸": [
+        "他是我的爸爸。",
+        "Ông ấy là ba của tôi.",
+        "Tā shì wǒ de bàba"
+      ],
       "爱": [
         "爸爸爱妈妈。",
         "Ba yêu mẹ.",
         "Bàba ài māmā"
-      ],
-      "爱好": [
-        "我爱好打篮球。",
-        "Tôi thích chơi bóng rổ.",
-        "Wǒ àihào dǎ lánqiú"
       ],
       "八": [
         "他买了八个苹果。",
         "Anh ấy đã mua tám quả táo.",
         "Tā mǎi le bā gè píngguǒ"
       ],
-      "爸爸 | 爸": [
-        "他是我的爸爸。",
-        "Ông ấy là ba của tôi.",
-        "Tā shì wǒ de bàba"
-      ],
       "吧": [
         "我们去公园玩儿吧。",
         "Chúng mình đi công viên chơi nhé.",
         "Wǒmen qù gōngyuán wán er ba"
-      ],
-      "白 ": [
-        "我姐姐的皮肤很白。",
-        "Da của chị tôi rất trắng.",
-        "Wǒ jiějiě de pífū hěn bái"
-      ],
-      "白天": [
-        "早睡吧，你白天还要去上课。",
-        "Ngủ sớm đi, bạn ban ngày còn phải đi học.",
-        "Zǎo shuì ba, nǐ báitiān hái yào qù shàngkè"
-      ],
-      "百": [
-        "我有一百块钱。",
-        "Tôi có một trăm tệ.",
-        "Wǒ yǒu yībǎi kuài qián"
-      ],
-      "班": [
-        "我们班有四十五个学生。",
-        "Lớp của chúng tôi có 45 học sinh.",
-        "Wǒmen bān yǒu sìshíwǔ gè xuéshēng"
-      ],
-      "半": [
-        "现在六点半。\n\n我们在半路上遇到了他。",
-        "Bây giờ là 6 giờ rưỡi.\n\nChúng tôi đã gặp anh ấy giữa đường.",
-        "Xiànzài liù diǎn bàn/\n\n/Wǒmen zài bàn lùshàng yù dàole tā"
-      ],
-      "半年": [
-        "我来上海学习已经有半年了。",
-        "Tôi đến Thượng Hải học đã được nửa năm.",
-        "Wǒ lái shànghǎi xuéxí yǐjīng yǒu bànnián le"
-      ],
-      "半天": [
-        "我今天要工作半天。\n\n我在门口等了你半天。",
-        "Tôi hôm nay phải đi làm nửa ngày.\n\nAnh đã đứng trước cửa đợi em rất lâu.",
-        "Wǒ jīntiān yào gōngzuò bàntiān/\n\n/Wǒ zài ménkǒu děng le nǐ bàntiān"
       ],
       "帮": [
         "他经常帮我做家务。",
         "Anh ấy thường giúp tôi làm việc nhà.",
         "Tā jīngcháng bāng wǒ zuò jiāwù"
       ],
+      "班": [
+        "我们班有四十五个学生。",
+        "Lớp của chúng tôi có 45 học sinh.",
+        "Wǒmen bān yǒu sìshíwǔ gè xuéshēng"
+      ],
       "帮忙": [
         "你可以来帮忙吗？",
         "Bạn có thể lại giúp đỡ không?",
         "Nǐ kěyǐ lái bāngmáng ma?"
+      ],
+      "爱好": [
+        "我爱好打篮球。",
+        "Tôi thích chơi bóng rổ.",
+        "Wǒ àihào dǎ lánqiú"
+      ],
+      "半": [
+        "现在六点半。\n\n我们在半路上遇到了他。",
+        "Bây giờ là 6 giờ rưỡi.\n\nChúng tôi đã gặp anh ấy giữa đường.",
+        "Xiànzài liù diǎn bàn/\n\n/Wǒmen zài bàn lùshàng yù dàole tā"
+      ],
+      "百": [
+        "我有一百块钱。",
+        "Tôi có một trăm tệ.",
+        "Wǒ yǒu yībǎi kuài qián"
+      ],
+      "半年": [
+        "我来上海学习已经有半年了。",
+        "Tôi đến Thượng Hải học đã được nửa năm.",
+        "Wǒ lái shànghǎi xuéxí yǐjīng yǒu bànnián le"
+      ],
+      "白天": [
+        "早睡吧，你白天还要去上课。",
+        "Ngủ sớm đi, bạn ban ngày còn phải đi học.",
+        "Zǎo shuì ba, nǐ báitiān hái yào qù shàngkè"
+      ],
+      "半天": [
+        "我今天要工作半天。\n\n我在门口等了你半天。",
+        "Tôi hôm nay phải đi làm nửa ngày.\n\nAnh đã đứng trước cửa đợi em rất lâu.",
+        "Wǒ jīntiān yào gōngzuò bàntiān/\n\n/Wǒ zài ménkǒu děng le nǐ bàntiān"
+      ],
+      "白 ": [
+        "我姐姐的皮肤很白。",
+        "Da của chị tôi rất trắng.",
+        "Wǒ jiějiě de pífū hěn bái"
       ],
       "包": [
         "妈妈在包饺子。",

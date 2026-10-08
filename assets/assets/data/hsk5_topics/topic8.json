@@ -9,20 +9,20 @@
     "phraseVi": "",
     "words": [
       "安慰",
-      "岸",
-      "岸上",
-      "按摩",
-      "拔",
-      "白酒",
-      "拜访",
-      "版",
-      "扮演",
-      "棒",
       "包围",
-      "包装",
+      "岸上",
       "保卫",
+      "报答",
+      "岸",
+      "版",
+      "拔",
+      "棒",
+      "扮演",
+      "按摩",
+      "拜访",
       "保养",
-      "报答"
+      "白酒",
+      "包装"
     ],
     "examples": {
       "安慰": [
@@ -30,75 +30,75 @@
         "Bạn tôi thất tình, tôi đến an ủi anh ấy.",
         "Péngyou shī liàn le, wǒ qù ānwèi tā."
       ],
-      "岸": [
-        "我们站在河岸上钓鱼。",
-        "Chúng tôi đứng trên bờ sông câu cá.",
-        "Wǒmen zhàn zài hé'àn shàng diào yú."
+      "包围": [
+        "警察包围了犯罪现场。",
+        "Cảnh sát bao vây hiện trường tội phạm.",
+        "Jǐngchá bāowéi le fànzuì xiànchǎng."
       ],
       "岸上": [
         "船终于靠岸上了。",
         "Con tàu cuối cùng cũng cập bờ.",
         "Chuán zhōngyú kào ànshàng le."
       ],
-      "按摩": [
-        "工作累了，我去按摩一下。",
-        "Làm việc mệt, tôi đi mát-xa một chút.",
-        "Gōngzuò lèi le, wǒ qù ànmó yīxià."
+      "保卫": [
+        "士兵保卫祖国。",
+        "Người lính bảo vệ tổ quốc.",
+        "Shìbīng bǎowèi zǔguó."
       ],
-      "拔": [
-        "他用力拔出了那颗牙。",
-        "Anh ấy dùng sức nhổ ra cái răng đó.",
-        "Tā yònglì bá chū le nà kē yá."
+      "报答": [
+        "我要好好报答父母。",
+        "Tôi muốn báo đáp cha mẹ thật tốt.",
+        "Wǒ yào hǎohǎo bàodá fùmǔ."
       ],
-      "白酒": [
-        "中国人过节常喝白酒。",
-        "Người Trung Quốc thường uống rượu trắng vào dịp lễ.",
-        "Zhōngguórén guòjié cháng hē báijiǔ."
-      ],
-      "拜访": [
-        "明天我要去拜访老师。",
-        "Ngày mai tôi sẽ đi thăm thầy giáo.",
-        "Míngtiān wǒ yào qù bàifǎng lǎoshī."
+      "岸": [
+        "我们站在河岸上钓鱼。",
+        "Chúng tôi đứng trên bờ sông câu cá.",
+        "Wǒmen zhàn zài hé'àn shàng diào yú."
       ],
       "版": [
         "这本书出了新版。",
         "Quyển sách này đã ra phiên bản mới.",
         "Zhè běn shū chū le xīn bǎn."
       ],
-      "扮演": [
-        "他在电影里扮演英雄。",
-        "Anh ấy đóng vai anh hùng trong phim.",
-        "Tā zài diànyǐng lǐ bànyǎn yīngxióng."
+      "拔": [
+        "他用力拔出了那颗牙。",
+        "Anh ấy dùng sức nhổ ra cái răng đó.",
+        "Tā yònglì bá chū le nà kē yá."
       ],
       "棒": [
         "这个想法真棒！",
         "Ý tưởng này thật tuyệt vời!",
         "Zhège xiǎngfǎ zhēn bàng!"
       ],
-      "包围": [
-        "警察包围了犯罪现场。",
-        "Cảnh sát bao vây hiện trường tội phạm.",
-        "Jǐngchá bāowéi le fànzuì xiànchǎng."
+      "扮演": [
+        "他在电影里扮演英雄。",
+        "Anh ấy đóng vai anh hùng trong phim.",
+        "Tā zài diànyǐng lǐ bànyǎn yīngxióng."
       ],
-      "包装": [
-        "这个礼物包装得很漂亮。",
-        "Món quà này được đóng gói rất đẹp.",
-        "Zhège lǐwù bāozhuāng de hěn piàoliang."
+      "按摩": [
+        "工作累了，我去按摩一下。",
+        "Làm việc mệt, tôi đi mát-xa một chút.",
+        "Gōngzuò lèi le, wǒ qù ànmó yīxià."
       ],
-      "保卫": [
-        "士兵保卫祖国。",
-        "Người lính bảo vệ tổ quốc.",
-        "Shìbīng bǎowèi zǔguó."
+      "拜访": [
+        "明天我要去拜访老师。",
+        "Ngày mai tôi sẽ đi thăm thầy giáo.",
+        "Míngtiān wǒ yào qù bàifǎng lǎoshī."
       ],
       "保养": [
         "汽车需要定期保养。",
         "Ô tô cần được bảo dưỡng định kỳ.",
         "Qìchē xūyào dìngqī bǎoyǎng."
       ],
-      "报答": [
-        "我要好好报答父母。",
-        "Tôi muốn báo đáp cha mẹ thật tốt.",
-        "Wǒ yào hǎohǎo bàodá fùmǔ."
+      "白酒": [
+        "中国人过节常喝白酒。",
+        "Người Trung Quốc thường uống rượu trắng vào dịp lễ.",
+        "Zhōngguórén guòjié cháng hē báijiǔ."
+      ],
+      "包装": [
+        "这个礼物包装得很漂亮。",
+        "Món quà này được đóng gói rất đẹp.",
+        "Zhège lǐwù bāozhuāng de hěn piàoliang."
       ]
     }
   }

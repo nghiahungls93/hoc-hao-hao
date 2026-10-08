@@ -1,766 +1,771 @@
 [
   {
     "id": "hsk1-topic-01-lesson-01",
-    "title": "Chào hỏi và gia đình · Bài 1",
+    "title": "Giao tiếp và từ cốt lõi · Bài 1",
     "titleCn": "HSK 1 · 1-1",
-    "context": "15 từ vựng cùng nhóm nghĩa",
+    "context": "Các từ cần dùng ngay để hiểu và tạo câu cơ bản",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "爱",
-      "白 ",
-      "帮",
-      "帮忙",
-      "包",
-      "本 ",
-      "比",
-      "别 ",
-      "别人",
-      "病人",
-      "不对",
-      "不客气",
-      "不用",
-      "唱",
-      "出来"
-    ],
-    "examples": {
-      "爱": [
-        "爸爸爱妈妈。",
-        "Ba yêu mẹ.",
-        "Bàba ài māmā"
-      ],
-      "白 ": [
-        "我姐姐的皮肤很白。",
-        "Da của chị tôi rất trắng.",
-        "Wǒ jiějiě de pífū hěn bái"
-      ],
-      "帮": [
-        "他经常帮我做家务。",
-        "Anh ấy thường giúp tôi làm việc nhà.",
-        "Tā jīngcháng bāng wǒ zuò jiāwù"
-      ],
-      "帮忙": [
-        "你可以来帮忙吗？",
-        "Bạn có thể lại giúp đỡ không?",
-        "Nǐ kěyǐ lái bāngmáng ma?"
-      ],
-      "包": [
-        "妈妈在包饺子。",
-        "Mẹ đang gói sủi cảo.",
-        "Māma zài bāo jiǎozǐ"
-      ],
-      "本 ": [
-        "你读过这本书了吗？",
-        "Bạn đã đọc cuốn sách này chưa?",
-        "Nǐ dúguò zhè běn shū le ma?"
-      ],
-      "比": [
-        "我哥哥比我高。",
-        "Anh trai tôi cao hơn tôi.",
-        "Wǒ gēge bǐ wǒ gāo"
-      ],
-      "别 ": [
-        "在医院，大家别大声说话。\n\n他到现在还没来，别是忘了吗？",
-        "Ở bệnh viện, mọi người đừng nói lớn tiếng.\n\nAnh ấy đến bây giờ vẫn chưa đến, lẽ nào anh ấy quên rồi sao?",
-        "Zài yīyuàn, dàjiā bié dàshēng shuōhuà/\n\n/Tā dào xiànzài hái méi lái, bié shì wàng le ma"
-      ],
-      "别人": [
-        "这本书可能是别人的。",
-        "Ngoại trừ Tiểu Lệ ra, những người khác đều không muốn đi.",
-        "Chúle Xiǎo Lì yǐwài, biérén dōu bù yuànyì qù"
-      ],
-      "病人": [
-        "王医生每天都要看十到二十位病人。",
-        "Bác sĩ Vương mỗi ngày đều phải khám từ 10 đến 20 bệnh nhân.",
-        "Wáng yīshēng měitiān dōu yào kàn shí dào èrshí wèi bìngrén"
-      ],
-      "不对": [
-        "你的答案不对。",
-        "Đáp án của bạn không đúng.",
-        "Nǐ de dá'àn bù duì"
-      ],
-      "不客气": [
-        "A: 谢谢你！\nB: 不客气！",
-        "A: Cảm ơn bạn! \nB: Đừng khách sáo!",
-        "A: /Xièxiè nǐ/\nB: /Búkèqi"
-      ],
-      "不用": [
-        "你不用担心。",
-        "Bạn không cần phải lo lắng.",
-        "Nǐ búyòng dānxīn"
-      ],
-      "唱": [
-        "她唱太好了，大家都起立鼓掌。",
-        "Cô ấy hát rất hay, mọi người đều đứng dậy vỗ tay.",
-        "Tā chàng tài hǎo le, dàjiā dōu qǐlì gǔzhǎng"
-      ],
-      "出来": [
-        "你出来，我跟你说句话。",
-        "Anh ra đây tôi nói chuyện với anh.",
-        "Nǐ chūlái，wǒ gēn nǐ shuō jù huà"
-      ]
-    }
-  },
-  {
-    "id": "hsk1-topic-01-lesson-02",
-    "title": "Chào hỏi và gia đình · Bài 2",
-    "titleCn": "HSK 1 · 1-2",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "错",
-      "打",
-      "打开",
-      "地方",
-      "弟弟 |  弟",
-      "对 ",
-      "儿子",
-      "二",
-      "飞",
-      "干净",
-      "干什么",
-      "高",
-      "告诉",
-      "跟",
-      "关上"
-    ],
-    "examples": {
-      "错": [
-        "你做错了。",
-        "Bạn làm sai rồi.",
-        "Nǐ zuò cuò le"
-      ],
-      "打": [
-        "我弟弟在打篮球。",
-        "Em trai tôi đang chơi bóng rổ.",
-        "Wǒ dìdi zài dǎqiú"
-      ],
-      "打开": [
-        "请你把门打开。",
-        "Xin bạn hãy mở cửa ra.",
-        "Qǐng nǐ bǎ mén dǎkāi"
-      ],
-      "地方": [
-        "他是这个地方的人。",
-        "Anh ấy là người bản địa.",
-        "Tā shì zhège dìfāng de rén"
-      ],
-      "弟弟 |  弟": [
-        "我有一个弟弟。",
-        "Tôi có một người em trai.",
-        "Wǒ yǒu yīgè dìdi"
-      ],
-      "对 ": [
-        "你的答案是对的。",
-        "Câu trả lời của bạn là đúng.",
-        "Nǐ de dá'àn shì duì de"
-      ],
-      "儿子": [
-        "我有一个儿子。",
-        "Tôi có một cậu con trai.",
-        "Wǒ yǒu yí gè érzi"
-      ],
-      "二": [
-        "我们班有二十人。",
-        "Lớp chúng ta có 20 người.",
-        "Wǒmen bān yǒu èrshí rén"
-      ],
-      "飞": [
-        "小鸟在天上飞得很快。",
-        "Con chim nhỏ bay rất nhanh trên trời.",
-        "Xiǎo niǎo zài tiān shàng fēi de hěn kuài"
-      ],
-      "干净": [
-        "你的房间很干净。",
-        "Phòng của bạn rất sạch sẽ.",
-        "Nǐ de fángjiān hěn gānjìng"
-      ],
-      "干什么": [
-        "你干什么不早说呀?",
-        "Tại sao bạn không nói sớm?",
-        "Nǐ gànshénme bù zǎo shuō ya"
-      ],
-      "高": [
-        "你比我高一点儿。",
-        "Bạn cao hơn tôi một chút.",
-        "Nǐ bǐ wǒ gāo yìdiǎnr"
-      ],
-      "告诉": [
-        "妈妈告诉我早点回家。",
-        "Mẹ bảo tôi về nhà sớm.",
-        "Māma gàosu wǒ zǎodiǎn huíjiā"
-      ],
-      "跟": [
-        "我跟朋友一起去旅行。",
-        "Tôi đi du lịch cùng bạn bè.",
-        "Wǒ gēn péngyǒu yīqǐ qù lǚxíng"
-      ],
-      "关上": [
-        "请关上门，谢谢你！",
-        "Hãy đóng cửa lại, cảm ơn bạn.",
-        "Qǐng guānshàng mén, xièxiè nǐ"
-      ]
-    }
-  },
-  {
-    "id": "hsk1-topic-01-lesson-03",
-    "title": "Chào hỏi và gia đình · Bài 3",
-    "titleCn": "HSK 1 · 1-3",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "还",
-      "还有",
-      "孩子",
-      "汉语",
-      "好听",
-      "号",
-      "回到",
-      "回家",
-      "几",
-      "记得",
-      "家",
-      "家里",
-      "见",
-      "教",
-      "叫"
-    ],
-    "examples": {
-      "还": [
-        "她明天把书还给图书馆。",
-        "Ngày mai cô ấy sẽ đem sách trả lại cho thư viện",
-        "Tā míngtiān bǎ shū huán gěi túshū guǎn"
-      ],
-      "还有": [
-        "我家里还有两只猫。",
-        "Nhà tôi còn có hai con mèo.",
-        "Wǒ jiālǐ hái yǒu liǎng zhī māo"
-      ],
-      "孩子": [
-        "孩子们在公园玩儿。",
-        "Mấy đứa trẻ đang chơi trong công viên.",
-        "Háizimen zài gōngyuán wánr"
-      ],
-      "汉语": [
-        "他的汉语说得很好。",
-        "Anh ấy nói tiếng Trung rất giỏi.",
-        "Tā de Hànyǔ shuō de hěn hăo"
-      ],
-      "好听": [
-        "这首歌很好听。",
-        "Bài hát này rất hay.",
-        "Zhè shǒu gē hěn hǎotīng"
-      ],
-      "号": [
-        "你的房间号是多少？",
-        "Số phòng của bạn là bao nhiêu?",
-        "Nǐ de fángjiān hào shì duōshǎo"
-      ],
-      "回到": [
-        "他回到家了。",
-        "Anh ấy đã về đến nhà rồi.",
-        "Tā huídào jiā le"
-      ],
-      "回家": [
-        "朋友们都回家了。",
-        "Các bạn tôi đều đã về nhà rồi.",
-        "Péngyǒumen dōu huí jiā le"
-      ],
-      "几": [
-        "你有几个兄弟姐妹？",
-        "Bạn có mấy anh chị em?",
-        "Nǐ yǒu jǐ gè xiōngdì jiěmèi"
-      ],
-      "记得": [
-        "你还记得他的生日吗？",
-        "Bạn còn nhớ sinh nhật của anh ấy không?",
-        "Nǐ hái jìdé tā de shēngrì ma"
-      ],
-      "家": [
-        "我家在上海。",
-        "Nhà tôi ở Thượng Hải.",
-        "Wǒ jiā zài Shànghǎi"
-      ],
-      "家里": [
-        "我家里有很多书。",
-        "Trong nhà tôi có rất nhiều sách.",
-        "Wǒ jiālǐ yǒu hěn duō shū"
-      ],
-      "见": [
-        "我在公园见到朋友。",
-        "Tôi gặp bạn ở công viên.",
-        "Wǒ zài gōngyuán jiàn dào péngyǒu"
-      ],
-      "教": [
-        "她教我们英语。",
-        "Cô ấy dạy chúng tôi tiếng Anh.",
-        "Tā jiāo wǒmen Yīngyǔ"
-      ],
-      "叫": [
-        "妈妈叫我回家。",
-        "Mẹ gọi tôi về nhà.",
-        "Māmā jiào wǒ huí jiā"
-      ]
-    }
-  },
-  {
-    "id": "hsk1-topic-01-lesson-04",
-    "title": "Chào hỏi và gia đình · Bài 4",
-    "titleCn": "HSK 1 · 1-4",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "姐姐",
-      "介绍",
-      "进来",
-      "就",
-      "看见",
-      "课文",
-      "来",
-      "里边",
-      "两",
-      "六",
-      "楼上",
-      "楼下",
-      "忙",
-      "毛",
-      "没事儿"
-    ],
-    "examples": {
-      "姐姐": [
-        "她是我的姐姐。",
-        "Cô ấy là chị gái tôi.",
-        "Tā shì wǒ de jiějie"
-      ],
-      "介绍": [
-        "我来介绍一下我的朋友。",
-        "Tôi giới thiệu chút về bạn của tôi.",
-        "Wǒ lái jièshào yīxià wǒ de péngyou"
-      ],
-      "进来": [
-        "他刚刚进来了。",
-        "Anh ấy vừa mới vào.",
-        "Tā gānggāng jìn lái le"
-      ],
-      "就": [
-        "他下班后就回家了。",
-        "Anh ấy tan làm liền về nhà.",
-        "Tā xiàbān hòu jiù huíjiā le"
-      ],
-      "看见": [
-        "我看见一只小鸟在树上唱歌。",
-        "Tôi nhìn thấy một con chim đang hót trên cây.",
-        "Wǒ kànjiàn yī zhī xiǎo niǎo zài shù shàng chànggē"
-      ],
-      "课文": [
-        "请大家朗读课文。",
-        "Mọi người vui lòng đọc to bài khóa.",
-        "Qǐng dàjiā lǎngdú kèwén"
-      ],
-      "来": [
-        "你什么时候来我家?",
-        "Khi nào bạn đến nhà tôi?",
-        "Nǐ shénme shíhòu lái wǒ jiā"
-      ],
-      "里边": [
-        "你在里边等我。",
-        "Bạn đợi tôi ở bên trong nhé.",
-        "Nǐ zài lǐbiān děng wǒ"
-      ],
-      "两": [
-        "我有两个姐姐。",
-        "Tôi có hai chị gái.",
-        "Wǒ yǒu liǎng gè jiějie"
-      ],
-      "六": [
-        "我家有六口人。",
-        "Nhà tôi có sáu người.",
-        "Wǒ jiā yǒu liù kǒu rén"
-      ],
-      "楼上": [
-        "我哥哥在楼上睡觉。",
-        "Anh trai tôi đang ngủ trên tầng.",
-        "Wǒ gēge zài lóu shàng shuìjiào"
-      ],
-      "楼下": [
-        "我在楼下等你。",
-        "Tôi đang đợi bạn ở tầng dưới.",
-        "Wǒ zài lóu xià děng nǐ"
-      ],
-      "忙": [
-        "他最近很忙。",
-        "Dạo này anh ấy rất bận.",
-        "Tā zuìjìn hěn máng"
-      ],
-      "毛": [
-        "小狗的毛很软。",
-        "Lông của chú chó con rất mềm.",
-        "Xiǎogǒu de máo hěn ruǎn"
-      ],
-      "没事儿": [
-        "没事儿，我帮你。",
-        "Không sao đâu, tôi giúp bạn.",
-        "Méi shìr, wǒ bāng nǐ"
-      ]
-    }
-  },
-  {
-    "id": "hsk1-topic-01-lesson-05",
-    "title": "Chào hỏi và gia đình · Bài 5",
-    "titleCn": "HSK 1 · 1-5",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "妹妹 | 妹",
-      "门口",
-      "们（朋友们）",
-      "名字",
-      "明白",
-      "哪里",
-      "哪些",
-      "那边",
-      "男朋友",
-      "男人",
+      "我",
       "你",
+      "您",
+      "他",
+      "她",
+      "我们",
       "你们",
-      "女",
-      "女儿",
-      "女孩儿"
+      "他们",
+      "好 ",
+      "谢谢",
+      "不客气",
+      "对不起",
+      "没关系",
+      "再见",
+      "请"
     ],
     "examples": {
-      "妹妹 | 妹": [
-        "我有一个妹妹。",
-        "Tôi có một người em gái.",
-        "Wǒ yǒu yīgè mèimei"
-      ],
-      "门口": [
-        "我在门口等你。",
-        "Tôi đang đợi bạn ở cửa ra vào.",
-        "Wǒ zài ménkǒu děng nǐ"
-      ],
-      "们（朋友们）": [
-        "我们是好朋友。",
-        "Chúng tôi là bạn tốt.",
-        "Wǒmen shì hǎo péngyǒu"
-      ],
-      "名字": [
-        "你的名字是什么？",
-        "Tên của bạn là gì?",
-        "Nǐ de míngzi shì shénme"
-      ],
-      "明白": [
-        "我明白你的意思。",
-        "Tôi hiểu ý của bạn.",
-        "Wǒ míngbai nǐ de yìsi"
-      ],
-      "哪里": [
-        "你住在哪里？",
-        "Bạn sống ở đâu?",
-        "Nǐ zhù zài nǎlǐ"
-      ],
-      "哪些": [
-        "你见过哪些名人？",
-        "Bạn đã gặp những người nổi tiếng nào?",
-        "Nǐ jiànguò nǎxiē míngrén"
-      ],
-      "那边": [
-        "你看到那边的猫了吗？",
-        "Bạn có thấy con mèo bên đó không?",
-        "Nǐ kàn dào nà bian de māo le ma"
-      ],
-      "男朋友": [
-        "她的男朋友很帅。",
-        "Bạn trai của cô ấy rất đẹp trai.",
-        "Tā de nánpéngyou hěn shuài"
-      ],
-      "男人": [
-        "那个男人在看手机。",
-        "Người đàn ông đó đang xem điện thoại.",
-        "Nàgè nánrén zài kàn shǒujī"
+      "我": [
+        "我是学生。",
+        "Tôi là học sinh.",
+        "Wǒ shì xuéshēng"
       ],
       "你": [
         "你喜欢吃什么？",
         "Bạn thích ăn gì?",
         "Nǐ xǐhuan chī shénme"
       ],
-      "你们": [
-        "你们要去哪儿？",
-        "Các bạn muốn đi đâu?",
-        "Nǐmen yào qù nǎr"
-      ],
-      "女": [
-        "我的女儿非常可爱。",
-        "Con gái tôi rất dễ thương.",
-        "Wǒ de nǚ ér fēicháng kě ài"
-      ],
-      "女孩儿": [
-        "你家女孩儿几岁了？",
-        "Con gái nhà bạn mấy tuổi rồi?",
-        "Nǐ jiā nǚháir jǐ suì le"
-      ]
-    }
-  },
-  {
-    "id": "hsk1-topic-01-lesson-06",
-    "title": "Chào hỏi và gia đình · Bài 6",
-    "titleCn": "HSK 1 · 1-6",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "女朋友",
-      "朋友",
-      "起来",
-      "请进",
-      "请问",
-      "人",
-      "认识",
-      "三",
-      "少",
-      "生气",
-      "十",
-      "是",
-      "四",
-      "送",
-      "他"
-    ],
-    "examples": {
-      "女朋友": [
-        "你有女朋友吗？",
-        "Cậu có bạn gái chưa?",
-        "Nǐ yǒu nǚ péngyǒu ma"
-      ],
-      "朋友": [
-        "我有很多朋友。",
-        "Tôi có rất nhiều bạn.",
-        "Wǒ yǒu hěn duō péngyou"
-      ],
-      "起来": [
-        "他站起来了。",
-        "Anh ấy đứng dậy rồi.",
-        "Tā zhàn qǐlái le"
-      ],
-      "请进": [
-        "请进，大家都在等你。",
-        "Mời vào, mọi người đang chờ bạn.",
-        "Qǐng jìn, dàjiā dōu zài děng nǐ"
-      ],
-      "请问": [
-        "请问您有空吗？",
-        "Xin hỏi anh có rảnh không ạ?",
-        "Qǐngwèn nín yǒu kòng ma"
-      ],
-      "人": [
-        "这个世界上有很多好人。",
-        "Trên thế giới này có rất nhiều người tốt.",
-        "Zhège shìjiè shàng yǒu hěn duō hǎorén"
-      ],
-      "认识": [
-        "我认识他。",
-        "Tôi quen biết anh ấy.",
-        "Wǒ rènshi tā"
-      ],
-      "三": [
-        "我有三个好朋友。",
-        "Tôi có ba người bạn tốt.",
-        "Wǒ yǒu sān gè hǎo péngyǒu"
-      ],
-      "少": [
-        "这里的人很少。",
-        "Ở đây rất ít người.",
-        "Zhèlǐ de rén hěn shǎo"
-      ],
-      "生气": [
-        "妈妈生气了。",
-        "Mẹ giận rồi.",
-        "Māmā shēngqì le"
-      ],
-      "十": [
-        "他十岁就会游泳。",
-        "Anh ấy mười tuổi đã biết bơi.",
-        "Tā shí suì jiù huì yóuyǒng"
-      ],
-      "是": [
-        "他是我的好朋友。",
-        "Anh ấy là bạn tốt của tôi.",
-        "Tā shì wǒ de hǎo péngyǒu"
-      ],
-      "四": [
-        "他家有四口人。",
-        "Gia đình anh ấy có bốn người.",
-        "Tā jiā yǒu sì kǒu rén"
-      ],
-      "送": [
-        "我送你一本书。",
-        "Tôi tặng bạn một quyển sách.",
-        "Wǒ sòng nǐ yī běn shū"
+      "您": [
+        "您喜欢喝茶还是喝咖啡？",
+        "Ngài thích uống trà hay cà phê?",
+        "Nín xǐhuan hē chá háishì hē kāfēi"
       ],
       "他": [
         "他是我的朋友。",
         "Anh ấy là bạn của tôi.",
         "Tā shì wǒ de péngyǒu"
-      ]
-    }
-  },
-  {
-    "id": "hsk1-topic-01-lesson-07",
-    "title": "Chào hỏi và gia đình · Bài 7",
-    "titleCn": "HSK 1 · 1-7",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "听",
-      "听到",
-      "听见",
-      "外国",
-      "网友",
-      "我们",
-      "下",
-      "下边",
-      "小",
-      "小朋友",
-      "谢谢",
-      "一",
-      "有",
-      "有名",
-      "在"
-    ],
-    "examples": {
-      "听": [
-        "他在听歌。",
-        "Anh ấy đang nghe nhạc.",
-        "Tā zài tīng gē"
       ],
-      "听到": [
-        "我听到了你的声音。",
-        "Tôi đã nghe thấy giọng của bạn.",
-        "Wǒ tīngdào le nǐ de shēngyīn"
-      ],
-      "听见": [
-        "你听见了吗？",
-        "Bạn có nghe thấy không?",
-        "Nǐ tīngjiàn le ma"
-      ],
-      "外国": [
-        "他是外国人。",
-        "Anh ấy là người nước ngoài.",
-        "Tā shì wàiguó rén"
-      ],
-      "网友": [
-        "我有很多网友。",
-        "Tôi có nhiều bạn trên mạng.",
-        "Wǒ yǒu hěnduō wǎngyǒu"
+      "她": [
+        "她喜欢听音乐。",
+        "Cô ấy thích nghe nhạc.",
+        "Tā xǐhuan tīng yīnyuè"
       ],
       "我们": [
         "我们是好朋友。",
         "Chúng tôi là bạn tốt của nhau.",
         "Wǒmen shì hǎo péngyǒu"
       ],
-      "下": [
-        "上有父母，下有儿女。",
-        "Trên có cha mẹ, dưới có con cái.",
-        "Shàng yǒu fùmǔ, xià yǒu érnǚ"
+      "你们": [
+        "你们要去哪儿？",
+        "Các bạn muốn đi đâu?",
+        "Nǐmen yào qù nǎr"
       ],
-      "下边": [
-        "桌子下边有一只猫。",
-        "Dưới bàn có một con mèo.",
-        "Zhuōzi xiàbian yǒu yī zhī māo"
+      "他们": [
+        "他们在学校学习。",
+        "Họ đang học ở trường.",
+        "Tāmen zài xuéxiào xuéxí"
       ],
-      "小": [
-        "这只狗很小，很可爱。",
-        "Con chó này rất nhỏ, rất đáng yêu.",
-        "Zhè zhī gǒu hěn xiǎo, hěn kě'ài"
-      ],
-      "小朋友": [
-        "小朋友们都喜欢听故事。",
-        "Các bạn nhỏ đều thích nghe kể chuyện.",
-        "Xiǎopéngyǒu men dōu xǐhuan tīng gùshì"
+      "好 ": [
+        "你身体好吗？",
+        "Bạn có khỏe không?",
+        "Nǐ shēntǐ hǎo ma"
       ],
       "谢谢": [
         "谢谢你的帮助。",
         "Cảm ơn sự giúp đỡ của bạn.",
         "Xièxie nǐ de bāngzhù"
       ],
-      "一": [
-        "我只有一个妹妹。",
-        "Tôi chỉ có một em gái.",
-        "Wǒ zhǐ yǒu yī gè mèimei"
+      "不客气": [
+        "A: 谢谢你！\nB: 不客气！",
+        "A: Cảm ơn bạn! \nB: Đừng khách sáo!",
+        "A: /Xièxiè nǐ/\nB: /Búkèqi"
+      ],
+      "对不起": [
+        "对不起，我迟到了。",
+        "Xin lỗi, tôi đã đến muộn.",
+        "Duìbuqǐ, wǒ chídào le"
+      ],
+      "没关系": [
+        "没关系，我没生气。",
+        "Không sao, tôi không giận đâu.",
+        "Méiguānxi, wǒ méi shēngqì"
+      ],
+      "再见": [
+        "A: 明天见！\nB: 再见！",
+        "A: Hẹn gặp lại ngày mai! \nB: Tạm biệt!",
+        "A:/Míngtiān jiàn!/ \nB: /Zàijiàn!"
+      ],
+      "请": [
+        "请给我一杯水。",
+        "Xin hãy cho tôi một cốc nước.",
+        "Qǐng gěi wǒ yì bēi shuǐ"
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-01-lesson-02",
+    "title": "Giao tiếp và từ cốt lõi · Bài 2",
+    "titleCn": "HSK 1 · 1-2",
+    "context": "Các từ cần dùng ngay để hiểu và tạo câu cơ bản",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "是",
+      "有",
+      "没有",
+      "叫",
+      "名字",
+      "人",
+      "中国",
+      "汉语",
+      "说",
+      "听",
+      "看",
+      "读",
+      "写",
+      "学习",
+      "老师"
+    ],
+    "examples": {
+      "是": [
+        "他是我的好朋友。",
+        "Anh ấy là bạn tốt của tôi.",
+        "Tā shì wǒ de hǎo péngyǒu"
       ],
       "有": [
         "我有一个好朋友。",
         "Tôi có một người bạn tốt.",
         "Wǒ yǒu yī gè hǎo péngyǒu"
       ],
-      "有名": [
-        "这家餐厅很有名。",
-        "Nhà hàng này rất nổi tiếng.",
-        "Zhè jiā cāntīng hěn yǒumíng"
+      "没有": [
+        "我没有钱。",
+        "Tôi không có tiền.",
+        "Wǒ méiyǒu qián"
+      ],
+      "叫": [
+        "妈妈叫我回家。",
+        "Mẹ gọi tôi về nhà.",
+        "Māmā jiào wǒ huí jiā"
+      ],
+      "名字": [
+        "你的名字是什么？",
+        "Tên của bạn là gì?",
+        "Nǐ de míngzi shì shénme"
+      ],
+      "人": [
+        "这个世界上有很多好人。",
+        "Trên thế giới này có rất nhiều người tốt.",
+        "Zhège shìjiè shàng yǒu hěn duō hǎorén"
+      ],
+      "中国": [
+        "中国是一个美丽的国家。",
+        "Trung Quốc là một đất nước xinh đẹp.",
+        "Zhōngguó shì yī gè měilì de guójiā"
+      ],
+      "汉语": [
+        "他的汉语说得很好。",
+        "Anh ấy nói tiếng Trung rất giỏi.",
+        "Tā de Hànyǔ shuō de hěn hăo"
+      ],
+      "说": [
+        "我会说汉语。",
+        "Tôi biết nói tiếng Trung.",
+        "Wǒ huì shuō Hànyǔ"
+      ],
+      "听": [
+        "他在听歌。",
+        "Anh ấy đang nghe nhạc.",
+        "Tā zài tīng gē"
+      ],
+      "看": [
+        "这本书我看完了。",
+        "Tôi đã đọc xong cuốn sách này.",
+        "Zhè běn shū wǒ kànwán le"
+      ],
+      "读": [
+        "我正在读书。",
+        "Tôi đang đọc sách.",
+        "Wǒ zhèngzài dú shū"
+      ],
+      "写": [
+        "请写下你的名字。",
+        "Vui lòng viết tên của bạn xuống.",
+        "Qǐng xiě xià nǐ de míngzi"
+      ],
+      "学习": [
+        "我们应该认真学习。",
+        "Chúng ta nên học tập chăm chỉ.",
+        "Wǒmen yīnggāi rènzhēn xuéxí"
+      ],
+      "老师": [
+        "她是我们的汉语老师。",
+        "Cô ấy là giáo viên tiếng Trung của chúng tôi.",
+        "Tā shì wǒmen de Hànyǔ lǎoshī"
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-01-lesson-03",
+    "title": "Giao tiếp và từ cốt lõi · Bài 3",
+    "titleCn": "HSK 1 · 1-3",
+    "context": "Các từ cần dùng ngay để hiểu và tạo câu cơ bản",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "学生",
+      "朋友",
+      "爸爸 | 爸",
+      "妈妈 | 妈",
+      "哥哥  | 哥",
+      "姐姐",
+      "弟弟 |  弟",
+      "妹妹 | 妹",
+      "家",
+      "爱",
+      "喜欢",
+      "想",
+      "会",
+      "能",
+      "来"
+    ],
+    "examples": {
+      "学生": [
+        "她是我的学生。",
+        "Cô ấy là học sinh của tôi.",
+        "Tā shì wǒ de xuéshēng"
+      ],
+      "朋友": [
+        "我有很多朋友。",
+        "Tôi có rất nhiều bạn.",
+        "Wǒ yǒu hěn duō péngyou"
+      ],
+      "爸爸 | 爸": [
+        "他是我的爸爸。",
+        "Ông ấy là ba của tôi.",
+        "Tā shì wǒ de bàba"
+      ],
+      "妈妈 | 妈": [
+        "我妈妈做饭很好吃。",
+        "Mẹ tôi nấu ăn rất ngon.",
+        "Wǒ māma zuò fàn hěn hǎo chī"
+      ],
+      "哥哥  | 哥": [
+        "我的哥哥比我大五岁。",
+        "Anh trai tôi lớn hơn tôi năm tuổi.",
+        "Wǒ de gēge bǐ wǒ dà wǔ suì"
+      ],
+      "姐姐": [
+        "她是我的姐姐。",
+        "Cô ấy là chị gái tôi.",
+        "Tā shì wǒ de jiějie"
+      ],
+      "弟弟 |  弟": [
+        "我有一个弟弟。",
+        "Tôi có một người em trai.",
+        "Wǒ yǒu yīgè dìdi"
+      ],
+      "妹妹 | 妹": [
+        "我有一个妹妹。",
+        "Tôi có một người em gái.",
+        "Wǒ yǒu yīgè mèimei"
+      ],
+      "家": [
+        "我家在上海。",
+        "Nhà tôi ở Thượng Hải.",
+        "Wǒ jiā zài Shànghǎi"
+      ],
+      "爱": [
+        "爸爸爱妈妈。",
+        "Ba yêu mẹ.",
+        "Bàba ài māmā"
+      ],
+      "喜欢": [
+        "我很喜欢吃中国菜。",
+        "Tôi rất thích ăn món Trung Quốc.",
+        "Wǒ hěn xǐhuan chī Zhōngguó cài"
+      ],
+      "想": [
+        "我想去日本旅游。",
+        "Tôi muốn đi du lịch Nhật Bản.",
+        "Wǒ xiǎng qù Rìběn lǚyóu"
+      ],
+      "会": [
+        "你会做中国菜吗？",
+        "Bạn biết nấu món Trung Quốc không?",
+        "Nǐ huì zuò zhōngguó cài ma"
+      ],
+      "能": [
+        "咱们一定能完成任务。",
+        "Chúng ta nhất định có thể hoàn thành nhiệm vụ.",
+        "Zánmen yídìng néng wánchéng rènwù"
+      ],
+      "来": [
+        "你什么时候来我家?",
+        "Khi nào bạn đến nhà tôi?",
+        "Nǐ shénme shíhòu lái wǒ jiā"
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-01-lesson-04",
+    "title": "Giao tiếp và từ cốt lõi · Bài 4",
+    "titleCn": "HSK 1 · 1-4",
+    "context": "Các từ cần dùng ngay để hiểu và tạo câu cơ bản",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "去",
+      "吃",
+      "喝",
+      "水",
+      "饭",
+      "今天",
+      "明天",
+      "昨天",
+      "现在",
+      "一",
+      "二",
+      "三",
+      "四",
+      "五",
+      "六"
+    ],
+    "examples": {
+      "去": [
+        "他吃完饭就去了。",
+        "Anh ấy ăn xong rồi đi ngay.",
+        "Tā chī wán fàn jiù qù le"
+      ],
+      "吃": [
+        "我喜欢吃苹果。",
+        "Tôi thích ăn táo.",
+        "Wǒ xǐhuan chī píngguǒ"
+      ],
+      "喝": [
+        "我每天早上都喝咖啡。",
+        "Mỗi sáng tôi đều uống cà phê.",
+        "Wǒ měitiān zǎoshang dōu hē kāfēi"
+      ],
+      "水": [
+        "我想喝水。",
+        "Tôi muốn uống nước.",
+        "Wǒ xiǎng hē shuǐ"
+      ],
+      "饭": [
+        "我还没吃晚饭呢。\n\n他每天都吃三顿饭。",
+        "Tôi vẫn chưa ăn cơm tối. \n\nMỗi ngày anh ấy đều ăn ba bữa.",
+        "Wǒ hái méi chī wǎnfàn ne/\n\n/Tā měitiān dōu chī sān dùn fàn"
+      ],
+      "今天": [
+        "今天的天气很好。",
+        "Thời tiết hôm nay rất đẹp.",
+        "Jīntiān de tiānqì hěn hǎo"
+      ],
+      "明天": [
+        "明天是星期几？",
+        "Ngày mai là thứ mấy?",
+        "Míngtiān shì xīngqī jǐ"
+      ],
+      "昨天": [
+        "昨天天气很好，我们去公园了。",
+        "Hôm qua thời tiết rất đẹp, chúng tôi đã đi công viên.",
+        "Zuótiān tiānqì hěn hǎo, wǒmen qù gōngyuán le"
+      ],
+      "现在": [
+        "我现在就去做。",
+        "Tôi đi làm bây giờ đây.",
+        "Wǒ xiànzài jiù qù zuò"
+      ],
+      "一": [
+        "我只有一个妹妹。",
+        "Tôi chỉ có một em gái.",
+        "Wǒ zhǐ yǒu yī gè mèimei"
+      ],
+      "二": [
+        "我们班有二十人。",
+        "Lớp chúng ta có 20 người.",
+        "Wǒmen bān yǒu èrshí rén"
+      ],
+      "三": [
+        "我有三个好朋友。",
+        "Tôi có ba người bạn tốt.",
+        "Wǒ yǒu sān gè hǎo péngyǒu"
+      ],
+      "四": [
+        "他家有四口人。",
+        "Gia đình anh ấy có bốn người.",
+        "Tā jiā yǒu sì kǒu rén"
+      ],
+      "五": [
+        "她今天买了五个苹果。",
+        "Hôm nay cô ấy đã mua năm quả táo.",
+        "Tā jīntiān mǎi le wǔ gè píngguǒ"
+      ],
+      "六": [
+        "我家有六口人。",
+        "Nhà tôi có sáu người.",
+        "Wǒ jiā yǒu liù kǒu rén"
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-01-lesson-05",
+    "title": "Giao tiếp và từ cốt lõi · Bài 5",
+    "titleCn": "HSK 1 · 1-5",
+    "context": "Các từ cần dùng ngay để hiểu và tạo câu cơ bản",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "七",
+      "八",
+      "九",
+      "十",
+      "跟",
+      "几",
+      "在",
+      "呢",
+      "怎么",
+      "都",
+      "很",
+      "没",
+      "不",
+      "哪",
+      "也"
+    ],
+    "examples": {
+      "七": [
+        "我有七本书。",
+        "Tôi có bảy quyển sách.",
+        "Wǒ yǒu qī běn shū"
+      ],
+      "八": [
+        "他买了八个苹果。",
+        "Anh ấy đã mua tám quả táo.",
+        "Tā mǎi le bā gè píngguǒ"
+      ],
+      "九": [
+        "这个班有九个学生。",
+        "Lớp này có chín học sinh.",
+        "Zhège bān yǒu jiǔ gè xuéshēng"
+      ],
+      "十": [
+        "他十岁就会游泳。",
+        "Anh ấy mười tuổi đã biết bơi.",
+        "Tā shí suì jiù huì yóuyǒng"
+      ],
+      "跟": [
+        "我跟朋友一起去旅行。",
+        "Tôi đi du lịch cùng bạn bè.",
+        "Wǒ gēn péngyǒu yīqǐ qù lǚxíng"
+      ],
+      "几": [
+        "你有几个兄弟姐妹？",
+        "Bạn có mấy anh chị em?",
+        "Nǐ yǒu jǐ gè xiōngdì jiěmèi"
       ],
       "在": [
         "我在家看电视。",
         "Tôi ở nhà xem tivi.",
         "Wǒ zài jiā kàn diànshì"
+      ],
+      "呢": [
+        "我是学生，你呢？",
+        "Tớ là học sinh, còn cậu thì sao?",
+        "Wǒ shì xuéshēng, nǐ ne"
+      ],
+      "怎么": [
+        "你怎么来学校的？",
+        "Bạn đến trường bằng cách nào?",
+        "Nǐ zěnme lái xuéxiào de"
+      ],
+      "都": [
+        "我们都很忙。",
+        "Chúng tôi đều rất bận.",
+        "Wǒmen dōu hěn máng"
+      ],
+      "很": [
+        "今天的课文很长， 生词很多。",
+        "Hôm nay bài khoá rất dài, nên từ mới rất nhiều.",
+        "Jīntiān de kèwén hěn cháng, shēngcí hěnduō"
+      ],
+      "没": [
+        "我今天没时间。",
+        "Hôm nay tôi không có thời gian (không rảnh).",
+        "Wǒ jīntiān méi shíjiān"
+      ],
+      "不": [
+        "我不喜欢吃辣。",
+        "Tôi không thích ăn cay.",
+        "Wǒ bù xǐhuān chī là"
+      ],
+      "哪": [
+        "你喜欢哪本书？",
+        "Bạn thích quyển sách nào?",
+        "Nǐ xǐhuān nǎ běn shū"
+      ],
+      "也": [
+        "我也喜欢吃苹果。",
+        "Tôi cũng thích ăn táo.",
+        "Wǒ yě xǐhuan chī píngguǒ"
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-01-lesson-06",
+    "title": "Giao tiếp và từ cốt lõi · Bài 6",
+    "titleCn": "HSK 1 · 1-6",
+    "context": "Các từ cần dùng ngay để hiểu và tạo câu cơ bản",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "多少",
+      "给",
+      "和",
+      "了",
+      "吗",
+      "什么",
+      "做",
+      "吧",
+      "的",
+      "那",
+      "谁",
+      "她们",
+      "这",
+      "帮",
+      "还"
+    ],
+    "examples": {
+      "多少": [
+        "这个多少钱？",
+        "Cái này bao nhiêu tiền?",
+        "Zhège duōshǎo qián?"
+      ],
+      "给": [
+        "妈妈给我买了一本书。",
+        "Mẹ đã mua cho tôi một quyển sách.",
+        "Māma gěi wǒ mǎi le yī běn shū"
+      ],
+      "和": [
+        "我买了一本书和一件衣服。",
+        "Tôi đã mua 1 cuốn sách và 1 bộ quần áo.",
+        "Wǒ mǎile yī běn shū hé yī jiàn yīfú"
+      ],
+      "了": [
+        "我吃了一个苹果。",
+        "Tôi đã ăn một quả táo.",
+        "Wǒ chī le yīgè píngguǒ"
+      ],
+      "吗": [
+        "你喜欢中国菜吗？",
+        "Bạn có thích món ăn Trung Quốc không?",
+        "Nǐ xǐhuan Zhōngguó cài ma"
+      ],
+      "什么": [
+        "你想吃什么？",
+        "Bạn muốn ăn gì?",
+        "Nǐ xiǎng chī shénme"
+      ],
+      "做": [
+        "我妈做中国菜非常好吃。",
+        "Mẹ tôi làm đồ ăn Trung Quốc rất ngon.",
+        "Wǒ mā zuò Zhōngguó cài fēicháng hǎochī"
+      ],
+      "吧": [
+        "我们去公园玩儿吧。",
+        "Chúng mình đi công viên chơi nhé.",
+        "Wǒmen qù gōngyuán wán er ba"
+      ],
+      "的": [
+        "这是我的书。",
+        "Đây là sách của tôi.",
+        "Zhè shì wǒ de shū"
+      ],
+      "那": [
+        "那是我的书。",
+        "Đó là sách của tôi.",
+        "Nà shì wǒ de shū"
+      ],
+      "谁": [
+        "这是谁的书？",
+        "Đây là sách của ai?",
+        "Zhè shì shéi de shū"
+      ],
+      "她们": [
+        "她们正在看书。",
+        "Họ đang đọc sách.",
+        "Tāmen zhèngzài kàn shū"
+      ],
+      "这": [
+        "这是我的书。",
+        "Đây là sách của tôi.",
+        "Zhè shì wǒ de shū"
+      ],
+      "帮": [
+        "他经常帮我做家务。",
+        "Anh ấy thường giúp tôi làm việc nhà.",
+        "Tā jīngcháng bāng wǒ zuò jiāwù"
+      ],
+      "还": [
+        "她明天把书还给图书馆。",
+        "Ngày mai cô ấy sẽ đem sách trả lại cho thư viện",
+        "Tā míngtiān bǎ shū huán gěi túshū guǎn"
+      ]
+    }
+  },
+  {
+    "id": "hsk1-topic-01-lesson-07",
+    "title": "Giao tiếp và từ cốt lõi · Bài 7",
+    "titleCn": "HSK 1 · 1-7",
+    "context": "Các từ cần dùng ngay để hiểu và tạo câu cơ bản",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "见",
+      "班",
+      "问",
+      "学",
+      "穿",
+      "分 ",
+      "还",
+      "回",
+      "课",
+      "月",
+      "茶",
+      "话",
+      "块",
+      "菜",
+      "出"
+    ],
+    "examples": {
+      "见": [
+        "我在公园见到朋友。",
+        "Tôi gặp bạn ở công viên.",
+        "Wǒ zài gōngyuán jiàn dào péngyǒu"
+      ],
+      "班": [
+        "我们班有四十五个学生。",
+        "Lớp của chúng tôi có 45 học sinh.",
+        "Wǒmen bān yǒu sìshíwǔ gè xuéshēng"
+      ],
+      "问": [
+        "你可以问问老师这个问题。",
+        "Bạn có thể hỏi giáo viên câu hỏi này.",
+        "Nǐ kěyǐ wèn wèn lǎoshī zhège wèntí"
+      ],
+      "学": [
+        "我在学汉语。",
+        "Tôi đang học tiếng Trung.",
+        "Wǒ zài xué Hànyǔ"
+      ],
+      "穿": [
+        "今天我穿了件新衣服。",
+        "Hôm nay tôi mặc quần áo mới.",
+        "Jīntiān wǒ chuān le jiàn xīn yīfu"
+      ],
+      "分 ": [
+        "这次考试我考了100分。",
+        "Kỳ thi lần này tôi thi được 100 điểm.",
+        "Zhè cì kǎoshì wǒ kǎole 100 fēn"
+      ],
+      "还": [
+        "她明天把书还给图书馆。",
+        "Ngày mai cô ấy sẽ đem sách trả lại cho thư viện",
+        "Tā míngtiān bǎ shū huán gěi túshū guǎn"
+      ],
+      "回": [
+        "我每天六点回家。",
+        "Tôi về nhà lúc 6 giờ mỗi ngày.",
+        "Wǒ měitiān liù diǎn huí jiā"
+      ],
+      "课": [
+        "今天的汉语课很有意思。",
+        "Bài học tiếng Trung hôm nay rất thú vị.",
+        "Jīntiān de Hànyǔ kè hěn yǒuyìsi"
+      ],
+      "月": [
+        "今年的二月有二十九天。\n\n今天的月亮很漂亮。",
+        "Tháng Hai năm nay có 29 ngày.\n\nMặt trăng hôm nay rất đẹp.",
+        "Jīnnián de èryuè yǒu èrshíjiǔ tiān/\n\n/Jīntiān de yuèliàng hěn piàoliang"
+      ],
+      "茶": [
+        "我喜欢喝茶。",
+        "Tôi thích uống trà.",
+        "Wǒ xǐhuān hē chá"
+      ],
+      "话": [
+        "她的话让我很高兴。",
+        "Lời của cô ấy làm tôi rất vui.",
+        "Tā de huà ràng wǒ hěn gāoxìng"
+      ],
+      "块": [
+        "我喜欢吃糖块儿。",
+        "Tôi thích ăn kẹo viên.",
+        "Wǒ xǐhuan chī táng kuàir"
+      ],
+      "菜": [
+        "今天的菜很好吃。",
+        "Món ăn của hôm nay rất ngon.",
+        "Jīntiān de cài hěn hǎo chī"
+      ],
+      "出": [
+        "他出去买东西了。",
+        "Anh ấy ra ngoài mua đồ ăn rồi.",
+        "Tā chū qù mǎi dōngxi le"
       ]
     }
   },
   {
     "id": "hsk1-topic-01-lesson-08",
-    "title": "Chào hỏi và gia đình · Bài 8",
+    "title": "Giao tiếp và từ cốt lõi · Bài 8",
     "titleCn": "HSK 1 · 1-8",
-    "context": "6 từ vựng cùng nhóm nghĩa",
+    "context": "Các từ cần dùng ngay để hiểu và tạo câu cơ bản",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "着",
-      "知道",
-      "中文",
-      "准备",
-      "桌子",
-      "子（桌子）"
+      "电",
+      "干",
+      "买",
+      "到",
+      "点",
+      "过"
     ],
     "examples": {
-      "着": [
-        "他笑着说话。",
-        "Anh ấy vừa cười vừa nói.",
-        "Tā xiào zhe shuōhuà"
+      "电": [
+        "我的手机没电了。",
+        "Điện thoại tôi hết pin rồi.",
+        "Wǒ de shǒujī méi diàn le"
       ],
-      "知道": [
-        "你知道他的名字吗？",
-        "Bạn có biết tên của anh ấy không?",
-        "Nǐ zhīdào tā de míngzi ma?"
+      "干": [
+        "他总干乱我的计划。\n\n咱们干了这杯酒吧。",
+        "Anh ấy luôn làm loạn kế hoạch của tôi.\n\nChúng ta uống cạn ly rượu này.",
+        "Tā zǒng gān luàn wǒ de jìhuà/\n\n/Zánmen gān le zhè bēi jiǔ ba"
       ],
-      "中文": [
-        "你的中文很好。",
-        "Tiếng Trung của bạn rất tốt",
-        "Nǐ de Zhōngwén hěn hǎo"
+      "买": [
+        "我想买一件衣服。",
+        "Tôi muốn mua một cái áo.",
+        "Wǒ xiǎng mǎi yí jiàn yīfu"
       ],
-      "准备": [
-        "A: 你准备好了吗？\nB: 我们要出发了。",
-        "A: Bạn chuẩn bị xong chưa? \nB: Chúng ta sắp xuất phát rồi.",
-        "A: /Nǐ zhǔnbèi hǎo le ma/\nB: /Wǒmen yào chūfā le"
+      "到": [
+        "我们到达了目的地。",
+        "Chúng ta đã đến nơi.",
+        "Wǒmen dàodá le mùdìdì"
       ],
-      "桌子": [
-        "书在桌子上，你看见了吗？",
-        "Quyển sách ở trên bàn, bạn thấy chưa?",
-        "Shū zài zhuōzi shàng, nǐ kànjiàn le ma"
+      "点": [
+        "我们去那个点看看。",
+        "Chúng ta đi đến chỗ đó xem thử.",
+        "Wǒmen qù nàgè diǎn kàn kàn"
       ],
-      "子（桌子）": [
-        "你的桌子很大，很好看。",
-        "Cái bàn của bạn rất lớn, rất đẹp.",
-        "Nǐ de zhuōzi hěn dà, hěn hǎokàn"
+      "过": [
+        "我去过中国三次。",
+        "Tôi đã đến Trung Quốc ba lần.",
+        "Wǒ qù guò Zhōngguó sān cì"
       ]
     }
   }

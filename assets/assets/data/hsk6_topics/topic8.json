@@ -8,92 +8,92 @@
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "岸",
-      "案例",
-      "按摩",
-      "暗示",
-      "昂贵",
-      "白白",
-      "白领",
-      "摆",
-      "摆放",
-      "百分点",
-      "百货",
       "摆脱",
+      "白领",
+      "百分点",
+      "案例",
       "败",
+      "岸",
+      "摆",
+      "暗示",
+      "白白",
+      "摆放",
+      "按摩",
       "拜访",
+      "昂贵",
+      "百货",
       "拜年"
     ],
     "examples": {
-      "岸": [
-        "我们在河岸上散步。",
-        "Chúng tôi đi dạo trên bờ sông.",
-        "Wǒmen zài hé àn shàng sànbù"
-      ],
-      "案例": [
-        "老师给我们分析了一个案例。",
-        "Giáo viên đã phân tích một trường hợp cho chúng tôi.",
-        "Lǎoshī gěi wǒmen fēnxī le yīgè ànlì"
-      ],
-      "按摩": [
-        "我每周去按摩一次。",
-        "Tôi đi massage mỗi tuần một lần.",
-        "Wǒ měi zhōu qù ànmó yīcì"
-      ],
-      "暗示": [
-        "他暗示我要小心一点。",
-        "Anh ấy ám chỉ tôi nên cẩn thận hơn.",
-        "Tā ànshì wǒ yào xiǎoxīn yīdiǎn"
-      ],
-      "昂贵": [
-        "这件衣服太昂贵了。",
-        "Bộ quần áo này quá đắt.",
-        "Zhè jiàn yīfu tài ángguì le"
-      ],
-      "白白": [
-        "你的努力不会白白浪费的。",
-        "Nỗ lực của bạn sẽ không phí công đâu.",
-        "Nǐ de nǔlì bù huì báibái làngfèi de"
+      "摆脱": [
+        "他终于摆脱了困境。",
+        "Cuối cùng anh ấy đã thoát khỏi khó khăn.",
+        "Tā zhōngyú bǎituō le kùnjìng"
       ],
       "白领": [
         "她是一名白领工作者。",
         "Cô ấy là một nhân viên văn phòng.",
         "Tā shì yī míng báilǐng gōngzuò zhě"
       ],
-      "摆": [
-        "请把椅子摆整齐。",
-        "Hãy sắp xếp ghế cho ngay ngắn.",
-        "Qǐng bǎ yǐzi bǎi zhěngqí"
-      ],
-      "摆放": [
-        "他正在摆放桌椅。",
-        "Anh ấy đang sắp xếp bàn ghế.",
-        "Tā zhèngzài bǎifàng zhuōyǐ"
-      ],
       "百分点": [
         "失业率上升了两个百分点。",
         "Tỷ lệ thất nghiệp đã tăng hai điểm phần trăm.",
         "Shīyèlǜ shàngshēng le liǎng gè bǎifēndiǎn"
       ],
-      "百货": [
-        "我们去百货商场购物吧。",
-        "Chúng ta đi mua sắm ở trung tâm bách hóa nhé.",
-        "Wǒmen qù bǎihuò shāngchǎng gòuwù ba"
-      ],
-      "摆脱": [
-        "他终于摆脱了困境。",
-        "Cuối cùng anh ấy đã thoát khỏi khó khăn.",
-        "Tā zhōngyú bǎituō le kùnjìng"
+      "案例": [
+        "老师给我们分析了一个案例。",
+        "Giáo viên đã phân tích một trường hợp cho chúng tôi.",
+        "Lǎoshī gěi wǒmen fēnxī le yīgè ànlì"
       ],
       "败": [
         "我们队这次比赛败了。",
         "Đội chúng tôi đã thua trận này.",
         "Wǒmen duì zhècì bǐsài bài le"
       ],
+      "岸": [
+        "我们在河岸上散步。",
+        "Chúng tôi đi dạo trên bờ sông.",
+        "Wǒmen zài hé àn shàng sànbù"
+      ],
+      "摆": [
+        "请把椅子摆整齐。",
+        "Hãy sắp xếp ghế cho ngay ngắn.",
+        "Qǐng bǎ yǐzi bǎi zhěngqí"
+      ],
+      "暗示": [
+        "他暗示我要小心一点。",
+        "Anh ấy ám chỉ tôi nên cẩn thận hơn.",
+        "Tā ànshì wǒ yào xiǎoxīn yīdiǎn"
+      ],
+      "白白": [
+        "你的努力不会白白浪费的。",
+        "Nỗ lực của bạn sẽ không phí công đâu.",
+        "Nǐ de nǔlì bù huì báibái làngfèi de"
+      ],
+      "摆放": [
+        "他正在摆放桌椅。",
+        "Anh ấy đang sắp xếp bàn ghế.",
+        "Tā zhèngzài bǎifàng zhuōyǐ"
+      ],
+      "按摩": [
+        "我每周去按摩一次。",
+        "Tôi đi massage mỗi tuần một lần.",
+        "Wǒ měi zhōu qù ànmó yīcì"
+      ],
       "拜访": [
         "明天我要拜访李老师。",
         "Ngày mai tôi sẽ đến thăm thầy Lý.",
         "Míngtiān wǒ yào bàifǎng Lǐ lǎoshī"
+      ],
+      "昂贵": [
+        "这件衣服太昂贵了。",
+        "Bộ quần áo này quá đắt.",
+        "Zhè jiàn yīfu tài ángguì le"
+      ],
+      "百货": [
+        "我们去百货商场购物吧。",
+        "Chúng ta đi mua sắm ở trung tâm bách hóa nhé.",
+        "Wǒmen qù bǎihuò shāngchǎng gòuwù ba"
       ],
       "拜年": [
         "春节的时候，我们去给长辈拜年。",

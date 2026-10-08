@@ -1,678 +1,236 @@
 [
   {
     "id": "hsk4-topic-03-lesson-01",
-    "title": "Thời gian và quá trình · Bài 1",
+    "title": "Hành động, thời gian và số lượng · Bài 1",
     "titleCn": "HSK 4 · 3-1",
-    "context": "15 từ vựng cùng nhóm nghĩa",
+    "context": "Động từ thông dụng, thời gian, số đếm và trình tự",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "安排",
-      "按",
-      "倍",
-      "笔试",
-      "毕业",
-      "毕业生",
-      "厕所",
-      "场",
-      "迟",
-      "重",
-      "重新",
-      "错误",
-      "打败",
-      "打针",
-      "袋子"
+      "血",
+      "由",
+      "与",
+      "转",
+      "江",
+      "量",
+      "美",
+      "秒",
+      "拍",
+      "琴",
+      "全",
+      "却",
+      "抬",
+      "土",
+      "鲜"
     ],
     "examples": {
-      "安排": [
-        "我已经安排好了明天的会议。",
-        "Tôi đã sắp xếp xong cuộc họp ngày mai.",
-        "Wǒ yǐjīng ānpái hǎo le míngtiān de huìyì."
+      "血": [
+        "他的手受伤流血了。",
+        "Tay anh ấy bị thương chảy máu.",
+        "Tā de shǒu shòushāng liúxiě le."
+      ],
+      "由": [
+        "这由我负责。",
+        "Việc này do tôi chịu trách nhiệm.",
+        "Zhè yóu wǒ fùzé."
+      ],
+      "与": [
+        "我与朋友一起去。",
+        "Tôi đi cùng bạn bè.",
+        "Wǒ yǔ péngyou yīqǐ qù."
+      ],
+      "转": [
+        "请转一下身。",
+        "Xin quay người một chút.",
+        "Qǐng zhuǎn yīxià shēn."
+      ],
+      "江": [
+        "长江很长。",
+        "Sông Trường Giang rất dài.",
+        "Cháng Jiāng hěn cháng."
+      ],
+      "量": [
+        "请量一下体重。",
+        "Xin cân cân nặng.",
+        "Qǐng liáng yīxià tǐzhòng."
+      ],
+      "美": [
+        "这个女孩很美。",
+        "Cô gái này rất đẹp.",
+        "Zhège nǚhái hěn měi."
+      ],
+      "秒": [
+        "请等三秒。",
+        "Xin chờ ba giây.",
+        "Qǐng děng sān miǎo."
+      ],
+      "拍": [
+        "我拍了一张照片。",
+        "Tôi chụp một bức ảnh.",
+        "Wǒ pāi le yī zhāng zhàopiàn."
+      ],
+      "琴": [
+        "她弹琴。",
+        "Cô ấy chơi đàn.",
+        "Tā tán qín."
+      ],
+      "全": [
+        "全班同学都来了。",
+        "Toàn lớp đều đến.",
+        "Quán bān tóngxué dōu lái le."
+      ],
+      "却": [
+        "他很累，却还在工作。",
+        "Anh ấy rất mệt, nhưng vẫn đang làm việc.",
+        "Tā hěn lèi, què hái zài gōngzuò."
+      ],
+      "抬": [
+        "请抬一下桌子。",
+        "Xin nhấc bàn một chút.",
+        "Qǐng tái yīxià zhuōzi."
+      ],
+      "土": [
+        "种在土里。",
+        "Trồng vào đất.",
+        "Zhòng zài tǔ lǐ."
+      ],
+      "鲜": [
+        "鱼很鲜。",
+        "Cá rất tươi.",
+        "Yú hěn xiān."
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-03-lesson-02",
+    "title": "Hành động, thời gian và số lượng · Bài 2",
+    "titleCn": "HSK 4 · 3-2",
+    "context": "Động từ thông dụng, thời gian, số đếm và trình tự",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "心",
+      "熊",
+      "按",
+      "迟",
+      "定",
+      "而",
+      "费",
+      "挂",
+      "仅",
+      "末",
+      "嗯",
+      "排",
+      "区",
+      "酸",
+      "躺"
+    ],
+    "examples": {
+      "心": [
+        "我的心很乱。",
+        "Lòng tôi rất rối.",
+        "Wǒ de xīn hěn luàn."
+      ],
+      "熊": [
+        "动物园里有熊。",
+        "Sở thú có gấu.",
+        "Dòngwùyuán lǐ yǒu xióng."
       ],
       "按": [
         "按计划，我们明天出发。",
         "Theo kế hoạch, chúng ta sẽ khởi hành ngày mai.",
         "Àn jìhuà, wǒmen míngtiān chūfā."
       ],
-      "倍": [
-        "产量增加了两倍。",
-        "Sản lượng tăng gấp đôi.",
-        "Chǎnliàng zēngjiā le liǎng bèi."
-      ],
-      "笔试": [
-        "明天要笔试。",
-        "Ngày mai phải thi viết.",
-        "Míngtiān yào bǐshì."
-      ],
-      "毕业": [
-        "我明年毕业。",
-        "Năm sau tôi tốt nghiệp.",
-        "Wǒ míngnián bìyè."
-      ],
-      "毕业生": [
-        "他是去年毕业生。",
-        "Anh ấy là sinh viên tốt nghiệp năm ngoái.",
-        "Tā shì qùnián bìyèshēng."
-      ],
-      "厕所": [
-        "厕所在哪里？",
-        "Nhà vệ sinh ở đâu?",
-        "Cèsuǒ zài nǎlǐ?"
-      ],
-      "场": [
-        "一场比赛",
-        "Một trận đấu",
-        "Yī chǎng bǐsài"
-      ],
       "迟": [
         "他今天迟到了。",
         "Hôm nay anh ấy đến muộn.",
         "Tā jīntiān chídào le."
-      ],
-      "重": [
-        "这个箱子很重。",
-        "Chiếc vali này rất nặng.",
-        "Zhège xiāngzi hěn zhòng."
-      ],
-      "重新": [
-        "我们重新开始。",
-        "Chúng ta bắt đầu lại.",
-        "Wǒmen chóngxīn kāishǐ."
-      ],
-      "错误": [
-        "请改正错误。",
-        "Xin sửa lỗi.",
-        "Qǐng gǎizhèng cuòwù."
-      ],
-      "打败": [
-        "我们打败了对手。",
-        "Chúng ta đã đánh bại đối thủ.",
-        "Wǒmen dǎbài le duìshǒu."
-      ],
-      "打针": [
-        "医生给我打针。",
-        "Bác sĩ tiêm thuốc cho tôi.",
-        "Yīshēng gěi wǒ dǎzhēn."
-      ],
-      "袋子": [
-        "把东西放进袋子。",
-        "Đặt đồ vào túi.",
-        "Bǎ dōngxi fàng jìn dàizi."
-      ]
-    }
-  },
-  {
-    "id": "hsk4-topic-03-lesson-02",
-    "title": "Thời gian và quá trình · Bài 2",
-    "titleCn": "HSK 4 · 3-2",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "导游",
-      "等到",
-      "低温",
-      "定",
-      "堵车",
-      "而",
-      "翻译",
-      "方式",
-      "费",
-      "风景",
-      "干",
-      "感受",
-      "高速",
-      "高温",
-      "功夫"
-    ],
-    "examples": {
-      "导游": [
-        "导游很专业。",
-        "Hướng dẫn viên rất chuyên nghiệp.",
-        "Dǎoyóu hěn zhuānyè."
-      ],
-      "等到": [
-        "等到明天再说。",
-        "Cho đến ngày mai hãy nói.",
-        "Děngdào míngtiān zài shuō."
-      ],
-      "低温": [
-        "今天低温。",
-        "Hôm nay nhiệt độ thấp.",
-        "Jīntiān dīwēn."
       ],
       "定": [
         "时间定好了。",
         "Thời gian đã ấn định.",
         "Shíjiān dìng hǎo le."
       ],
-      "堵车": [
-        "今天堵车了。",
-        "Hôm nay kẹt xe.",
-        "Jīntiān dǔchē le."
-      ],
       "而": [
         "聪明而努力。",
         "Thông minh mà chăm chỉ.",
         "Cōngmíng ér nǔlì."
-      ],
-      "翻译": [
-        "请翻译这句话。",
-        "Xin dịch câu này.",
-        "Qǐng fānyì zhè jù huà."
-      ],
-      "方式": [
-        "这种方式很好。",
-        "Cách thức này rất tốt.",
-        "Zhè zhǒng fāngshì hěn hǎo."
       ],
       "费": [
         "这是手续费。",
         "Đây là phí thủ tục.",
         "Zhè shì shǒuxù fèi."
       ],
-      "风景": [
-        "这里的风景很美。",
-        "Phong cảnh ở đây rất đẹp.",
-        "Zhèlǐ de fēngjǐng hěn měi."
-      ],
-      "干": [
-        "衣服已经干了。",
-        "Quần áo đã khô rồi.",
-        "Yīfu yǐjīng gān le."
-      ],
-      "感受": [
-        "我感受到了温暖。",
-        "Tôi cảm nhận được sự ấm áp.",
-        "Wǒ gǎnshòu dào le wēnnuǎn."
-      ],
-      "高速": [
-        "这是高速列车。",
-        "Đây là tàu cao tốc.",
-        "Zhè shì gāosù lièchē."
-      ],
-      "高温": [
-        "今天高温。",
-        "Hôm nay nhiệt độ cao.",
-        "Jīntiān gāowēn."
-      ],
-      "功夫": [
-        "他练了十年功夫。",
-        "Anh ấy luyện kungfu mười năm.",
-        "Tā liàn le shí nián gōngfu."
-      ]
-    }
-  },
-  {
-    "id": "hsk4-topic-03-lesson-03",
-    "title": "Thời gian và quá trình · Bài 3",
-    "titleCn": "HSK 4 · 3-3",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "功课",
-      "挂",
-      "管",
-      "光",
-      "害羞",
-      "好处",
-      "红包",
-      "互相",
-      "活动",
-      "获奖",
-      "基础",
-      "继续",
-      "加班",
-      "家长",
-      "假日"
-    ],
-    "examples": {
-      "功课": [
-        "今天的功课很多。",
-        "Bài tập hôm nay rất nhiều.",
-        "Jīntiān de gōngkè hěn duō."
-      ],
       "挂": [
         "请把衣服挂起来。",
         "Xin treo quần áo lên.",
         "Qǐng bǎ yīfu guà qǐlái."
-      ],
-      "管": [
-        "别管我。",
-        "Đừng quan tâm tôi.",
-        "Bié guǎn wǒ."
-      ],
-      "光": [
-        "房间里光线很好。",
-        "Ánh sáng trong phòng rất tốt.",
-        "Fángjiān lǐ guāngxiàn hěn hǎo."
-      ],
-      "害羞": [
-        "她很害羞。",
-        "Cô ấy rất ngượng ngùng.",
-        "Tā hěn hàixiū."
-      ],
-      "好处": [
-        "运动有很多好处。",
-        "Tập thể dục có nhiều lợi ích.",
-        "Yùndòng yǒu hěn duō hǎochù."
-      ],
-      "红包": [
-        "过年收到很多红包。",
-        "Tết nhận được nhiều bao lì xì.",
-        "Guònián shōudào hěn duō hóngbāo."
-      ],
-      "互相": [
-        "我们要互相帮助。",
-        "Chúng ta phải giúp đỡ lẫn nhau.",
-        "Wǒmen yào hùxiāng bāngzhù."
-      ],
-      "活动": [
-        "我们参加活动。",
-        "Chúng ta tham gia hoạt động.",
-        "Wǒmen cānjiā huódòng."
-      ],
-      "获奖": [
-        "她在比赛中获奖。",
-        "Cô ấy đoạt giải trong cuộc thi.",
-        "Tā zài bǐsài zhōng huòjiǎng."
-      ],
-      "基础": [
-        "打好基础很重要。",
-        "Xây dựng nền tảng tốt rất quan trọng.",
-        "Dǎ hǎo jīchǔ hěn zhòngyào."
-      ],
-      "继续": [
-        "请继续努力。",
-        "Xin tiếp tục nỗ lực.",
-        "Qǐng jìxù nǔlì."
-      ],
-      "加班": [
-        "我今天要加班。",
-        "Hôm nay tôi phải làm thêm giờ.",
-        "Wǒ jīntiān yào jiābān."
-      ],
-      "家长": [
-        "家长会明天开。",
-        "Phụ huynh họp ngày mai.",
-        "Jiāzhǎng huì míngtiān kāi."
-      ],
-      "假日": [
-        "假日去旅行。",
-        "Kỳ nghỉ đi du lịch.",
-        "Jiàrì qù lǚxíng."
-      ]
-    }
-  },
-  {
-    "id": "hsk4-topic-03-lesson-04",
-    "title": "Thời gian và quá trình · Bài 4",
-    "titleCn": "HSK 4 · 3-4",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "将要",
-      "降温",
-      "仅",
-      "仅仅",
-      "警察",
-      "镜子",
-      "举行",
-      "聚餐",
-      "咳嗽",
-      "空",
-      "空",
-      "垃圾",
-      "浪费",
-      "例子",
-      "亮"
-    ],
-    "examples": {
-      "将要": [
-        "会议将要开始。",
-        "Cuộc họp sắp bắt đầu.",
-        "Huìyì jiāngyào kāishǐ."
-      ],
-      "降温": [
-        "今天降温了。",
-        "Hôm nay trời giảm nhiệt.",
-        "Jīntiān jiàngwēn le."
       ],
       "仅": [
         "仅此一次。",
         "Chỉ lần này thôi.",
         "Jǐn cǐ yī cì."
       ],
-      "仅仅": [
-        "仅仅五分钟。",
-        "Chỉ năm phút thôi.",
-        "Jǐnjǐn wǔ fēnzhōng."
-      ],
-      "警察": [
-        "警察帮助了我们。",
-        "Cảnh sát đã giúp chúng tôi.",
-        "Jǐngchá bāngzhù le wǒmen."
-      ],
-      "镜子": [
-        "我每天照镜子。",
-        "Tôi soi gương mỗi ngày.",
-        "Wǒ měitiān zhào jìngzi."
-      ],
-      "举行": [
-        "会议明天举行。",
-        "Cuộc họp sẽ tổ chức ngày mai.",
-        "Huìyì míngtiān jǔxíng."
-      ],
-      "聚餐": [
-        "我们周末聚餐。",
-        "Cuối tuần chúng ta ăn chung.",
-        "Wǒmen zhōumò jùcān."
-      ],
-      "咳嗽": [
-        "我有点咳嗽。",
-        "Tôi hơi ho.",
-        "Wǒ yǒudiǎn késou."
-      ],
-      "空": [
-        "我明天有空。",
-        "Ngày mai tôi rảnh.",
-        "Wǒ míngtiān yǒu kòng."
-      ],
-      "垃圾": [
-        "请不要乱扔垃圾。",
-        "Xin đừng vứt rác bừa bãi.",
-        "Qǐng bùyào luàn rēng lājī."
-      ],
-      "浪费": [
-        "不要浪费时间。",
-        "Đừng lãng phí thời gian.",
-        "Bùyào làngfèi shíjiān."
-      ],
-      "例子": [
-        "给我一个例子。",
-        "Đưa tôi một ví dụ.",
-        "Gěi wǒ yīgè lìzi."
-      ],
-      "亮": [
-        "灯亮了。",
-        "Đèn sáng rồi.",
-        "Dēng liàng le."
-      ]
-    }
-  },
-  {
-    "id": "hsk4-topic-03-lesson-05",
-    "title": "Thời gian và quá trình · Bài 5",
-    "titleCn": "HSK 4 · 3-5",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "零下",
-      "旅客",
-      "毛衣",
-      "美好",
-      "密码",
-      "面试",
-      "末",
-      "母亲",
-      "嗯",
-      "年底",
-      "排",
-      "皮肤",
-      "平常",
-      "期中",
-      "气温"
-    ],
-    "examples": {
-      "零下": [
-        "今天零下五度。",
-        "Hôm nay âm năm độ.",
-        "Jīntiān líng xià wǔ dù."
-      ],
-      "旅客": [
-        "旅客很多。",
-        "Hành khách rất đông.",
-        "Lǚkè hěn duō."
-      ],
-      "毛衣": [
-        "冬天穿毛衣。",
-        "Mùa đông mặc áo len.",
-        "Dōngtiān chuān máoyī."
-      ],
-      "美好": [
-        "祝你有美好的一天。",
-        "Chúc bạn có một ngày tốt đẹp.",
-        "Zhù nǐ yǒu měihǎo de yītiān."
-      ],
-      "密码": [
-        "请输入密码。",
-        "Xin nhập mật khẩu.",
-        "Qǐng shūrù mìmǎ."
-      ],
-      "面试": [
-        "我明天有面试。",
-        "Ngày mai tôi có phỏng vấn.",
-        "Wǒ míngtiān yǒu miànshì."
-      ],
       "末": [
         "周末",
         "Cuối tuần",
         "Zhōumò"
-      ],
-      "母亲": [
-        "母亲节快乐。",
-        "Chúc mừng ngày của mẹ.",
-        "Mǔqīn jié kuàilè."
       ],
       "嗯": [
         "嗯，我知道了。",
         "Ừ, tôi biết rồi.",
         "Ǹg, wǒ zhīdào le."
       ],
-      "年底": [
-        "年底要放假。",
-        "Cuối năm sẽ nghỉ.",
-        "Niándǐ yào fàngjià."
-      ],
       "排": [
         "请排队。",
         "Xin xếp hàng.",
         "Qǐng páiduì."
-      ],
-      "皮肤": [
-        "她的皮肤很好。",
-        "Da cô ấy rất tốt.",
-        "Tā de pífū hěn hǎo."
-      ],
-      "平常": [
-        "平常我很忙。",
-        "Bình thường tôi rất bận.",
-        "Píngcháng wǒ hěn máng."
-      ],
-      "期中": [
-        "期中考试结束了。",
-        "Kỳ thi giữa kỳ đã kết thúc.",
-        "Qīzhōng kǎoshì jiéshù le."
-      ],
-      "气温": [
-        "今天气温很高。",
-        "Hôm nay nhiệt độ cao.",
-        "Jīntiān qìwēn hěn gāo."
-      ]
-    }
-  },
-  {
-    "id": "hsk4-topic-03-lesson-06",
-    "title": "Thời gian và quá trình · Bài 6",
-    "titleCn": "HSK 4 · 3-6",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "前后",
-      "轻",
-      "区",
-      "全部",
-      "确实",
-      "日常",
-      "日记",
-      "日期",
-      "日子",
-      "入住",
-      "摄氏度",
-      "实际",
-      "时间表",
-      "试题",
-      "收听"
-    ],
-    "examples": {
-      "前后": [
-        "前后五分钟。",
-        "Khoảng năm phút.",
-        "Qiánhòu wǔ fēnzhōng."
-      ],
-      "轻": [
-        "这个箱子很轻。",
-        "Chiếc vali này rất nhẹ.",
-        "Zhège xiāngzi hěn qīng."
       ],
       "区": [
         "我住在市区。",
         "Tôi ở khu trung tâm.",
         "Wǒ zhù zài shìqū."
       ],
-      "全部": [
-        "全部完成。",
-        "Hoàn thành toàn bộ.",
-        "Quánbù wánchéng."
-      ],
-      "确实": [
-        "这个消息确实是真的。",
-        "Tin này quả thật là thật.",
-        "Zhège xiāoxī quèshí shì zhēn de."
-      ],
-      "日常": [
-        "这是我的日常习惯。",
-        "Đây là thói quen hàng ngày của tôi.",
-        "Zhè shì wǒ de rìcháng xíguàn."
-      ],
-      "日记": [
-        "我每天写日记。",
-        "Tôi viết nhật ký mỗi ngày.",
-        "Wǒ měitiān xiě rìjì."
-      ],
-      "日期": [
-        "请写上日期。",
-        "Xin ghi ngày tháng.",
-        "Qǐng xiě shàng rìqī."
-      ],
-      "日子": [
-        "我们的日子越来越好。",
-        "Cuộc sống của chúng ta ngày càng tốt hơn.",
-        "Wǒmen de rìzi yuè lái yuè hǎo."
-      ],
-      "入住": [
-        "我们明天入住酒店。",
-        "Ngày mai chúng ta nhận phòng khách sạn.",
-        "Wǒmen míngtiān rùzhù jiǔdiàn."
-      ],
-      "摄氏度": [
-        "今天三十摄氏度。",
-        "Hôm nay ba mươi độ C.",
-        "Jīntiān sānshí shèshìdù."
-      ],
-      "实际": [
-        "理论要联系实际。",
-        "Lý thuyết phải gắn với thực tế.",
-        "Lǐlùn yào liánxì shíjì."
-      ],
-      "时间表": [
-        "请看时间表。",
-        "Xin xem lịch trình.",
-        "Qǐng kàn shíjiānbiǎo."
-      ],
-      "试题": [
-        "试题很难。",
-        "Đề thi rất khó.",
-        "Shìtí hěn nán."
-      ],
-      "收听": [
-        "我每天收听新闻。",
-        "Tôi nghe tin tức mỗi ngày.",
-        "Wǒ měitiān shōutīng xīnwén."
-      ]
-    }
-  },
-  {
-    "id": "hsk4-topic-03-lesson-07",
-    "title": "Thời gian và quá trình · Bài 7",
-    "titleCn": "HSK 4 · 3-7",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "数字",
-      "酸",
-      "随着",
-      "躺",
-      "提醒",
-      "停止",
-      "图",
-      "推",
-      "脱",
-      "晚安",
-      "卫生",
-      "污染",
-      "西部",
-      "鲜花",
-      "相比"
-    ],
-    "examples": {
-      "数字": [
-        "请输入数字。",
-        "Xin nhập số.",
-        "Qǐng shūrù shùzì."
-      ],
       "酸": [
         "这个橘子很酸。",
         "Quả cam này rất chua.",
         "Zhège júzi hěn suān."
       ],
-      "随着": [
-        "随着时间推移。",
-        "Theo thời gian trôi qua.",
-        "Suízhe shíjiān tuīyí."
-      ],
       "躺": [
         "我躺在床上。",
         "Tôi nằm trên giường.",
         "Wǒ tǎng zài chuáng shàng."
-      ],
-      "提醒": [
-        "提醒我明天开会。",
-        "Nhắc tôi ngày mai họp.",
-        "Tíxǐng wǒ míngtiān kāihuì."
-      ],
-      "停止": [
-        "比赛停止了。",
-        "Trận đấu dừng lại.",
-        "Bǐsài tíngzhǐ le."
-      ],
-      "图": [
-        "这张图很清楚。",
-        "Hình này rất rõ.",
-        "Zhè zhāng tú hěn qīngchu."
-      ],
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-03-lesson-03",
+    "title": "Hành động, thời gian và số lượng · Bài 3",
+    "titleCn": "HSK 4 · 3-3",
+    "context": "Động từ thông dụng, thời gian, số đếm và trình tự",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "推",
+      "脱",
+      "烟",
+      "夜",
+      "约",
+      "自",
+      "擦",
+      "吹",
+      "厚",
+      "烤",
+      "苦",
+      "困",
+      "列",
+      "牌",
+      "强"
+    ],
+    "examples": {
       "推": [
         "请推开门。",
         "Xin đẩy cửa ra.",
@@ -683,229 +241,676 @@
         "Xin cởi áo khoác.",
         "Qǐng tuō wàitào."
       ],
-      "晚安": [
-        "晚安，明天见。",
-        "Ngủ ngon, mai gặp lại.",
-        "Wǎn’ān, míngtiān jiàn."
-      ],
-      "卫生": [
-        "保持卫生。",
-        "Giữ vệ sinh.",
-        "Bǎochí wèishēng."
-      ],
-      "污染": [
-        "空气被污染了。",
-        "Không khí bị ô nhiễm.",
-        "Kōngqì bèi wūrǎn le."
-      ],
-      "西部": [
-        "中国西部很美。",
-        "Phía Tây Trung Quốc rất đẹp.",
-        "Zhōngguó xībù hěn měi."
-      ],
-      "鲜花": [
-        "送一束鲜花。",
-        "Tặng một bó hoa tươi.",
-        "Sòng yī shù xiānhuā."
-      ],
-      "相比": [
-        "相比去年，今年进步很大。",
-        "So với năm ngoái, năm nay tiến bộ rất lớn.",
-        "Xiāngbǐ qùnián, jīnnián jìnbù hěn dà."
-      ]
-    }
-  },
-  {
-    "id": "hsk4-topic-03-lesson-08",
-    "title": "Thời gian và quá trình · Bài 8",
-    "titleCn": "HSK 4 · 3-8",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "详细",
-      "小说",
-      "心情",
-      "星星",
-      "修理",
-      "烟",
-      "演出",
-      "眼前",
-      "夜",
-      "一切",
-      "以内",
-      "一生",
-      "有趣",
-      "友谊",
-      "约"
-    ],
-    "examples": {
-      "详细": [
-        "请给我一个详细的计划。",
-        "Xin cho tôi một kế hoạch chi tiết.",
-        "Qǐng gěi wǒ yīgè xiángxì de jìhuà."
-      ],
-      "小说": [
-        "我正在读一本小说。",
-        "Tôi đang đọc một cuốn tiểu thuyết.",
-        "Wǒ zhèngzài dú yī běn xiǎoshuō."
-      ],
-      "心情": [
-        "今天心情很好。",
-        "Hôm nay tâm trạng rất tốt.",
-        "Jīntiān xīnqíng hěn hǎo."
-      ],
-      "星星": [
-        "晚上星星很多。",
-        "Tối nay có rất nhiều sao.",
-        "Wǎnshang xīngxing hěn duō."
-      ],
-      "修理": [
-        "修理好了吗？",
-        "Sửa xong chưa?",
-        "Xiūlǐ hǎo le ma?"
-      ],
       "烟": [
         "请不要抽烟。",
         "Xin đừng hút thuốc.",
         "Qǐng bùyào chōu yān."
-      ],
-      "演出": [
-        "演出很成功。",
-        "Buổi biểu diễn rất thành công.",
-        "Yǎnchū hěn chénggōng."
-      ],
-      "眼前": [
-        "眼前的事最重要。",
-        "Việc trước mắt quan trọng nhất.",
-        "Yǎnqián de shì zuì zhòngyào."
       ],
       "夜": [
         "夜已经深了。",
         "Đêm đã khuya rồi.",
         "Yè yǐjīng shēn le."
       ],
-      "一切": [
-        "一切都很顺利。",
-        "Mọi thứ đều suôn sẻ.",
-        "Yíqiè dōu hěn shùnlì."
-      ],
-      "以内": [
-        "三天以内完成。",
-        "Hoàn thành trong vòng ba ngày.",
-        "Sān tiān yǐnèi wánchéng."
-      ],
-      "一生": [
-        "这是我一生中最快乐的日子。",
-        "Đây là ngày hạnh phúc nhất trong đời tôi.",
-        "Zhè shì wǒ yìshēng zhōng zuì kuàilè de rìzi."
-      ],
-      "有趣": [
-        "这个故事很有趣。",
-        "Câu chuyện này rất thú vị.",
-        "Zhège gùshì hěn yǒuqù."
-      ],
-      "友谊": [
-        "友谊万岁。",
-        "Tình hữu nghị muôn năm.",
-        "Yǒuyì wàn suì."
-      ],
       "约": [
         "我们约了明天见面。",
         "Chúng ta hẹn gặp ngày mai.",
         "Wǒmen yuē le míngtiān jiànmiàn."
-      ]
-    }
-  },
-  {
-    "id": "hsk4-topic-03-lesson-09",
-    "title": "Thời gian và quá trình · Bài 9",
-    "titleCn": "HSK 4 · 3-9",
-    "context": "13 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "月份",
-      "再次",
-      "再说",
-      "早晨",
-      "正好",
-      "质量",
-      "至少",
-      "转机",
-      "准",
-      "自",
-      "最终",
-      "做梦",
-      "作文"
-    ],
-    "examples": {
-      "月份": [
-        "这个月份很忙。",
-        "Tháng này rất bận.",
-        "Zhège yuèfèn hěn máng."
-      ],
-      "再次": [
-        "请再次检查。",
-        "Xin kiểm tra lần nữa.",
-        "Qǐng zàicì jiǎnchá."
-      ],
-      "再说": [
-        "明天再说吧。",
-        "Ngày mai nói sau đi.",
-        "Míngtiān zàishuō ba."
-      ],
-      "早晨": [
-        "早晨空气很好。",
-        "Buổi sáng không khí rất tốt.",
-        "Zǎochen kōngqì hěn hǎo."
-      ],
-      "正好": [
-        "我正好有时间。",
-        "Tôi vừa đúng có thời gian.",
-        "Wǒ zhènghǎo yǒu shíjiān."
-      ],
-      "质量": [
-        "产品质量很好。",
-        "Chất lượng sản phẩm rất tốt.",
-        "Chǎnpǐn zhìliàng hěn hǎo."
-      ],
-      "至少": [
-        "至少需要两天。",
-        "Ít nhất cần hai ngày.",
-        "Zhìshǎo xūyào liǎng tiān."
-      ],
-      "转机": [
-        "我需要在上海转机。",
-        "Tôi cần chuyển máy bay ở Thượng Hải.",
-        "Wǒ xūyào zài Shànghǎi zhuǎnjī."
-      ],
-      "准": [
-        "时间很准。",
-        "Thời gian rất chính xác.",
-        "Shíjiān hěn zhǔn."
       ],
       "自": [
         "自今天起。",
         "Từ hôm nay.",
         "Zì jīntiān qǐ."
       ],
-      "最终": [
-        "最终我们成功了。",
-        "Cuối cùng chúng ta thành công.",
-        "Zuìzhōng wǒmen chénggōng le."
+      "擦": [
+        "请擦干净桌子。",
+        "Xin lau sạch bàn.",
+        "Qǐng cā gānjìng zhuōzi."
       ],
-      "做梦": [
-        "我昨晚做梦了。",
-        "Tối qua tôi mơ.",
-        "Wǒ zuówǎn zuòmèng le."
+      "吹": [
+        "风吹得很厉害。",
+        "Gió thổi mạnh.",
+        "Fēng chuī de hěn lìhai."
       ],
-      "作文": [
-        "今天要写作文。",
-        "Hôm nay phải viết bài văn.",
-        "Jīntiān yào xiě zuòwén."
+      "厚": [
+        "这本书很厚。",
+        "Cuốn sách này rất dày.",
+        "Zhè běn shū hěn hòu."
+      ],
+      "烤": [
+        "我喜欢烤肉。",
+        "Tôi thích ăn thịt nướng.",
+        "Wǒ xǐhuān kǎo ròu."
+      ],
+      "苦": [
+        "这药有点苦。",
+        "Thuốc này hơi đắng.",
+        "Zhè yào yǒudiǎn kǔ."
+      ],
+      "困": [
+        "我很困。",
+        "Tôi buồn ngủ lắm.",
+        "Wǒ hěn kùn."
+      ],
+      "列": [
+        "请列一张表。",
+        "Xin lập một bảng.",
+        "Qǐng liè yī zhāng biǎo."
+      ],
+      "牌": [
+        "这是名牌。",
+        "Đây là hàng hiệu.",
+        "Zhè shì míngpái."
+      ],
+      "强": [
+        "他身体很强。",
+        "Anh ấy khỏe mạnh.",
+        "Tā shēntǐ hěn qiáng."
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-03-lesson-04",
+    "title": "Hành động, thời gian và số lượng · Bài 4",
+    "titleCn": "HSK 4 · 3-4",
+    "context": "Động từ thông dụng, thời gian, số đếm và trình tự",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "输",
+      "闻",
+      "无",
+      "吸",
+      "已",
+      "着",
+      "种",
+      "祝",
+      "装",
+      "座",
+      "此",
+      "村",
+      "存",
+      "刀",
+      "倒"
+    ],
+    "examples": {
+      "输": [
+        "我们队输了。",
+        "Đội chúng ta thua rồi.",
+        "Wǒmen duì shū le."
+      ],
+      "闻": [
+        "闻一下花。",
+        "Ngửi hoa một chút.",
+        "Wén yīxià huā."
+      ],
+      "无": [
+        "这里无信号。",
+        "Ở đây không có sóng.",
+        "Zhèlǐ wú xìnhào."
+      ],
+      "吸": [
+        "吸烟有害健康。",
+        "Hút thuốc hại sức khỏe.",
+        "Xīyān yǒuhài jiànkāng."
+      ],
+      "已": [
+        "我已准备好了。",
+        "Tôi đã chuẩn bị xong.",
+        "Wǒ yǐ zhǔnbèi hǎo le."
+      ],
+      "着": [
+        "衣服着火了。",
+        "Quần áo cháy rồi.",
+        "Yīfu zháohuǒ le."
+      ],
+      "种": [
+        "我种了一棵树。",
+        "Tôi trồng một cây.",
+        "Wǒ zhòng le yī kē shù."
+      ],
+      "祝": [
+        "祝你生日快乐。",
+        "Chúc bạn sinh nhật vui vẻ.",
+        "Zhù nǐ shēngrì kuàilè."
+      ],
+      "装": [
+        "请装好行李。",
+        "Xin đóng gói hành lý.",
+        "Qǐng zhuāng hǎo xíngli."
+      ],
+      "座": [
+        "请找个座。",
+        "Xin tìm chỗ ngồi.",
+        "Qǐng zhǎo gè zuò."
+      ],
+      "此": [
+        "此时此刻",
+        "Lúc này",
+        "Cǐ shí cǐ kè"
+      ],
+      "村": [
+        "这是个小村。",
+        "Đây là một ngôi làng nhỏ.",
+        "Zhè shì gè xiǎo cūn."
+      ],
+      "存": [
+        "请存钱。",
+        "Xin gửi tiền.",
+        "Qǐng cún qián."
+      ],
+      "刀": [
+        "用刀切菜。",
+        "Dùng dao cắt rau.",
+        "Yòng dāo qiē cài."
+      ],
+      "倒": [
+        "水倒在地上。",
+        "Nước đổ xuống đất.",
+        "Shuǐ dào zài dì shàng."
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-03-lesson-05",
+    "title": "Hành động, thời gian và số lượng · Bài 5",
+    "titleCn": "HSK 4 · 3-5",
+    "context": "Động từ thông dụng, thời gian, số đếm và trình tự",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "低",
+      "底",
+      "火",
+      "减",
+      "辣",
+      "流",
+      "内",
+      "片",
+      "敲",
+      "缺",
+      "入",
+      "稍",
+      "深",
+      "剩",
+      "熟"
+    ],
+    "examples": {
+      "低": [
+        "价格很低。",
+        "Giá rất thấp.",
+        "Jiàgé hěn dī."
+      ],
+      "底": [
+        "杯底有水。",
+        "Đáy cốc có nước.",
+        "Bēi dǐ yǒu shuǐ."
+      ],
+      "火": [
+        "这部电影很火。",
+        "Bộ phim này rất hot.",
+        "Zhè bù diànyǐng hěn huǒ."
+      ],
+      "减": [
+        "请减十块钱。",
+        "Xin giảm mười đồng.",
+        "Qǐng jiǎn shí kuài qián."
+      ],
+      "辣": [
+        "这个菜太辣了。",
+        "Món này cay quá.",
+        "Zhège cài tài là le."
+      ],
+      "流": [
+        "河水在流。",
+        "Nước sông đang chảy.",
+        "Héshuǐ zài liú."
+      ],
+      "内": [
+        "在国内。",
+        "Trong nước.",
+        "Zài guónèi."
+      ],
+      "片": [
+        "一片面包",
+        "Một miếng bánh mì",
+        "Yī piàn miànbāo"
+      ],
+      "敲": [
+        "请敲门。",
+        "Xin gõ cửa.",
+        "Qǐng qiāo mén."
+      ],
+      "缺": [
+        "我的钱不够，缺五十块。",
+        "Tiền của tôi không đủ, thiếu năm mươi đồng.",
+        "Wǒ de qián bú gòu, quē wǔshí kuài."
+      ],
+      "入": [
+        "请入座。",
+        "Xin mời vào chỗ ngồi.",
+        "Qǐng rù zuò."
+      ],
+      "稍": [
+        "请稍等一下。",
+        "Xin chờ một chút.",
+        "Qǐng shāo děng yīxià."
+      ],
+      "深": [
+        "这个湖很深。",
+        "Hồ này rất sâu.",
+        "Zhège hú hěn shēn."
+      ],
+      "剩": [
+        "饭还剩很多。",
+        "Cơm còn lại rất nhiều.",
+        "Fàn hái shèng hěn duō."
+      ],
+      "熟": [
+        "饭已经熟了。",
+        "Cơm đã chín rồi.",
+        "Fàn yǐjīng shú le."
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-03-lesson-06",
+    "title": "Hành động, thời gian và số lượng · Bài 6",
+    "titleCn": "HSK 4 · 3-6",
+    "context": "Động từ thông dụng, thời gian, số đếm và trình tự",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "桶",
+      "味",
+      "咸",
+      "香",
+      "压",
+      "盐",
+      "油",
+      "证",
+      "之",
+      "赚",
+      "组",
+      "背",
+      "城",
+      "赶",
+      "将"
+    ],
+    "examples": {
+      "桶": [
+        "一桶水",
+        "Một thùng nước",
+        "Yī tǒng shuǐ"
+      ],
+      "味": [
+        "这个菜味道好。",
+        "Món này ngon.",
+        "Zhège cài wèidào hǎo."
+      ],
+      "咸": [
+        "这个菜太咸了。",
+        "Món này mặn quá.",
+        "Zhège cài tài xián le."
+      ],
+      "香": [
+        "这个菜闻起来很香。",
+        "Món ăn này ngửi rất thơm.",
+        "Zhège cài wén qǐlái hěn xiāng."
+      ],
+      "压": [
+        "不要压着书。",
+        "Đừng đè lên sách.",
+        "Bùyào yāzhe shū."
+      ],
+      "盐": [
+        "菜里加一点盐。",
+        "Thêm một chút muối vào món ăn.",
+        "Cài lǐ jiā yīdiǎn yán."
+      ],
+      "油": [
+        "菜里放一点油。",
+        "Món ăn cho một chút dầu.",
+        "Cài lǐ fàng yīdiǎn yóu."
+      ],
+      "证": [
+        "这是我的证件。",
+        "Đây là giấy tờ của tôi.",
+        "Zhè shì wǒ de zhèngjiàn."
+      ],
+      "之": [
+        "其中之一",
+        "Trong đó một cái",
+        "Qízhōng zhī yī"
+      ],
+      "赚": [
+        "他赚了很多钱。",
+        "Anh ấy kiếm được nhiều tiền.",
+        "Tā zhuàn le hěn duō qián."
+      ],
+      "组": [
+        "我们分成两组。",
+        "Chúng ta chia thành hai nhóm.",
+        "Wǒmen fēn chéng liǎng zǔ."
+      ],
+      "背": [
+        "他背着书包上学。",
+        "Anh ấy vác cặp sách đi học.",
+        "Tā bēizhe shūbāo shàngxué."
+      ],
+      "城": [
+        "这是一座古城。",
+        "Đây là một thành cổ.",
+        "Zhè shì yī zuò gǔchéng."
+      ],
+      "赶": [
+        "我要赶火车。",
+        "Tôi phải đuổi kịp tàu.",
+        "Wǒ yào gǎn huǒchē."
+      ],
+      "将": [
+        "我将去北京。",
+        "Tôi sẽ đi Bắc Kinh.",
+        "Wǒ jiāng qù Běijīng."
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-03-lesson-07",
+    "title": "Hành động, thời gian và số lượng · Bài 7",
+    "titleCn": "HSK 4 · 3-7",
+    "context": "Động từ thông dụng, thời gian, số đếm và trình tự",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "克",
+      "连",
+      "巧",
+      "省",
+      "死",
+      "停",
+      "通",
+      "响",
+      "修",
+      "租",
+      "部",
+      "窗",
+      "粗",
+      "等",
+      "份"
+    ],
+    "examples": {
+      "克": [
+        "这袋糖有五百克。",
+        "Túi đường này có năm trăm gam.",
+        "Zhè dài táng yǒu wǔbǎi kè."
+      ],
+      "连": [
+        "连他都不知道。",
+        "Ngay cả anh ấy cũng không biết.",
+        "Lián tā dōu bù zhīdào."
+      ],
+      "巧": [
+        "你来得真巧。",
+        "Bạn đến đúng lúc thật.",
+        "Nǐ lái de zhēn qiǎo."
+      ],
+      "省": [
+        "我来自广东省。",
+        "Tôi đến từ tỉnh Quảng Đông.",
+        "Wǒ láizì Guǎngdōng shěng."
+      ],
+      "死": [
+        "他笑死了。",
+        "Anh ấy cười chết đi được.",
+        "Tā xiào sǐ le."
+      ],
+      "停": [
+        "车停在这里。",
+        "Xe dừng ở đây.",
+        "Chē tíng zài zhèlǐ."
+      ],
+      "通": [
+        "路通了。",
+        "Đường thông rồi.",
+        "Lù tōng le."
+      ],
+      "响": [
+        "电话响了。",
+        "Điện thoại reo rồi.",
+        "Diànhuà xiǎng le."
+      ],
+      "修": [
+        "我去修手机。",
+        "Tôi đi sửa điện thoại.",
+        "Wǒ qù xiū shǒujī."
+      ],
+      "租": [
+        "我租了一辆车。",
+        "Tôi thuê một chiếc xe.",
+        "Wǒ zū le yī liàng chē."
+      ],
+      "部": [
+        "这是一部电影。",
+        "Đây là một bộ phim.",
+        "Zhè shì yī bù diànyǐng."
+      ],
+      "窗": [
+        "打开窗。",
+        "Mở cửa sổ.",
+        "Dǎkāi chuāng."
+      ],
+      "粗": [
+        "这根绳子很粗。",
+        "Dây này rất to.",
+        "Zhè gēn shéngzi hěn cū."
+      ],
+      "等": [
+        "苹果、香蕉等",
+        "Táo, chuối và v.v.",
+        "Píngguǒ, xiāngjiāo děng"
+      ],
+      "份": [
+        "我要一份报纸。",
+        "Tôi muốn một tờ báo.",
+        "Wǒ yào yī fèn bàozhǐ."
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-03-lesson-08",
+    "title": "Hành động, thời gian và số lượng · Bài 8",
+    "titleCn": "HSK 4 · 3-8",
+    "context": "Động từ thông dụng, thời gian, số đếm và trình tự",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "改",
+      "寄",
+      "假",
+      "举",
+      "棵",
+      "拉",
+      "凉",
+      "留",
+      "乱",
+      "梦",
+      "桥",
+      "取",
+      "扔",
+      "首",
+      "算"
+    ],
+    "examples": {
+      "改": [
+        "请改一下这个句子。",
+        "Xin sửa câu này một chút.",
+        "Qǐng gǎi yīxià zhège jùzi."
+      ],
+      "寄": [
+        "我寄了一封信。",
+        "Tôi đã gửi một bức thư.",
+        "Wǒ jì le yī fēng xìn."
+      ],
+      "假": [
+        "这是假的。",
+        "Đây là đồ giả.",
+        "Zhè shì jiǎ de."
+      ],
+      "举": [
+        "请举手回答。",
+        "Xin giơ tay trả lời.",
+        "Qǐng jǔ shǒu huídá."
+      ],
+      "棵": [
+        "门前有两棵树。",
+        "Trước cửa có hai cây.",
+        "Mén qián yǒu liǎng kē shù."
+      ],
+      "拉": [
+        "请帮我拉一下门。",
+        "Xin kéo cửa giúp tôi.",
+        "Qǐng bāng wǒ lā yīxià mén."
+      ],
+      "凉": [
+        "今天天气很凉。",
+        "Hôm nay trời mát.",
+        "Jīntiān tiānqì hěn liáng."
+      ],
+      "留": [
+        "请留在这里。",
+        "Xin ở lại đây.",
+        "Qǐng liú zài zhèlǐ."
+      ],
+      "乱": [
+        "房间很乱。",
+        "Phòng lộn xộn lắm.",
+        "Fángjiān hěn luàn."
+      ],
+      "梦": [
+        "我做了一个梦。",
+        "Tôi mơ một giấc mơ.",
+        "Wǒ zuò le yīgè mèng."
+      ],
+      "桥": [
+        "桥很长。",
+        "Cầu rất dài.",
+        "Qiáo hěn cháng."
+      ],
+      "取": [
+        "请取票。",
+        "Xin lấy vé.",
+        "Qǐng qǔ piào."
+      ],
+      "扔": [
+        "不要乱扔垃圾。",
+        "Đừng vứt rác bừa bãi.",
+        "Bùyào luàn rēng lājī."
+      ],
+      "首": [
+        "这是一首歌。",
+        "Đây là một bài hát.",
+        "Zhè shì yī shǒu gē."
+      ],
+      "算": [
+        "我算错了。",
+        "Tôi tính sai rồi.",
+        "Wǒ suàn cuò le."
+      ]
+    }
+  },
+  {
+    "id": "hsk4-topic-03-lesson-09",
+    "title": "Hành động, thời gian và số lượng · Bài 9",
+    "titleCn": "HSK 4 · 3-9",
+    "context": "Động từ thông dụng, thời gian, số đếm và trình tự",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "弹",
+      "痛",
+      "项",
+      "演",
+      "赢",
+      "云",
+      "指",
+      "鼻子",
+      "表扬",
+      "并且",
+      "博士",
+      "不断",
+      "不管"
+    ],
+    "examples": {
+      "弹": [
+        "她弹钢琴。",
+        "Cô ấy chơi piano.",
+        "Tā tán gāngqín."
+      ],
+      "痛": [
+        "我的头很痛。",
+        "Đầu tôi đau lắm.",
+        "Wǒ de tóu hěn tòng."
+      ],
+      "项": [
+        "这是一项重要任务。",
+        "Đây là một nhiệm vụ quan trọng.",
+        "Zhè shì yī xiàng zhòngyào rènwu."
+      ],
+      "演": [
+        "她演得很好。",
+        "Cô ấy diễn rất hay.",
+        "Tā yǎn de hěn hǎo."
+      ],
+      "赢": [
+        "我们队赢了比赛。",
+        "Đội chúng ta thắng trận.",
+        "Wǒmen duì yíng le bǐsài."
+      ],
+      "云": [
+        "天上有白云。",
+        "Trên trời có mây trắng.",
+        "Tiān shàng yǒu bái yún."
+      ],
+      "指": [
+        "请指一下方向。",
+        "Xin chỉ hướng.",
+        "Qǐng zhǐ yīxià fāngxiàng."
+      ],
+      "鼻子": [
+        "他的鼻子很高。",
+        "Mũi anh ấy cao.",
+        "Tā de bízi hěn gāo."
+      ],
+      "表扬": [
+        "老师表扬了他。",
+        "Thầy cô khen ngợi anh ấy.",
+        "Lǎoshī biǎoyáng le tā."
+      ],
+      "并且": [
+        "他很聪明，并且很勤奋。",
+        "Anh ấy rất thông minh, hơn nữa rất chăm chỉ.",
+        "Tā hěn cōngmíng, bìngqiě hěn qínfèn."
+      ],
+      "博士": [
+        "他是博士。",
+        "Anh ấy là tiến sĩ.",
+        "Tā shì bóshì."
+      ],
+      "不断": [
+        "他不断努力。",
+        "Anh ấy liên tục nỗ lực.",
+        "Tā búduàn nǔlì."
+      ],
+      "不管": [
+        "不管怎么样，我都支持你。",
+        "Dù thế nào, tôi cũng ủng hộ bạn.",
+        "Bùguǎn zěnmeyàng, wǒ dōu zhīchí nǐ."
       ]
     }
   }

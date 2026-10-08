@@ -8,87 +8,87 @@
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "安心",
-      "安排",
-      "安装",
-      "按",
-      "按照",
-      "把",
-      "把",
-      "把握",
-      "白",
-      "白菜",
       "班级",
-      "搬",
+      "办理",
+      "把",
+      "把",
       "搬家",
+      "按",
       "板",
-      "办理"
+      "搬",
+      "白",
+      "安心",
+      "把握",
+      "安排",
+      "按照",
+      "安装",
+      "白菜"
     ],
     "examples": {
-      "安心": [
-        "你可以安心工作，我来照顾孩子。",
-        "Bạn có thể yên tâm làm việc, tôi sẽ chăm sóc con.",
-        "Nǐ kěyǐ ānxīn gōngzuò, wǒ lái zhàogù háizi"
+      "班级": [
+        "我们班级有二十个学生。",
+        "Lớp chúng tôi có 20 học sinh.",
+        "Wǒmen bānjí yǒu èrshí gè xuéshēng"
       ],
-      "安排": [
-        "老师安排了明天的课程表。",
-        "Giáo viên đã sắp xếp thời khóa biểu cho ngày mai.",
-        "Lǎoshī ānpái le míngtiān de kèchéngbiǎo"
-      ],
-      "安装": [
-        "我正在(tô đỏ 安装)新软件。",
-        "Tôi đang cài đặt phần mềm mới.",
-        "Wǒ zhèngzài ānzhuāng xīn ruǎnjiàn"
-      ],
-      "按": [
-        "他正在按门铃。",
-        "Anh ấy đang ấn chuông cửa.",
-        "Tā zhèngzài àn ménlíng"
-      ],
-      "按照": [
-        "我会按照时间表工作。",
-        "Tôi sẽ làm việc theo lịch trình.",
-        "Wǒ huì ànzhào shíjiān biǎo gōngzuò"
+      "办理": [
+        "我去银行办理银行卡。",
+        "Tôi đến ngân hàng để làm thẻ ngân hàng.",
+        "Wǒ qù yínháng bànlǐ yínhángkǎ"
       ],
       "把": [
         "他买了(tô đỏ一把)伞。",
         "Anh ấy đã mua một cái ô.",
         "Tā mǎile yì bǎ sǎn"
       ],
-      "把握": [
-        "他把握住了这个机会。",
-        "Anh ấy đã nắm bắt chắc cơ hội này.",
-        "Tā bǎwò zhù le zhège jīhuì"
-      ],
-      "白": [
-        "我白跑了一趟。",
-        "Tôi chạy đi một chuyến uổng công.",
-        "Wǒ bái pǎo le yí tàng"
-      ],
-      "白菜": [
-        "我喜欢吃白菜。",
-        "Tôi thích ăn cải trắng.",
-        "Wǒ xǐhuan chī báicài"
-      ],
-      "班级": [
-        "我们班级有二十个学生。",
-        "Lớp chúng tôi có 20 học sinh.",
-        "Wǒmen bānjí yǒu èrshí gè xuéshēng"
-      ],
-      "搬": [
-        "我明天要搬家。",
-        "Ngày mai tôi phải chuyển nhà đi.",
-        "Wǒ míngtiān yào bānjiā"
+      "按": [
+        "他正在按门铃。",
+        "Anh ấy đang ấn chuông cửa.",
+        "Tā zhèngzài àn ménlíng"
       ],
       "板": [
         "他坐在一块木板上。",
         "Anh ấy đang ngồi trên một tấm ván gỗ.",
         "Tā zuò zài yí kuài mùbǎn shàng"
       ],
-      "办理": [
-        "我去银行办理银行卡。",
-        "Tôi đến ngân hàng để làm thẻ ngân hàng.",
-        "Wǒ qù yínháng bànlǐ yínhángkǎ"
+      "搬": [
+        "我明天要搬家。",
+        "Ngày mai tôi phải chuyển nhà đi.",
+        "Wǒ míngtiān yào bānjiā"
+      ],
+      "白": [
+        "我白跑了一趟。",
+        "Tôi chạy đi một chuyến uổng công.",
+        "Wǒ bái pǎo le yí tàng"
+      ],
+      "安心": [
+        "你可以安心工作，我来照顾孩子。",
+        "Bạn có thể yên tâm làm việc, tôi sẽ chăm sóc con.",
+        "Nǐ kěyǐ ānxīn gōngzuò, wǒ lái zhàogù háizi"
+      ],
+      "把握": [
+        "他把握住了这个机会。",
+        "Anh ấy đã nắm bắt chắc cơ hội này.",
+        "Tā bǎwò zhù le zhège jīhuì"
+      ],
+      "安排": [
+        "老师安排了明天的课程表。",
+        "Giáo viên đã sắp xếp thời khóa biểu cho ngày mai.",
+        "Lǎoshī ānpái le míngtiān de kèchéngbiǎo"
+      ],
+      "按照": [
+        "我会按照时间表工作。",
+        "Tôi sẽ làm việc theo lịch trình.",
+        "Wǒ huì ànzhào shíjiān biǎo gōngzuò"
+      ],
+      "安装": [
+        "我正在(tô đỏ 安装)新软件。",
+        "Tôi đang cài đặt phần mềm mới.",
+        "Wǒ zhèngzài ānzhuāng xīn ruǎnjiàn"
+      ],
+      "白菜": [
+        "我喜欢吃白菜。",
+        "Tôi thích ăn cải trắng.",
+        "Wǒ xǐhuan chī báicài"
       ]
     }
   }

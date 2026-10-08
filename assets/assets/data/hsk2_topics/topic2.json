@@ -1,229 +1,234 @@
 [
   {
     "id": "hsk2-topic-02-lesson-01",
-    "title": "Học tập và nghề nghiệp · Bài 1",
+    "title": "Con người và sinh hoạt · Bài 1",
     "titleCn": "HSK 2 · 2-1",
-    "context": "15 từ vựng cùng nhóm nghĩa",
+    "context": "Con người, quan hệ và những hoạt động thường ngày",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "爱情",
-      "班长",
-      "办公室",
-      "笔记",
-      "不要",
-      "草地",
-      "长",
-      "成为",
-      "出国",
-      "打印",
-      "大部分",
-      "大家",
-      "大门",
-      "带来",
-      "到处"
+      "表",
+      "辆",
+      "瓶",
+      "套",
+      "街",
+      "骑",
+      "交",
+      "答应",
+      "大人",
+      "好人",
+      "坏人",
+      "家庭",
+      "凉快",
+      "名单",
+      "瓶子"
     ],
     "examples": {
-      "爱情": [
-        "他们的爱情很美好。",
-        "Tình yêu của họ rất đẹp.",
-        "Tāmen de àiqíng hěn měihǎo"
+      "表": [
+        "我的手表坏了。",
+        "Đồng hồ của tôi bị hỏng rồi.",
+        "Wǒ de shǒubiǎo huài le"
+      ],
+      "辆": [
+        "他买了一辆新车。",
+        "Anh ấy đã mua một chiếc xe mới.",
+        "Tā mǎile yí liàng xīn chē"
+      ],
+      "瓶": [
+        "我买了一瓶水。",
+        "Tôi đã mua một chai nước.",
+        "Wǒ mǎile yì píng shuǐ"
+      ],
+      "套": [
+        "我买了一套衣服。",
+        "Tôi đã mua một bộ quần áo.",
+        "Wǒ mǎi le yí tào yīfu"
+      ],
+      "街": [
+        "这条街很热闹。",
+        "Con phố này rất nhộn nhịp.",
+        "Zhè tiáo jiē hěn rènào"
+      ],
+      "骑": [
+        "我会骑自行车。",
+        "Tôi biết đi xe đạp.",
+        "Wǒ huì qí zìxíngchē"
+      ],
+      "交": [
+        "请把书交给我。",
+        "Xin đưa quyển sách cho tôi.",
+        "Qǐng bǎ shū jiāogěi wǒ"
+      ],
+      "答应": [
+        "他答应了。",
+        "Anh ấy đã đồng ý rồi.",
+        "Tā dāyìng le"
+      ],
+      "大人": [
+        "小孩子应该听大人的话。",
+        "Trẻ con nên nghe lời người lớn.",
+        "Xiǎo háizi yīnggāi tīng dàrén de huà"
+      ],
+      "好人": [
+        "她是一个好人。",
+        "Cô ấy là một người tốt.",
+        "Tā shì yí gè hǎorén"
+      ],
+      "坏人": [
+        "他不是坏人。",
+        "Anh ấy không phải người xấu.",
+        "Tā bú shì huàirén"
+      ],
+      "家庭": [
+        "我的家庭很幸福。",
+        "Gia đình tôi rất hạnh phúc.",
+        "Wǒ de jiātíng hěn xìngfú"
+      ],
+      "凉快": [
+        "我们学习“凉快”这个词。",
+        "Chúng ta học cách dùng từ “凉快”.",
+        "liángkuai"
+      ],
+      "名单": [
+        "我们需要一个新的名单。",
+        "Chúng tôi cần một danh sách mới.",
+        "Wǒmen xūyào yīgè xīn de míngdān"
+      ],
+      "瓶子": [
+        "这个瓶子很大。",
+        "Cái chai này rất to.",
+        "Zhège píngzi hěn dà"
+      ]
+    }
+  },
+  {
+    "id": "hsk2-topic-02-lesson-02",
+    "title": "Con người và sinh hoạt · Bài 2",
+    "titleCn": "HSK 2 · 2-2",
+    "context": "Con người, quan hệ và những hoạt động thường ngày",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "青年",
+      "全家",
+      "全身",
+      "商人",
+      "身边",
+      "手表",
+      "同事",
+      "外地",
+      "英文",
+      "英语",
+      "有人",
+      "只能",
+      "班长",
+      "到处",
+      "广场"
+    ],
+    "examples": {
+      "青年": [
+        "他是一位有为青年(tô đỏ)。",
+        "Anh ấy là một thanh niên ưu tú.",
+        "Tā shì yí wèi yǒuwéi qīngnián"
+      ],
+      "全家": [
+        "我们全家去公园散步了。",
+        "Cả nhà chúng tôi đã đi dạo công viên.",
+        "Wǒmen quánjiā qù gōngyuán sànbù le"
+      ],
+      "全身": [
+        "他全身都湿了。",
+        "Cả người anh ấy đều ướt.",
+        "Tā quánshēn dōu shī le"
+      ],
+      "商人": [
+        "他是一个成功的商人。",
+        "Anh ấy là một doanh nhân thành công.",
+        "Tā shì yí gè chénggōng de shāngrén"
+      ],
+      "身边": [
+        "我身边有很多朋友。",
+        "Bên cạnh tôi có rất nhiều bạn bè.",
+        "Wǒ shēnbiān yǒu hěn duō péngyǒu"
+      ],
+      "手表": [
+        "你的手表很好看。",
+        "Đồng hồ của bạn rất đẹp.",
+        "Nǐ de shǒubiǎo hěn hǎokàn"
+      ],
+      "同事": [
+        "他是我的同事。",
+        "Anh ấy là đồng nghiệp của tôi.",
+        "Tā shì wǒ de tóngshì"
+      ],
+      "外地": [
+        "他从外地回来。",
+        "Anh ấy từ nơi khác trở về.",
+        "Tā cóng wàidì huílái"
+      ],
+      "英文": [
+        "他的英文很好。",
+        "Tiếng Anh của anh ấy rất tốt.",
+        "Tā de Yīngwén hěn hǎo"
+      ],
+      "英语": [
+        "你会说英语吗？",
+        "Bạn biết nói tiếng Anh không?",
+        "Nǐ huì shuō Yīngyǔ ma"
+      ],
+      "有人": [
+        "门外有人。",
+        "Ngoài cửa có người.",
+        "Mén wài yǒu rén"
+      ],
+      "只能": [
+        "我们只能等他回来。",
+        "Chúng ta chỉ có thể đợi anh ấy quay về.",
+        "Wǒmen zhǐnéng děng tā huílái"
       ],
       "班长": [
         "我们班的班长很聪明。",
         "Lớp trưởng của lớp chúng tôi rất thông minh.",
         "Wǒmen bān de bānzhǎng hěn cōngmíng"
       ],
-      "办公室": [
-        "老师在办公室工作。",
-        "Giáo viên đang làm việc ở văn phòng.",
-        "Lǎoshī zài bàngōngshì gōngzuò"
-      ],
-      "笔记": [
-        "上课时要认真做笔记。",
-        "Trong lớp học phải ghi chép cẩn thận.",
-        "Shàngkè shí yào rènzhēn zuò bǐjì"
-      ],
-      "不要": [
-        "不要在教室里大声说话。",
-        "Đừng nói chuyện lớn tiếng trong lớp học.",
-        "Búyào zài jiàoshì lǐ dàshēng shuōhuà"
-      ],
-      "草地": [
-        "孩子们在草地上玩耍。",
-        "Bọn trẻ đang chơi trên bãi cỏ.",
-        "Háizimen zài cǎodì shàng wánshuǎ"
-      ],
-      "长": [
-        "孩子长得很快。",
-        "Đứa trẻ lớn rất nhanh.",
-        "Háizi zhǎng de hěn kuài"
-      ],
-      "成为": [
-        "她已经成为了一名老师。",
-        "Cô ấy đã trở thành một giáo viên.",
-        "Tā yǐjīng chéngwéile yī míng lǎoshī"
-      ],
-      "出国": [
-        "他明年要出国留学。",
-        "Năm sau anh ấy sẽ đi du học nước ngoài.",
-        "Tā míngnián yào chūguó liúxué"
-      ],
-      "打印": [
-        "请帮我打印这份文件。",
-        "Xin hãy giúp tôi in tài liệu này.",
-        "Qǐng bāng wǒ dǎyìn zhè fèn wénjiàn"
-      ],
-      "大部分": [
-        "大部分学生都完成了作业。",
-        "Phần lớn học sinh đã hoàn thành bài tập về nhà.",
-        "Dà bù fèn xuéshēng dōu wánchéng le zuòyè"
-      ],
-      "大家": [
-        "大家好！欢迎来到我们的学校。",
-        "Xin chào mọi người! Chào mừng đến với trường của chúng tôi.",
-        "Dàjiā hǎo! Huānyíng lái dào wǒmen de xuéxiào"
-      ],
-      "大门": [
-        "学校的大门每天七点开门。",
-        "Cổng trường mở lúc 7 giờ mỗi ngày.",
-        "Xuéxiào de dàmén měitiān qī diǎn kāimén"
-      ],
-      "带来": [
-        "汉语给我带来了很多工作机会。",
-        "Tiếng Trung mang lại cho tôi rất nhiều cơ hội việc làm.",
-        "Hànyǔ gěi wǒ dài lái le hěnduō gōngzuò jīhuì"
-      ],
       "到处": [
         "公园里到处都是花。",
         "Trong công viên, hoa ở khắp nơi.",
         "Gōngyuán lǐ dàochù dōu shì huā"
-      ]
-    }
-  },
-  {
-    "id": "hsk2-topic-02-lesson-02",
-    "title": "Học tập và nghề nghiệp · Bài 2",
-    "titleCn": "HSK 2 · 2-2",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "灯",
-      "点头",
-      "短",
-      "对",
-      "对面",
-      "多久",
-      "干活儿",
-      "高中",
-      "公里",
-      "公司",
-      "广场",
-      "合适",
-      "红",
-      "黄",
-      "或者"
-    ],
-    "examples": {
-      "灯": [
-        "教室里的灯开着呢。",
-        "Đèn trong lớp vẫn còn bật.",
-        "Jiàoshì lǐ de dēng kāi zhe ne"
-      ],
-      "点头": [
-        "她微笑着点头。",
-        "Cô ấy mỉm cười và gật đầu.",
-        "Tā wēixiào zhe diǎn tóu/        "
-      ],
-      "短": [
-        "这条裤子太短了。",
-        "Chiếc quần này quá ngắn.",
-        "Zhè tiáo kùzi tài duǎn le"
-      ],
-      "对": [
-        "他对这个工作很有信心。",
-        "Anh ấy đối với công việc này rất có tự tin.",
-        "Tā duì zhège gōngzuò hěn yǒu xìnxīn"
-      ],
-      "对面": [
-        "银行在学校对面。",
-        "Ngân hàng ở đối diện trường học.",
-        "Yínháng zài xuéxiào duìmiàn"
-      ],
-      "多久": [
-        "你学汉语学了多久了？",
-        "Bạn học tiếng Trung bao lâu rồi?",
-        "Nǐ xué hànyǔ xué le duōjiǔ le"
-      ],
-      "干活儿": [
-        "他们正在干活儿。",
-        "Họ đang làm việc.",
-        "Tāmen zhèngzài gàn huór"
-      ],
-      "高中": [
-        "这是一所很有名的高中。",
-        "Đây là một trường trung học rất nổi tiếng.",
-        "Zhè shì yī suǒ hěn yǒumíng de gāozhōng"
-      ],
-      "公里": [
-        "我家离公司有五公里。",
-        "Nhà tôi cách công ty 5 km.",
-        "Wǒ jiā lí gōngsī yǒu wǔ gōnglǐ"
-      ],
-      "公司": [
-        "我在一家外资公司工作。",
-        "Tôi làm việc tại một công ty vốn nước ngoài.",
-        "Wǒ zài yī jiā wàizī gōngsī gōngzuò"
       ],
       "广场": [
         "他们在广场上跳舞。",
         "Họ đang nhảy múa trên quảng trường.",
         "Tāmen zài guǎngchǎng shàng tiàowǔ"
-      ],
-      "合适": [
-        "这件衣服很合适。",
-        "Bộ quần áo này rất phù hợp.",
-        "Zhè jiàn yīfu hěn héshì"
-      ],
-      "红": [
-        "鲜红的花朵很美丽。",
-        "Những bông hoa đỏ tươi rất đẹp.",
-        "Xiānhóng de huāduǒ hěn měilì"
-      ],
-      "黄": [
-        "她穿了一条黄色的群子。",
-        "Cô ấy mặc một chiếc váy màu vàng.",
-        "Tā chuānle yītiáo huángsè de qúnzi"
       ]
     }
   },
   {
     "id": "hsk2-topic-02-lesson-03",
-    "title": "Học tập và nghề nghiệp · Bài 3",
+    "title": "Con người và sinh hoạt · Bài 3",
     "titleCn": "HSK 2 · 2-3",
-    "context": "15 từ vựng cùng nhóm nghĩa",
+    "context": "Con người, quan hệ và những hoạt động thường ngày",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
       "机会",
-      "级",
-      "家长",
-      "检查",
-      "叫作",
       "教师",
-      "教室",
-      "节",
-      "今后",
-      "近",
-      "举行",
-      "开学",
-      "科学",
-      "课堂",
-      "老 ( 老王 )"
+      "能够",
+      "年级",
+      "全体",
+      "校园",
+      "报纸",
+      "参加",
+      "广告",
+      "交通",
+      "运动",
+      "画儿",
+      "蓝色",
+      "绿色",
+      "难过"
     ],
     "examples": {
       "机会": [
@@ -231,133 +236,10 @@
         "Anh ấy có một cơ hội việc làm rất tốt.",
         "Tā dédào yīgè hěn hǎo de gōngzuò jīhuì"
       ],
-      "级": [
-        "他是二年级学生。",
-        "Cậu ấy là học sinh lớp hai.",
-        "Tā shì èr niánjí xuéshēng"
-      ],
-      "家长": [
-        "家长在学校开会。",
-        "Phụ huynh họp tại trường học.",
-        "Jiāzhǎng zài xuéxiào kāihuì"
-      ],
-      "检查": [
-        "老师每天都检查我们的作业。",
-        "Giáo viên kiểm tra bài tập về nhà của chúng tôi mỗi ngày.",
-        "Lǎoshī měitiān dū jiǎnchá wǒmen de zuòyè"
-      ],
-      "叫作": [
-        "这种水果叫作苹果。",
-        "Loại trái cây này gọi là táo.",
-        "Zhè zhǒng shuǐguǒ jiàozuò píngguǒ"
-      ],
       "教师": [
         "我的妈妈是教师。",
         "Mẹ tôi là giáo viên.",
         "Wǒ de māma shì jiàoshī"
-      ],
-      "教室": [
-        "我们在教室里学习。",
-        "Chúng tôi học tập trong lớp học.",
-        "Wǒmen zài jiàoshì lǐ xuéxí"
-      ],
-      "节": [
-        "这是课文里的第三节。",
-        "Đây là phần thứ ba trong bài.",
-        "Zhè shì kèwén lǐ de dì sān jié"
-      ],
-      "今后": [
-        "今后我要努力学汉语。",
-        "Từ nay về sau tôi sẽ cố gắng học tiếng Trung.",
-        "Jīnhòu wǒ yào nǔlì xué hànyǔ"
-      ],
-      "近": [
-        "他家离学校很近。",
-        "Nhà anh ấy rất gần trường.",
-        "Tā jiā lí xuéxiào hěn jìn"
-      ],
-      "举行": [
-        "学校举行了唱歌比赛。",
-        "Một cuộc thi ca hát đã được tổ chức ở trường.",
-        "Xuéxiào jǔxíngle chànggē bǐsài"
-      ],
-      "开学": [
-        "学生们开学了。",
-        "Học sinh đã khai giảng rồi.",
-        "Xuéshēngmen kāixué le"
-      ],
-      "科学": [
-        "她是一个了不起的科学家。",
-        "Cô ấy là một nhà khoa học tài ba.",
-        "Tā shì yīgè liǎobuqǐ de kēxuéjiā"
-      ],
-      "课堂": [
-        "老师正在课堂上讲课。",
-        "Giáo viên đang giảng bài trên lớp.",
-        "Lǎoshī zhèngzài kètáng shàng jiǎngkè"
-      ],
-      "老 ( 老王 )": [
-        "老王是我的大学同学。",
-        "Lão Vương là bạn cùng lớp đại học của tôi.",
-        "Lǎo wáng shì wǒ de dàxué tóngxué"
-      ]
-    }
-  },
-  {
-    "id": "hsk2-topic-02-lesson-04",
-    "title": "Học tập và nghề nghiệp · Bài 4",
-    "titleCn": "HSK 2 · 2-4",
-    "context": "15 từ vựng cùng nhóm nghĩa",
-    "phraseCn": "",
-    "phrasePinyin": "",
-    "phraseVi": "",
-    "words": [
-      "离",
-      "留",
-      "留学生",
-      "名称",
-      "那会儿",
-      "难看",
-      "能够",
-      "年级",
-      "努力",
-      "碰见",
-      "千克",
-      "球队",
-      "全部",
-      "全体",
-      "然后"
-    ],
-    "examples": {
-      "离": [
-        "我家离学校很近。",
-        "Nhà tôi cách trường rất gần.",
-        "Wǒ jiā lí xuéxiào hěn jìn"
-      ],
-      "留": [
-        "他留在农村工作了。",
-        "Anh ấy ở lại nông thôn làm việc.",
-        "Tā liúzài nóngcūn gōngzuò le"
-      ],
-      "留学生": [
-        "我是留学生。",
-        "Tôi là du học sinh.",
-        "Wǒ shì liúxuéshēng"
-      ],
-      "名称": [
-        "这个学校的名称很长。",
-        "Tên của ngôi trường này rất dài.",
-        "Zhège xuéxiào de míngchēng hěn cháng"
-      ],
-      "那会儿": [
-        "那会儿(tô đỏ)我在学校。",
-        "Khi đó tôi đang ở trường.",
-        "Nàhuìr wǒ zài xuéxiào"
-      ],
-      "难看": [
-        "这件衣服太难看了。",
-        "Bộ quần áo này quá xấu.",
-        "Zhè jiàn yīfu tài nánkàn le"
       ],
       "能够": [
         "我能够(tô đỏ)完成这项工作。",
@@ -369,284 +251,412 @@
         "Năm nay tôi học lớp ba.",
         "Wǒ jīnnián dú sān niánjí"
       ],
-      "努力": [
-        "他努力学习汉语。",
-        "Anh ấy nỗ lực học tiếng Trung.",
-        "Tā nǔlì xuéxí Hànyǔ"
-      ],
-      "碰见": [
-        "我昨天碰见了老师。",
-        "Hôm qua tôi gặp giáo viên.",
-        "Wǒ zuótiān pèngjiàn le lǎoshī"
-      ],
-      "千克": [
-        "这个箱子十千克。",
-        "Chiếc vali này nặng 10 kg.",
-        "Zhège xiāngzi shí qiānkè"
-      ],
-      "球队": [
-        "这个球队很有名。",
-        "Đội bóng này rất nổi tiếng.",
-        "Zhège qiú duì hěn yǒumíng"
-      ],
-      "全部": [
-        "全部学生都参加了。",
-        "Toàn bộ học sinh đều tham gia.",
-        "Quánbù xuéshēng dōu cānjiā le"
-      ],
       "全体": [
         "全体学生都参加了活动。",
         "Toàn thể học sinh đều tham gia hoạt động.",
         "Quántǐ xuéshēng dōu cānjiā le huódòng"
       ],
-      "然后": [
-        "我先吃饭，然后去学校学习。",
-        "Tôi ăn cơm, sau đó đến trường học.",
-        "Wǒ xiān chīfàn, ránhòu qù xuéxiào xuéxí"
+      "校园": [
+        "我们的校园很大。",
+        "Khuôn viên trường chúng tôi rất lớn.",
+        "Wǒmen de xiàoyuán hěn dà"
+      ],
+      "报纸": [
+        "我爸爸每天早上都看报纸。",
+        "Mỗi buổi sáng ba tôi đều đọc báo.",
+        "Wǒ bàba měitiān zǎoshang dōu kàn bàozhǐ"
+      ],
+      "参加": [
+        "今天我们一起参加游泳比赛。",
+        "Hôm nay chúng tôi cùng nhau tham gia một cuộc thi bơi lội.",
+        "Jīntiān wǒmen yīqǐ cānjiā yóuyǒng bǐsài"
+      ],
+      "广告": [
+        "这个广告很有创意。",
+        "Quảng cáo này rất sáng tạo.",
+        "Zhège guǎnggào hěn yǒu chuàngyì"
+      ],
+      "交通": [
+        "这里的交通很方便。",
+        "Giao thông ở đây rất thuận tiện.",
+        "Zhèlǐ de jiāotōng hěn fāngbiàn"
+      ],
+      "运动": [
+        "他每天都运动。",
+        "Anh ấy tập thể dục mỗi ngày.",
+        "Tā měi tiān dōu yùndòng"
+      ],
+      "画儿": [
+        "她喜欢画画儿。",
+        "Cô ấy thích vẽ tranh.",
+        "Tā xǐhuan huà huàr"
+      ],
+      "蓝色": [
+        "我喜欢蓝色的衣服。",
+        "Tôi thích quần áo màu xanh.",
+        "Wǒ xǐhuān lánsè de yīfu"
+      ],
+      "绿色": [
+        "我喜欢绿色。",
+        "Tôi thích màu xanh lá cây.",
+        "Wǒ xǐhuān lǜsè"
+      ],
+      "难过": [
+        "她听到坏消息就很难过。",
+        "Cô ấy rất buồn khi nghe tin xấu.",
+        "Tā tīngdào huài xiāoxi jiù hěn nánguò"
+      ]
+    }
+  },
+  {
+    "id": "hsk2-topic-02-lesson-04",
+    "title": "Con người và sinh hoạt · Bài 4",
+    "titleCn": "HSK 2 · 2-4",
+    "context": "Con người, quan hệ và những hoạt động thường ngày",
+    "phraseCn": "",
+    "phrasePinyin": "",
+    "phraseVi": "",
+    "words": [
+      "人们",
+      "体育",
+      "停车",
+      "网球",
+      "大衣",
+      "教育",
+      "球鞋",
+      "少年",
+      "车辆",
+      "公路",
+      "路边",
+      "明星",
+      "也许",
+      "交给",
+      "难受"
+    ],
+    "examples": {
+      "人们": [
+        "人们喜欢去公园散步。",
+        "Mọi người thích đi dạo trong công viên.",
+        "Rénmen xǐhuan qù gōngyuán sànbù"
+      ],
+      "体育": [
+        "我喜欢体育运动。",
+        "Tôi thích các hoạt động thể thao.",
+        "Wǒ xǐhuan tǐyù yùndòng"
+      ],
+      "停车": [
+        "请在这里停车。",
+        "Vui lòng đỗ xe ở đây.",
+        "Qǐng zài zhèlǐ tíngchē"
+      ],
+      "网球": [
+        "我喜欢打网球。",
+        "Tôi thích chơi quần vợt.",
+        "Wǒ xǐhuān dǎ wǎngqiú"
+      ],
+      "大衣": [
+        "冬天我会穿厚大衣。",
+        "Mùa đông tôi sẽ mặc áo khoác dày.",
+        "Dōngtiān wǒ huì chuān hòu dàyī"
+      ],
+      "教育": [
+        "教育对孩子很重要。",
+        "Giáo dục rất quan trọng đối với trẻ em.",
+        "Jiàoyù duì háizi hěn zhòngyào"
+      ],
+      "球鞋": [
+        "我买了新球鞋。",
+        "Tôi đã mua đôi giày thể thao mới.",
+        "Wǒ mǎi le xīn qiúxié"
+      ],
+      "少年": [
+        "这些少年很有活力。",
+        "Những thiếu niên này rất năng động.",
+        "Zhèxiē shàonián hěn yǒu huólì"
+      ],
+      "车辆": [
+        "这条路上的车辆很多。",
+        "Có rất nhiều xe cộ trên con đường này.",
+        "Zhè tiáo lù shàng de chēliàng hěn duō"
+      ],
+      "公路": [
+        "这条公路很宽。",
+        "Con đường này rất rộng.",
+        "Zhè tiáo gōnglù hěn kuān"
+      ],
+      "路边": [
+        "路边有很多商店。",
+        "Ven đường có rất nhiều cửa hàng.",
+        "Lù biān yǒu hěn duō shāngdiàn"
+      ],
+      "明星": [
+        "她是电影明星。",
+        "Cô ấy là ngôi sao điện ảnh.",
+        "Tā shì diànyǐng míngxīng"
+      ],
+      "也许": [
+        "他也许不会来。",
+        "Anh ấy có lẽ sẽ không đến.",
+        "Tā yěxǔ bú huì lái"
+      ],
+      "交给": [
+        "我们学习“交给”这个词。",
+        "Chúng ta học cách dùng từ “交给”.",
+        "jiāo gěi"
+      ],
+      "难受": [
+        "天气太热，我很难受。",
+        "Trời quá nóng, tôi rất khó chịu.",
+        "Tiānqì tài rè, wǒ hěn nánshòu"
       ]
     }
   },
   {
     "id": "hsk2-topic-02-lesson-05",
-    "title": "Học tập và nghề nghiệp · Bài 5",
+    "title": "Con người và sinh hoạt · Bài 5",
     "titleCn": "HSK 2 · 2-5",
-    "context": "15 từ vựng cùng nhóm nghĩa",
+    "context": "Con người, quan hệ và những hoạt động thường ngày",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "实习",
-      "实在",
-      "太太",
-      "特别",
-      "疼",
-      "提出",
-      "条",
-      "条件",
-      "听讲",
-      "腿",
-      "网站",
-      "往",
-      "位",
-      "小说",
-      "校园"
+      "通知",
+      "住房",
+      "快点儿",
+      "老朋友",
+      "青少年",
+      "体育馆",
+      "交朋友",
+      "出租车",
+      "公交车",
+      "停车场",
+      "自行车",
+      "公共汽车",
+      "头 (名，量）",
+      "啊",
+      "边"
     ],
     "examples": {
-      "实习": [
-        "她在国际公司实习。",
-        "Cô ấy đang thực tập tại công ty quốc tế.",
-        "Tā zài guójì gōngsī shíxí"
+      "通知": [
+        "我收到一个通知。",
+        "Tôi nhận được một thông báo.",
+        "Wǒ shōudào yí gè tōngzhī"
       ],
-      "实在": [
-        "他工作做得很实在，你放心吧！",
-        "Anh ấy làm việc rất tốt, bạn yên tâm nhé!",
-        "Tā gōngzuò zuò dé hěn shízài, nǐ fàngxīn ba"
+      "住房": [
+        "这里的住房很贵。",
+        "Nhà ở đây rất đắt.",
+        "Zhèlǐ de zhùfáng hěn guì"
       ],
-      "太太": [
-        "王太太很友好。",
-        "Bà Vương rất thân thiện.",
-        "Wáng tàitai hěn yǒuhǎo"
+      "快点儿": [
+        "快点儿，我们要迟到了！",
+        "Nhanh lên, chúng ta sắp trễ rồi!",
+        "Kuài diǎnr wǒmen yào chídào le"
       ],
-      "特别": [
-        "这本书特别有意思。",
-        "Cuốn sách này đặc biệt thú vị.",
-        "Zhè běn shū tèbié yǒuyìsi"
+      "老朋友": [
+        "他是我的老朋友。",
+        "Anh ấy là bạn cũ của tôi.",
+        "Tā shì wǒ de lǎo péngyou"
       ],
-      "疼": [
-        "我的头很疼。",
-        "Đầu của tôi rất đau.",
-        "Wǒ de tóu hěn téng"
+      "青少年": [
+        "他们是青少年。",
+        "Họ là thanh thiếu niên.",
+        "Tāmen shì qīng shàonián"
       ],
-      "提出": [
-        "老师提出了新问题。",
-        "Giáo viên đã đưa ra một câu hỏi mới.",
-        "Lǎoshī tíchū le xīn wèntí"
+      "体育馆": [
+        "体育馆很大。",
+        "Nhà thi đấu thể thao rất lớn.",
+        "Tǐyùguǎn hěn dà"
       ],
-      "条": [
-        "这条裤子很好看。",
-        "Chiếc quần này rất đẹp.",
-        "Zhè tiáo kùzi hěn hǎokàn"
+      "交朋友": [
+        "我喜欢交朋友。",
+        "Tôi thích kết bạn.",
+        "Wǒ xǐhuān jiāo péngyǒu"
       ],
-      "条件": [
-        "他有很好的学习条件(tô đỏ)。",
-        "Anh ấy có điều kiện học tập rất tốt.",
-        "Tā yǒu hěn hǎo de xuéxí tiáojiàn"
+      "出租车": [
+        "他坐出租车去机场。",
+        "Anh ấy ngồi taxi đến sân bay.",
+        "Tā zuò chūzūchē qù jīchǎng"
       ],
-      "听讲": [
-        "学生认真听讲。",
-        "Học sinh nghe giảng chăm chú.",
-        "Xuéshēng rènzhēn tīngjiǎng"
+      "公交车": [
+        "这辆公交车很拥挤。",
+        "Chiếc xe buýt này rất đông người.",
+        "Zhè liàng gōngjiāochē hěn yōngjǐ"
       ],
-      "腿": [
-        "我的腿有点疼。",
-        "Chân tôi hơi đau.",
-        "Wǒ de tuǐ yǒudiǎn téng"
+      "停车场": [
+        "停车场很大。",
+        "Bãi đỗ xe rất lớn.",
+        "Tíngchēchǎng hěn dà"
       ],
-      "网站": [
-        "这个网站很有用。",
-        "Trang web này rất hữu ích.",
-        "Zhè gè wǎngzhàn hěn yǒuyòng"
+      "自行车": [
+        "我每天骑自行车上学。",
+        "Tôi đi xe đạp đến trường mỗi ngày.",
+        "Wǒ měitiān qí zìxíngchē shàngxué"
       ],
-      "往": [
-        "他往学校走去了。",
-        "Anh ấy đi về hướng trường học.",
-        "Tā wǎng xuéxiào zǒu qù le"
+      "公共汽车": [
+        "我每天坐公共汽车上班。",
+        "Tôi đi làm bằng xe buýt mỗi ngày.",
+        "Wǒ měitiān zuò gōnggòng qìchē shàngbān"
       ],
-      "位": [
-        "这位老师很有名。",
-        "Vị giáo viên này rất nổi tiếng.",
-        "Zhè wèi lǎoshī hěn yǒumíng"
+      "头 (名，量）": [
+        "我家有一头牛。\n\n我买了两头蒜。",
+        "Nhà tôi có một con bò.\n\nTôi đã mua hai củ tỏi.",
+        "Wǒjiā yǒu yītóu niú/\n\n/Wǒ mǎile liǎngtóu suàn"
       ],
-      "小说": [
-        "她在看一本小说。",
-        "Cô ấy đang đọc một cuốn tiểu thuyết.",
-        "Tā zài kàn yī běn xiǎoshuō"
+      "啊": [
+        "你来了啊！",
+        "Bạn đến rồi à!",
+        "Nǐ lái le ā"
       ],
-      "校园": [
-        "我们的校园很大。",
-        "Khuôn viên trường chúng tôi rất lớn.",
-        "Wǒmen de xiàoyuán hěn dà"
+      "边": [
+        "他坐在窗边看书。",
+        "Anh ấy ngồi bên cửa sổ đọc sách.",
+        "Tā zuò zài chuāng biān kàn shū"
       ]
     }
   },
   {
     "id": "hsk2-topic-02-lesson-06",
-    "title": "Học tập và nghề nghiệp · Bài 6",
+    "title": "Con người và sinh hoạt · Bài 6",
     "titleCn": "HSK 2 · 2-6",
-    "context": "15 từ vựng cùng nhóm nghĩa",
+    "context": "Con người, quan hệ và những hoạt động thường ngày",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "笑话儿",
-      "星星",
-      "学期",
-      "眼",
-      "样子",
-      "要求",
-      "一部分",
-      "以后",
-      "以外",
-      "一生",
-      "一直",
-      "影响",
-      "照片",
-      "真正",
-      "中级"
+      "店",
+      "封",
+      "改",
+      "狗",
+      "河",
+      "换",
+      "鸡",
+      "急",
+      "哭",
+      "流",
+      "猫",
+      "面",
+      "鸟",
+      "排",
+      "碰"
     ],
     "examples": {
-      "星星": [
-        "夜晚的星星很美丽。",
-        "Những ngôi sao về đêm thật đẹp.",
-        "Yèwǎn de xīngxing hěn měilì"
+      "店": [
+        "这家店很有名。",
+        "Cửa hàng này rất nổi tiếng.",
+        "Zhè jiā diàn hěn yǒumíng"
       ],
-      "学期": [
-        "这个学期很忙。",
-        "Học kỳ này rất bận.",
-        "Zhège xuéqī hěn máng"
+      "封": [
+        "他给我写了一封信。",
+        "Anh ấy đã viết cho tôi một bức thư.",
+        "Tā gěi wǒ xiěle yī fēng xìn"
       ],
-      "眼": [
-        "我的眼有点疼。",
-        "Mắt của tôi hơi đau.",
-        "Wǒ de yǎn yǒudiǎn téng"
+      "改": [
+        "他决定改掉这个坏习惯。",
+        "Anh ấy quyết định sửa thói quen xấu này.",
+        "Tā juédìng gǎi diào zhè gè huài xíguàn"
       ],
-      "样子": [
-        "这个样子很好看。",
-        "Kiểu dáng này rất đẹp.",
-        "Zhège yàngzi hěn hǎokàn"
+      "狗": [
+        "这只小狗很可爱。",
+        "Con chó này rất đáng yêu.",
+        "Zhè zhī xiăo gǒu hěn kě’ài"
       ],
-      "要求": [
-        "老师的要求很高。",
-        "Yêu cầu của giáo viên rất cao.",
-        "Lǎoshī de yāoqiú hěn gāo"
+      "河": [
+        "那条河很长。",
+        "Con sông đó rất dài.",
+        "Nà tiáo hé hěn cháng"
       ],
-      "一部分": [
-        "这是一部分工作。",
-        "Đây là một phần công việc.",
-        "Zhè shì yí bùfen gōngzuò"
+      "换": [
+        "你要换衣服吗？",
+        "Bạn có muốn thay quần áo không?",
+        "Nǐ yào huàn yīfu ma"
       ],
-      "以后": [
-        "以后我要学中文。",
-        "Sau này tôi muốn học tiếng Trung.",
-        "Yǐhòu wǒ yào xué zhōngwén"
+      "鸡": [
+        "我家有两只小鸡。",
+        "Nhà tôi có hai con gà con.",
+        "Wǒ jiā yǒu liǎng zhī xiǎo jī"
       ],
-      "以外": [
-        "除了工作以外，我还学习。",
-        "Ngoài công việc, tôi còn học tập.",
-        "Chúle gōngzuò yǐwài, wǒ hái xuéxí"
+      "急": [
+        "你别太着急！",
+        "Bạn đừng quá lo lắng!",
+        "Nǐ bié tài zhāojí"
       ],
-      "一生": [
-        "他一生都很努力。",
-        "Anh ấy làm việc chăm chỉ cả đời.",
-        "Tā yìshēng dōu hěn nǔlì"
+      "哭": [
+        "你别哭了！",
+        "Bạn đừng khóc nữa!",
+        "Nǐ bié kū le/ "
       ],
-      "一直": [
-        "我一直在学习汉语。",
-        "Tôi luôn học tiếng Trung.",
-        "Wǒ yìzhí zài xuéxí Hànyǔ"
+      "流": [
+        "他的手指流血了。",
+        "Ngón tay của anh ấy bị chảy máu.",
+        "Tā de shǒuzhǐ liúxiě le"
       ],
-      "影响": [
-        "太吵会影响学习。",
-        "Quá ồn sẽ ảnh hưởng đến việc học.",
-        "Tài chǎo huì yǐngxiǎng xuéxí"
+      "猫": [
+        "我家有一只猫。",
+        "Nhà tôi có một con mèo.",
+        "Wǒ jiā yǒu yì zhī māo"
       ],
-      "照片": [
-        "这是我的照片。",
-        "Đây là ảnh của tôi.",
-        "Zhè shì wǒ de zhàopiàn"
+      "面": [
+        "桌面(tô đỏ)很干净。",
+        "Mặt bàn rất sạch sẽ.",
+        "Zhuōmiàn hěn gānjìng"
       ],
-      "真正": [
-        "这是真正的爱。",
-        "Đây là tình yêu thật sự.",
-        "Zhè shì zhēnzhèng de ài"
+      "鸟": [
+        "树上有一只小鸟。",
+        "Trên cây có một con chim nhỏ.",
+        "Shù shàng yǒu yī zhī xiǎo niǎo"
       ],
-      "中级": [
-        "我学中级汉语。",
-        "Tôi học tiếng Trung trung cấp.",
-        "Wǒ xué zhōngjí Hànyǔ"
+      "排": [
+        "请大家排好队。",
+        "Mọi người vui lòng xếp hàng ngay ngắn.",
+        "Qǐng dàjiā pái hǎo duì"
+      ],
+      "碰": [
+        "他不小心碰到了桌子。",
+        "Anh ấy vô tình đụng vào bàn.",
+        "Tā bù xiǎoxīn pèng dào le zhuōzi"
       ]
     }
   },
   {
     "id": "hsk2-topic-02-lesson-07",
-    "title": "Học tập và nghề nghiệp · Bài 7",
+    "title": "Con người và sinh hoạt · Bài 7",
     "titleCn": "HSK 2 · 2-7",
-    "context": "5 từ vựng cùng nhóm nghĩa",
+    "context": "Con người, quan hệ và những hoạt động thường ngày",
     "phraseCn": "",
     "phrasePinyin": "",
     "phraseVi": "",
     "words": [
-      "中小学",
-      "重视",
-      "组",
-      "组长",
-      "作用"
+      "墙",
+      "熟",
+      "数",
+      "推",
+      "网"
     ],
     "examples": {
-      "中小学": [
-        "我的弟弟在中小学读书。",
-        "Em trai tôi học ở trường tiểu học và trung học.",
-        "Wǒ de dìdì zài zhōng xiǎoxué dúshū"
+      "墙": [
+        "墙上有一幅画。",
+        "Trên tường có một bức tranh.",
+        "Qiáng shàng yǒu yì fú huà"
       ],
-      "重视": [
-        "老师很重视学生的努力。",
-        "Giáo viên rất coi trọng sự nỗ lực của học sinh.",
-        "Lǎoshī hěn zhòngshì xuéshēng de nǔlì"
+      "熟": [
+        "他对这里很熟。",
+        "Anh ấy rất quen thuộc với nơi này.",
+        "Tā duì zhèlǐ hěn shú"
       ],
-      "组": [
-        "我们被分成了三组。",
-        "Chúng tôi được chia thành ba nhóm.",
-        "Wǒmen bèi fēnchéng le sān zǔ"
+      "数": [
+        "我来数一数有多少人。",
+        "Để tôi đếm có bao nhiêu người.",
+        "Wǒ lái shǔ yī shǔ yǒu duōshǎo rén"
       ],
-      "组长": [
-        "他是我们班的组长。",
-        "Anh ấy là tổ trưởng lớp chúng tôi.",
-        "Tā shì wǒmen bān de zǔzhǎng"
+      "推": [
+        "他推(tô đỏ)开了门。",
+        "Anh ấy đẩy cửa ra.",
+        "Tā tuī kāi le mén"
       ],
-      "作用": [
-        "这本书对我的学习很有作用。",
-        "Cuốn sách này có tác dụng lớn đối với việc học của tôi.",
-        "Zhè běn shū duì wǒ de xuéxí hěn yǒu zuòyòng"
+      "网": [
+        "他用网捉鱼。\n\n这里的网(tô đỏ)络很快。",
+        "Anh ấy dùng lưới để bắt cá.\n\nMạng ở đây rất nhanh.",
+        "Tā yòng wǎng zhuō yú/\n\n/Zhèlǐ de wǎng luò hěn kuài"
       ]
     }
   }
