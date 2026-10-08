@@ -1,0 +1,1735 @@
+[
+  {
+    "level": 5,
+    "title": "1. 如何 /Rúhé",
+    "focus": "如何 /Rúhé",
+    "focusPinyin": "",
+    "pattern": "如何 /Rúhé",
+    "meaning": "Dùng để hỏi phương thức/cách thức giải quyết vấn đề, thường dùng ở cuối câu để trưng cầu ý kiến hoặc hỏi thăm tình hình.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "我们明天举行会议，讨论这个问题该如何解决。",
+        "pinyin": "Wǒmen míngtiān jǔxíng huìyì, tǎolùn zhè ge wèntí gāi",
+        "vi": "hệ “8x” như thế nào?"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "2. 靠",
+    "focus": "靠",
+    "focusPinyin": "Kào",
+    "pattern": "靠",
+    "meaning": "Là động từ, nghĩa là dựa vào, tựa vào để chống đỡ trọng lượng; nhờ, dựa vào ai đó mới đạt được lợi ích; gần kề, kế liền.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "王老师喜欢靠这桌子讲课。 /Wáng lǎoshī xǐhuān kào",
+        "pinyin": "zhè zhuōzi jiǎngkè. / Thầy Vương thích dựa vào bàn để",
+        "vi": "bạn bè."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "3. 居然",
+    "focus": "居然",
+    "focusPinyin": "Jūrán",
+    "pattern": "居然",
+    "meaning": "Biểu thị sự không ngờ đến, bất ngờ, ngạc nhiên (\"lại có thể\", \"lại\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "这么简单的题，你居然也不会做？上课时都干什么去",
+        "pinyin": "Shàngkè shí dōu gàn shénme qùle/ Bài tập đơn giản thế",
+        "vi": "gì vậy?"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "4. 以来",
+    "focus": "以来",
+    "focusPinyin": "Yǐlái",
+    "pattern": "以来",
+    "meaning": "Biểu thị một khoảng thời gian từ một thời điểm nào đó trong quá khứ đến thời điểm hiện tại.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "改革开放以来，中国发生了巨大的变化。 /Gǎigé",
+        "pinyin": "kāifàng yǐlái, Zhōngguó fāshēngle jùdà de biànhuà/ Từ",
+        "vi": "thay đổi to lớn."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "5. 临",
+    "focus": "临",
+    "focusPinyin": "Lín",
+    "pattern": "临",
+    "meaning": "Là động từ, có nghĩa là dựa sát, kề, kế. Là giới từ (\"临.....（时/前）\"), biểu thị sắp đến thời gian phát sinh của một hành động.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "临江新修了一条路，晚饭后很多人都去那儿散步。 /Lín",
+        "pinyin": "jiāng xīn xiūle yī tiáo lù, wǎnfàn hòu hěn duō rén dōu qù",
+        "vi": "tôi từ quê nhà đến tiễn chúng tôi."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "6. 立刻",
+    "focus": "立刻",
+    "focusPinyin": "Lìkè",
+    "pattern": "立刻",
+    "meaning": "Biểu thị sự ngay lập tức, nhấn mạnh một hành động nối tiếp hành động phát sinh ngay trước đó.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "实验数据一出来，研究员们立刻展开了激烈的讨论。",
+        "pinyin": "Shíyàn shùjù yī chūlái, yánjiūyuán men lìkè zhǎnkāi le",
+        "vi": "thảo luận sôi nổi."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "7. 各自",
+    "focus": "各自",
+    "focusPinyin": "Gèzì",
+    "pattern": "各自",
+    "meaning": "Chỉ bản thân một người hoặc chỉ một trong những phương diện của bản thân, thường cùng với đối tượng được nhắc đến làm chủ ngữ, định ngữ.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "学生们都有各自的理想。/Xuéshēngmen dōu yǒu gèzì de",
+        "pinyin": "lǐxiǎng/ Các học sinh đều có những lý tưởng riêng.",
+        "vi": ""
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "8. 勿",
+    "focus": "勿",
+    "focusPinyin": "Wù",
+    "pattern": "勿",
+    "meaning": "Ngôn ngữ viết, biểu thị sự cấm đoán, không cho phép hoặc can ngăn (\"chớ, đừng\"), tương đương với “不要”.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "非工作人员，请勿入内。 /Fēi gōngzuò rényuán, qǐng wù",
+        "pinyin": "rù nèi/ Người không phận sự, xin đừng vào trong.",
+        "vi": "gạt."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "9. 包括",
+    "focus": "包括",
+    "focusPinyin": "Bāokuò",
+    "pattern": "包括",
+    "meaning": "Biểu thị bao hàm các bộ phận. Nhấn mạnh một vài bộ phận, có tác dụng nêu ví dụ, bổ sung, giải thích.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "汉语技能教学包括听、说、读、写四个方面 / Hànyǔ",
+        "pinyin": "jìnéng jiàoxué bāokuò tīng, shuō, dú, xiě sì gè fāngmiàn",
+        "vi": "gia hội thao lần này."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "10. 时刻",
+    "focus": "时刻",
+    "focusPinyin": "Shíkè",
+    "pattern": "时刻",
+    "meaning": "Danh từ: Biểu thị ở một vài thời điểm hoặc một đoạn thời gian. Phó từ: Biểu thị ý nghĩa mỗi thời mỗi khắc, thường xuyên (có thể lặp lại là “时时刻刻”).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "在最后时刻，他为本队踢进了赢得比赛的关键一球。",
+        "pinyin": "Zài zuìhòu shíkè, tā wèi běn duì tī jìnle yíngdé bǐsài de",
+        "vi": "cần bạn đồng ý, cánh cửa công ty luôn luôn mở vì bạn."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "11. 至今",
+    "focus": "至今",
+    "focusPinyin": "Zhìjīn",
+    "pattern": "至今",
+    "meaning": "Chỉ thời gian, dùng để nhấn mạnh một trạng thái, sự việc hoặc tình huống kéo dài liên tục từ một thời điểm trong quá khứ cho đến thời điểm hiện tại (thời điểm nói)",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "那件事的真相至今仍是一个谜。/Nà jiàn shì de",
+        "pinyin": "zhēnxiàng zhìjīn réng shì yī gè mí/ Sự thật về vụ việc đó",
+        "vi": "đến nay vẫn là một bí ẩn."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "12. 顶",
+    "focus": "顶",
+    "focusPinyin": "Dǐng",
+    "pattern": "顶",
+    "meaning": "Danh từ: Chỉ bộ phận cao nhất của con người hoặc vật thể. Động từ: Biểu thị động tác của đầu, hoặc đón lấy, chống lại (áp lực).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "Danh từ: 我们终于爬上了山顶，看到了美丽的日出。",
+        "pinyin": "Wǒmen zhōngyú pá shàng le shāndǐng, kàn dào le měilì",
+        "vi": "fángliáng/ Cây cột này chống đỡ xà nhà."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "13. ······得+不 行",
+    "focus": "······得+不 行",
+    "focusPinyin": "De bùxíng",
+    "pattern": "······得+不 行",
+    "meaning": "Biểu thị trình độ, mức độ cao, còn có thể dùng “······+得+ 很/不得了”.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "我今天忙了一整天，现在累得不行。/Wǒ jīntiān máng le",
+        "pinyin": "yī zhěng tiān, xiànzài lèi de bùxíng/ Hôm nay tôi bận cả",
+        "vi": "ngày, giờ mệt không chịu nổi"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "14. 反而",
+    "focus": "反而",
+    "focusPinyin": "Fǎn'ér",
+    "pattern": "反而",
+    "meaning": "Đứng giữa hai câu, biểu thị sự tương phản với dự kiến ban đầu (\"ngược lại\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "他平时话不多，但在辩论赛上反而成了最活跃的人。",
+        "pinyin": "Tā píngshí huà bù duō, dàn zài biànlùn sài shàng fǎn'ér",
+        "vi": "bát nhất."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "15. 从而",
+    "focus": "从而",
+    "focusPinyin": "Cóng'ér",
+    "pattern": "从而",
+    "meaning": "Đứng giữa hai câu, câu trước biểu thị nguyên nhân/phương pháp, câu sau biểu thị kết quả/mục đích (\"từ đó\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "比赛前做好思想准备可以减少运动员的压力，从而取",
+        "pinyin": "kěyǐ jiǎnshǎo yùndòngyuán de yālì, cóng'ér qǔdé bǐsài de",
+        "vi": "công trong trận đấu."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "16. 于",
+    "focus": "于",
+    "focusPinyin": "Yú",
+    "pattern": "于",
+    "meaning": "Tương đương với “在、从、 对、向、比” (ở, từ, đối với, hướng về, so với).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "这家公司成立于 1997 年。 /Zhè jiā gōngsī chénglì yú",
+        "pinyin": "yījiǔjiǔqī nián/ Công ty này được thành lập từ năm 1997.",
+        "vi": "trong việc điều trị cảm cúm"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "17. 为",
+    "focus": "为",
+    "focusPinyin": "Wéi",
+    "pattern": "为",
+    "meaning": "Có nghĩa là “成、成为” (thành, trở thành) Có nghĩa là “作为、算作” (làm, coi như).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "压力也可以变为动力。",
+        "pinyin": "Yālì yě kěyǐ biàn wéi dònglì.",
+        "vi": "Áp lực cũng có thể trở thành động lực"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "18. 起来",
+    "focus": "起来",
+    "focusPinyin": "Qǐlái",
+    "pattern": "起来",
+    "meaning": "Dùng sau động từ: Biểu thị từ phân tán đến tập trung lại Biểu thị từ lộ rõ đến ẩn nấp, ẩn náu.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "他把散落一地的玩具都捡起来放回了箱子里。/Tā bǎ",
+        "pinyin": "sànluò yī dì de wánjù dōu jiǎn qǐlái fàng huí le xiāngzi lǐ",
+        "vi": "vào trong hộp."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "19. 替",
+    "focus": "替",
+    "focusPinyin": "Tì",
+    "pattern": "替",
+    "meaning": "Là động từ: có nghĩa là \"thay thế\". Là giới từ: biểu thị “给、为” (cho ai, vì ai).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "刘老师今天有点儿事来不了，你能替他吗？/Liú lǎoshī",
+        "pinyin": "jīntiān yǒudiǎn er shì lái bù liǎo, nǐ néng tì tì tā ma/ Thầy",
+        "vi": "thay thầy ấy được không?"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "20. 说不定",
+    "focus": "说不定",
+    "focusPinyin": "Shuōbudìn g",
+    "pattern": "说不定",
+    "meaning": "Là động từ: có nghĩa là \"không thể nói rõ ràng, khẳng định\" Là phó từ: biểu thị ước tính, có khả năng lớn (\"biết đâu\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "这事儿经理已经同意了，只是出发的时间还说不定。",
+        "pinyin": "Zhè shì'er jīnglǐ yǐjīng tóngyìle, zhǐshì chūfā de shíjiān",
+        "vi": "thành công."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "21. 似的",
+    "focus": "似的",
+    "focusPinyin": "Shìde",
+    "pattern": "似的",
+    "meaning": "Trợ từ, đặt sau danh từ, biểu thị sự so sánh với một số sự vật, tình huống (thường dùng trong văn viết). Dùng trong cấu trúc “·····得+什么似的” mang ngữ khí khoa trương.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "大雨过后，湖面平静得镜子似的，倒映着整个天空。",
+        "pinyin": "Dà yǔ guò hòu, húmiàn píngjìng de jìngzi shìde,",
+        "vi": "không sao ngủ được."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "22. 纷纷",
+    "focus": "纷纷",
+    "focusPinyin": "Fēnfēn",
+    "pattern": "纷纷",
+    "meaning": "Tính từ: Mô tả (ngôn luận, vật rơi, rụng xuống) nhiều mà hỗn loạn. Phó từ: Biểu thị (nhiều người hoặc sự vật) liên tục tiếp diễn (\"dồn dập, tới tấp, sôi nổi\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "秋风刮起，落叶纷纷。",
+        "pinyin": "Qiūfēng guā qǐ, luòyè fēnfēn",
+        "vi": "Gió thu thổi lên, lá rụng xôn xao"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "23. 瞎",
+    "focus": "瞎",
+    "focusPinyin": "Xiā",
+    "pattern": "瞎",
+    "meaning": "Động từ: Nghĩa là \"mắt không nhìn thấy\" (mù). Phó từ: Biểu thị không có lí do, không có căn cứ hoặc khi làm một việc không có hiệu quả (\"nói bừa, làm bừa\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "你一定知道马的那只眼睛是瞎的。 /Nǐ yīdìng zhīdào mǎ",
+        "pinyin": "de nà zhǐ yǎnjīng shì xiā de. / Bạn nhất định biết con mắt",
+        "vi": "chúng ta sẽ không xui xẻo như thế đâu."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "24. 分别",
+    "focus": "分别",
+    "focusPinyin": "Fēnbié",
+    "pattern": "分别",
+    "meaning": "Động từ: nghĩa là ly biệt, chia tay, xa cách. Phó từ: biểu thị riêng biệt, mỗi cái một. Danh từ: nghĩa là phân biệt, bất đồng, khác nhau.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "从毕业到现在我们已经分别 20 年了，一直都没有联",
+        "pinyin": "nián le, yīzhí dōu méiyǒu liánxì/ Từ khi tốt nghiệp đến",
+        "vi": "chuyện, để hiểu suy nghĩ của từng người."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "25. 根",
+    "focus": "根",
+    "focusPinyin": "Gēn",
+    "pattern": "根",
+    "meaning": "Danh từ: Chỉ bộ phận của thực vật sinh trưởng dưới lòng đất, hoặc nền móng, cơ sở, gốc rễ của sự vật. Lượng từ: Thường dùng cho vật dài và nhỏ.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "1这件事还是得从根上解决，只理解表面问题是不行",
+        "pinyin": "lǐjiě biǎomiàn wèntí shì bùxíng de/ Việc này vẫn phải",
+        "vi": "sờ thấy cái đuôi nói con voi giống như một sợi dây."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "26. 便",
+    "focus": "便",
+    "focusPinyin": "Biàn",
+    "pattern": "便",
+    "meaning": "Nghĩa là 就 (“thì, là, đã”), thường dùng trong văn viết.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "仅仅是换一种心情，换一个角度，便可以从困境中走出",
+        "pinyin": "biàn kěyǐ cóng kùnjìng zhōng zǒu chūlái/ Chỉ cần thay",
+        "vi": "bước ra khỏi hoàn cảnh khó khăn."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "27. 倒",
+    "focus": "倒",
+    "focusPinyin": "Dào",
+    "pattern": "倒",
+    "meaning": "Biểu thị tương phản, trái ngược với tình huống thông thường. Biểu thị không nghĩ đến. Biểu thị sự nhượng bộ (khẳng định trước, sau đó nói các phương diện khác). Biểu thị không nhẫn nại, bình tĩnh (dùng để hỏi hoặc hối thúc).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "怎么勇敢反倒成为缺点了？ /Shàonián bù jiě de wèn:",
+        "pinyin": "“Zěnme yǒnggǎn fǎn dào chéngwéi quēdiǎnle/ Tại sao",
+        "vi": "dọn dẹp ngược lại vẫn còn sạch sẽ."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "28. ······来 ······去",
+    "focus": "······来 ······去",
+    "focusPinyin": "Lái... Qù",
+    "pattern": "······来 ······去",
+    "meaning": "Biểu thị sự lặp đi lặp lại nhiều lần của động tác, hai động từ đứng trước “来” và “去” thường là cùng một từ hoặc là từ gần nghĩa.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "小狗追着自己的尾巴，在草地上跑来跑去。 /Xiǎo gǒu",
+        "pinyin": "zhuīzhe zìjǐ de wěibā, zài cǎodì shang pǎo lái pǎo qù",
+        "vi": "nhân."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "29. 要不",
+    "focus": "要不",
+    "focusPinyin": "Yàobù",
+    "pattern": "要不",
+    "meaning": "Giống với “要不然”, biểu thị nếu không như thế này, thì kết quả sẽ như dưới đây. Có nghĩa là vẫn còn một sự lựa chọn khác (\"hay là\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "还好碰见你了，要不然我今天肯定会迟到了。 /Hái hǎo",
+        "pinyin": "pèngjiàn nǐ le, yàoburán wǒ jīntiān kěndìng huì chídàole",
+        "vi": "hay là cậu ngày mai hãy đi."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "30. 算",
+    "focus": "算",
+    "focusPinyin": "Suàn)",
+    "pattern": "算",
+    "meaning": "Có nghĩa là “认作，当做” (xem như, coi như). Đằng sau có thể đi với “了” biểu thị “作罢，不再计较” (bỏ đi, không tính toán nữa).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "这钱就算我借给你的，将来你有了的时候再还我。",
+        "pinyin": "Zhè qián jiù suàn wǒ jiè gěi nǐ de, jiānglái nǐ yǒule de",
+        "vi": "con chim biết bay đâu."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "31. 作为",
+    "focus": "作为",
+    "focusPinyin": "Zuòwéi",
+    "pattern": "作为",
+    "meaning": "Động từ: Có nghĩa là “看做， 认为是·····” (xem là, coi là, cho rằng). Giới từ: Dùng để chỉ ra, dẫn ra thân phận của một người hoặc tính chất của sự vật (\"với tư cách là\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "北海公园离家最近，所以我把那儿作为每晚散步的去",
+        "pinyin": "zuòwéi měi wǎn sànbù de qùchù/ Công viên Bắc Hải gần",
+        "vi": "tính trong việc ăn uống."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "32. 曾经",
+    "focus": "曾经",
+    "focusPinyin": "Céngjīng",
+    "pattern": "曾经",
+    "meaning": "Biểu thị hành động hoặc tình huống đã từng xảy ra hoặc từng phát sinh.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "我曾经去过北京两次。/Wǒ céngjīng qù guò Běijīng",
+        "pinyin": "liǎng cì/ Tôi đã từng đi Bắc Kinh hai lần.",
+        "vi": "viên."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "33. 毕竟",
+    "focus": "毕竟",
+    "focusPinyin": "Bìjìng",
+    "pattern": "毕竟",
+    "meaning": "Có nghĩa là rốt cuộc, cuối cùng Dùng để chỉ phần quan trọng nhất hoặc chính xác nhất, thường dùng cùng câu biểu thị “cho dù thế nào thì kết quả chính là như thế này”.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "虽然我们遇到了很多困难，但毕竟完成了任务。",
+        "pinyin": "Suīrán wǒmen yù dàole hěn duō kùnnan, dàn bìjìng",
+        "vi": "khó khăn, nhưng rốt cuộc cũng đã hoàn thành nhiệm vụ."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "34. 逐渐",
+    "focus": "逐渐",
+    "focusPinyin": "Zhújiàn",
+    "pattern": "逐渐",
+    "meaning": "Chỉ trình độ, số lượng tăng hoặc giảm một chút (\"dần dần\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "天色逐渐暗了下来，夜晚即将来临。/Tiānsè zhújiàn àn",
+        "pinyin": "le xiàlái, yèwǎn jíjiāng láilín/ Màu trời dần dần tối đi,",
+        "vi": "đầu chuyển vàng."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "35. 或许",
+    "focus": "或许",
+    "focusPinyin": "Huòxǔ",
+    "pattern": "或许",
+    "meaning": "Có nghĩa là có lẽ, có khả năng (\"có lẽ\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "虽然以前她不支持你，但或许这次会有变化。 /Suīrán",
+        "pinyin": "yǐqián tā bù zhīchí nǐ, dàn huòxǔ zhè cì huì yǒu biànhuà",
+        "vi": "lần này sẽ có thay đổi."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "36. 来Lái",
+    "focus": "来Lái",
+    "focusPinyin": "过来",
+    "pattern": "来Lái",
+    "meaning": "Dùng sau động từ (ví dụ: \"醒 \") biểu thị chuyển tiếp từ lúc ngủ đến lúc tỉnh, hoặc quay về trạng thái lúc ban đầu/bình thường. Có thể dùng trong cấu trúc phủ định (动词 + 得/不 + 过 来).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "脑子才清醒过来。",
+        "pinyin": "Nǎozi cái qīngxǐng guòlái.",
+        "vi": "Đầu óc mới tỉnh táo trở lại"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "37. 所",
+    "focus": "所",
+    "focusPinyin": "Suǒ",
+    "pattern": "所",
+    "meaning": "Trợ từ: Đứng trước động từ, dùng để chỉ ra sự vật (thường làm định ngữ, chủ ngữ...). Dùng trong cấu trúc “有/无+ 所+ động từ” Lượng từ: Dùng với chỗ ở, nơi ở, cơ cấu (ví dụ: trường học).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "这所房子",
+        "pinyin": "zhè suǒ fángzi",
+        "vi": "Căn nhà này"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "38. 相当",
+    "focus": "相当",
+    "focusPinyin": "Xiāngdān g",
+    "pattern": "相当",
+    "meaning": "Động từ: Biểu thị hai phương diện (số lượng, điều kiện...) tương đương, ngang bằng nhau. Phó từ: Biểu thị trình độ, mức độ tương đối cao (\"khá, tương đối\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "这种鸟一天所食的害虫相当于自己的体重。 /Zhè zhǒng",
+        "pinyin": "niǎo yī tiān suǒ shí de hàichóng xiāngdāng yú zìjǐ de",
+        "vi": "tôi khá hài lòng."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "39. 数 Shù/",
+    "focus": "数 Shù/",
+    "focusPinyin": "Shǔ",
+    "pattern": "数 Shù/",
+    "meaning": "Động từ (shǔ): Biểu thị tra, đếm (số lượng). Dùng trong cấu trúc “数······（最）······” hoặc “（最）······的（要/就）数 ······” biểu thị so sánh (nhất). Số từ (shù): Có nghĩa là “几/ 几个” (vài, mấy), thường dùng trong văn viết.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "先生，这是找您的钱 58 块 6，您数数。 /Xiānsheng, zhè",
+        "pinyin": "shì zhǎo nín de qián wǔshíbā kuài liù, nín shǔ shǔ.",
+        "vi": "kể đến Lý Dương."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "40. 以及",
+    "focus": "以及",
+    "focusPinyin": "Yǐjí",
+    "pattern": "以及",
+    "meaning": "Dùng để nối cụm từ hoặc từ có quan hệ ngang bằng nhau, liên kết thành phần thường có sự phân biệt trước sau hoặc sự phân biệt chủ yếu và thứ yếu (\"cũng như\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "吃饭时不要用筷子敲打碗，盘子以及桌面。 /Chīfàn shí",
+        "pinyin": "bú yào yòng kuàizi qiāodǎ wǎn, pánzi yǐjí zhuōmiàn.",
+        "vi": "một số đại diện học sinh đã xem buổi biểu diễn."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "41. 程度 (Chéngdù)",
+    "focus": "程度 (Chéngdù)",
+    "focusPinyin": "",
+    "pattern": "程度 (Chéngdù)",
+    "meaning": "Chỉ trình độ, mức độ hoặc cấp độ mà ở một vài phương diện đã đạt được.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "1. 问题已经发展到了十分严重的程度。 / Wèntí yǐjīng",
+        "pinyin": "fāzhǎn dào le shífēn yánzhòng de chéngdù. / Vấn đề đã",
+        "vi": "người phụ thuộc vào nền giáo dục mà anh ta nhận được."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "42. 何况",
+    "focus": "何况",
+    "focusPinyin": "Hékuàng",
+    "pattern": "何况",
+    "meaning": "Dùng ngữ khí phản vấn, biểu thị cao hơn một mức hoặc làm cho kết luận ở câu sau càng rõ ràng hơn",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "连运动员都不满意，更何况看比赛的球迷呢。 / Lián",
+        "pinyin": "yùndòngyuán dōu bù mǎnyì, gèng hékuàng kàn bǐsài de",
+        "vi": "huống hồ là người hâm mộ xem trận đấu."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "43. 何必",
+    "focus": "何必",
+    "focusPinyin": "Hébì",
+    "pattern": "何必",
+    "meaning": "Dùng ngữ khí phản vấn để biểu thị không cần thiết, không bắt buộc (\"cần gì phải, hà tất\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "你何必亲自送一趟呢？叫个快递不就行了？ /Nǐ hébì",
+        "pinyin": "qīnzì sòng yī tàng ne? Jiào gè kuàidì bú jiù xíngle/ Cậu",
+        "vi": "chuyển phát nhanh chẳng phải là được rồi sao?."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "44. 多亏",
+    "focus": "多亏",
+    "focusPinyin": "Duōkuī",
+    "pattern": "多亏",
+    "meaning": "Do có sự giúp đỡ của người khác hoặc bởi vì một vài nhân tố có lợi, mà tránh được rủi ro hoặc đạt được lợi ích nào đó (\"may nhờ, nhờ có\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "今天搬家多亏有你在，你可帮我太忙了。/Jīntiān bānjiā",
+        "pinyin": "duōkuī yǒu nǐ zài, nǐ kě bāng wǒ tài máng le/ Hôm nay",
+        "vi": "nhiều rồi."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "45. 所谓",
+    "focus": "所谓",
+    "focusPinyin": "Suǒwèi",
+    "pattern": "所谓",
+    "meaning": "Biểu thị thường hay nói, dùng để đề ra từ ngữ cần giải thích (\"cái gọi là\"). Chỉ những điều do một vài người nói, thường biểu thị không đồng ý, không thừa nhận.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "他所谓的“新闻“，其实我们早就知道了。 /Tā suǒwèi de",
+        "pinyin": "“xīnwén“, qíshí wǒmen zǎo jiù zhīdàole. /Cái gọi là “tin",
+        "vi": "tức” của anh ấy, thực ra chúng tôi đã biết từ lâu rồi."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "46. 则",
+    "focus": "则",
+    "focusPinyin": "Zé",
+    "pattern": "则",
+    "meaning": "Lượng từ: Thường dùng với văn bản ngắn thành đoạn hoặc thành bài (mẩu tin, câu chuyện) Liên từ: Thường gặp kết cấu “A·····，（而）B 则······” biểu thị sự so sánh giữa câu trước và câu sau. Liên từ: Biểu thị mối quan hệ nhân quả (tương đương với “就” trong văn nói).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "一则新闻",
+        "pinyin": "yī zé xīnwén",
+        "vi": ": Một mẩu tin (trên báo/đài)"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "47. 为······所 ·····",
+    "focus": "为······所 ·····",
+    "focusPinyin": "Wéi... Suǒ..",
+    "pattern": "为······所 ·····",
+    "meaning": "Kết cấu cố định, thường dùng trong văn viết, trong đó “为” biểu thị ý nghĩa là “被” (bị/được).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "大自然就可以更好地为人所用。 /Dà zìrán jiù kěyǐ gèng",
+        "pinyin": "hǎo de wéi rén suǒ yòng/ Thiên nhiên có thể được con",
+        "vi": "người sử dụng tốt hơn."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "48. 起",
+    "focus": "起",
+    "focusPinyin": "Qǐ",
+    "pattern": "起",
+    "meaning": "Động từ (làm bổ ngữ), biểu thị sự liên tiếp, kết hợp và cố định.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "最重要的是建立起一套行之有效的制度。/Zuì zhòngyào",
+        "pinyin": "de shì jiànlì qǐ yī tào xíngzhīyǒuxiào de zhìdù/ /Điều",
+        "vi": "thực thi."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "49. 动词 + 过 (Guò)",
+    "focus": "动词 + 过 (Guò)",
+    "focusPinyin": "",
+    "pattern": "动词 + 过 (Guò)",
+    "meaning": "Dùng với cách thức “động từ + 得/不 + 过” làm bổ ngữ, biểu thị ý nghĩa là quá, vượt qua, hơn (thường dùng trong so sánh năng lực, trình độ).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "1. 跟别人谈论起军事来，没有人说得过他。 / Gēn",
+        "pinyin": "biérén tánlùn qǐ jūngshì lái, méiyǒu rén shuō de guò tā.",
+        "vi": "về giá cả."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "50. 迟早",
+    "focus": "迟早",
+    "focusPinyin": "Chízǎo",
+    "pattern": "迟早",
+    "meaning": "Biểu thị một vài động tác hoặc sự việc sớm muộn cũng sẽ xảy ra.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "随着网络技术的发展，这些问题迟早都会得到解决。",
+        "pinyin": "Suízhe wǎngluò jìshù de fāzhǎn, zhèxiē wèntí chízǎo",
+        "vi": "được giải quyết."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "51. 再三",
+    "focus": "再三",
+    "focusPinyin": "Zàisān",
+    "pattern": "再三",
+    "meaning": "Có nghĩa là “hết lần này đến lần khác”, thường đi với động từ.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "他考虑再三，最后还是客气地拒绝了。/Tā kǎolǜ zàisān,",
+        "pinyin": "zuìhòu háishì kèqi de jùjuéle/ Anh ấy suy nghĩ hết lần",
+        "vi": "này đến lần khác, cuối cùng vẫn lịch sự từ chối."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "52. 即",
+    "focus": "即",
+    "focusPinyin": "Jí",
+    "pattern": "即",
+    "meaning": "Động từ: Dùng trong văn viết, nghĩa là “就是” (tức là). Phó từ: Có nghĩa là “就” “便” (thì, ngay).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "“旦”是象形字，即太阳从地平线上升起。 /“Dàn” shì",
+        "pinyin": "xiàngxíngzì, jí tàiyáng cóng dìpíngxiàn shang shēng qǐ",
+        "vi": "nhất của anh ấy."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "53. 个别",
+    "focus": "个别",
+    "focusPinyin": "Gèbié",
+    "pattern": "个别",
+    "meaning": "Có nghĩa là “单个，各个” (từng cái, mỗi cái). Biểu thị cực kỳ ít, hiếm có.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "大部分同学都按时完成了作业，只有个别同学还需要",
+        "pinyin": "zuòyè, zhǐyǒu gèbié tóngxué hái xūyào yīdiǎn shíjiān",
+        "vi": "chỉ có một vài bạn cá biệt cần thêm chút thời gian."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "54. 非",
+    "focus": "非",
+    "focusPinyin": "Fēi",
+    "pattern": "非",
+    "meaning": "Tiền tố: Đứng trước cụm danh từ, biểu thị là không thuộc về phạm vi này. Động từ: Có nghĩa là “不是” (không phải). Phó từ: Biểu thị chủ quan cố ý, kiên trì làm một việc gì đó (thường dùng trong cấu trúc “非+ động từ + 不可”).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "非机动车",
+        "pinyin": "Fēi jīdòngchē",
+        "vi": "Phi cơ giới /Xe không có động cơ"
+      },
+      {
+        "hanzi": "此物非彼物，不可混淆。",
+        "pinyin": "Cǐ wù fēi bǐ wù, bùkě hùnxiáo",
+        "vi": ""
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "55. 以",
+    "focus": "以",
+    "focusPinyin": "Yǐ",
+    "pattern": "以",
+    "meaning": "Giới từ: Có nghĩa là “用、拿、 凭借” (dùng, lấy, dựa vào, nhờ vào). Liên từ: Biểu thị mục đích (\"để\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "我们应以客观的态度看待这个问题。/Wǒmen yīng yǐ",
+        "pinyin": "kèguān de tàidù kàndài zhège wèntí/ Chúng ta nên",
+        "vi": "ngày càng tăng."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "56. 平常",
+    "focus": "平常",
+    "focusPinyin": "Píngcháng",
+    "pattern": "平常",
+    "meaning": "Tính từ: Biểu thị phổ thông, bình thường, không có gì đặc biệt Danh từ: Ý nghĩa là “平时” (ngày thường, lúc thường).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "对小王来说，今天是一个不平常的日子。 /Duì Xiǎo",
+        "pinyin": "Wáng lái shuō, jīntiān shì yīgè bù píngcháng de rìzi/ Đối",
+        "vi": "muộn."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "57. 宁可",
+    "focus": "宁可",
+    "focusPinyin": "Nìngkě",
+    "pattern": "宁可",
+    "meaning": "Biểu thị sau khi so sánh, chọn lựa được 1 bên tương đối có lợi (\"thà rằng... còn hơn\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "1. 作为母亲，她宁可自己累一点儿，也不想委屈了孩",
+        "pinyin": "xiǎng wěiqu le háizi/ Với tư cách là một người mẹ, cô ấy",
+        "vi": "cái phải chịu thiệt thòi"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "58. 极其",
+    "focus": "极其",
+    "focusPinyin": "Jíqí",
+    "pattern": "极其",
+    "meaning": "Có nghĩa là “非常” (rất, cực kỳ), thường dùng trong văn viết, chỉ có thể bổ sung cho tính từ song âm tiết hoặc đa âm tiết.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "在中国，餐桌上放一把刀是极其少见的现象。/Zài",
+        "pinyin": "Zhōngguó, cānzhuō shang fàng yī bǎ dāo shì jíqí",
+        "vi": "bàn ăn là một hiện tượng cực kỳ hiếm thấy."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "59. 其余",
+    "focus": "其余",
+    "focusPinyin": "Qíyú",
+    "pattern": "其余",
+    "meaning": "Biểu thị phần còn lại, bộ phận khác.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "怎么只有你们两个人？其余的同学呢？ /Zěnme zhǐyǒu",
+        "pinyin": "nǐmen liǎng gè rén? Qíyú de tóngxué ne? / Sao chỉ có hai",
+        "vi": "người các cậu? Những học sinh còn lại đâu?"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "60. 可见",
+    "focus": "可见",
+    "focusPinyin": "Kějiàn",
+    "pattern": "可见",
+    "meaning": "Thường dùng cách thức “······，（由此）可见······”, biểu thị có thể dựa vào tình huống được nói đến trong văn bản mà đưa ra phán đoán, đánh giá.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "1. 他已经住院好几天了，一直诊断不出是什么问题，可",
+        "pinyin": "zhěnduàn bù chū shì shénme wèntí, kějiàn qíngkuàng bú",
+        "vi": "tốt lắm."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "61. 般",
+    "focus": "般",
+    "focusPinyin": "Bān",
+    "pattern": "般",
+    "meaning": "Có nghĩa là “一样” “似的” (tựa như, như), thường đứng sau danh từ, tạo thành một cụm từ làm định ngữ hoặc trạng ngữ.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "望着爸爸远去的背景，我的眼泪雨点般不停地往下掉。",
+        "pinyin": "Wàngzhe bàba yuǎn qù de bèijǐng, wǒ de yǎnlèi yǔdiǎn",
+        "vi": "nước mắt tôi rơi xuống không ngừng như mưa."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "62. 闻 (Wén)",
+    "focus": "闻 (Wén)",
+    "focusPinyin": "",
+    "pattern": "闻 (Wén)",
+    "meaning": "Ngữ tố: Có nghĩa là \"nghe thấy hoặc tin tức, sự việc được nghe thấy\"/ Động từ: Biểu thị dùng mũi để cảm nhận, nhận biết mùi vị.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "老话说：百闻不如一见。 /Lǎo huà shuō: Bǎi wén bù rú",
+        "pinyin": "yī jiàn. / Lời cổ nói: Trăm nghe không bằng một thấy.",
+        "vi": "mở nồi."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "63. 趁",
+    "focus": "趁",
+    "focusPinyin": "Chèn",
+    "pattern": "趁",
+    "meaning": "Có nghĩa là lợi dụng (thời gian, cơ hội).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "萝卜饼要趁热吃。",
+        "pinyin": "Luóbo bǐng yào chèn rè chī",
+        "vi": "Bánh củ cải phải ăn lúc còn nóng"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "64. 动词+得Bù Qǐ)",
+    "focus": "动词+得Bù Qǐ)",
+    "focusPinyin": "不+起 (De",
+    "pattern": "动词+得Bù Qǐ)",
+    "meaning": "Biểu thị về mặt chủ quan có (không có) năng lực và điều kiện thực hiện (hoặc tiếp nhận) động tác nào đó.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "只有经得起困难和时间考验的朋友才算是真正的朋",
+        "pinyin": "péngyǒu cái suàn shì zhēnzhèng de péngyǒu/ Chỉ những",
+        "vi": "gian mới được coi là bạn bè thực sự."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "65. 支",
+    "focus": "支",
+    "focusPinyin": "Zhī",
+    "pattern": "支",
+    "meaning": "Động từ: Biểu thị dùng đồ vật chống cho vật thể không bị đổ xuống Lượng từ: Dùng trong tác phẩm âm nhạc, đội ngũ, hoặc đồ vật có hình cán (cây, bản).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "他的两只手放在桌上，支着脑袋，正在想事情。 /Tā de",
+        "pinyin": "liǎng zhī shǒu fàng zài zhuō shang, zhīzhe nǎodai,",
+        "vi": "thứ hai đã thu hút sự chú ý của con bò."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "66. 凭",
+    "focus": "凭",
+    "focusPinyin": "Píng",
+    "pattern": "凭",
+    "meaning": "Động từ: Có nghĩa là nhờ vào, dựa vào. Giới từ: Biểu thị căn cứ, dựa vào (thường dùng cách thức “凭+ tân ngữ + động từ”).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "干工作不能光凭经验，还要有创新。 /Gàn gōngzuò bù",
+        "pinyin": "néng guāng píng jīngyàn, hái yào yǒu chuàngxīn/ Làm",
+        "vi": "hãy chuẩn bị sẵn vé tàu, dựa vào vé để vào ga."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "67. 硬",
+    "focus": "硬",
+    "focusPinyin": "Yìng",
+    "pattern": "硬",
+    "meaning": "Biểu thị kiên quyết hoặc cố chấp làm một việc gì đó. Biểu thị không đủ năng lực nhưng vẫn tiếp tục tận lực để làm một việc gì đó (\"cố gắng, cố chấp\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "医生让他休息，他硬要回去上班。/Yīshēng ràng tā",
+        "pinyin": "xiūxi, tā yìng yào huíqù shàngbān/ Bác sĩ bảo anh ấy",
+        "vi": "nhưng vì chữa bệnh, anh ấy vẫn cố gắng uống hết."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "68. 偶然",
+    "focus": "偶然",
+    "focusPinyin": "Ǒurán",
+    "pattern": "偶然",
+    "meaning": "Tính từ: Biểu thị sự việc phát sinh ngoài dự đoán hoặc dựa vào quy luật thông thường thì không có khả năng phát sinh (\"ngẫu nhiên, bất ngờ\"). Phó từ: Có nghĩa là “偶尔，有 时候” (thỉnh thoảng/ có lúc).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "这次相遇完全是一个偶然的事件，谁也没有料到。",
+        "pinyin": "Zhè cì xiāngyù wánquán shì yī gè ǒurán de shìjiàn, shéi",
+        "vi": "đã mười năm không gặp ở siêu thị."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "69. 尽快 (Jǐnkuài)",
+    "focus": "尽快 (Jǐnkuài)",
+    "focusPinyin": "",
+    "pattern": "尽快 (Jǐnkuài)",
+    "meaning": "Có nghĩa là nhanh hết mức có thể (\"nhanh chóng\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "1. 我要抓紧时间尽快把《说文解字》电脑化。 / Wǒ yào",
+        "pinyin": "zhuājǐn shíjiān jǐnkuài bǎ 《Shuōwén Jiězì》 diànnǎo huà.",
+        "vi": "chóng giặt giũ và cất quần áo trái mùa đi."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "70. 一旦",
+    "focus": "一旦",
+    "focusPinyin": "Yīdàn",
+    "pattern": "一旦",
+    "meaning": "Biểu thị thời gian không xác định, ngày đó bỗng nhiên tới hoặc giả dụ có ngày đó (\"một khi\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "一旦有人闯入这个空间，我们就会感觉不舒服、不自",
+        "pinyin": "jiù huì gǎnjué bù shūfú, bù zìzài/ Một khi có người đột",
+        "vi": "thoải mái, không tự nhiên."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "71. 难免",
+    "focus": "难免",
+    "focusPinyin": "Nánmiǎn",
+    "pattern": "难免",
+    "meaning": "Có nghĩa là khó tránh khỏi, không thể tránh khỏi.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "朋友间难免会发生矛盾、误会甚至是伤害。 /Péngyǒu",
+        "pinyin": "jiān nánmiǎn huì fāshēng máodùn, wùhuì shènzhì shì",
+        "vi": "thuẫn, hiểu lầm thậm chí là tổn thương."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "72. 自从",
+    "focus": "自从",
+    "focusPinyin": "Zìcóng",
+    "pattern": "自从",
+    "meaning": "Biểu thị bắt đầu từ mốc thời gian nào đó trong quá khứ (\"kể từ khi\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "自从有了长大后成为作家这个理想之后，他每天都坚",
+        "pinyin": "zhège lǐxiǎng zhīhòu, tā měitiān dōu jiānchí xiězuò/ Kể",
+        "vi": "ngày đều kiên trì viết lách."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "73. 一致",
+    "focus": "一致",
+    "focusPinyin": "Yīzhì",
+    "pattern": "一致",
+    "meaning": "Tính từ: Biểu thị không có sự chia rẽ, bất đồng. Phó từ: Biểu thị cùng nhau, đồng lòng.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "文文跟他们的意见不一致。 /Wénwén gēn tāmen de",
+        "pinyin": "yìjiàn bù yīzhì/ Ý kiến của Văn Văn không thống nhất",
+        "vi": "triển mối quan hệ hợp tác hữu nghị."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "74. 某",
+    "focus": "某",
+    "focusPinyin": "Mǒu",
+    "pattern": "某",
+    "meaning": "Chỉ một người hoặc một vật nhất định (thường dùng sau họ, biểu thị biết tên nhưng không nói ra). Chỉ người hoặc vật không xác định.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "某些干部的工作作风存在问题。/Mǒu xiē gànbù de",
+        "pinyin": "gōngzuò zuòfēng cúnzài wèntí/ Tác phong làm việc của",
+        "vi": "nào đó, tôi đồng ý với quan điểm của bạn."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "75. 幸亏",
+    "focus": "幸亏",
+    "focusPinyin": "Xìngkuī",
+    "pattern": "幸亏",
+    "meaning": "Biểu thị do một vài nguyên nhân nào đó mà tránh được một số chuyện không hy vọng sẽ phát sinh (\"may mà\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "幸亏你提醒了我，我今天就去报名。/Xìngkuī nǐ tíxǐngle",
+        "pinyin": "wǒ, wǒ jīntiān jiù qù bàomíng/ May mà cậu nhắc tôi,",
+        "vi": "hôm nay tôi sẽ đi đăng ký."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "76. 行动",
+    "focus": "行动",
+    "focusPinyin": "Xíngdòng",
+    "pattern": "行动",
+    "meaning": "Động từ: Biểu thị đi lại, hoạt động cơ thể. Cũng có thể biểu thị tiến hành hành động nào đó vì mục đích nào đó. Danh từ: Biểu thị hoạt động, hành vi.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "他运动时受伤了，行动不便。 /Tā yùndòng shí",
+        "pinyin": "shòushāngle, xíngdòng bú biàn/ Anh ấy bị thương khi tập",
+        "vi": "chóng hành động."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "77. 义务",
+    "focus": "义务",
+    "focusPinyin": "Yìwù",
+    "pattern": "义务",
+    "meaning": "Danh từ: Biểu thị trách nhiệm về mặt pháp luật, đạo đức nên gánh vác, đảm nhiệm (\"nghĩa vụ\"). Tính từ: Biểu thị không nhận thù lao (mang tính nghĩa vụ).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "中国有关于九年制义务教育的法律。 /Zhōngguó yǒu",
+        "pinyin": "guānyú jiǔ nián zhì yìwù jiàoyù de fǎlǜ/ Trung Quốc có",
+        "vi": "vụ và trách nhiệm của mỗi người."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "78. 朝",
+    "focus": "朝",
+    "focusPinyin": "Cháo",
+    "pattern": "朝",
+    "meaning": "Động từ: Biểu thị hướng về, đối mặt Giới từ: Biểu thị phương hướng của hành vi, động tác đã chỉ",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "使劲儿朝里面放水。",
+        "pinyin": "Shǐ jìnr cháo lǐmiàn fàng shuǐ",
+        "vi": "Dốc sức đổ nước vào bên trong"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "79. 简直",
+    "focus": "简直",
+    "focusPinyin": "Jiǎnzhí",
+    "pattern": "简直",
+    "meaning": "Biểu thị gần như là vậy nhưng cũng không hẳn hoàn toàn là như vậy. Mang ngữ khí khoa trương, nhấn mạnh (\"quả là/thật là\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "与从前相比，简直像换了个人。 /Yǔ cóngqián xiāng bǐ,",
+        "pinyin": "jiǎnzhí xiàng huànle gè rén/ So với trước đây, (cô ấy) quả",
+        "vi": "là như đã thay đổi thành một người khác."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "80. 来",
+    "focus": "来",
+    "focusPinyin": "Lái",
+    "pattern": "来",
+    "meaning": "Đứng sau các từ chỉ số “十、 百、千”... hoặc từ chỉ số lượng, biểu thị ước lượng (\"khoảng hơn\"). Dùng sau các từ chỉ số như “一、二、三” tạo thành kết cấu “一来······，二来······” biểu thị liệt kê lí do (\"một là... hai là...\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "他雇了 20 来个当地人为他带路和搬运行李。 /Tā gùle",
+        "pinyin": "èrshí lái gè dāngdì rén wèi tā dàilù hé bānyùn xíngli.",
+        "vi": "người đón lễ còn khó khăn gì không."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "81. 至于",
+    "focus": "至于",
+    "focusPinyin": "Zhìyú",
+    "pattern": "至于",
+    "meaning": "Động từ: Biểu thị đạt đến một loại trình độ nào đó (thường dùng trong câu phản vấn với ý \"đến mức\"). Giới từ: Dùng trong kết cấu “（A）·····，至于（B）······” biểu thị nhắc đến một việc khác nữa (\"còn về\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "我只是和你开个玩笑，你至于生那么大的气吗？ /Wǒ",
+        "pinyin": "zhǐshì hé nǐ kāi gè wánxiào, nǐ zhìyú shēng nàme dà de",
+        "vi": "zài nǎ'er, wǒ jiù bù qīngchǔle/ Tôi chỉ biết anh ấy là học"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "82. 总算",
+    "focus": "总算",
+    "focusPinyin": "Zǒngsuàn",
+    "pattern": "总算",
+    "meaning": "Biểu thị nguyện vọng cuối cùng cũng đã được thực hiện sau khi trải qua một khoảng thời gian dài (\"cuối cùng cũng\"). Biểu thị về mặt cơ bản vẫn vượt qua được (\"dù sao cũng\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "经过沟通，大导演总算搞明白了。 /Jīngguò gōutōng, dà",
+        "pinyin": "dǎoyǎn zǒngsuàn gǎo míngbáile/ Sau khi trao đổi, đạo",
+        "vi": "chỗ để ngủ rồi."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "83. 下来",
+    "focus": "下来",
+    "focusPinyin": "Xiàlái",
+    "pattern": "下来",
+    "meaning": "Biểu thị hoàn thành (một hành động, một sự việc)",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "你的论文大概什么时候发表？定下来了吗？ /Nǐ de",
+        "pinyin": "lùnwén dàgài shénme shíhou fābiǎo? Dìng xiàláile ma?",
+        "vi": "xong chưa?"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "84. 舍不得",
+    "focus": "舍不得",
+    "focusPinyin": "Shěbudé",
+    "pattern": "舍不得",
+    "meaning": "Biểu thị không muốn từ bỏ, tiêu phí hoặc sử dụng.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "把你最喜欢的玩具送给小朋友，你舍得吗 ？/ Bǎ nǐ zuì",
+        "pinyin": "xǐhuān de wánjù sòng gěi xiǎopéngyǒu, nǐ shědé ma?",
+        "vi": "bạn có nỡ không?"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "85. 从此",
+    "focus": "从此",
+    "focusPinyin": "Cóngcǐ",
+    "pattern": "从此",
+    "meaning": "Biểu thị từ thời điểm này hoặc từ thời điểm nói trở đi (\"từ đó về sau\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "因为那场严重的误会，他们大吵了一架，从此两人的关",
+        "pinyin": "tāmen dà chǎo le yī jià, cóngcǐ liǎng rén de guānxì jiù",
+        "vi": "cách."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "86. 假设",
+    "focus": "假设",
+    "focusPinyin": "Jiǎshè",
+    "pattern": "假设",
+    "meaning": "Động từ: Biểu thị coi một số tình huống là thật (\"giả sử\"). Danh từ: Biểu thị tình huống giả thiết, tưởng tượng (\"giả thiết\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "假设我要从国贸到鼓楼大街，该怎么乘车？ /Jiǎshè wǒ",
+        "pinyin": "yào cóng Guómào dào Gǔlóu Dàjiē, gāi zěnme",
+        "vi": "của bạn đã được chứng minh là đúng."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "87. 堆",
+    "focus": "堆",
+    "focusPinyin": "Duī",
+    "pattern": "堆",
+    "meaning": "Lượng từ: Dùng cho đám người hoặc đống đồ vật. Động từ: Biểu thị dùng tay hoặc dụng cụ để xếp, chất lên nhau. Danh từ: Biểu thị đồ vật xếp cùng nhau.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "门口放着好几堆刚送来的货物，还没整理。/Ménkǒu",
+        "pinyin": "fàng zhe hǎo jǐ duī gāng sòng lái de huòwù, hái méi",
+        "vi": "zhǐxiāng/ Ở góc tường có một đống thùng carton bỏ đi."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "88. 不如",
+    "focus": "不如",
+    "focusPinyin": "Bùrú",
+    "pattern": "不如",
+    "meaning": "Biểu thị không thể sánh bằng.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "三家的营业额加起来还不如他一家高。 /Sān jiā de",
+        "pinyin": "yíngyè'é jiā qǐlái hái bù rú tā yī jiā gāo/ Doanh thu của ba",
+        "vi": "mình cửa hàng anh ấy."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "89. 干脆",
+    "focus": "干脆",
+    "focusPinyin": "Gāncuì",
+    "pattern": "干脆",
+    "meaning": "Tính từ: Dứt khoát Phó từ: Biểu thị đơn giản, quyết đoán",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "我求他帮忙，他答应得很干脆。 /Wǒ qiú tā bāngmáng,",
+        "pinyin": "tā dāyìng de hěn gāncuì/Tôi nhờ anh ấy giúp đỡ, anh ấy",
+        "vi": "le. /Tôi nghĩ tôi cứ từ bỏ đi thôi."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "90. 万一",
+    "focus": "万一",
+    "focusPinyin": "Wànyī",
+    "pattern": "万一",
+    "meaning": "Liên từ: Biểu thị khả năng rất nhỏ, thường dùng với trường hợp không ngờ đến hoặc bất lợi Danh từ: Biểu thị tình huống bất ngờ có khả năng rất nhỏ (thường dùng trong cách thức cố định “就怕万一”).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "你带上伞吧，万一回来的时候下雨呢。/Nǐ dài shàng sǎn",
+        "pinyin": "ba, wànyī huílái de shíhòu xià yǔ ne/ Cậu mang theo ô",
+        "vi": "khả năng, ngay cả trường hợp xấu nhất cũng đã nghĩ tới."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "91. 无意",
+    "focus": "无意",
+    "focusPinyin": "Wúyì",
+    "pattern": "无意",
+    "meaning": "Động từ: Có nghĩa là không muốn, không có ý định..",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "我无意打扰您，不过我可以跟您谈一会儿吗？/Wǒ",
+        "pinyin": "wúyì dǎrǎo nín, búguò wǒ kěyǐ gēn nín tán yīhuǐ'er ma?",
+        "vi": "chuyện với ngài một lát được không?."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "92. 有利",
+    "focus": "有利",
+    "focusPinyin": "Yǒulì",
+    "pattern": "有利",
+    "meaning": "Có nghĩa là có lợi, có ích (thường dùng “有利于” để biểu thị có lợi cho người hoặc vật nào đó).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "高高的个子，漂亮的外表，都是他的有利条件。 /Gāo",
+        "pinyin": "gāo de gèzi, piàoliang de wàibiǎo, dōu shì tā de yǒulì",
+        "vi": "những điều kiện có lợi của anh ấy."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "93. 的确",
+    "focus": "的确",
+    "focusPinyin": "Díquè",
+    "pattern": "的确",
+    "meaning": "Ý nghĩa là hoàn toàn chính xác, chân thực (\"quả thực, đích thực\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "他的确我所教过的学生中最聪明的。 /Tā díquè wǒ suǒ",
+        "pinyin": "jiāoguò de xuésheng zhōng zuì cōngming de/ Anh ấy quả",
+        "vi": "mà tôi từng dạy."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "94. 嗯 (Ńg/Ǹg)",
+    "focus": "嗯 (Ńg/Ǹg)",
+    "focusPinyin": "",
+    "pattern": "嗯 (Ńg/Ǹg)",
+    "meaning": "Biểu thị nghi vấn. Biểu thị đáp ứng hoặc chấp thuận.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "嗯？不是 28 号，难道是我记错了？ /Ńg? Bú shì èrshíbā",
+        "pinyin": "hào, nándào shì wǒ jì cuòle? / Hả? Không phải ngày 28,",
+        "vi": "tâm trạng tốt, tôi sẽ nói một việc."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "95. 轻易",
+    "focus": "轻易",
+    "focusPinyin": "Qīngyì",
+    "pattern": "轻易",
+    "meaning": "Tính từ: đơn giản, dễ dàng Phó từ: Biểu thị thái độ khi xử lí công việc không cẩn thận, rất tùy tiện. Thường dùng trong câu phủ định (“轻 易不·····” nghĩa là “rất ít làm”).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "1假，就这样轻易地请好了。 /Jiǎ, jiù zhèyàng qīngyì de",
+        "pinyin": "qǐng hǎole. /Xin nghỉ phép cứ thế dễ dàng được chấp",
+        "vi": "nhờ vả người khác."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "96. 密切",
+    "focus": "密切",
+    "focusPinyin": "Mìqiè",
+    "pattern": "密切",
+    "meaning": "Tính từ: Biểu thị quan hệ gần gũi, mật thiết. Động từ: Có nghĩa làm cho quan hệ trở nên gần gũi mật thiết hơn.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "多年来，两国一直保持着密切的友好关系。/Duō nián",
+        "pinyin": "lái, liǎng guó yīzhí bǎochí zhe mìqiè de yǒuhǎo guānxì",
+        "vi": "vực."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "97. 尽量",
+    "focus": "尽量",
+    "focusPinyin": "Jǐnliàng",
+    "pattern": "尽量",
+    "meaning": "Biểu thị trong một phạm vi nhất định nỗ lực đạt đến mức độ cao nhất (\"cố gắng hết sức\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "老年人要尽量少吃油炸食品。 /Lǎonián rén yào jǐnliàng",
+        "pinyin": "shǎo chī yóu zhá shí pǐn/ Người già cần cố gắng hạn chế",
+        "vi": "ăn đồ chiên rán."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "98. 逐步",
+    "focus": "逐步",
+    "focusPinyin": "Zhúbù",
+    "pattern": "逐步",
+    "meaning": "Biểu thị từng bước từng bước một (thường dùng trong những tình huống do con người làm ra).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "调整能源消费结构，逐步向可再生能源转变。",
+        "pinyin": "Tiáozhěng néngyuán xiāofèi jiégòu, zhúbù xiàng kě",
+        "vi": "tái tạo."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "99. 照常",
+    "focus": "照常",
+    "focusPinyin": "Zhàochán g",
+    "pattern": "照常",
+    "meaning": "Động từ: Có nghĩa là giống như bình thường Phó từ: Biểu thị tình huống tiếp tục không thay đổi (\"như thường lệ\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "这里的日常生活，一切照常。 / Zhèlǐ de rìcháng",
+        "pinyin": "shēnghuó, yīqiè zhàocháng/ Cuộc sống hàng ngày ở đây,",
+        "vi": "vẫn được tổ chức như thường lệ."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "100. 难怪",
+    "focus": "难怪",
+    "focusPinyin": "Nánguài",
+    "pattern": "难怪",
+    "meaning": "Động từ: không nên phê bình, oán trách), mang ngữ khí thông cảm, tha thứ. Phó từ: Biểu thị đã rõ nguyên nhân, không còn cảm thấy lạ lùng với tình huống nào đó nữa (\"thảo nào, hèn chi\").",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "这也难怪",
+        "pinyin": "Zhè yě nánguài",
+        "vi": "Điều này cũng không trách được"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "101. 与其",
+    "focus": "与其",
+    "focusPinyin": "Yǔqí",
+    "pattern": "与其",
+    "meaning": "Dùng khi so sánh 2 tình huống cần phải lựa chọn, “与 其” sử dụng về mặt từ bỏ, đằng sau có thể kết hợp dùng",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "与其在这儿干着急，不如我们主动打电话去问问情况。",
+        "pinyin": "Yǔqí zài zhèr gān zháojí, bùrú wǒmen zhǔdòng dǎ",
+        "vi": "diànhuà qù wèn wen qíngkuàng/ Thà rằng cứ ngồi đây lo"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "102. 过",
+    "focus": "过",
+    "focusPinyin": "Guò",
+    "pattern": "过",
+    "meaning": "Biểu thị người hoặc vật thể thông qua động tác để thay đổi phương hướng hoặc di chuyển vị trí.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "他转过身，一句话也不说。/Tā zhuǎn guò shēn, yī jù",
+        "pinyin": "huà yě bù shuō/ Anh ấy quay người lại, không nói một",
+        "vi": "lời nào."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "103. 开",
+    "focus": "开",
+    "focusPinyin": "Kāi",
+    "pattern": "开",
+    "meaning": "Biểu thị mở ra, giãn ra.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "请你让开一下，我要过去。/Qǐng nǐ ràng kāi yīxià, wǒ",
+        "pinyin": "Làm ơn tránh",
+        "vi": "tránh ra một chút, tôi cần đi qua"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "104. 赶快",
+    "focus": "赶快",
+    "focusPinyin": "Gǎnkuài",
+    "pattern": "赶快",
+    "meaning": "Ý nghĩa là bắt kịp thời gian, gia tăng tốc độ).",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "我下个月要搬家，得赶快找房子。/Wǒ xià gè yuè yào",
+        "pinyin": "bānjiā, děi gǎnkuài zhǎo fángzi/ Tháng sau tôi phải",
+        "vi": "chuyển nhà, phải nhanh chóng tìm nhà."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "105. 片",
+    "focus": "片",
+    "focusPinyin": "Piàn",
+    "pattern": "片",
+    "meaning": "Danh từ: Đồ vật có bề mặt phẳng, mỏng, thường không quá lớn Lượng từ: Dùng để chỉ những đồ vật thành phiến, cũng có thể dùng với âm thanh, cảnh sắc.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "瓶子里装着满满的石头、玻璃碎片和沙子。 /Píngzi lǐ",
+        "pinyin": "zhuāngzhe mǎnmǎn de shítou, bōli suìpiàn hé shāzi",
+        "vi": "sinh nghe xong, phát ra một tràng tiếng reo hò nhiệt liệt."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "106. 根本",
+    "focus": "根本",
+    "focusPinyin": "Gēnběn",
+    "pattern": "根本",
+    "meaning": "Danh từ: Bộ phận quan trọng nhất của sự vật. Tính từ: Ý nghĩa là “chủ yếu, quan trọng nhất” Phó từ: Biểu thị từ đầu đến cuối, trước sau như một",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "他根本没听你说话。",
+        "pinyin": "Tā gēnběn méi tīng nǐ shuōhuà",
+        "vi": "Anh ta hoàn toàn không nghe bạn nói"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "107. 除非",
+    "focus": "除非",
+    "focusPinyin": "Chúfēi",
+    "pattern": "除非",
+    "meaning": "Liên từ: Biểu thị điều kiện duy nhất, giống với “只有”, đằng sau thường đi với “才、 否则、不然” (\"trừ phi\"). .Giới từ: ngoại trừ",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "除非明天下大雨，否则比赛照常进行。/Chúfēi míngtiān",
+        "pinyin": "xià dàyǔ, fǒuzé bǐsài zhàocháng jìnxíng/ Trừ phi ngày",
+        "vi": "Dương ra, không ai sửa được."
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "title": "108. 直",
+    "focus": "直",
+    "focusPinyin": "Zhí",
+    "pattern": "直",
+    "meaning": "Dùng để diễn tả hành động diễn ra liên tục, không bị gián đoạn, thường đứng trước động từ đơn âm tiết.",
+    "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
+    "examples": [
+      {
+        "hanzi": "这趟车可以直达北京，非常方便。 /Zhè tàng chē kěyǐ",
+        "pinyin": "zhídá Běijīng, fēicháng fāngbiàn/ Chuyến xe này có thể",
+        "vi": "đi thẳng đến Bắc Kinh, rất tiện lợi."
+      }
+    ]
+  }
+]
