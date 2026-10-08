@@ -1,10 +1,11 @@
 [
   {
     "level": 3,
+    "id": "hsk3-g001",
     "title": "1. Kết quả ngữ 好",
-    "focus": "Kết quả ngữ 好",
+    "focus": "好",
     "focusPinyin": "hǎo",
-    "pattern": "Kết quả ngữ 好",
+    "pattern": "好",
     "meaning": "Đặt sau động từ, biểu thị hành động đã được hoàn thành và đạt được kết quả thỏa đáng .",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -22,10 +23,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g002",
     "title": "2. Cấu trúc phủ định tuyệt đối (一...也 没)",
-    "focus": "Cấu trúc phủ định tuyệt đối (一...也 没)",
+    "focus": "一…也…没",
     "focusPinyin": "都 + 不",
-    "pattern": "Cấu trúc phủ định tuyệt đối (一...也 没)",
+    "pattern": "一…也…没",
     "meaning": "Dùng để diễn tả sự phủ định hoàn toàn. Khi vị ngữ là tính từ, thường dùng \"一 点儿也/都 + 不 + tính từ\".",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -43,10 +45,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g003",
     "title": "3. Liên từ 那",
-    "focus": "Liên từ 那",
+    "focus": "那",
     "focusPinyin": "nà",
-    "pattern": "Liên từ 那",
+    "pattern": "那",
     "meaning": "Đặt ở đầu câu, dùng để chỉ kết quả hay nhận xét dựa vào nội dung đã được đề cập trước đó.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -64,6 +67,7 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g004",
     "title": "4. Bổ ngữ chỉ phương hướng đơn giản",
     "focus": "Bổ ngữ chỉ phương hướng đơn giản",
     "focusPinyin": "",
@@ -80,6 +84,7 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g005",
     "title": "5. Hai động từ/hành động liên tiếp (Động tác liền kề)",
     "focus": "Hai động từ/hành động liên tiếp (Động tác liền kề)",
     "focusPinyin": "",
@@ -101,10 +106,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g006",
     "title": "6. Phản vấn: Câu hỏi có cấu trúc  能......吗",
-    "focus": "Phản vấn: Câu hỏi có cấu trúc  能......吗",
+    "focus": "能…吗",
     "focusPinyin": "",
-    "pattern": "Phản vấn: Câu hỏi có cấu trúc  能......吗",
+    "pattern": "能…吗",
     "meaning": "Dùng để biểu thị sự phản đối. Nếu giữa \"能......吗\" là hình thức khẳng định biểu đạt ý phủ định.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -117,10 +123,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g007",
     "title": "7. 还是  và 或者",
-    "focus": "还是  và 或者",
+    "focus": "还是…或者",
     "focusPinyin": "háishì",
-    "pattern": "还是  và 或者",
+    "pattern": "还是…或者",
     "meaning": "Cả hai đều biểu thị sự lựa chọn. \"还是\" dùng trong câu hỏi nghi vấn, \"或者\" dùng trong câu trần thuật.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -133,6 +140,7 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g008",
     "title": "8. Cấu trúc diễn tả sự tồn tại",
     "focus": "Cấu trúc diễn tả sự tồn tại",
     "focusPinyin": "",
@@ -141,18 +149,19 @@
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
       {
-        "hanzi": "桌子上放着一杯咖啡。/Zhuōzi shàng fàng zhe yī",
-        "pinyin": "Trên bàn đặt một tách cà phê",
-        "vi": ""
+        "hanzi": "桌子上放着一杯咖啡。",
+        "pinyin": "Zhuōzi shàng fàngzhe yì bēi kāfēi.",
+        "vi": "Trên bàn đặt một tách cà phê."
       }
     ]
   },
   {
     "level": 3,
+    "id": "hsk3-g009",
     "title": "9. Trợ động từ 会",
-    "focus": "Trợ động từ 会",
+    "focus": "会",
     "focusPinyin": "huì",
-    "pattern": "Trợ động từ 会",
+    "pattern": "会",
     "meaning": "Dùng trong câu biểu thị khả năng. Thường dùng để diễn tả những sự việc chưa xảy ra.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -165,10 +174,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g010",
     "title": "10. Cấu trúc 又... 又",
-    "focus": "Cấu trúc 又... 又",
+    "focus": "又…又",
     "focusPinyin": "yòu... yòu...",
-    "pattern": "Cấu trúc 又... 又",
+    "pattern": "又…又",
     "meaning": "Cấu trúc \"又 + tính từ 1 + 又 + tính từ 2\" dùng để đề cập đến hai đặc điểm cùng tồn tại ở một người hay sự vật.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -181,6 +191,7 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g011",
     "title": "11. Động tác kèm trạng thái",
     "focus": "Động tác kèm trạng thái",
     "focusPinyin": "",
@@ -197,10 +208,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g012",
     "title": "12. Trợ từ chỉ sự thay đổi 了",
-    "focus": "Trợ từ chỉ sự thay đổi 了",
+    "focus": "了",
     "focusPinyin": "le",
-    "pattern": "Trợ từ chỉ sự thay đổi 了",
+    "pattern": "了",
     "meaning": "Biểu thị tình huống đã thay đổi, hoặc xuất hiện tình huống mới.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -213,10 +225,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g013",
     "title": "13. Cấu trúc 越来越 + tính từ/động từ trạng thái",
-    "focus": "Cấu trúc 越来越 + tính từ/động từ trạng thái",
+    "focus": "越来越",
     "focusPinyin": "",
-    "pattern": "Cấu trúc 越来越 + tính từ/động từ trạng thái",
+    "pattern": "越来越",
     "meaning": "Biểu thị sự thay đổi theo thời gian, hoặc sự thay đổi mức độ. Không dùng phó từ chỉ mức độ 更.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -229,6 +242,7 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g014",
     "title": "14. Bổ ngữ chỉ khả năng",
     "focus": "Bổ ngữ chỉ khả năng",
     "focusPinyin": "",
@@ -250,10 +264,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g015",
     "title": "15. Đại từ nghi vấn dùng để hỏi vị trí 哪",
-    "focus": "Đại từ nghi vấn dùng để hỏi vị trí 哪",
+    "focus": "哪",
     "focusPinyin": "nǎ",
-    "pattern": "Đại từ nghi vấn dùng để hỏi vị trí 哪",
+    "pattern": "哪",
     "meaning": "\"哪\" (thường dùng cùng với \"儿\" trong khẩu ngữ thành \"哪儿\") là đại từ nghi vấn dùng để hỏi về địa điểm, nơi chốn. Nó có nghĩa là \"đâu, nơi nào\".",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -271,10 +286,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g016",
     "title": "16. Phân biệt 刚  và 刚才",
-    "focus": "Phân biệt 刚  và 刚才",
+    "focus": "刚…刚才",
     "focusPinyin": "gāng",
-    "pattern": "Phân biệt 刚  và 刚才",
+    "pattern": "刚…刚才",
     "meaning": "\"刚才\" là danh từ chỉ thời gian, chỉ hành động xảy ra trong thời gian ngắn. \"刚\" là phó từ, biểu thị hành động xảy ra cách thời điểm nói không lâu, thời gian ngắn hơn.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -287,6 +303,7 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g017",
     "title": "17. Cách diễn tả khoảng thời gian",
     "focus": "Cách diễn tả khoảng thời gian",
     "focusPinyin": "",
@@ -303,10 +320,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g018",
     "title": "18. Cấu trúc 对...... 感兴趣 và  对......有兴趣",
-    "focus": "Cấu trúc 对...... 感兴趣 và  对......有兴趣",
+    "focus": "对…感兴趣…对…有兴趣",
     "focusPinyin": "",
-    "pattern": "Cấu trúc 对...... 感兴趣 và  对......有兴趣",
+    "pattern": "对…感兴趣…对…有兴趣",
     "meaning": "Dùng để diễn tả sự hứng thú đối với điều gì đó.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -319,10 +337,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g019",
     "title": "19. Dùng 刻, 半, 差 diễn tả thời gian",
-    "focus": "Dùng 刻, 半, 差 diễn tả thời gian",
+    "focus": "刻…半…差",
     "focusPinyin": "",
-    "pattern": "Dùng 刻, 半, 差 diễn tả thời gian",
+    "pattern": "刻…半…差",
     "meaning": "Dùng để biểu thị thời gian. \"刻\" /kè/: Mười lăm phút \"半\" /bàn/: \"Rưỡi\" hoặc \"ba mươi phút \"差\" /chà/: Thiếu, kém, chưa tới.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -345,10 +364,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g020",
     "title": "20. 又  và 再",
-    "focus": "又  và 再",
+    "focus": "又…再",
     "focusPinyin": "yòu",
-    "pattern": "又  và 再",
+    "pattern": "又…再",
     "meaning": "\"又\" biểu thị hành động hoặc tình huống lặp lại đã xảy ra. \"再\" biểu thị hành động hoặc tình huống lặp lại chưa xảy ra.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -361,6 +381,7 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g021",
     "title": "21. Đại từ nghi vấn dùng linh hoạt",
     "focus": "Đại từ nghi vấn dùng linh hoạt",
     "focusPinyin": "",
@@ -377,10 +398,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g022",
     "title": "22. Cấu trúc 越A越 B",
-    "focus": "Cấu trúc 越A越 B",
+    "focus": "越…越",
     "focusPinyin": "yuè A yuè B",
-    "pattern": "Cấu trúc 越A越 B",
+    "pattern": "越…越",
     "meaning": "Biểu thị sự thay đổi đi kèm với sự thay đổi của A (càng... càng).",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -393,10 +415,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g023",
     "title": "23. Cấu trúc so sánh 1: A 跟 B 一样 + (tính từ)",
-    "focus": "Cấu trúc so sánh 1: A 跟 B 一样 + (tính từ)",
+    "focus": "跟…一样",
     "focusPinyin": "",
-    "pattern": "Cấu trúc so sánh 1: A 跟 B 一样 + (tính từ)",
+    "pattern": "跟…一样",
     "meaning": "Dùng để so sánh A và B, kết quả tương đồng. Phủ định thì thêm \"不\" trước \"一 样\".",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -409,10 +432,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g024",
     "title": "24. Cấu trúc so sánh 2: A 比 B + tính từ + bổ sung mức độ",
-    "focus": "Cấu trúc so sánh 2: A 比 B + tính từ + bổ sung mức độ",
+    "focus": "比",
     "focusPinyin": "",
-    "pattern": "Cấu trúc so sánh 2: A 比 B + tính từ + bổ sung mức độ",
+    "pattern": "比",
     "meaning": "Dùng để so sánh sự khác biệt về mức độ (như 一点儿/一些/得多/多了).",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -425,6 +449,7 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g025",
     "title": "25. Cách diễn tả số ước lượng (1)",
     "focus": "Cách diễn tả số ước lượng (1)",
     "focusPinyin": "",
@@ -441,10 +466,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g026",
     "title": "26. Cấu trúc với 把 (1)",
-    "focus": "Cấu trúc với 把 (1)",
+    "focus": "把",
     "focusPinyin": "",
-    "pattern": "Cấu trúc với 把 (1)",
+    "pattern": "把",
     "meaning": "Dùng để chỉ hành động được thực hiện, có tác động đến đối tượng B và làm cho đối tượng thay đổi hoặc hoàn thành một việc gì đó.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -457,6 +483,7 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g027",
     "title": "27. Cách diễn tả số ước lượng (2)",
     "focus": "Cách diễn tả số ước lượng (2)",
     "focusPinyin": "",
@@ -473,10 +500,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g028",
     "title": "28. Phân biệt 才  và 就",
-    "focus": "Phân biệt 才  và 就",
+    "focus": "才…就",
     "focusPinyin": "cái",
-    "pattern": "Phân biệt 才  và 就",
+    "pattern": "才…就",
     "meaning": "\"就\" biểu thị hành động xảy ra sớm, nhanh, thuận lợi. \"才\" biểu thị hành động xảy ra muộn, chậm, không thuận lợi.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -489,10 +517,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g029",
     "title": "29. Cấu trúc với 把 (2)",
-    "focus": "Cấu trúc với 把 (2)",
+    "focus": "把",
     "focusPinyin": "",
-    "pattern": "Cấu trúc với 把 (2)",
+    "pattern": "把",
     "meaning": "Diễn tả một hành động làm cho vị trí của đối tượng B bị thay đổi (A把B + Động từ + 在/到/给/...).",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -505,6 +534,7 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g030",
     "title": "30. Bổ ngữ chỉ phương hướng kép",
     "focus": "Bổ ngữ chỉ phương hướng kép",
     "focusPinyin": "",
@@ -521,10 +551,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g031",
     "title": "31. Cấu trúc 一 边......一边",
-    "focus": "Cấu trúc 一 边......一边",
+    "focus": "一…边…一边",
     "focusPinyin": "",
-    "pattern": "Cấu trúc 一 边......一边",
+    "pattern": "一…边…一边",
     "meaning": "Dùng để diễn tả hai hành động diễn ra đồng thời.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -537,10 +568,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g032",
     "title": "32. Cấu trúc với 把 (3)",
-    "focus": "Cấu trúc với 把 (3)",
+    "focus": "把",
     "focusPinyin": "",
-    "pattern": "Cấu trúc với 把 (3)",
+    "pattern": "把",
     "meaning": "Hành động làm cho đối tượng B đạt được kết quả nào đó hoặc thay đổi vị trí (A把B + Động từ + Bổ ngữ kết quả/phương hướng).",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -558,10 +590,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g033",
     "title": "33. Cấu trúc 先......, 再......, 然后",
-    "focus": "Cấu trúc 先......, 再......, 然后",
+    "focus": "先…再…然后",
     "focusPinyin": "",
-    "pattern": "Cấu trúc 先......, 再......, 然后",
+    "pattern": "先…再…然后",
     "meaning": "Biểu thị trình tự của các hành động.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -574,10 +607,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g034",
     "title": "34. Cấu trúc 除 了......以外, 都 也",
-    "focus": "Cấu trúc 除 了......以外, 都 也",
+    "focus": "除…了…以外…都…也",
     "focusPinyin": "还",
-    "pattern": "Cấu trúc 除 了......以外, 都 也",
+    "pattern": "除…了…以外…都…也",
     "meaning": "Trừ một phần ra, những phần khác đều tương đồng (都) hoặc bổ sung thêm (还/ 也).",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -590,6 +624,7 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g035",
     "title": "35. Đại từ nghi vấn dùng linh hoạt (2)",
     "focus": "Đại từ nghi vấn dùng linh hoạt (2)",
     "focusPinyin": "",
@@ -606,10 +641,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g036",
     "title": "36. Cách biểu đạt mức độ: 极了",
-    "focus": "Cách biểu đạt mức độ: 极了",
+    "focus": "极了",
     "focusPinyin": "jí le",
-    "pattern": "Cách biểu đạt mức độ: 极了",
+    "pattern": "极了",
     "meaning": "极了\" là một từ bổ nghĩa mức độ, đặt sau tính từ hoặc động từ chỉ trạng thái tâm lý, dùng để nhấn mạnh mức độ rất cao.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -627,10 +663,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g037",
     "title": "37. Cấu trúc điều kiện: 如果......(的 话), (chủ ngữ) 就",
-    "focus": "Cấu trúc điều kiện: 如果......(的 话), (chủ ngữ) 就",
+    "focus": "如果…的…话…就",
     "focusPinyin": "",
-    "pattern": "Cấu trúc điều kiện: 如果......(的 话), (chủ ngữ) 就",
+    "pattern": "如果…的…话…就",
     "meaning": "\"如果\" là giả thiết, \"就\" là kết quả sẽ xảy ra trong điều kiện đó.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -643,6 +680,7 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g038",
     "title": "38. Bổ ngữ trạng thái phức hợp",
     "focus": "Bổ ngữ trạng thái phức hợp",
     "focusPinyin": "",
@@ -659,10 +697,11 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g039",
     "title": "39. Điệp âm tính từ đơn âm tiết (Hình thức AA 的)",
-    "focus": "Điệp âm tính từ đơn âm tiết (Hình thức AA 的)",
+    "focus": "的",
     "focusPinyin": "",
-    "pattern": "Điệp âm tính từ đơn âm tiết (Hình thức AA 的)",
+    "pattern": "的",
     "meaning": "Dùng để miêu tả đặc điểm của người hoặc sự vật.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -675,6 +714,7 @@
   },
   {
     "level": 3,
+    "id": "hsk3-g040",
     "title": "40. Điệp âm động từ hai âm tiết (Hình thức ABAB)",
     "focus": "Điệp âm động từ hai âm tiết (Hình thức ABAB)",
     "focusPinyin": "",

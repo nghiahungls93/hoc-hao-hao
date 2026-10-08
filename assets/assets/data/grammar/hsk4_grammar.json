@@ -1,10 +1,11 @@
 [
   {
     "level": 4,
+    "id": "hsk4-g001",
     "title": "1. 不仅…而且bùjǐn… érqiě",
-    "focus": "不仅…而且bùjǐn… érqiě",
+    "focus": "不仅…而且",
     "focusPinyin": "还 …",
-    "pattern": "不仅…而且bùjǐn… érqiě",
+    "pattern": "不仅…而且",
     "meaning": "Liên từ, liên kết hai vế câu có mối quan hệ tăng tiến, biểu thị \"không những... mà còn...\".",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -17,6 +18,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g002",
     "title": "2. 从来",
     "focus": "从来",
     "focusPinyin": "cónglái",
@@ -33,10 +35,11 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g003",
     "title": "3. 刚gāng",
-    "focus": "刚gāng",
+    "focus": "刚",
     "focusPinyin": "刚才",
-    "pattern": "刚gāng",
+    "pattern": "刚",
     "meaning": "Phó từ 刚 chỉ hành động xảy ra cách đây không lâu; 刚才 là danh từ chỉ thời gian ngắn trong quá khứ, có thể đứng trước chủ ngữ hoặc sau chủ ngữ và trước động từ,.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -54,10 +57,11 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g004",
     "title": "4. 即使…也…",
-    "focus": "即使…也…",
+    "focus": "即使…也",
     "focusPinyin": "jíshǐ… yě…",
-    "pattern": "即使…也…",
+    "pattern": "即使…也",
     "meaning": "Liên từ, biểu thị một sự giả định hoặc tình huống đã xảy ra (dù cho, cho dù), kết quả vẫn không thay đổi.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -70,10 +74,11 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g005",
     "title": "5. (在)…上",
-    "focus": "(在)…上",
+    "focus": "在…上",
     "focusPinyin": "zài)… shàng",
-    "pattern": "(在)…上",
+    "pattern": "在…上",
     "meaning": "Danh từ chỉ phương vị, dùng sau danh từ, biểu thị trên bề mặt vật thể hoặc chỉ phạm vi nào đó.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -86,6 +91,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g006",
     "title": "6. 正好",
     "focus": "正好",
     "focusPinyin": "zhènghǎo",
@@ -102,10 +108,11 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g007",
     "title": "7. 差不多chàbùduō",
-    "focus": "差不多chàbùduō",
+    "focus": "差不多",
     "focusPinyin": "几乎",
-    "pattern": "差不多chàbùduō",
+    "pattern": "差不多",
     "meaning": "Phó từ/Hình dung từ: biểu thị, mức độ không khác biệt nhiều gần như, xấp xỉ",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -118,6 +125,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g008",
     "title": "8. 尽管",
     "focus": "尽管",
     "focusPinyin": "jǐnguǎn",
@@ -134,6 +142,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g009",
     "title": "9. 却",
     "focus": "却",
     "focusPinyin": "què",
@@ -150,6 +159,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g010",
     "title": "10. 而",
     "focus": "而",
     "focusPinyin": "ér",
@@ -166,6 +176,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g011",
     "title": "11. 挺…的",
     "focus": "挺…的",
     "focusPinyin": "tǐng… de",
@@ -182,6 +193,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g012",
     "title": "12. 本来",
     "focus": "本来",
     "focusPinyin": "běnlái",
@@ -198,6 +210,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g013",
     "title": "13. 另外",
     "focus": "另外",
     "focusPinyin": "lìngwài",
@@ -214,10 +227,11 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g014",
     "title": "14. 首先…其次…",
-    "focus": "首先…其次…",
+    "focus": "首先…其次",
     "focusPinyin": "shǒuxiān… qícì…",
-    "pattern": "首先…其次…",
+    "pattern": "首先…其次",
     "meaning": "Dùng trong văn viết, biểu thị trình tự (trước hết, sau đó).",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -230,6 +244,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g015",
     "title": "15. 不管",
     "focus": "不管",
     "focusPinyin": "bùguǎn",
@@ -246,6 +261,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g016",
     "title": "16. 以为",
     "focus": "以为",
     "focusPinyin": "yǐwéi",
@@ -262,6 +278,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g017",
     "title": "17. 原来",
     "focus": "原来",
     "focusPinyin": "yuánlái",
@@ -278,6 +295,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g018",
     "title": "18. 并",
     "focus": "并",
     "focusPinyin": "bìng",
@@ -294,6 +312,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g019",
     "title": "19. 按照",
     "focus": "按照",
     "focusPinyin": "ànzhào",
@@ -310,6 +329,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g020",
     "title": "20. 甚至",
     "focus": "甚至",
     "focusPinyin": "shènzhì",
@@ -318,14 +338,15 @@
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
       {
-        "hanzi": "这个房子离公司也不远，你可以坐公共汽车甚至可以骑自行车上班",
-        "pinyin": "Zhège fángzi lí gōngsī yě bù yuǎn, nǐ kěyǐ zuò gōnggòng qìchē shènzhì",
-        "vi": ""
+        "hanzi": "这个房子离公司也不远，你可以坐公共汽车甚至可以骑自行车上班。",
+        "pinyin": "Zhège fángzi lí gōngsī yě bù yuǎn, nǐ kěyǐ zuò gōnggòng qìchē, shènzhì kěyǐ qí zìxíngchē shàngbān.",
+        "vi": "Căn nhà này cũng không xa công ty; bạn có thể đi xe buýt, thậm chí có thể đạp xe đi làm."
       }
     ]
   },
   {
     "level": 4,
+    "id": "hsk4-g021",
     "title": "21. 肯定",
     "focus": "肯定",
     "focusPinyin": "kěndìng",
@@ -347,6 +368,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g022",
     "title": "22. 再说",
     "focus": "再说",
     "focusPinyin": "zàishuō",
@@ -363,10 +385,11 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g023",
     "title": "23. 实际shíjì",
-    "focus": "实际shíjì",
+    "focus": "实际",
     "focusPinyin": "实际上",
-    "pattern": "实际shíjì",
+    "pattern": "实际",
     "meaning": "Danh từ (thực tế) Hình dung từ (chân thật) Phó từ (trên thực tế),.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -384,6 +407,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g024",
     "title": "24. 对…来说",
     "focus": "对…来说",
     "focusPinyin": "duì… láishuō",
@@ -400,6 +424,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g025",
     "title": "25. 尤其",
     "focus": "尤其",
     "focusPinyin": "yóuqí",
@@ -416,6 +441,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g026",
     "title": "26. 竟然",
     "focus": "竟然",
     "focusPinyin": "jìngrán",
@@ -432,10 +458,11 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g027",
     "title": "27. 倍 (bèi)",
-    "focus": "倍 (bèi)",
+    "focus": "倍",
     "focusPinyin": "",
-    "pattern": "倍 (bèi)",
+    "pattern": "倍",
     "meaning": "lượng từ, dùng để biểu thị số lần (bội số) khi so sánh về số lượng, mức độ hoặc kích thước",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -448,6 +475,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g028",
     "title": "28. 值得",
     "focus": "值得",
     "focusPinyin": "zhíde",
@@ -464,6 +492,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g029",
     "title": "29. 其中",
     "focus": "其中",
     "focusPinyin": "qízhōng",
@@ -480,10 +509,11 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g030",
     "title": "30. (在)…下 ((zài)… xià)",
-    "focus": "(在)…下 ((zài)… xià)",
+    "focus": "在…下",
     "focusPinyin": "",
-    "pattern": "(在)…下 ((zài)… xià)",
+    "pattern": "在…下",
     "meaning": "Cấu trúc giới từ/danh từ, biểu thị điều kiện, tình huống cho một sự việc xảy ra.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -496,6 +526,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g031",
     "title": "31. 估计",
     "focus": "估计",
     "focusPinyin": "gūjì",
@@ -517,6 +548,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g032",
     "title": "32. 来不及",
     "focus": "来不及",
     "focusPinyin": "láibují",
@@ -533,6 +565,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g033",
     "title": "33. 离合词重叠",
     "focus": "离合词重叠",
     "focusPinyin": "líhécí chóngdié",
@@ -549,6 +582,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g034",
     "title": "34. 要是",
     "focus": "要是",
     "focusPinyin": "yàoshi",
@@ -565,10 +599,11 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g035",
     "title": "35. 既…又还… (jì… yòuhái…)",
-    "focus": "既…又还… (jì… yòuhái…)",
+    "focus": "既…又还",
     "focusPinyin": "也",
-    "pattern": "既…又还… (jì… yòuhái…)",
+    "pattern": "既…又还",
     "meaning": "Liệt kê hai (hoặc nhiều) đặc điểm, tính chất hoặc trạng thái cùng tồn tại về một sự vật, sự việc. Cấu trúc: 既 + [Tính chất 1] + 又/也/还 + [Tính chất 2]",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -581,6 +616,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g036",
     "title": "36. 使",
     "focus": "使",
     "focusPinyin": "shǐ",
@@ -597,10 +633,11 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g037",
     "title": "37. 只要…就…",
-    "focus": "只要…就…",
+    "focus": "只要…就",
     "focusPinyin": "zhǐyào… jiù…",
-    "pattern": "只要…就…",
+    "pattern": "只要…就",
     "meaning": "Là cặp liên từ biểu thị điều kiện cần, chỉ cần thỏa mãn một điều kiện duy nhất/tối thiểu đó thì kết quả chắc chắn xảy ra. Công thức cơ bản: 只要 + [Điều kiện cần], 就 + [Kết quả/Động tác sẽ xảy ra]",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -613,6 +650,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g038",
     "title": "38. 可不是",
     "focus": "可不是",
     "focusPinyin": "kě bú shì",
@@ -629,6 +667,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g039",
     "title": "39. 因此",
     "focus": "因此",
     "focusPinyin": "yīncǐ",
@@ -645,6 +684,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g040",
     "title": "40. 往往",
     "focus": "往往",
     "focusPinyin": "wǎngwǎng",
@@ -661,6 +701,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g041",
     "title": "41. 难道",
     "focus": "难道",
     "focusPinyin": "nándào",
@@ -677,6 +718,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g042",
     "title": "42. 通过",
     "focus": "通过",
     "focusPinyin": "tōngguò",
@@ -698,6 +740,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g043",
     "title": "43. 可是",
     "focus": "可是",
     "focusPinyin": "kěshì",
@@ -714,6 +757,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g044",
     "title": "44. 结果",
     "focus": "结果",
     "focusPinyin": "jiéguǒ",
@@ -730,6 +774,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g045",
     "title": "45. 确实",
     "focus": "确实",
     "focusPinyin": "quèshí",
@@ -746,6 +791,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g046",
     "title": "46. 在…看来",
     "focus": "在…看来",
     "focusPinyin": "zài… kànlái",
@@ -762,6 +808,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g047",
     "title": "47. 由于",
     "focus": "由于",
     "focusPinyin": "yóuyú",
@@ -778,10 +825,11 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g048",
     "title": "48. 连…也lián… yě",
-    "focus": "连…也lián… yě",
+    "focus": "连…也",
     "focusPinyin": "都…",
-    "pattern": "连…也lián… yě",
+    "pattern": "连…也",
     "meaning": "Liên từ, dùng để nhấn mạnh một trường hợp (ngay cả... cũng/còn...).",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -794,6 +842,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g049",
     "title": "49. 否则",
     "focus": "否则",
     "focusPinyin": "fǒuzé",
@@ -810,6 +859,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g050",
     "title": "50. 无论",
     "focus": "无论",
     "focusPinyin": "wúlùn",
@@ -826,6 +876,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g051",
     "title": "51. 然而",
     "focus": "然而",
     "focusPinyin": "rán'ér",
@@ -842,6 +893,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g052",
     "title": "52. 同时",
     "focus": "同时",
     "focusPinyin": "tóngshí",
@@ -858,6 +910,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g053",
     "title": "53. 并且",
     "focus": "并且",
     "focusPinyin": "bìngqiě",
@@ -874,10 +927,11 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g054",
     "title": "54. 再…也…",
-    "focus": "再…也…",
+    "focus": "再…也",
     "focusPinyin": "zài… yě…",
-    "pattern": "再…也…",
+    "pattern": "再…也",
     "meaning": "Cấu trúc biểu thị giả định, \"再\" đứng trước động từ/tính từ, ý nghĩa \"dù thế nào đi nữa\".",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -890,6 +944,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g055",
     "title": "55. 对于",
     "focus": "对于",
     "focusPinyin": "duìyú",
@@ -906,6 +961,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g056",
     "title": "56. 名量词重叠",
     "focus": "名量词重叠",
     "focusPinyin": "liàngcí chóngdié",
@@ -922,6 +978,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g057",
     "title": "57. 相反",
     "focus": "相反",
     "focusPinyin": "xiāngfǎn",
@@ -938,6 +995,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g058",
     "title": "58. 大概",
     "focus": "大概",
     "focusPinyin": "dàgài",
@@ -954,6 +1012,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g059",
     "title": "59. 偶尔",
     "focus": "偶尔",
     "focusPinyin": "ǒu'ěr",
@@ -970,6 +1029,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g060",
     "title": "60. 由",
     "focus": "由",
     "focusPinyin": "yóu",
@@ -986,6 +1046,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g061",
     "title": "61. 随着",
     "focus": "随着",
     "focusPinyin": "suízhe",
@@ -1002,6 +1063,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g062",
     "title": "62. 够",
     "focus": "够",
     "focusPinyin": "gòu",
@@ -1023,6 +1085,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g063",
     "title": "63. 以",
     "focus": "以",
     "focusPinyin": "yǐ",
@@ -1039,6 +1102,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g064",
     "title": "64. 既然",
     "focus": "既然",
     "focusPinyin": "jìrán",
@@ -1055,6 +1119,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g065",
     "title": "65. 于是",
     "focus": "于是",
     "focusPinyin": "yúshì",
@@ -1071,6 +1136,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g066",
     "title": "66. 想起来",
     "focus": "想起来",
     "focusPinyin": "xiǎngqǐlái",
@@ -1087,6 +1153,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g067",
     "title": "67. 千万",
     "focus": "千万",
     "focusPinyin": "qiānwàn",
@@ -1103,10 +1170,11 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g068",
     "title": "68. 恐怕 (kǒngpà)",
-    "focus": "恐怕 (kǒngpà)",
+    "focus": "恐怕",
     "focusPinyin": "",
-    "pattern": "恐怕 (kǒngpà)",
+    "pattern": "恐怕",
     "meaning": "Động từ: E rằng, lo sợ rằng. Phó từ: Dùng để biểu thị một phán đoán, ước lượng với thái độ dè dặt, không chắc chắn, thường kèm theo lo lắng hoặc tiên đoán về kết quả không mong muốn.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -1124,6 +1192,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g069",
     "title": "69. 到底",
     "focus": "到底",
     "focusPinyin": "dàodǐ",
@@ -1140,6 +1209,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g070",
     "title": "70. 拿…来说",
     "focus": "拿…来说",
     "focusPinyin": "ná… láishuō",
@@ -1156,6 +1226,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g071",
     "title": "71. 敢",
     "focus": "敢",
     "focusPinyin": "gǎn",
@@ -1172,6 +1243,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g072",
     "title": "72. 倒",
     "focus": "倒",
     "focusPinyin": "dào",
@@ -1181,13 +1253,14 @@
     "examples": [
       {
         "hanzi": "你说他笨？我倒觉得他很聪明。",
-        "pinyin": "",
-        "vi": ""
+        "pinyin": "Nǐ shuō tā bèn? Wǒ dào juéde tā hěn cōngming.",
+        "vi": "Bạn nói anh ấy ngốc à? Tôi lại thấy anh ấy rất thông minh."
       }
     ]
   },
   {
     "level": 4,
+    "id": "hsk4-g073",
     "title": "73. 趟",
     "focus": "趟",
     "focusPinyin": "tàng",
@@ -1204,10 +1277,11 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g074",
     "title": "74. 为了……而……",
-    "focus": "为了……而……",
+    "focus": "为了…而",
     "focusPinyin": "wèile… ér…",
-    "pattern": "为了……而……",
+    "pattern": "为了…而",
     "meaning": "Cấu trúc liên từ, vế câu trước chỉ mục đích, vế câu sau chỉ hành vi.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -1220,6 +1294,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g075",
     "title": "75. 仍然",
     "focus": "仍然",
     "focusPinyin": "réngráng",
@@ -1236,6 +1311,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g076",
     "title": "76. 是否",
     "focus": "是否",
     "focusPinyin": "shìfǒu",
@@ -1252,6 +1328,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g077",
     "title": "77. 受不了",
     "focus": "受不了",
     "focusPinyin": "shòubuliǎo",
@@ -1268,6 +1345,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g078",
     "title": "78. 接着",
     "focus": "接着",
     "focusPinyin": "jiēzhe",
@@ -1284,6 +1362,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g079",
     "title": "79. 除此以外",
     "focus": "除此以外",
     "focusPinyin": "chúcǐ yǐwài",
@@ -1300,10 +1379,11 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g080",
     "title": "80. 把…叫做…",
-    "focus": "把…叫做…",
+    "focus": "把…叫做",
     "focusPinyin": "bǎ… jiàozuò…",
-    "pattern": "把…叫做…",
+    "pattern": "把…叫做",
     "meaning": "Cấu trúc dùng để gọi tên một vật thể hoặc hiện tượng.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -1316,6 +1396,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g081",
     "title": "81. 总的来说",
     "focus": "总的来说",
     "focusPinyin": "zǒngde láishuō",
@@ -1332,6 +1413,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g082",
     "title": "82. 在于",
     "focus": "在于",
     "focusPinyin": "zàiyú",
@@ -1348,10 +1430,11 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g083",
     "title": "83. Cấu trúc: Động từ 1 + 着 + Động từ 1 + 着 + (，就 忽然…) + Hành động/Trạng thái mới",
-    "focus": "Cấu trúc: Động từ 1 + 着 + Động từ 1 + 着 + (，就 忽然…) + Hành động/Trạng thái mới",
+    "focus": "着…着…就…忽然",
     "focusPinyin": "却",
-    "pattern": "Cấu trúc: Động từ 1 + 着 + Động từ 1 + 着 + (，就 忽然…) + Hành động/Trạng thái mới",
+    "pattern": "着…着…就…忽然",
     "meaning": "Cấu trúc này mô tả một hành động đang kéo dài thì đột nhiên hoặc tự nhiên dẫn đến một kết quả, thay đổi hoặc một hành động khác.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -1364,10 +1447,11 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g084",
     "title": "84. 一…就…",
-    "focus": "一…就…",
+    "focus": "一…就",
     "focusPinyin": "yī… jiù…",
-    "pattern": "一…就…",
+    "pattern": "一…就",
     "meaning": "Cấu trúc biểu thị hai sự việc xảy ra liên tiếp hoặc biểu thị điều kiện/kết quả.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -1380,6 +1464,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g085",
     "title": "85. 究竟",
     "focus": "究竟",
     "focusPinyin": "jiūjìng",
@@ -1396,6 +1481,7 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g086",
     "title": "86. 起来",
     "focus": "起来",
     "focusPinyin": "qǐlái",
@@ -1417,10 +1503,11 @@
   },
   {
     "level": 4,
+    "id": "hsk4-g087",
     "title": "87. Cấu trúc: 动词+ 起 (dòngcí + qǐ)",
-    "focus": "Cấu trúc: 动词+ 起 (dòngcí + qǐ)",
+    "focus": "动词…起",
     "focusPinyin": "",
-    "pattern": "Cấu trúc: 动词+ 起 (dòngcí + qǐ)",
+    "pattern": "动词…起",
     "meaning": "Cấu trúc này nhấn mạnh sự khởi điểm của hành động hướng vào một đối tượng cụ thể. Tân ngữ thường là nội dung của cuộc nói chuyện, câu hỏi, hoặc đối tượng của ký ức, cảm xúc.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [

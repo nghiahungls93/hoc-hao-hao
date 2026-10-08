@@ -1,10 +1,11 @@
 [
   {
     "level": 2,
-    "title": "1. Trợ động từ 要 ”",
-    "focus": "Trợ động từ 要 ”",
+    "id": "hsk2-g001",
+    "title": "1. Trợ động từ 要",
+    "focus": "要",
     "focusPinyin": "yào",
-    "pattern": "Trợ động từ 要 ”",
+    "pattern": "要",
     "meaning": "Khi là trợ động từ, 要 đứng trước động từ chính và diễn đạt ý chí, nguyện vọng hoặc sự cần thiết.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -22,10 +23,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g002",
     "title": "2. Phó từ chỉ mức độ 最",
-    "focus": "Phó từ chỉ mức độ 最",
+    "focus": "最",
     "focusPinyin": "zuì",
-    "pattern": "Phó từ chỉ mức độ 最",
+    "pattern": "最",
     "meaning": "最 có nghĩa là \"nhất\", dùng để biểu thị mức độ cao nhất trong phạm vi so sánh. Nó tương đương với hậu tố \"-est\" trong tiếng Anh (tallest, biggest) hoặc từ \"most\".",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -43,10 +45,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g003",
     "title": "3. Cách diễn tả số lượng 几",
-    "focus": "Cách diễn tả số lượng 几",
+    "focus": "几",
     "focusPinyin": "jǐ",
-    "pattern": "Cách diễn tả số lượng 几",
+    "pattern": "几",
     "meaning": "几 dùng để hỏi về số lượng ít, ước chừng dưới 10. Cấu trúc cơ bản: 几 + Lượng từ + Danh từ?",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -64,10 +67,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g004",
     "title": "4. Câu hỏi với 是 不是",
-    "focus": "Câu hỏi với 是 不是",
+    "focus": "是…不是",
     "focusPinyin": "shì.bú shì..",
-    "pattern": "Câu hỏi với 是 不是",
+    "pattern": "是…不是",
     "meaning": "Nếu đưa ra phỏng đoán về một sự việc hoặc tình huống và muốn xác minh thêm, có thể dùng cấu trúc câu hỏi này. \"是不 是...\" thường dùng ở phía trước vị ngữ, nhưng cũng có thể dùng ở đầu hoặc cuối câu.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -85,10 +89,11 @@
   },
   {
     "level": 2,
-    "title": "5. Đại từ 每 ”",
-    "focus": "Đại từ 每 ”",
+    "id": "hsk2-g005",
+    "title": "5. Đại từ 每",
+    "focus": "每",
     "focusPinyin": "měi",
-    "pattern": "Đại từ 每 ”",
+    "pattern": "每",
     "meaning": "每 thường không đứng một mình. Nó luôn đi kèm với một danh từ, lượng từ hoặc từ chỉ thời gian để tạo thành một cụm để chỉ tất cả các thành viên trong tập thể hoặc nhóm. Ví dụ: hằng ngày, mỗi năm, mỗi tháng, mỗi tuần.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -106,10 +111,11 @@
   },
   {
     "level": 2,
-    "title": "6. Đại từ nghi vấn  多 ”",
-    "focus": "Đại từ nghi vấn  多 ”",
+    "id": "hsk2-g006",
+    "title": "6. Đại từ nghi vấn  多",
+    "focus": "多",
     "focusPinyin": "duō",
-    "pattern": "Đại từ nghi vấn  多 ”",
+    "pattern": "多",
     "meaning": "多 được dùng để hỏi về độ cao, chiều dài, tuổi tác, khoảng cách, thời gian, giá cả... - tức là những thứ có thể đo lường được bằng con số.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -127,27 +133,29 @@
   },
   {
     "level": 2,
-    "title": "7. Cụm từ có 的 ”",
-    "focus": "Cụm từ có 的 ”",
+    "id": "hsk2-g007",
+    "title": "7. Cụm từ có 的",
+    "focus": "的",
     "focusPinyin": "de",
-    "pattern": "Cụm từ có 的 ”",
+    "pattern": "的",
     "meaning": "Đại từ, tính từ, động từ kết hợp với \"的\" để tạo thành cụm từ trung tâm ngữ, tương đương với cụm danh từ để thay thế",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
       {
         "hanzi": "这本书不是我的。",
-        "pinyin": "Zhè běn shū bú shì wǒ de",
-        "vi": "Cuốn sách này không phải của tôi"
+        "pinyin": "Zhè běn shū bú shì wǒ de.",
+        "vi": "Cuốn sách này không phải của tôi."
       },
       {
         "hanzi": "这块表是你的吗？",
-        "pinyin": "Zhè kuài shǒubiǎo shì nǐ de ma",
-        "vi": ""
+        "pinyin": "Zhè kuài shǒubiǎo shì nǐ de ma?",
+        "vi": "Chiếc đồng hồ này là của bạn phải không?"
       }
     ]
   },
   {
     "level": 2,
+    "id": "hsk2-g008",
     "title": "8. 一下",
     "focus": "一下",
     "focusPinyin": "yí xià",
@@ -169,10 +177,11 @@
   },
   {
     "level": 2,
-    "title": "9. Phó từ ngữ khí 真 ”",
-    "focus": "Phó từ ngữ khí 真 ”",
+    "id": "hsk2-g009",
+    "title": "9. Phó từ ngữ khí 真",
+    "focus": "真",
     "focusPinyin": "zhēn",
-    "pattern": "Phó từ ngữ khí 真 ”",
+    "pattern": "真",
     "meaning": "Dùng để nhấn mạnh mức độ cao của một tính chất hoặc trạng thái, đồng thời bộc lộ cảm xúc chân thật của người nói.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -185,10 +194,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g010",
     "title": "10. Cấu trúc 是...的",
-    "focus": "Cấu trúc 是...的",
+    "focus": "是…的",
     "focusPinyin": "shì... de",
-    "pattern": "Cấu trúc 是...的",
+    "pattern": "是…的",
     "meaning": "Dùng để nhấn mạnh chi tiết (thời gian, địa điểm, cách thức, đối tượng, mục đích...) của một sự việc đã xảy ra trong quá khứ.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -206,10 +216,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g011",
     "title": "11. Cấu trúc diễn tả thời gian ......的 时候",
-    "focus": "Cấu trúc diễn tả thời gian ......的 时候",
+    "focus": "的…时候",
     "focusPinyin": "de shí hou",
-    "pattern": "Cấu trúc diễn tả thời gian ......的 时候",
+    "pattern": "的…时候",
     "meaning": "Dùng để chỉ một thời điểm hoặc khoảng thời gian cụ thể khi một sự việc xảy ra.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -227,10 +238,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g012",
     "title": "12. Phó từ 就",
-    "focus": "Phó từ 就",
+    "focus": "就",
     "focusPinyin": "jiù",
-    "pattern": "Phó từ 就",
+    "pattern": "就",
     "meaning": "Biểu thị thừa nhận, chấp nhận, đưa ra kết luận hợp logic hoặc giải pháp. Cấu trúc: \"就 + động từ/cụm động từ\".",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -243,10 +255,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g013",
     "title": "13. Phó từ ngữ khí  还",
-    "focus": "Phó từ ngữ khí  还",
+    "focus": "还",
     "focusPinyin": "hái",
-    "pattern": "Phó từ ngữ khí  还",
+    "pattern": "还",
     "meaning": "Cấu trúc \"还 + hình dung từ\" hoặc \"还 + tính từ\" thường dùng để diễn tả sự tán thành, chấp nhận được.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -264,10 +277,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g014",
     "title": "14. Phó từ chỉ mức độ 有点儿",
-    "focus": "Phó từ chỉ mức độ 有点儿",
+    "focus": "有点儿",
     "focusPinyin": "yǒu diǎnr",
-    "pattern": "Phó từ chỉ mức độ 有点儿",
+    "pattern": "有点儿",
     "meaning": "Dùng để diễn tả cảm xúc tiêu cực hay thái độ không hài lòng của người nói.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -280,10 +294,11 @@
   },
   {
     "level": 2,
-    "title": "15. Đại từ nghi vấn 怎么 ”",
-    "focus": "Đại từ nghi vấn 怎么 ”",
+    "id": "hsk2-g015",
+    "title": "15. Đại từ nghi vấn 怎么",
+    "focus": "怎么",
     "focusPinyin": "zěnme",
-    "pattern": "Đại từ nghi vấn 怎么 ”",
+    "pattern": "怎么",
     "meaning": "Dùng cấu trúc \"怎么 + động từ/tính từ\" để hỏi về nguyên nhân của sự việc nào đó và thường diễn tả thái độ ngạc nhiên, kỳ lạ.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -301,6 +316,7 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g016",
     "title": "16. Sự lặp lại lượng từ",
     "focus": "Sự lặp lại lượng từ",
     "focusPinyin": "",
@@ -322,10 +338,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g017",
     "title": "17. Cấu trúc 因为..., 所以",
-    "focus": "Cấu trúc 因为..., 所以",
+    "focus": "因为…所以",
     "focusPinyin": "yīnwèi..., suǒyǐ...",
-    "pattern": "Cấu trúc 因为..., 所以",
+    "pattern": "因为…所以",
     "meaning": "Kết nối hai phần câu, trong đó một phân câu biểu thị nguyên nhân, một phân câu biểu thị kết quả.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -338,10 +355,11 @@
   },
   {
     "level": 2,
-    "title": "18. Phó từ ngữ khí 还 ”",
-    "focus": "Phó từ ngữ khí 还 ”",
+    "id": "hsk2-g018",
+    "title": "18. Phó từ ngữ khí 还",
+    "focus": "还",
     "focusPinyin": "hái",
-    "pattern": "Phó từ ngữ khí 还 ”",
+    "pattern": "还",
     "meaning": "Biểu thị hành động hoặc trạng thái vẫn đang tiếp diễn.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -359,10 +377,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g019",
     "title": "19. Phó từ chỉ thời gian 就",
-    "focus": "Phó từ chỉ thời gian 就",
+    "focus": "就",
     "focusPinyin": "jiù",
-    "pattern": "Phó từ chỉ thời gian 就",
+    "pattern": "就",
     "meaning": "Nhấn mạnh sự việc xảy ra sớm, thuận lợi hoặc đạt được quan điểm của người nói.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -380,10 +399,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g020",
     "title": "20. Giới từ 离",
-    "focus": "Giới từ 离",
+    "focus": "离",
     "focusPinyin": "lí",
-    "pattern": "Giới từ 离",
+    "pattern": "离",
     "meaning": "Giới từ \"离\" dùng để biểu thị khoảng cách trong không gian hoặc thời gian giữa hai điểm. Nó tương đương với \"cách\", \"xa\", \"từ... đến...\" trong tiếng Việt.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -401,10 +421,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g021",
     "title": "21. Trợ từ ngữ khí  呢",
-    "focus": "Trợ từ ngữ khí  呢",
+    "focus": "呢",
     "focusPinyin": "ne",
-    "pattern": "Trợ từ ngữ khí  呢",
+    "pattern": "呢",
     "meaning": "Dùng ở cuối câu trần thuật sau động từ/tính từ, biểu thị sự khẳng định, tin tưởng.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -417,10 +438,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g022",
     "title": "22. Câu hỏi có cấu trúc ......, 好吗?",
-    "focus": "Câu hỏi có cấu trúc ......, 好吗?",
+    "focus": "好吗",
     "focusPinyin": "hǎo ma",
-    "pattern": "Câu hỏi có cấu trúc ......, 好吗?",
+    "pattern": "好吗",
     "meaning": "Thường dùng để hỏi ý kiến, quan điểm của người khác.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -438,10 +460,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g023",
     "title": "23. Phó từ 再",
-    "focus": "Phó từ 再",
+    "focus": "再",
     "focusPinyin": "zài",
-    "pattern": "Phó từ 再",
+    "pattern": "再",
     "meaning": "Biểu thị một hành động hoặc trạng thái lặp lại hoặc tiếp tục diễn ra.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -459,10 +482,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g024",
     "title": "24. Câu kiêm ngữ (兼语)",
-    "focus": "Câu kiêm ngữ (兼语)",
+    "focus": "兼语",
     "focusPinyin": "",
-    "pattern": "Câu kiêm ngữ (兼语)",
+    "pattern": "兼语",
     "meaning": "Câu kiêm ngữ do hai cụm động từ tạo thành, trong đó động từ thứ nhất thường là \"请 /qǐng/, 让 /ràng/, 叫 /jiào/\". Cấu trúc: Chủ ngữ 1 + Động từ 1 + Kiêm ngữ + Động từ 2 + (Tân ngữ)",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -480,6 +504,7 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g025",
     "title": "25. Sự lặp lại động từ",
     "focus": "Sự lặp lại động từ",
     "focusPinyin": "",
@@ -501,6 +526,7 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g026",
     "title": "26. Bổ ngữ chỉ kết quả",
     "focus": "Bổ ngữ chỉ kết quả",
     "focusPinyin": "",
@@ -522,10 +548,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g027",
     "title": "27. Giới từ 从",
-    "focus": "Giới từ 从",
+    "focus": "从",
     "focusPinyin": "cóng",
-    "pattern": "Giới từ 从",
+    "pattern": "从",
     "meaning": "\"从\" dùng để biểu thị điểm mốc khoảng thời gian, quãng đường, hoặc trình tự.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -538,10 +565,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g028",
     "title": "28. Cách diễn tả thứ tự 第",
-    "focus": "Cách diễn tả thứ tự 第",
+    "focus": "第",
     "focusPinyin": "dì...",
-    "pattern": "Cách diễn tả thứ tự 第",
+    "pattern": "第",
     "meaning": "\"第\" thường được dùng trước cụm từ chỉ số lượng để nói về thứ tự.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -559,10 +587,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g029",
     "title": "29. Câu cầu khiến  不要...了; 别... 了; 不...了",
-    "focus": "Câu cầu khiến  不要...了; 别... 了; 不...了",
+    "focus": "不要…了…别…了…不…了",
     "focusPinyin": "",
-    "pattern": "Câu cầu khiến  不要...了; 别... 了; 不...了",
+    "pattern": "不要…了…别…了…不…了",
     "meaning": "Biểu thị sự ngăn cản, cấm đoán làm việc gì đó.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -580,10 +609,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g030",
     "title": "30. Giới từ 对",
-    "focus": "Giới từ 对",
+    "focus": "对",
     "focusPinyin": "duì",
-    "pattern": "Giới từ 对",
+    "pattern": "对",
     "meaning": "\"对\" có thể biểu thị mối quan hệ đối đãi giữa người và người, vật và vật, sự vật và sự vật.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -601,6 +631,7 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g031",
     "title": "31. Cấu trúc có động từ/cụm động từ làm định ngữ",
     "focus": "Cấu trúc có động từ/cụm động từ làm định ngữ",
     "focusPinyin": "",
@@ -622,10 +653,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g032",
     "title": "32. Câu có từ 比",
-    "focus": "Câu có từ 比",
+    "focus": "比",
     "focusPinyin": "bǐ",
-    "pattern": "Câu có từ 比",
+    "pattern": "比",
     "meaning": "Dùng \"比\" biểu thị sự so sánh. Vị ngữ của câu có thể là tính từ.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -643,10 +675,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g033",
     "title": "33. Câu có từ 比 diễn tả sự khác biệt",
-    "focus": "Câu có từ 比 diễn tả sự khác biệt",
+    "focus": "比",
     "focusPinyin": "",
-    "pattern": "Câu có từ 比 diễn tả sự khác biệt",
+    "pattern": "比",
     "meaning": "Dùng số lượng biểu thị sự khác biệt.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -664,10 +697,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g034",
     "title": "34. Trợ động từ 可 能",
-    "focus": "Trợ động từ 可 能",
+    "focus": "可…能",
     "focusPinyin": "kěnéng",
-    "pattern": "Trợ động từ 可 能",
+    "pattern": "可…能",
     "meaning": "Biểu thị sự phỏng đoán, có lẽ, có thể. Thường dùng trước động từ hoặc sau chủ ngữ.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -680,31 +714,33 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g035",
     "title": "35. Bổ ngữ chỉ trạng thái (状态补语)",
-    "focus": "Bổ ngữ chỉ trạng thái (状态补语)",
+    "focus": "状态补语",
     "focusPinyin": "",
-    "pattern": "Bổ ngữ chỉ trạng thái (状态补语)",
+    "pattern": "状态补语",
     "meaning": "Bổ ngữ trạng thái dùng để mô tả kết quả, mức độ hoặc trạng thái của hành động, thường dùng trợ động từ \"得\" (de).",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
       {
         "hanzi": "他跑得很快。",
-        "pinyin": "Tā pǎo de hěn kuài",
-        "vi": ""
+        "pinyin": "Tā pǎo de hěn kuài.",
+        "vi": "Anh ấy chạy rất nhanh."
       },
       {
-        "hanzi": "Anh ấy chạy rất nhanh.房间打扫得特别干净。",
-        "pinyin": "Fángjiān dǎsǎo de tèbié gānjìng",
-        "vi": "Phòng được dọn đặc biệt sạch sẽ"
+        "hanzi": "房间打扫得特别干净。",
+        "pinyin": "Fángjiān dǎsǎo de tèbié gānjìng.",
+        "vi": "Căn phòng được dọn đặc biệt sạch sẽ."
       }
     ]
   },
   {
     "level": 2,
+    "id": "hsk2-g036",
     "title": "36. Câu có từ 比  với bổ ngữ trạng thái",
-    "focus": "Câu có từ 比  với bổ ngữ trạng thái",
+    "focus": "比",
     "focusPinyin": "bǐ",
-    "pattern": "Câu có từ 比  với bổ ngữ trạng thái",
+    "pattern": "比",
     "meaning": "Nếu động từ có bổ ngữ trạng thái, \"比\" có thể đặt trước động từ hoặc trước bổ ngữ.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -722,10 +758,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g037",
     "title": "37. Trợ động thái  着",
-    "focus": "Trợ động thái  着",
+    "focus": "着",
     "focusPinyin": "zhe",
-    "pattern": "Trợ động thái  着",
+    "pattern": "着",
     "meaning": "Đặt sau động từ, có thể biểu thị sự duy trì của một trạng thái nào đó.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -743,10 +780,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g038",
     "title": "38. Câu hỏi phản vấn 不是......吗?",
-    "focus": "Câu hỏi phản vấn 不是......吗?",
+    "focus": "不是…吗",
     "focusPinyin": "",
-    "pattern": "Câu hỏi phản vấn 不是......吗?",
+    "pattern": "不是…吗",
     "meaning": "Thường dùng để nhắc nhở hoặc biểu thị sự không hiểu, không hài lòng.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -764,10 +802,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g039",
     "title": "39. Giới từ 往",
-    "focus": "Giới từ 往",
+    "focus": "往",
     "focusPinyin": "wǎng",
-    "pattern": "Giới từ 往",
+    "pattern": "往",
     "meaning": "\"往\" thường dùng để chỉ phương hướng.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -780,10 +819,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g040",
     "title": "40. Trợ động thái  过",
-    "focus": "Trợ động thái  过",
+    "focus": "过",
     "focusPinyin": "guò",
-    "pattern": "Trợ động thái  过",
+    "pattern": "过",
     "meaning": "Đặt sau động từ, dùng để biểu thị kinh nghiệm đã trải qua trong quá khứ.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -801,10 +841,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g041",
     "title": "41. Cấu trúc 虽然..., 但是... (suīrán..., dànshì...)",
-    "focus": "Cấu trúc 虽然..., 但是... (suīrán..., dànshì...)",
+    "focus": "虽然…但是",
     "focusPinyin": "",
-    "pattern": "Cấu trúc 虽然..., 但是... (suīrán..., dànshì...)",
+    "pattern": "虽然…但是",
     "meaning": "Kết nối hai phân câu, cấu thành quan hệ chuyển ngoặt.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -817,10 +858,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g042",
     "title": "42. Bổ ngữ chỉ tần suất 次",
-    "focus": "Bổ ngữ chỉ tần suất 次",
+    "focus": "次",
     "focusPinyin": "cì",
-    "pattern": "Bổ ngữ chỉ tần suất 次",
+    "pattern": "次",
     "meaning": "Thường đặt sau động từ, dùng để biểu thị số lần động tác xảy ra.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -838,10 +880,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g043",
     "title": "43. Cấu trúc diễn tả trạng thái của hành động 要... 了",
-    "focus": "Cấu trúc diễn tả trạng thái của hành động 要... 了",
+    "focus": "要…了",
     "focusPinyin": "yào... le",
-    "pattern": "Cấu trúc diễn tả trạng thái của hành động 要... 了",
+    "pattern": "要…了",
     "meaning": "Diễn tả một hành động/sự việc sắp diễn ra ngay lập tức, thường trong vài phút, vài giờ, hoặc tương lai rất gần. Cấu trúc: Chủ ngữ + 要 + [Động từ/Cụm động từ] + 了",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -854,10 +897,11 @@
   },
   {
     "level": 2,
+    "id": "hsk2-g044",
     "title": "44. Cấu trúc 都...了",
-    "focus": "Cấu trúc 都...了",
+    "focus": "都…了",
     "focusPinyin": "dōu... le",
-    "pattern": "Cấu trúc 都...了",
+    "pattern": "都…了",
     "meaning": "Biểu thị ý nghĩa \"đã\", thường chứa sự nhấn mạnh hoặc ngữ khí không hài lòng.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [

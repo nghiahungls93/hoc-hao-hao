@@ -1,10 +1,11 @@
 [
   {
     "level": 5,
+    "id": "hsk5-g001",
     "title": "1. 如何 /Rúhé",
-    "focus": "如何 /Rúhé",
+    "focus": "如何",
     "focusPinyin": "",
-    "pattern": "如何 /Rúhé",
+    "pattern": "如何",
     "meaning": "Dùng để hỏi phương thức/cách thức giải quyết vấn đề, thường dùng ở cuối câu để trưng cầu ý kiến hoặc hỏi thăm tình hình.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -17,6 +18,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g002",
     "title": "2. 靠",
     "focus": "靠",
     "focusPinyin": "Kào",
@@ -33,6 +35,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g003",
     "title": "3. 居然",
     "focus": "居然",
     "focusPinyin": "Jūrán",
@@ -49,6 +52,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g004",
     "title": "4. 以来",
     "focus": "以来",
     "focusPinyin": "Yǐlái",
@@ -65,6 +69,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g005",
     "title": "5. 临",
     "focus": "临",
     "focusPinyin": "Lín",
@@ -81,6 +86,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g006",
     "title": "6. 立刻",
     "focus": "立刻",
     "focusPinyin": "Lìkè",
@@ -97,6 +103,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g007",
     "title": "7. 各自",
     "focus": "各自",
     "focusPinyin": "Gèzì",
@@ -105,14 +112,15 @@
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
       {
-        "hanzi": "学生们都有各自的理想。/Xuéshēngmen dōu yǒu gèzì de",
-        "pinyin": "lǐxiǎng/ Các học sinh đều có những lý tưởng riêng.",
-        "vi": ""
+        "hanzi": "学生们都有各自的理想。",
+        "pinyin": "Xuéshengmen dōu yǒu gèzì de lǐxiǎng.",
+        "vi": "Các học sinh đều có lý tưởng riêng."
       }
     ]
   },
   {
     "level": 5,
+    "id": "hsk5-g008",
     "title": "8. 勿",
     "focus": "勿",
     "focusPinyin": "Wù",
@@ -129,6 +137,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g009",
     "title": "9. 包括",
     "focus": "包括",
     "focusPinyin": "Bāokuò",
@@ -145,6 +154,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g010",
     "title": "10. 时刻",
     "focus": "时刻",
     "focusPinyin": "Shíkè",
@@ -161,6 +171,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g011",
     "title": "11. 至今",
     "focus": "至今",
     "focusPinyin": "Zhìjīn",
@@ -177,6 +188,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g012",
     "title": "12. 顶",
     "focus": "顶",
     "focusPinyin": "Dǐng",
@@ -193,10 +205,11 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g013",
     "title": "13. ······得+不 行",
-    "focus": "······得+不 行",
+    "focus": "得…不…行",
     "focusPinyin": "De bùxíng",
-    "pattern": "······得+不 行",
+    "pattern": "得…不…行",
     "meaning": "Biểu thị trình độ, mức độ cao, còn có thể dùng “······+得+ 很/不得了”.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -209,6 +222,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g014",
     "title": "14. 反而",
     "focus": "反而",
     "focusPinyin": "Fǎn'ér",
@@ -225,6 +239,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g015",
     "title": "15. 从而",
     "focus": "从而",
     "focusPinyin": "Cóng'ér",
@@ -241,6 +256,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g016",
     "title": "16. 于",
     "focus": "于",
     "focusPinyin": "Yú",
@@ -257,6 +273,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g017",
     "title": "17. 为",
     "focus": "为",
     "focusPinyin": "Wéi",
@@ -273,6 +290,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g018",
     "title": "18. 起来",
     "focus": "起来",
     "focusPinyin": "Qǐlái",
@@ -289,6 +307,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g019",
     "title": "19. 替",
     "focus": "替",
     "focusPinyin": "Tì",
@@ -305,6 +324,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g020",
     "title": "20. 说不定",
     "focus": "说不定",
     "focusPinyin": "Shuōbudìn g",
@@ -321,6 +341,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g021",
     "title": "21. 似的",
     "focus": "似的",
     "focusPinyin": "Shìde",
@@ -337,6 +358,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g022",
     "title": "22. 纷纷",
     "focus": "纷纷",
     "focusPinyin": "Fēnfēn",
@@ -353,6 +375,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g023",
     "title": "23. 瞎",
     "focus": "瞎",
     "focusPinyin": "Xiā",
@@ -369,6 +392,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g024",
     "title": "24. 分别",
     "focus": "分别",
     "focusPinyin": "Fēnbié",
@@ -385,6 +409,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g025",
     "title": "25. 根",
     "focus": "根",
     "focusPinyin": "Gēn",
@@ -401,6 +426,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g026",
     "title": "26. 便",
     "focus": "便",
     "focusPinyin": "Biàn",
@@ -417,6 +443,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g027",
     "title": "27. 倒",
     "focus": "倒",
     "focusPinyin": "Dào",
@@ -433,10 +460,11 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g028",
     "title": "28. ······来 ······去",
-    "focus": "······来 ······去",
+    "focus": "来…去",
     "focusPinyin": "Lái... Qù",
-    "pattern": "······来 ······去",
+    "pattern": "来…去",
     "meaning": "Biểu thị sự lặp đi lặp lại nhiều lần của động tác, hai động từ đứng trước “来” và “去” thường là cùng một từ hoặc là từ gần nghĩa.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -449,6 +477,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g029",
     "title": "29. 要不",
     "focus": "要不",
     "focusPinyin": "Yàobù",
@@ -465,6 +494,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g030",
     "title": "30. 算",
     "focus": "算",
     "focusPinyin": "Suàn)",
@@ -481,6 +511,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g031",
     "title": "31. 作为",
     "focus": "作为",
     "focusPinyin": "Zuòwéi",
@@ -497,6 +528,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g032",
     "title": "32. 曾经",
     "focus": "曾经",
     "focusPinyin": "Céngjīng",
@@ -513,6 +545,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g033",
     "title": "33. 毕竟",
     "focus": "毕竟",
     "focusPinyin": "Bìjìng",
@@ -529,6 +562,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g034",
     "title": "34. 逐渐",
     "focus": "逐渐",
     "focusPinyin": "Zhújiàn",
@@ -545,6 +579,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g035",
     "title": "35. 或许",
     "focus": "或许",
     "focusPinyin": "Huòxǔ",
@@ -561,10 +596,11 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g036",
     "title": "36. 来Lái",
-    "focus": "来Lái",
+    "focus": "来",
     "focusPinyin": "过来",
-    "pattern": "来Lái",
+    "pattern": "来",
     "meaning": "Dùng sau động từ (ví dụ: \"醒 \") biểu thị chuyển tiếp từ lúc ngủ đến lúc tỉnh, hoặc quay về trạng thái lúc ban đầu/bình thường. Có thể dùng trong cấu trúc phủ định (动词 + 得/不 + 过 来).",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -577,6 +613,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g037",
     "title": "37. 所",
     "focus": "所",
     "focusPinyin": "Suǒ",
@@ -593,6 +630,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g038",
     "title": "38. 相当",
     "focus": "相当",
     "focusPinyin": "Xiāngdān g",
@@ -609,10 +647,11 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g039",
     "title": "39. 数 Shù/",
-    "focus": "数 Shù/",
+    "focus": "数",
     "focusPinyin": "Shǔ",
-    "pattern": "数 Shù/",
+    "pattern": "数",
     "meaning": "Động từ (shǔ): Biểu thị tra, đếm (số lượng). Dùng trong cấu trúc “数······（最）······” hoặc “（最）······的（要/就）数 ······” biểu thị so sánh (nhất). Số từ (shù): Có nghĩa là “几/ 几个” (vài, mấy), thường dùng trong văn viết.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -625,6 +664,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g040",
     "title": "40. 以及",
     "focus": "以及",
     "focusPinyin": "Yǐjí",
@@ -641,10 +681,11 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g041",
     "title": "41. 程度 (Chéngdù)",
-    "focus": "程度 (Chéngdù)",
+    "focus": "程度",
     "focusPinyin": "",
-    "pattern": "程度 (Chéngdù)",
+    "pattern": "程度",
     "meaning": "Chỉ trình độ, mức độ hoặc cấp độ mà ở một vài phương diện đã đạt được.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -657,6 +698,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g042",
     "title": "42. 何况",
     "focus": "何况",
     "focusPinyin": "Hékuàng",
@@ -673,6 +715,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g043",
     "title": "43. 何必",
     "focus": "何必",
     "focusPinyin": "Hébì",
@@ -689,6 +732,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g044",
     "title": "44. 多亏",
     "focus": "多亏",
     "focusPinyin": "Duōkuī",
@@ -705,6 +749,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g045",
     "title": "45. 所谓",
     "focus": "所谓",
     "focusPinyin": "Suǒwèi",
@@ -721,6 +766,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g046",
     "title": "46. 则",
     "focus": "则",
     "focusPinyin": "Zé",
@@ -737,10 +783,11 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g047",
     "title": "47. 为······所 ·····",
-    "focus": "为······所 ·····",
+    "focus": "为…所",
     "focusPinyin": "Wéi... Suǒ..",
-    "pattern": "为······所 ·····",
+    "pattern": "为…所",
     "meaning": "Kết cấu cố định, thường dùng trong văn viết, trong đó “为” biểu thị ý nghĩa là “被” (bị/được).",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -753,6 +800,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g048",
     "title": "48. 起",
     "focus": "起",
     "focusPinyin": "Qǐ",
@@ -769,10 +817,11 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g049",
     "title": "49. 动词 + 过 (Guò)",
-    "focus": "动词 + 过 (Guò)",
+    "focus": "动词…过",
     "focusPinyin": "",
-    "pattern": "动词 + 过 (Guò)",
+    "pattern": "动词…过",
     "meaning": "Dùng với cách thức “động từ + 得/不 + 过” làm bổ ngữ, biểu thị ý nghĩa là quá, vượt qua, hơn (thường dùng trong so sánh năng lực, trình độ).",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -785,6 +834,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g050",
     "title": "50. 迟早",
     "focus": "迟早",
     "focusPinyin": "Chízǎo",
@@ -801,6 +851,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g051",
     "title": "51. 再三",
     "focus": "再三",
     "focusPinyin": "Zàisān",
@@ -817,6 +868,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g052",
     "title": "52. 即",
     "focus": "即",
     "focusPinyin": "Jí",
@@ -833,6 +885,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g053",
     "title": "53. 个别",
     "focus": "个别",
     "focusPinyin": "Gèbié",
@@ -849,6 +902,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g054",
     "title": "54. 非",
     "focus": "非",
     "focusPinyin": "Fēi",
@@ -858,18 +912,19 @@
     "examples": [
       {
         "hanzi": "非机动车",
-        "pinyin": "Fēi jīdòngchē",
-        "vi": "Phi cơ giới /Xe không có động cơ"
+        "pinyin": "Fēi jīdòngchē.",
+        "vi": "Phương tiện phi cơ giới."
       },
       {
         "hanzi": "此物非彼物，不可混淆。",
-        "pinyin": "Cǐ wù fēi bǐ wù, bùkě hùnxiáo",
-        "vi": ""
+        "pinyin": "Cǐ wù fēi bǐ wù, bùkě hùnxiáo.",
+        "vi": "Vật này không phải vật kia, không thể nhầm lẫn."
       }
     ]
   },
   {
     "level": 5,
+    "id": "hsk5-g055",
     "title": "55. 以",
     "focus": "以",
     "focusPinyin": "Yǐ",
@@ -886,6 +941,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g056",
     "title": "56. 平常",
     "focus": "平常",
     "focusPinyin": "Píngcháng",
@@ -902,6 +958,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g057",
     "title": "57. 宁可",
     "focus": "宁可",
     "focusPinyin": "Nìngkě",
@@ -918,6 +975,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g058",
     "title": "58. 极其",
     "focus": "极其",
     "focusPinyin": "Jíqí",
@@ -934,6 +992,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g059",
     "title": "59. 其余",
     "focus": "其余",
     "focusPinyin": "Qíyú",
@@ -950,6 +1009,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g060",
     "title": "60. 可见",
     "focus": "可见",
     "focusPinyin": "Kějiàn",
@@ -966,6 +1026,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g061",
     "title": "61. 般",
     "focus": "般",
     "focusPinyin": "Bān",
@@ -982,10 +1043,11 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g062",
     "title": "62. 闻 (Wén)",
-    "focus": "闻 (Wén)",
+    "focus": "闻",
     "focusPinyin": "",
-    "pattern": "闻 (Wén)",
+    "pattern": "闻",
     "meaning": "Ngữ tố: Có nghĩa là \"nghe thấy hoặc tin tức, sự việc được nghe thấy\"/ Động từ: Biểu thị dùng mũi để cảm nhận, nhận biết mùi vị.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -998,6 +1060,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g063",
     "title": "63. 趁",
     "focus": "趁",
     "focusPinyin": "Chèn",
@@ -1014,10 +1077,11 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g064",
     "title": "64. 动词+得Bù Qǐ)",
-    "focus": "动词+得Bù Qǐ)",
+    "focus": "动词…得",
     "focusPinyin": "不+起 (De",
-    "pattern": "动词+得Bù Qǐ)",
+    "pattern": "动词…得",
     "meaning": "Biểu thị về mặt chủ quan có (không có) năng lực và điều kiện thực hiện (hoặc tiếp nhận) động tác nào đó.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -1030,6 +1094,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g065",
     "title": "65. 支",
     "focus": "支",
     "focusPinyin": "Zhī",
@@ -1046,6 +1111,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g066",
     "title": "66. 凭",
     "focus": "凭",
     "focusPinyin": "Píng",
@@ -1062,6 +1128,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g067",
     "title": "67. 硬",
     "focus": "硬",
     "focusPinyin": "Yìng",
@@ -1078,6 +1145,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g068",
     "title": "68. 偶然",
     "focus": "偶然",
     "focusPinyin": "Ǒurán",
@@ -1094,10 +1162,11 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g069",
     "title": "69. 尽快 (Jǐnkuài)",
-    "focus": "尽快 (Jǐnkuài)",
+    "focus": "尽快",
     "focusPinyin": "",
-    "pattern": "尽快 (Jǐnkuài)",
+    "pattern": "尽快",
     "meaning": "Có nghĩa là nhanh hết mức có thể (\"nhanh chóng\").",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -1110,6 +1179,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g070",
     "title": "70. 一旦",
     "focus": "一旦",
     "focusPinyin": "Yīdàn",
@@ -1126,6 +1196,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g071",
     "title": "71. 难免",
     "focus": "难免",
     "focusPinyin": "Nánmiǎn",
@@ -1142,6 +1213,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g072",
     "title": "72. 自从",
     "focus": "自从",
     "focusPinyin": "Zìcóng",
@@ -1158,6 +1230,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g073",
     "title": "73. 一致",
     "focus": "一致",
     "focusPinyin": "Yīzhì",
@@ -1174,6 +1247,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g074",
     "title": "74. 某",
     "focus": "某",
     "focusPinyin": "Mǒu",
@@ -1190,6 +1264,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g075",
     "title": "75. 幸亏",
     "focus": "幸亏",
     "focusPinyin": "Xìngkuī",
@@ -1206,6 +1281,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g076",
     "title": "76. 行动",
     "focus": "行动",
     "focusPinyin": "Xíngdòng",
@@ -1222,6 +1298,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g077",
     "title": "77. 义务",
     "focus": "义务",
     "focusPinyin": "Yìwù",
@@ -1238,6 +1315,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g078",
     "title": "78. 朝",
     "focus": "朝",
     "focusPinyin": "Cháo",
@@ -1254,6 +1332,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g079",
     "title": "79. 简直",
     "focus": "简直",
     "focusPinyin": "Jiǎnzhí",
@@ -1270,6 +1349,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g080",
     "title": "80. 来",
     "focus": "来",
     "focusPinyin": "Lái",
@@ -1286,6 +1366,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g081",
     "title": "81. 至于",
     "focus": "至于",
     "focusPinyin": "Zhìyú",
@@ -1302,6 +1383,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g082",
     "title": "82. 总算",
     "focus": "总算",
     "focusPinyin": "Zǒngsuàn",
@@ -1318,6 +1400,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g083",
     "title": "83. 下来",
     "focus": "下来",
     "focusPinyin": "Xiàlái",
@@ -1334,6 +1417,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g084",
     "title": "84. 舍不得",
     "focus": "舍不得",
     "focusPinyin": "Shěbudé",
@@ -1350,6 +1434,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g085",
     "title": "85. 从此",
     "focus": "从此",
     "focusPinyin": "Cóngcǐ",
@@ -1366,6 +1451,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g086",
     "title": "86. 假设",
     "focus": "假设",
     "focusPinyin": "Jiǎshè",
@@ -1382,6 +1468,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g087",
     "title": "87. 堆",
     "focus": "堆",
     "focusPinyin": "Duī",
@@ -1398,6 +1485,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g088",
     "title": "88. 不如",
     "focus": "不如",
     "focusPinyin": "Bùrú",
@@ -1414,6 +1502,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g089",
     "title": "89. 干脆",
     "focus": "干脆",
     "focusPinyin": "Gāncuì",
@@ -1430,6 +1519,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g090",
     "title": "90. 万一",
     "focus": "万一",
     "focusPinyin": "Wànyī",
@@ -1446,6 +1536,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g091",
     "title": "91. 无意",
     "focus": "无意",
     "focusPinyin": "Wúyì",
@@ -1462,6 +1553,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g092",
     "title": "92. 有利",
     "focus": "有利",
     "focusPinyin": "Yǒulì",
@@ -1478,6 +1570,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g093",
     "title": "93. 的确",
     "focus": "的确",
     "focusPinyin": "Díquè",
@@ -1494,10 +1587,11 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g094",
     "title": "94. 嗯 (Ńg/Ǹg)",
-    "focus": "嗯 (Ńg/Ǹg)",
+    "focus": "嗯",
     "focusPinyin": "",
-    "pattern": "嗯 (Ńg/Ǹg)",
+    "pattern": "嗯",
     "meaning": "Biểu thị nghi vấn. Biểu thị đáp ứng hoặc chấp thuận.",
     "tip": "Ghi nhớ vị trí của cấu trúc và luyện nói theo các câu mẫu trong giáo trình.",
     "examples": [
@@ -1510,6 +1604,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g095",
     "title": "95. 轻易",
     "focus": "轻易",
     "focusPinyin": "Qīngyì",
@@ -1526,6 +1621,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g096",
     "title": "96. 密切",
     "focus": "密切",
     "focusPinyin": "Mìqiè",
@@ -1542,6 +1638,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g097",
     "title": "97. 尽量",
     "focus": "尽量",
     "focusPinyin": "Jǐnliàng",
@@ -1558,6 +1655,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g098",
     "title": "98. 逐步",
     "focus": "逐步",
     "focusPinyin": "Zhúbù",
@@ -1574,6 +1672,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g099",
     "title": "99. 照常",
     "focus": "照常",
     "focusPinyin": "Zhàochán g",
@@ -1590,6 +1689,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g100",
     "title": "100. 难怪",
     "focus": "难怪",
     "focusPinyin": "Nánguài",
@@ -1606,6 +1706,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g101",
     "title": "101. 与其",
     "focus": "与其",
     "focusPinyin": "Yǔqí",
@@ -1622,6 +1723,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g102",
     "title": "102. 过",
     "focus": "过",
     "focusPinyin": "Guò",
@@ -1638,6 +1740,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g103",
     "title": "103. 开",
     "focus": "开",
     "focusPinyin": "Kāi",
@@ -1654,6 +1757,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g104",
     "title": "104. 赶快",
     "focus": "赶快",
     "focusPinyin": "Gǎnkuài",
@@ -1670,6 +1774,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g105",
     "title": "105. 片",
     "focus": "片",
     "focusPinyin": "Piàn",
@@ -1686,6 +1791,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g106",
     "title": "106. 根本",
     "focus": "根本",
     "focusPinyin": "Gēnběn",
@@ -1702,6 +1808,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g107",
     "title": "107. 除非",
     "focus": "除非",
     "focusPinyin": "Chúfēi",
@@ -1718,6 +1825,7 @@
   },
   {
     "level": 5,
+    "id": "hsk5-g108",
     "title": "108. 直",
     "focus": "直",
     "focusPinyin": "Zhí",
